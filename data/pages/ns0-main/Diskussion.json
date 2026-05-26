@@ -1,0 +1,88 @@
+{
+  "pageid": 1518,
+  "ns": 13,
+  "title": "Hilfe Diskussion:Hilfe für Eltern, Erzieher und Lehrer",
+  "revisions": [
+    {
+      "revid": 18977,
+      "parentid": 3510,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T19:13:19Z",
+      "comment": "Karl Kirst verschob Seite [[Diskussion]] nach [[Hilfe Diskussion:Hilfe für Eltern, Erzieher und Lehrer]]: passende Diskussionsseite mit geeigneterer Struktur",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT=Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)|\n   BILD=Important.png|\n   ÜBERSCHRIFT=Diskussion|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Important.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Neue Rubriken &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Rubriken&action=edit neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Rubriken}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3510,
+      "parentid": 3509,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T15:41:09Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT=Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)|\n   BILD=Important.png|\n   ÜBERSCHRIFT=Diskussion|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Important.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Neue Rubriken &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Rubriken&action=edit neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Rubriken}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3509,
+      "parentid": 3507,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T15:40:34Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT=Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)|\n   BILD=Important.png|\n   ÜBERSCHRIFT=Regeln|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Important.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Neue Rubriken &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Rubriken&action=edit neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Rubriken}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3507,
+      "parentid": 3504,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T15:39:23Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT=Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)|\n   BILD=Important.png|\n   ÜBERSCHRIFT=Regeln|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Important.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Neue Rubriken &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Rubriken&action=edit&section=1 neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Rubriken}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3504,
+      "parentid": 3503,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T15:24:57Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT=Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)|\n   BILD=Important.png|\n   ÜBERSCHRIFT=Regeln|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Important.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Neue Rubriken &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Diskussion&action=edit&section=1 neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n== Neue Rubriken==\n* Bücher, die ich gelesen habe!\n* Was ich schon immer fragen wollte!\n\nWas haltet ihr davon?\n:Schreibt Eure Meinung hier gleich darunter (mit : am Anfang der Zeile wird zum leichteren Lesen eingerückt).\n\n::Ich habe für Euch eine Seite [[Fragenkiste]] erstellt. Da könnt Ihr, wenn Ihr wollt, Eure Fragen schreiben!\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3503,
+      "parentid": 3502,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T15:18:20Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT=Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)|\n   BILD=Important.png|\n   ÜBERSCHRIFT=Regeln|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Important.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Neue Rubriken &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Diskussion&action=edit&section=1 neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n== Neue Rubriken==\n* Bücher, die ich gelesen habe!\n* Was ich schon immer fragen wollte!\n\nWas haltet ihr davon?\n:Schreibt Eure Meinung hier gleich darunter (mit : am Anfang der Zeile wird zum leichteren Lesen eingerückt).\n\n::Ich habe für Euch eine Seite [[Fragenkiste]] erstellt. Da könnt Ihr, wenn Ihr wollt, Eure Fragen schreiben!\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3502,
+      "parentid": 2776,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T15:17:34Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT=Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)|\n   BILD=Important.png|\n   ÜBERSCHRIFT=Regeln|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Important.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Neue Rubriken &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Diskussion&action=edit&section=1 neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n* Bücher, die ich gelesen habe!\n* Was ich schon immer fragen wollte!\n\nWas haltet ihr davon?\n:Schreibt Eure Meinung hier gleich darunter (mit : am Anfang der Zeile wird zum leichteren Lesen eingerückt).\n\n::Ich habe für Euch eine Seite [[Fragenkiste]] erstellt. Da könnt Ihr, wenn Ihr wollt, Eure Fragen schreiben!\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 2776,
+      "parentid": 2750,
+      "user": "Leupold",
+      "timestamp": "2006-01-26T14:05:01Z",
+      "comment": "",
+      "wikitext": "Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)\n\n== Neue Rubriken==\n* Bücher, die ich gelesen habe!\n* Was ich schon immer fragen wollte!\n\nWas haltet ihr davon?\n:Schreibt Eure Meinung hier gleich darunter (mit : am Anfang der Zeile wird zum leichteren Lesen eingerückt).\n\n::Ich habe für Euch eine Seite [[Fragenkiste]] erstellt. Da könnt Ihr, wenn Ihr wollt, Eure Fragen schreiben! Ich finde die Idee gut!"
+    },
+    {
+      "revid": 2750,
+      "parentid": 2749,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-25T12:56:22Z",
+      "comment": "",
+      "wikitext": "Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)\n\n== Neue Rubriken==\n* Bücher, die ich gelesen habe!\n* Was ich schon immer fragen wollte!\n\nWas haltet ihr davon?\n:Schreibt Eure Meinung hier gleich darunter (mit : am Anfang der Zeile wird zum leichteren Lesen eingerückt).\n\n::Hier weiterschreiben"
+    },
+    {
+      "revid": 2749,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-25T12:53:28Z",
+      "comment": "",
+      "wikitext": "Hier können allgemeine Diskussionspunkte zum Grundschulwiki besprochen werden:\n\n(Neue Beiträge bitte immer oben)"
+    }
+  ],
+  "categories": []
+}

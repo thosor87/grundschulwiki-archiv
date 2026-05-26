@@ -1,0 +1,40 @@
+{
+  "pageid": 3894,
+  "ns": 0,
+  "title": "Fibonaccizahlen",
+  "revisions": [
+    {
+      "revid": 15543,
+      "parentid": 15542,
+      "user": "Leupold",
+      "timestamp": "2012-03-17T20:15:03Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDie Fibonaccizahlen sind eine Zahlenreihe, die so bestimmt wird: Die letzte Zahl + die davor = die nächste Zahl. Die Fibonaccizahlen fangen mit 0 und 1 an, dann geht es weiter mit 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... . Es gibt unendlich viele von denen. Die Fibonaccizahlen werden mit wachsender Geschwidigkeit größer, denn die Summanden werden größer. Wenn man eine Fibbonaccizahl durch die davor teilt, erhält man den [[goldener Schnitt|goldenen Schnitt]], das ist um so genauer je größer die Fibonaccizahlen, die man genommen hat, sind; z. B. 89 : 55 = 1,618... . Die Fibonaccizahlen heißen so, weil Fibonacci aus [[Pisa]] sie erfunden hat.\n\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 15542,
+      "parentid": 15541,
+      "user": "MALorenzo",
+      "timestamp": "2012-03-17T08:57:01Z",
+      "comment": "",
+      "wikitext": "Die Fibonaccizahlen sind eine Zahlenreihe, die so bestimmt wird: Die letzte Zahl + die davor = die nächste Zahl. Die Fibonaccizahlen fangen mit 0 und 1 an, dann geht es weiter mit 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... . Es gibt unendlich viele von denen. Die Fibonaccizahlen werden mit wachsender Geschwidigkeit größer, denn die Summanden werden größer. Wenn man eine Fibbonaccizahl durch die davor teilt, erhält man den [[goldener Schnitt|goldenen Schnitt]], das ist um so genauer je größer die Fibonaccizahlen, die man genommen hat, sind; z. B. 89 : 55 = 1,618... . Die Fibonaccizahlen heißen so, weil Fibonacci aus [[Pisa]] sie erfunden hat."
+    },
+    {
+      "revid": 15541,
+      "parentid": 15540,
+      "user": "MALorenzo",
+      "timestamp": "2012-03-17T08:55:35Z",
+      "comment": "",
+      "wikitext": "Die Fibonaccizahlen sind eine Zahlenreihe die so bestimmt wird: Die letzte Zahl + die davor = die nächste Zahl. Die Fibonaccizahlen fangen mit 0 und 1 an, dann geht es weiter mit 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... . Es gibt unendlich viele von denen. Die Fibonaccizahlen werden mit wachsender Geschwidigkeit größer, denn die Summanden werden größer. Wenn man eine Fibbonaccizahl durch die davor teilt, erhält man den [[goldener Schnitt|goldenen Schnitt]], das ist um so genauer je größer die Fibonaccizahlen, die man genommen hat, sind; z. B. 89 : 55 = 1,618... . Die Fibonaccizahlen heißen so, weil Fibonacci aus [[Pisa]] sie erfunden hat."
+    },
+    {
+      "revid": 15540,
+      "parentid": 0,
+      "user": "MALorenzo",
+      "timestamp": "2012-03-17T08:51:26Z",
+      "comment": "Die Seite wurde neu angelegt: Die Fibonaccizahlen sind eine Zahlenreihe die so bestimmt wird: Die letzte Zahl + die davor = die nächste Zahl. Die Fibonaccizahlen fangen mit 0 und 1 an, dann geht es...",
+      "wikitext": "Die Fibonaccizahlen sind eine Zahlenreihe die so bestimmt wird: Die letzte Zahl + die davor = die nächste Zahl. Die Fibonaccizahlen fangen mit 0 und 1 an, dann geht es weiter mit 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... . Es gibt unendlich viele von denen. Die Fibonaccizahlen werden mit wachsender Geschwidigkeit größer, denn die Summanden werden größer. Wenn man eine Fibbonaccizahl durch die davor teilt, erhält man den [[goldener Schnitt|goldenen Schnitt]], das ist um so genauer je größer die Fibonaccizahlen, durch die man tielt, sind z. B. 89 : 55 = 1,618... . Die Fibonaccizahlen heißen so, weil Fibonacci aus [[Pisa]] sie erfunden hat."
+    }
+  ],
+  "categories": []
+}

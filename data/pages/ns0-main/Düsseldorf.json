@@ -1,0 +1,32 @@
+{
+  "pageid": 2758,
+  "ns": 0,
+  "title": "Düsseldorf",
+  "revisions": [
+    {
+      "revid": 8799,
+      "parentid": 8654,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:25:54Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDüsseldorf ist eine riesige Stadt.\nDüsseldorf liegt am Rhein.\n\n\n{{Rücksprung|D}}"
+    },
+    {
+      "revid": 8654,
+      "parentid": 8653,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-14T06:30:41Z",
+      "comment": "",
+      "wikitext": "Düsseldorf ist eine riesige Stadt.\nDüsseldorf liegt am Rhein."
+    },
+    {
+      "revid": 8653,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-14T06:29:34Z",
+      "comment": "",
+      "wikitext": "Düsseldorf ist eine riesige Stadt."
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,40 @@
+{
+  "pageid": 5065,
+  "ns": 0,
+  "title": "HTML",
+  "revisions": [
+    {
+      "revid": 24510,
+      "parentid": 21310,
+      "user": "Leupold",
+      "timestamp": "2020-06-07T16:33:42Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n===== Was ist HTML? =====\nHTML ist eine Website-Programmiersprache.\n===== Beispiel =====\nEin Beispiel:\n\n<nowiki>\n<!DOCTYPE html></nowiki><br/>\n<nowiki><html></nowiki><br/>\n<nowiki><head></nowiki><br/>\n<nowiki><title>!</title></nowiki><br/>\n<nowiki><meta charset=\"ISO-8859-1\"></nowiki><br/>\n<nowiki><meta name=\"description\" content=\"\"></nowiki><br/>\n<nowiki><meta name=\"author\" content=\"\"></nowiki><br/>\n<nowiki><meta name=\"keywords\" content=\"\"></nowiki><br/>\n<nowiki><link href=\"images/1.ico\" type=\"image/x-icon\" rel=\"shortcut icon\"></nowiki><br/>\n<nowiki><frameset cols=\"200, *\"></nowiki><br/>\n<nowiki><frame src=\"menue.html\" name=\"menue\"></nowiki><br/>\n<nowiki><frame src=\"leer.html\" name=\"seite\"></nowiki><br/>\n<nowiki></frameset></nowiki><br/>\n<nowiki></head></nowiki><br/>\n<nowiki><body></nowiki><br/>\n<nowiki></body></nowiki><br/>\n<nowiki></html></nowiki>\n<br/>\n<br/>\nIch habe bereits selbst eine HTML-Website geschrieben. Diese ist unter der URL „http://www.tom-tove.de\"\n\n\n{{Rücksprung|H}}"
+    },
+    {
+      "revid": 21310,
+      "parentid": 21215,
+      "user": "MATom-Tove",
+      "timestamp": "2017-06-18T15:02:38Z",
+      "comment": "",
+      "wikitext": "===== Was ist HTML? =====\nHTML ist eine Website-Programmiersprache.\n===== Beispiel =====\nEin Beispiel:\n\n<nowiki>\n<!DOCTYPE html></nowiki><br/>\n<nowiki><html></nowiki><br/>\n<nowiki><head></nowiki><br/>\n<nowiki><title>!</title></nowiki><br/>\n<nowiki><meta charset=\"ISO-8859-1\"></nowiki><br/>\n<nowiki><meta name=\"description\" content=\"\"></nowiki><br/>\n<nowiki><meta name=\"author\" content=\"\"></nowiki><br/>\n<nowiki><meta name=\"keywords\" content=\"\"></nowiki><br/>\n<nowiki><link href=\"images/1.ico\" type=\"image/x-icon\" rel=\"shortcut icon\"></nowiki><br/>\n<nowiki><frameset cols=\"200, *\"></nowiki><br/>\n<nowiki><frame src=\"menue.html\" name=\"menue\"></nowiki><br/>\n<nowiki><frame src=\"leer.html\" name=\"seite\"></nowiki><br/>\n<nowiki></frameset></nowiki><br/>\n<nowiki></head></nowiki><br/>\n<nowiki><body></nowiki><br/>\n<nowiki></body></nowiki><br/>\n<nowiki></html></nowiki>\n<br/>\n<br/>\nIch habe bereits selbst eine HTML-Website geschrieben. Diese ist unter der URL „http://www.tom-tove.de\""
+    },
+    {
+      "revid": 21215,
+      "parentid": 21212,
+      "user": "MATom-Tove",
+      "timestamp": "2017-04-30T13:41:20Z",
+      "comment": "",
+      "wikitext": "===== Was ist HTML? =====\nHTML ist eine Website-Programmiersprache.\n===== Beispiel =====\nEin Beispiel:\n\n<nowiki>\n<!DOCTYPE html></nowiki><br/>\n<nowiki><html></nowiki><br/>\n<nowiki><head></nowiki><br/>\n<nowiki><title>!</title></nowiki><br/>\n<nowiki><meta charset=\"ISO-8859-1\"></nowiki><br/>\n<nowiki><meta name=\"description\" content=\"\"></nowiki><br/>\n<nowiki><meta name=\"author\" content=\"\"></nowiki><br/>\n<nowiki><meta name=\"keywords\" content=\"\"></nowiki><br/>\n<nowiki><link href=\"images/1.ico\" type=\"image/x-icon\" rel=\"shortcut icon\"></nowiki><br/>\n<nowiki><frameset cols=\"200, *\"></nowiki><br/>\n<nowiki><frame src=\"menue.html\" name=\"menue\"></nowiki><br/>\n<nowiki><frame src=\"leer.html\" name=\"seite\"></nowiki><br/>\n<nowiki></frameset></nowiki><br/>\n<nowiki></head></nowiki><br/>\n<nowiki><body></nowiki><br/>\n<nowiki></body></nowiki><br/>\n<nowiki></html></nowiki>\n<br/>\n<br/>\nIch habe bereits selbst eine HTML-Website geschrieben. Diese ist unter der URL ,,http://www.tom-tove.de\""
+    },
+    {
+      "revid": 21212,
+      "parentid": 0,
+      "user": "MATom-Tove",
+      "timestamp": "2017-04-30T13:16:55Z",
+      "comment": "Die Seite wurde neu angelegt: „===== Was ist HTML? ===== HTML ist eine Website-Programmiersprache. ===== Beispiel ===== Ein Beispiel:  <nowiki> <!DOCTYPE html></nowiki><br/> <nowiki><html></…“",
+      "wikitext": "===== Was ist HTML? =====\nHTML ist eine Website-Programmiersprache.\n===== Beispiel =====\nEin Beispiel:\n\n<nowiki>\n<!DOCTYPE html></nowiki><br/>\n<nowiki><html></nowiki><br/>\n<nowiki><head></nowiki><br/>\n<nowiki><title>!</title></nowiki><br/>\n<nowiki><meta charset=\"ISO-8859-1\"></nowiki><br/>\n<nowiki><meta name=\"description\" content=\"\"></nowiki><br/>\n<nowiki><meta name=\"author\" content=\"\"></nowiki><br/>\n<nowiki><meta name=\"keywords\" content=\"\"></nowiki><br/>\n<nowiki><link href=\"images/1.ico\" type=\"image/x-icon\" rel=\"shortcut icon\"></nowiki><br/>\n<nowiki><frameset cols=\"200, *\"></nowiki><br/>\n<nowiki><frame src=\"menue.html\" name=\"menue\"></nowiki><br/>\n<nowiki><frame src=\"leer.html\" name=\"seite\"></nowiki><br/>\n<nowiki></frameset></nowiki><br/>\n<nowiki></head></nowiki><br/>\n<nowiki><body></nowiki><br/>\n<nowiki></body></nowiki><br/>\n</html></nowiki>\n<br/>\n<br/>\nIch habe bereits selbst eine HTML-Website geschrieben. Diese ist unter der URL ,,http://www.tom-tove.de\""
+    }
+  ],
+  "categories": []
+}

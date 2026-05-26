@@ -1,0 +1,96 @@
+{
+  "pageid": 3447,
+  "ns": 0,
+  "title": "Arukone",
+  "revisions": [
+    {
+      "revid": 16433,
+      "parentid": 13950,
+      "user": "Leupold",
+      "timestamp": "2012-12-29T14:31:18Z",
+      "comment": "/* Weitere Beispiele */",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}} \n== Erläuterung ==\n'''Arukone'''<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia]</ref>\n\n== Erstes einfaches Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n== Zweites Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n|Hier sollen die gleichen Buchstaben miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone8x8_01.jpg]]\n|-\n|Es bietet sich an, die Buchstaben F mit F zu verbinden.\n| [[Bild:Arukone8x8_02.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_03.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_04.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_05.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_06.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_07.jpg]]\n|-\n| Fertig.\n| [[Bild:Arukone8x8_08.jpg]]\n|}\n\n== Weitere Beispiele ==\nAuf der Seite von JANKO [http://www.janko.at/Raetsel/Arukone Arukone] finden sich viele weitere Beispiele, die interaktiv gelöst werden können. Voraussetzung dabei ist, dass der Rechner Java zulässt.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 13950,
+      "parentid": 13949,
+      "user": "Leupold",
+      "timestamp": "2010-10-25T18:26:16Z",
+      "comment": "babel",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}} \n== Erläuterung ==\n'''Arukone'''<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia]</ref>\n\n== Erstes einfaches Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n== Zweites Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n|Hier sollen die gleichen Buchstaben miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone8x8_01.jpg]]\n|-\n|Es bietet sich an, die Buchstaben F mit F zu verbinden.\n| [[Bild:Arukone8x8_02.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_03.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_04.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_05.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_06.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_07.jpg]]\n|-\n| Fertig.\n| [[Bild:Arukone8x8_08.jpg]]\n|}\n\n== Weitere Beispiele ==\nAuf der Seite von JANKO [http://www.janko.at/Raetsel/Arukone Arukone] finden sich viele weitere Beispiele, die interaktiv gelöst werden können. Voraussetzung dabei ist, dass der Rechner Java zulässt.\n\n<references>\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 13949,
+      "parentid": 13191,
+      "user": "Leupold",
+      "timestamp": "2010-10-25T18:25:42Z",
+      "comment": "rücksprung",
+      "wikitext": "== Erläuterung ==\n'''Arukone'''<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia]</ref>\n\n== Erstes einfaches Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n== Zweites Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n|Hier sollen die gleichen Buchstaben miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone8x8_01.jpg]]\n|-\n|Es bietet sich an, die Buchstaben F mit F zu verbinden.\n| [[Bild:Arukone8x8_02.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_03.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_04.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_05.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_06.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_07.jpg]]\n|-\n| Fertig.\n| [[Bild:Arukone8x8_08.jpg]]\n|}\n\n== Weitere Beispiele ==\nAuf der Seite von JANKO [http://www.janko.at/Raetsel/Arukone Arukone] finden sich viele weitere Beispiele, die interaktiv gelöst werden können. Voraussetzung dabei ist, dass der Rechner Java zulässt.\n\n<references>\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 13191,
+      "parentid": 13182,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-02-21T05:40:09Z",
+      "comment": "/* Zweites Beispiel mit Erläuterungen */",
+      "wikitext": "== Erläuterung ==\n'''Arukone'''<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia]</ref>\n\n== Erstes einfaches Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n== Zweites Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n|Hier sollen die gleichen Buchstaben miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone8x8_01.jpg]]\n|-\n|Es bietet sich an, die Buchstaben F mit F zu verbinden.\n| [[Bild:Arukone8x8_02.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_03.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_04.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_05.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_06.jpg]]\n|-\n|\n| [[Bild:Arukone8x8_07.jpg]]\n|-\n| Fertig.\n| [[Bild:Arukone8x8_08.jpg]]\n|}\n\n== Weitere Beispiele ==\nAuf der Seite von JANKO [http://www.janko.at/Raetsel/Arukone Arukone] finden sich viele weitere Beispiele, die interaktiv gelöst werden können. Voraussetzung dabei ist, dass der Rechner Java zulässt.\n\n<references>"
+    },
+    {
+      "revid": 13182,
+      "parentid": 13180,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-02-21T05:29:57Z",
+      "comment": "/* Erstes einfaches Beispiel mit Erläuterungen */",
+      "wikitext": "== Erläuterung ==\n'''Arukone'''<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia]</ref>\n\n== Erstes einfaches Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n== Zweites Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" width=\"80%\"\n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone8x8_01.jpg]]\n|}\n\n\n<references>"
+    },
+    {
+      "revid": 13180,
+      "parentid": 13179,
+      "user": "K.kirst",
+      "timestamp": "2010-02-19T20:11:29Z",
+      "comment": "-doppelte Überschrift",
+      "wikitext": "== Erläuterung ==\n'''Arukone'''<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia]</ref>\n\n== Erstes einfaches Beispiel mit Erläuterungen ==\n{| class=\"prettytable\" \n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n<references>"
+    },
+    {
+      "revid": 13179,
+      "parentid": 13178,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-02-18T17:07:39Z",
+      "comment": "/* Erläuterung */",
+      "wikitext": "== Arukone==\n=== Erläuterung ===\n'''Arukone'''<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia]</ref>\n\n=== Erstes einfaches Beispiel mit Erläuterungen ===\n{| class=\"prettytable\" \n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n<references>"
+    },
+    {
+      "revid": 13178,
+      "parentid": 13177,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-02-18T17:06:53Z",
+      "comment": "/* Erläuterung */",
+      "wikitext": "== Arukone==\n=== Erläuterung ===\n'''Arukone'''<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia] Wikipedia</ref>\n\n=== Erstes einfaches Beispiel mit Erläuterungen ===\n{| class=\"prettytable\" \n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n<references>"
+    },
+    {
+      "revid": 13177,
+      "parentid": 13176,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-02-18T17:05:20Z",
+      "comment": "/* Erläuterung */",
+      "wikitext": "== Arukone==\n=== Erläuterung ===\n<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia] Wikipedia</ref>\n\n=== Erstes einfaches Beispiel mit Erläuterungen ===\n{| class=\"prettytable\" \n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n<references>"
+    },
+    {
+      "revid": 13176,
+      "parentid": 13175,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-02-15T21:04:51Z",
+      "comment": "/* Erstes einfaches Beispiel mit Erläuterungen */",
+      "wikitext": "== Arukone==\n=== Erläuterung ===\n<ref>[http://de.wikipedia.org/wiki/Arukone Erklärung in der Wikipedia]</ref>\n=== Erstes einfaches Beispiel mit Erläuterungen ===\n{| class=\"prettytable\" \n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}\n\n<references>"
+    },
+    {
+      "revid": 13175,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-02-15T21:01:22Z",
+      "comment": "Anfang für ein neues logisches Beispiel",
+      "wikitext": "== Arukone==\n=== Erstes einfaches Beispiel mit Erläuterungen ===\n{| class=\"prettytable\" \n! Erklärung\n! Bild\n|-\n| So sieht ein Arukone aus. Ziel ist: Alle gleichen Ziffern müssen miteinander verbunden werden, ohne dass sich Linien kreuzen. Die Linien dürfen nur senkrecht oder waagrecht gezeichnet werden.\n| [[Bild:Arukone01.jpg]]\n|-\n| Zeichnet man die Verbindung der beiden Ziffern 3 so ein, so lautet das Problem: Die beiden 7-er können nicht mehr verbunden werden.\n| [[Bild:Arukone02.jpg]]\n|-\n| Also neuer Beginn, zunächst die beiden 7-er verbinden.\n| [[Bild:Arukone03.jpg]]\n|-\n| Dann bleibt für die 3-er nur diese Verbindung.\n| [[Bild:Arukone04.jpg]]\n|-\n| Für den Rest ergeben sich dann für 1-er und 9-er nur diese Linien. FERTIG.\n| [[Bild:Arukone05.jpg]]\n|}"
+    }
+  ],
+  "categories": []
+}

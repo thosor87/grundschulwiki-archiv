@@ -1,0 +1,64 @@
+{
+  "pageid": 2757,
+  "ns": 0,
+  "title": "Amsel",
+  "revisions": [
+    {
+      "revid": 14309,
+      "parentid": 14308,
+      "user": "MALukas",
+      "timestamp": "2010-12-05T12:43:54Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDie Amsel ist ein Vogel und lebt in Europa. Sie frisst Würmer. Gefahren: Fuchs, Adler, Katzen\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 14308,
+      "parentid": 8806,
+      "user": "MALukas",
+      "timestamp": "2010-12-05T12:43:29Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDie Amsel ist ein Vogel und lebt in Europa. Sie frisst Würmer. Gefahren: Fuchs, Adler\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8806,
+      "parentid": 8803,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:30:31Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nIst ein Vogel und lebt in Europa. Sie frisst Würmer. Gefahren: Fuchs, Adler\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8803,
+      "parentid": 8802,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:29:22Z",
+      "comment": "Amsel,die wurde nach Amsel verschoben: namensgebung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nIst ein vogel und lebt in Europa. Sie frisst Würmer. Gefahren: Fuchs, Adler\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8802,
+      "parentid": 8801,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:28:27Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nIst ein vogel und lebt in Europa. Sie frisst Würmer. Gefahren: Fuchs, Adler\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8801,
+      "parentid": 8651,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:28:17Z",
+      "comment": "babel tippfehler rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nIst ein vogel und lebt in Europa. Sie frisst Würmer. Gefahren: Fuchs, Adler\n\n\n{Rücksprung|A}}"
+    },
+    {
+      "revid": 8651,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-13T11:31:16Z",
+      "comment": "",
+      "wikitext": "ist ein vogel und lebt in europa.Isst Wurmer.gefahren .. fuchs adler"
+    }
+  ],
+  "categories": []
+}

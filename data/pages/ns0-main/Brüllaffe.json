@@ -1,0 +1,32 @@
+{
+  "pageid": 2749,
+  "ns": 0,
+  "title": "Brüllaffe",
+  "revisions": [
+    {
+      "revid": 8819,
+      "parentid": 8818,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:40:23Z",
+      "comment": "Brüllaffe,der wurde nach Brüllaffe verschoben: einheitliche schreibweise",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDer Brüllaffe lebt in Afrika.\n\n\n\n{{Rücksprung|B}}"
+    },
+    {
+      "revid": 8818,
+      "parentid": 8632,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:40:07Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDer Brüllaffe lebt in Afrika.\n\n\n\n{{Rücksprung|B}}"
+    },
+    {
+      "revid": 8632,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-11T07:06:00Z",
+      "comment": "",
+      "wikitext": "Der Brüllaffe lebt in Afrika."
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,32 @@
+{
+  "pageid": 2745,
+  "ns": 0,
+  "title": "Buckelwal",
+  "revisions": [
+    {
+      "revid": 8834,
+      "parentid": 8625,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:49:36Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDer Buckelwal schwimmt hauptsächlich im Atlantik\n\n\n\n{{Rücksprung|B}}"
+    },
+    {
+      "revid": 8625,
+      "parentid": 8622,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-11T07:03:57Z",
+      "comment": "",
+      "wikitext": "Der Buckelwal schwimmt hauptzächlich im Atlantik"
+    },
+    {
+      "revid": 8622,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-11T07:03:04Z",
+      "comment": "",
+      "wikitext": "Der buckelwal schwimmt hauptzächlich im Atlantik"
+    }
+  ],
+  "categories": []
+}

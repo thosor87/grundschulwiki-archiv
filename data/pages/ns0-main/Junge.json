@@ -1,0 +1,32 @@
+{
+  "pageid": 3791,
+  "ns": 0,
+  "title": "Junge",
+  "revisions": [
+    {
+      "revid": 15114,
+      "parentid": 15066,
+      "user": "Leupold",
+      "timestamp": "2011-12-13T19:35:11Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Junge ist ein Mitglied des männlichen Geschlechtes bis in das Erwachsenenalter.\n\n\n{{Rücksprung|J}}"
+    },
+    {
+      "revid": 15066,
+      "parentid": 15065,
+      "user": "MAMatthias",
+      "timestamp": "2011-12-10T13:27:24Z",
+      "comment": "",
+      "wikitext": "Ein Junge ist ein Mitglied des männlichen Geschlechtes bis in das Erwachsenenalter."
+    },
+    {
+      "revid": 15065,
+      "parentid": 0,
+      "user": "MAMatthias",
+      "timestamp": "2011-12-10T13:25:54Z",
+      "comment": "Die Seite wurde neu angelegt: Ein Junge ist ein Mitglied des nämlichen Geschlechtes bis in das Erwachsenenalter.",
+      "wikitext": "Ein Junge ist ein Mitglied des nämlichen Geschlechtes bis in das Erwachsenenalter."
+    }
+  ],
+  "categories": []
+}

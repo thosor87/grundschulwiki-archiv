@@ -1,0 +1,40 @@
+{
+  "pageid": 2608,
+  "ns": 0,
+  "title": "Brachiosaurus",
+  "revisions": [
+    {
+      "revid": 17846,
+      "parentid": 7873,
+      "user": "MALeupold",
+      "timestamp": "2014-02-14T11:31:04Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDer Brachiosaurus war ein großer Dinosaurier. Er war ein Sauropode. Auserdem hatte er einen langen Hals.\n\n\n\n{{Rücksprung|B}}"
+    },
+    {
+      "revid": 7873,
+      "parentid": 7872,
+      "user": "Leupold",
+      "timestamp": "2008-01-29T16:36:00Z",
+      "comment": "tippfehler",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDer  Brachiosaurus  war  ein  großer  Dinosaurier.  Er  war  ein  Sauropode.\n\n\n\n{{Rücksprung|B}}"
+    },
+    {
+      "revid": 7872,
+      "parentid": 7871,
+      "user": "Leupold",
+      "timestamp": "2008-01-29T16:35:48Z",
+      "comment": "babel, rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDer  Brachiosaurus  war  ein  großer  Dinosaurier.  Er  war  ein  Sauropode.\n\n\n\n{{RÜcksprung|B}}"
+    },
+    {
+      "revid": 7871,
+      "parentid": 0,
+      "user": "MALiliana",
+      "timestamp": "2008-01-29T16:07:45Z",
+      "comment": "",
+      "wikitext": "Der  Brachiosaurus  war  ein  großer  Dinosaurier.  Er  war  ein  Sauropode."
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,24 @@
+{
+  "pageid": 3793,
+  "ns": 0,
+  "title": "Gruppe",
+  "revisions": [
+    {
+      "revid": 15118,
+      "parentid": 15075,
+      "user": "Leupold",
+      "timestamp": "2011-12-13T19:38:29Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n\nEine Gruppe ist eine Gemeinschaft.\n\n\n{{Rücksprung|G}}"
+    },
+    {
+      "revid": 15075,
+      "parentid": 0,
+      "user": "MAMatthias",
+      "timestamp": "2011-12-10T14:49:40Z",
+      "comment": "Die Seite wurde neu angelegt: Gruppe=Gemeinschaft",
+      "wikitext": "Gruppe=Gemeinschaft"
+    }
+  ],
+  "categories": []
+}

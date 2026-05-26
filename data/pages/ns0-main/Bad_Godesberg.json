@@ -1,0 +1,24 @@
+{
+  "pageid": 5044,
+  "ns": 0,
+  "title": "Bad Godesberg",
+  "revisions": [
+    {
+      "revid": 21185,
+      "parentid": 21142,
+      "user": "Leupold",
+      "timestamp": "2017-04-15T09:31:01Z",
+      "comment": "babel und rücksprung eingefügt",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Stadtbezirk von [[Bonn]].\n\n{{Rücksprung|B}}"
+    },
+    {
+      "revid": 21142,
+      "parentid": 0,
+      "user": "KSMehlem",
+      "timestamp": "2017-04-04T16:52:27Z",
+      "comment": "Die Seite wurde neu angelegt: „Ein Stadtbezirk von [[Bonn]].“",
+      "wikitext": "Ein Stadtbezirk von [[Bonn]]."
+    }
+  ],
+  "categories": []
+}

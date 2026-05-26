@@ -1,0 +1,48 @@
+{
+  "pageid": 2741,
+  "ns": 0,
+  "title": "Aschaffenburg",
+  "revisions": [
+    {
+      "revid": 8825,
+      "parentid": 8823,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:43:18Z",
+      "comment": "Aschaffenburg, das wurde nach Aschaffenburg verschoben: ohne begleiter",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAschaffenburg ist eine Stadt.\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8823,
+      "parentid": 8822,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:42:34Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAschaffenburg ist eine Stadt.\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8822,
+      "parentid": 8610,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:42:26Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAschaffenburg ist eine Stadt.\n\n\n\n{Rücksprung|A}}"
+    },
+    {
+      "revid": 8610,
+      "parentid": 8609,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-10T18:33:05Z",
+      "comment": "",
+      "wikitext": ""
+    },
+    {
+      "revid": 8609,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-10T18:32:56Z",
+      "comment": "",
+      "wikitext": "Aschaffenburg ist eine Stadt."
+    }
+  ],
+  "categories": []
+}

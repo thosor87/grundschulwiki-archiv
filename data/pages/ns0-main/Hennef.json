@@ -1,0 +1,40 @@
+{
+  "pageid": 3872,
+  "ns": 0,
+  "title": "Hennef",
+  "revisions": [
+    {
+      "revid": 23414,
+      "parentid": 23413,
+      "user": "KSMehlem",
+      "timestamp": "2018-09-04T15:00:25Z",
+      "comment": "",
+      "wikitext": "* [[Blankenberg]]\n* [[Weldergoven]]\n* [[Uckerath]]"
+    },
+    {
+      "revid": 23413,
+      "parentid": 15382,
+      "user": "KSMehlem",
+      "timestamp": "2018-09-04T15:00:08Z",
+      "comment": "",
+      "wikitext": "* [[Blankenberg]]\n* [[Weldergoven]]\n* [[Uckerath]]              9"
+    },
+    {
+      "revid": 15382,
+      "parentid": 15381,
+      "user": "GS08",
+      "timestamp": "2012-02-02T10:11:02Z",
+      "comment": "",
+      "wikitext": "[[Blankenberg]]\n[[Weldergoven]]"
+    },
+    {
+      "revid": 15381,
+      "parentid": 0,
+      "user": "GS08",
+      "timestamp": "2012-02-02T10:10:36Z",
+      "comment": "Die Seite wurde neu angelegt: [Blankenberg] [[Weldergoven]]",
+      "wikitext": "[Blankenberg]\n[[Weldergoven]]"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,24 @@
+{
+  "pageid": 2736,
+  "ns": 0,
+  "title": "Boston",
+  "revisions": [
+    {
+      "revid": 8845,
+      "parentid": 8598,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:57:48Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nBoston ist eine Stadt in Nordamerika, in den Vereinigten Staaten von Amerika.\n\n\n{{Rücksprung|B}}"
+    },
+    {
+      "revid": 8598,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-10T18:05:54Z",
+      "comment": "",
+      "wikitext": "Boston ist eine Stadt in Kanada."
+    }
+  ],
+  "categories": []
+}

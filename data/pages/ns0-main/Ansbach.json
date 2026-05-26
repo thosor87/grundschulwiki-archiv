@@ -1,0 +1,80 @@
+{
+  "pageid": 2740,
+  "ns": 0,
+  "title": "Ansbach",
+  "revisions": [
+    {
+      "revid": 18727,
+      "parentid": 9258,
+      "user": "Leupold",
+      "timestamp": "2015-01-11T21:25:08Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnsbach ist eine Stadt.\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 9258,
+      "parentid": 8939,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-24T19:34:17Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n[[Bild:Ansbach.jpg|thumb|Der Blick auf das Ansbacher Schloss ]]\nAnsbach ist eine Stadt.\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8939,
+      "parentid": 8938,
+      "user": "Leupold",
+      "timestamp": "2008-07-18T05:18:52Z",
+      "comment": "Bildunterschrift",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n[[Bild:Ansbach.jpg|thumb|Der Blick auf den Ansbacher Bahnhof (?)]]\nAnsbach ist eine Stadt.\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8938,
+      "parentid": 8925,
+      "user": "Leupold",
+      "timestamp": "2008-07-18T05:18:25Z",
+      "comment": "bild eingefügt",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n[[Bild:Ansbach.jpg|thumb]]\nAnsbach ist eine Stadt.\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8925,
+      "parentid": 8924,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-17T17:49:32Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnsbach ist eine Stadt.\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8924,
+      "parentid": 8842,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-17T17:48:42Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnsbach ist eine Stadt.[[Bild:Beispiel.jpg]]\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8842,
+      "parentid": 8841,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:54:37Z",
+      "comment": "Ansbach, das wurde nach Ansbach verschoben: ohne begleiter",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnsbach ist eine Stadt.\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8841,
+      "parentid": 8608,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:54:22Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnsbach ist eine Stadt.\n\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8608,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-10T18:32:37Z",
+      "comment": "",
+      "wikitext": "Ansbach ist eine Stadt."
+    }
+  ],
+  "categories": []
+}

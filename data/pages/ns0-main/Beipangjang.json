@@ -1,0 +1,32 @@
+{
+  "pageid": 5121,
+  "ns": 0,
+  "title": "Beipangjang",
+  "revisions": [
+    {
+      "revid": 21365,
+      "parentid": 21351,
+      "user": "Wgsa25",
+      "timestamp": "2017-07-03T07:22:53Z",
+      "comment": "",
+      "wikitext": "== Aussehen ==\n\nEins\n<br />\nTralala\n\n== Standort ==\n\nzwei\n\n\n== Interessantes ==\ndrei"
+    },
+    {
+      "revid": 21351,
+      "parentid": 21342,
+      "user": "Wgsa25",
+      "timestamp": "2017-07-03T07:16:53Z",
+      "comment": "",
+      "wikitext": "== Aussehen ==\n\neins\n\n\n== Standort ==\n\nzwei\n\n\n== Interessantes ==\ndrei"
+    },
+    {
+      "revid": 21342,
+      "parentid": 0,
+      "user": "Wgsa25",
+      "timestamp": "2017-07-03T07:11:07Z",
+      "comment": "Die Seite wurde neu angelegt: „== Aussehen ==     == Standort ==     == Interessantes ==“",
+      "wikitext": "== Aussehen ==\n\n\n\n\n== Standort ==\n\n\n\n\n== Interessantes =="
+    }
+  ],
+  "categories": []
+}

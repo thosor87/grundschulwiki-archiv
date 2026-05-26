@@ -1,0 +1,48 @@
+{
+  "pageid": 2746,
+  "ns": 0,
+  "title": "Feldhase",
+  "revisions": [
+    {
+      "revid": 18819,
+      "parentid": 18800,
+      "user": "Leupold",
+      "timestamp": "2015-02-20T19:07:18Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n[[Bild:FeldhaseR1.jpg|thumb]]\nDer Feldhase lebt in Europa.\n\n\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 18800,
+      "parentid": 8832,
+      "user": "MARabe1",
+      "timestamp": "2015-02-10T12:46:24Z",
+      "comment": "",
+      "wikitext": "<gallery>\nFeldhaseR1.jpg\n</gallery>\n\n{{Babel-1|Schüler_Verfasser}}\nDer Feldhase lebt in Europa.\n\n\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 8832,
+      "parentid": 8830,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:48:24Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDer Feldhase lebt in Europa.\n\n\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 8830,
+      "parentid": 8626,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:47:51Z",
+      "comment": "((Feldhase)),der wurde nach Feldhase verschoben: einheitliche artikelbennnung",
+      "wikitext": "Der Feldhase lebt in Europa."
+    },
+    {
+      "revid": 8626,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-11T07:04:06Z",
+      "comment": "",
+      "wikitext": "Der Feldhase lebt in Europa."
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,32 @@
+{
+  "pageid": 2732,
+  "ns": 0,
+  "title": "Anders",
+  "revisions": [
+    {
+      "revid": 8854,
+      "parentid": 8853,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:02:32Z",
+      "comment": "Anders, der wurde nach Anders verschoben: ohne begleiter",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnders ist ein Jungsname.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8853,
+      "parentid": 8591,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:02:24Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnders ist ein Jungsname.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8591,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-10T17:57:18Z",
+      "comment": "",
+      "wikitext": "Anders ist ein Name."
+    }
+  ],
+  "categories": []
+}

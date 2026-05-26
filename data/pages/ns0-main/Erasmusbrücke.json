@@ -1,0 +1,40 @@
+{
+  "pageid": 5119,
+  "ns": 0,
+  "title": "Erasmusbrücke",
+  "revisions": [
+    {
+      "revid": 21532,
+      "parentid": 21337,
+      "user": "Wgsa22",
+      "timestamp": "2017-07-07T08:14:59Z",
+      "comment": "",
+      "wikitext": "== Aussehen == \nDie Erasmusbrücke ist 802 Meter lang.<br />\nSie hat eine Breite von 30,80 Meter.<br />\nDie Erasmusbrücke ist eine Schrägseilbrücke.<br />\nIhre Seile bestehen aus Stahl.\n\n== Standort ==  \nDie Brücke steht in Holland, in der Stadt Rotterdam.<br />\nSie überquert den Fluss Niewe Maas.<br />\n\n== Interessantes ==\nDie Erasmusbrücke ist die höchste Brücke der Niederlande.<br />\nDer Architekt war Ben von Eried.<br />\n1996 hat Prinzessin Beatrix die Brücke eröffnet.<br />\nDie Brücke wird auch \"der Schwan\" genannt."
+    },
+    {
+      "revid": 21337,
+      "parentid": 21331,
+      "user": "Wgsa22",
+      "timestamp": "2017-07-03T06:34:56Z",
+      "comment": "",
+      "wikitext": "\n== Aussehen == \nEins\n== Standort ==   \nZwei\n== Interessantes ==\nDrei"
+    },
+    {
+      "revid": 21331,
+      "parentid": 21322,
+      "user": "Wgsa22",
+      "timestamp": "2017-07-03T06:30:43Z",
+      "comment": "",
+      "wikitext": "== Aussehen == \nEins\n== Standort ==   \nZwei\n== Interessantes ==\nDrei"
+    },
+    {
+      "revid": 21322,
+      "parentid": 0,
+      "user": "Wgsa22",
+      "timestamp": "2017-07-03T06:27:47Z",
+      "comment": "Die Seite wurde neu angelegt: „== Aussehen ==   == Standort ==     == Interessantes ==“",
+      "wikitext": "== Aussehen == \n\n== Standort ==   \n\n== Interessantes =="
+    }
+  ],
+  "categories": []
+}

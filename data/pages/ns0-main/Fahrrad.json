@@ -1,0 +1,56 @@
+{
+  "pageid": 1483,
+  "ns": 0,
+  "title": "Fahrrad",
+  "revisions": [
+    {
+      "revid": 18765,
+      "parentid": 5449,
+      "user": "Leupold",
+      "timestamp": "2015-01-11T22:14:45Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nAuf der Seite des [http://www.umweltbundesamt.de/kinder/fahrrad.htm  Umweltbundesamtes] kannst du viel über das Fahrrad erfahren. \n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 5449,
+      "parentid": 5448,
+      "user": "Lauretia",
+      "timestamp": "2007-03-13T11:27:06Z",
+      "comment": "Verlinkung nur unterhalb des Bildes und nicht im Text ist m.E. zu wenig intuitiv",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nAuf der Seite des [http://www.umweltbundesamt.de/kinder/fahrrad.htm  Umweltbundesamtes] kannst du viel über das Fahrrad erfahren. [[Bild:Fahrrad.gif|framed|Weitere Infos:[[http://www.umweltbundesamt.de/kinder/fahrrad.htm Umweltbundesamt]]]]\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 5448,
+      "parentid": 3622,
+      "user": "Lauretia",
+      "timestamp": "2007-03-13T11:21:49Z",
+      "comment": "Rücksprung angepasst",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nAuf der Seite des Umweltbundesamtes kannst du viel über das Fahrrad erfahren. [[Bild:Fahrrad.gif|framed|Weitere Infos:[[http://www.umweltbundesamt.de/kinder/fahrrad.htm Umweltbundesamt]]]]\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 3622,
+      "parentid": 2760,
+      "user": "Leupold",
+      "timestamp": "2006-03-20T13:42:12Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nAuf der Seite des Umweltbundesamtes kannst du viel über das Fahrrad erfahren. [[Bild:Fahrrad.gif|framed|Weitere Infos:[[http://www.umweltbundesamt.de/kinder/fahrrad.htm Umweltbundesamt]]]]\n\n\nHier geht es zurück zur [[F|Lexikonseite F]]!"
+    },
+    {
+      "revid": 2760,
+      "parentid": 2557,
+      "user": "Leupold",
+      "timestamp": "2006-01-26T13:48:14Z",
+      "comment": "",
+      "wikitext": "Auf der Seite des Umweltbundesamtes kannst du viel über das Fahrrad erfahren. [[Bild:Fahrrad.gif|framed|Weitere Infos:[[http://www.umweltbundesamt.de/kinder/fahrrad.htm Umweltbundesamt]]]]\n\n\nHier geht es zurück zur [[F|Lexikonseite F]]!"
+    },
+    {
+      "revid": 2557,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-10T14:49:35Z",
+      "comment": "",
+      "wikitext": "Auf der Seite des Umweltbundesamtes kannst du viel über das Fahrrad erfahren. [[Bild:Fahrrad.gif|framed|Weitere Infos:[[http://www.umweltbundesamt.de/kinder/fahrrad.htm Umweltbundesamt]]]]"
+    }
+  ],
+  "categories": []
+}

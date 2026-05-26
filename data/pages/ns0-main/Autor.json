@@ -1,0 +1,48 @@
+{
+  "pageid": 4988,
+  "ns": 0,
+  "title": "Autor",
+  "revisions": [
+    {
+      "revid": 23602,
+      "parentid": 23601,
+      "user": "Leupold",
+      "timestamp": "2019-03-26T19:04:54Z",
+      "comment": "Änderung 23601 von [[Special:Contributions/Leupold|Leupold]] ([[User talk:Leupold|Diskussion]]) rückgängig gemacht.",
+      "wikitext": "===== Bedeutung =====\nEin Autor ist jemand der Geschichten, Internetseiten, Wikitexte, Bücher usw. verfasst."
+    },
+    {
+      "revid": 23601,
+      "parentid": 23598,
+      "user": "Leupold",
+      "timestamp": "2019-03-26T19:04:14Z",
+      "comment": "Änderungen von [[Special:Contributions/MATom-Tove|MATom-Tove]] ([[User talk:MATom-Tove|Diskussion]]) wurden auf die letzte Version von [[User:MAMino|MAMino]] zurückgesetzt",
+      "wikitext": "===== Bedeutung =====\nEin Autor ist jemand der Geschichten, Internetseiten, Wikitexte, Bücher usw. schreibt."
+    },
+    {
+      "revid": 23598,
+      "parentid": 23596,
+      "user": "MATom-Tove",
+      "timestamp": "2019-03-10T14:08:54Z",
+      "comment": "/* Bedeutung */",
+      "wikitext": "===== Bedeutung =====\nEin Autor ist jemand der Geschichten, Internetseiten, Wikitexte, Bücher usw. verfasst."
+    },
+    {
+      "revid": 23596,
+      "parentid": 20878,
+      "user": "MAMino",
+      "timestamp": "2019-03-10T13:44:18Z",
+      "comment": "",
+      "wikitext": "===== Bedeutung =====\nEin Autor ist jemand der Geschichten, Internetseiten, Wikitexte, Bücher usw. schreibt."
+    },
+    {
+      "revid": 20878,
+      "parentid": 0,
+      "user": "MATom-Tove",
+      "timestamp": "2016-08-02T10:28:40Z",
+      "comment": "Die Seite wurde neu angelegt: „===== Bedeutung ===== Ein Autor ist jemand der Geschichten, Internetseiten, Wikitexte, Bücher usw. verfasst.“",
+      "wikitext": "===== Bedeutung =====\nEin Autor ist jemand der Geschichten, Internetseiten, Wikitexte, Bücher usw. verfasst."
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,40 @@
+{
+  "pageid": 1746,
+  "ns": 0,
+  "title": "Ferkel",
+  "revisions": [
+    {
+      "revid": 4007,
+      "parentid": 4006,
+      "user": "Leupold",
+      "timestamp": "2006-07-11T13:48:51Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDas Ferkel ist ein kleines Schwein. Es ist rosa und macht \"quiekquiek\". Ferkel haben einen Ringelschwanz. Sie sind süß. Der Rüssel, so heißt die Nase vom Ferkel, sieht aus wie eine Steckdose.\n\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 4006,
+      "parentid": 3933,
+      "user": "Leupold",
+      "timestamp": "2006-07-11T13:48:09Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDas Ferkel ist ein kleines Schwein. Es ist rosa, dennoch macht es \"quiekquiek\". Ferkel haben einen Ringelschwanz. Sie sind süß. Der Rüssel sieht aus wie eine Steckdose.\n\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 3933,
+      "parentid": 3926,
+      "user": "Leupold",
+      "timestamp": "2006-06-06T16:48:43Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDas Ferkel ist ein kleines Schwein. Es ist rosa, dennoch macht es \"quiekquiek\". Ferkel haben einen Ringelschwanz. Sie sind süß. Der Rüssel ist keine Steckdose.\n\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 3926,
+      "parentid": 0,
+      "user": "MAAnna",
+      "timestamp": "2006-06-06T15:40:45Z",
+      "comment": "",
+      "wikitext": "Das Ferkel ist ein kleines Schwein. Es ist rosa, dennoch macht es \"quiekquiek\". Ferkel haben einen Ringelschwanz. Sie sind süß. Der Rüssel ist keine Steckdose."
+    }
+  ],
+  "categories": []
+}

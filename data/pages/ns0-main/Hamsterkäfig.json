@@ -1,0 +1,32 @@
+{
+  "pageid": 2011,
+  "ns": 0,
+  "title": "Hamsterkäfig",
+  "revisions": [
+    {
+      "revid": 4838,
+      "parentid": 4836,
+      "user": "Leupold",
+      "timestamp": "2006-12-08T19:05:22Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nHamsterkäfige sollten groß sein und genügend Platz haben für einen Schlafplatz.\n\n\n\n{{Rücksprung|H}}"
+    },
+    {
+      "revid": 4836,
+      "parentid": 4834,
+      "user": "Leupold",
+      "timestamp": "2006-12-08T19:04:26Z",
+      "comment": "Hamsterkäfige wurde nach Hamsterkäfig verschoben: kein Plural",
+      "wikitext": "Hamsterkäfige sollten groß sein und genügend Platz haben für einen Schlafplatz."
+    },
+    {
+      "revid": 4834,
+      "parentid": 0,
+      "user": "AJonas",
+      "timestamp": "2006-12-08T10:39:42Z",
+      "comment": "",
+      "wikitext": "Hamsterkäfige sollten groß sein und genügend Platz haben für einen Schlafplatz."
+    }
+  ],
+  "categories": []
+}

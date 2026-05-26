@@ -1,0 +1,16 @@
+{
+  "pageid": 3886,
+  "ns": 0,
+  "title": "Goldener Schnitt",
+  "revisions": [
+    {
+      "revid": 15500,
+      "parentid": 0,
+      "user": "MALorenzo",
+      "timestamp": "2012-03-03T13:22:13Z",
+      "comment": "Die Seite wurde neu angelegt: {{Babel-1|Schüler_Verfasser}} [[Bild:Goldenen_Schnitt.png|thumb|200px]]  Der goldene Schnitt ist eine Zahl womit man besondere Rechtecke zeichnen kann. Wenn man ein Re...",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n[[Bild:Goldenen_Schnitt.png|thumb|200px]]\n\nDer goldene Schnitt ist eine Zahl womit man besondere Rechtecke zeichnen kann. Wenn man ein Rechteck mit Seitenlängen goldener Schnitt x 1 zeichnet und man an die Seite mit Länge goldener Schnitt ein Quadrat mit Seitenlänge goldener Schnitt klebt, ändert das Rechteck nicht seine Form. Die ersten 10 Nachkommastellen von unendlich vielen sind: 1,6180339887. Man kann den goldenen Schnitt auch so berechnen: (  1 + &radic;5 ) : 2. Der goldene Schnitt ist eine Zahl, so ähnlich wie [[Pi|&pi;]], denn genau wie &pi; hat der goldene Schnitt unendlich viele Nachkommastellen,bei beiden wiederholen sie sich nicht. Anders als &pi; ist er um besondere Rechtecke zu zeichnen und nicht um vom Durchmesser eines [[Kreis|Kreises]] den Umfang zu berechnen und umgekehrt.\n\n{{Rücksprung|G}}"
+    }
+  ],
+  "categories": []
+}

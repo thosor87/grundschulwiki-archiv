@@ -1,0 +1,24 @@
+{
+  "pageid": 2750,
+  "ns": 0,
+  "title": "Feldmaus",
+  "revisions": [
+    {
+      "revid": 8817,
+      "parentid": 8633,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:39:26Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDie Feldmaus lebt in Europa.\n\n\n{{Rücksprung|F}}"
+    },
+    {
+      "revid": 8633,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-11T07:06:03Z",
+      "comment": "",
+      "wikitext": "Die Feldmaus lebt in Europa."
+    }
+  ],
+  "categories": []
+}

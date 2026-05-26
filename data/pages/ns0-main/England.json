@@ -1,0 +1,48 @@
+{
+  "pageid": 2243,
+  "ns": 0,
+  "title": "England",
+  "revisions": [
+    {
+      "revid": 6218,
+      "parentid": 6202,
+      "user": "Leupold",
+      "timestamp": "2007-04-21T11:55:38Z",
+      "comment": "{{Rücksprung|E}}",
+      "wikitext": "Die Hauptstadt von England ist London.\nEs liegt in Westeuropa. Es hat 60mio. Einwohner. Das Autokennzeichen ist GB.Die Währung ist Pound. Sehenswürdichkeiten sind der Bigben, die Towerbridge, Londoneye und der Buckinghampalast.\n\n\n\n{{Rücksprung|E}}"
+    },
+    {
+      "revid": 6202,
+      "parentid": 6192,
+      "user": "Martin.PPS",
+      "timestamp": "2007-04-20T07:00:58Z",
+      "comment": "",
+      "wikitext": "Die Hauptstadt von England ist London.\nEs liegt in Westeuropa. Es hat 60mio. Einwohner. Das Autokennzeichen ist GB.Die Währung ist Pound. Sehenswürdichkeiten sind der Bigben, die Towerbridge, Londoneye und der Buckinghampalast."
+    },
+    {
+      "revid": 6192,
+      "parentid": 6087,
+      "user": "Martin.PPS",
+      "timestamp": "2007-04-20T06:58:02Z",
+      "comment": "",
+      "wikitext": "Die Hauptstadt von England ist London.\nEs liegt in Westeuropa. Es hat 60mio. Einwohner. Das Autokennzeichen ist GB.Die Währung ist Pound. Sehenswürdichkeiten sind der Bigben"
+    },
+    {
+      "revid": 6087,
+      "parentid": 6074,
+      "user": "Leupold",
+      "timestamp": "2007-04-17T14:34:47Z",
+      "comment": "{{Rücksprung|H}}",
+      "wikitext": "Die Hauptstadt von England ist London.\n\n\n\n{{Rücksprung|E}}"
+    },
+    {
+      "revid": 6074,
+      "parentid": 0,
+      "user": "Martin.PPS",
+      "timestamp": "2007-04-17T11:09:03Z",
+      "comment": "",
+      "wikitext": "Die Hauptstadt von England ist London"
+    }
+  ],
+  "categories": []
+}

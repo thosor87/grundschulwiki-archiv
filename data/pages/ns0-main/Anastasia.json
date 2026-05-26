@@ -1,0 +1,32 @@
+{
+  "pageid": 2728,
+  "ns": 0,
+  "title": "Anastasia",
+  "revisions": [
+    {
+      "revid": 8866,
+      "parentid": 8865,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:15:01Z",
+      "comment": "Anastasia, die wurde nach Anastasia verschoben: ohne begleiter",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnastasia ist ein Mädchenname aus Griechenland.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8865,
+      "parentid": 8577,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:14:49Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnastasia ist ein Mädchenname aus Griechenland.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8577,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-06T19:05:01Z",
+      "comment": "",
+      "wikitext": "Anastasia ist ein Name aus Griechenland"
+    }
+  ],
+  "categories": []
+}

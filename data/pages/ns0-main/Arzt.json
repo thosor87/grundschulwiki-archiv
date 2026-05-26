@@ -1,0 +1,64 @@
+{
+  "pageid": 2753,
+  "ns": 0,
+  "title": "Arzt",
+  "revisions": [
+    {
+      "revid": 12884,
+      "parentid": 12883,
+      "user": "MARaschke",
+      "timestamp": "2009-12-12T15:46:50Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== '''Der Arzt'''==\nÄrzte sind Menschen, mit einer bestimmten Berufsausbildung.\nDer Arzt <u>hilft [[kindern]]</u> die sich <u>Ferlezt</u> haben.\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 12883,
+      "parentid": 12882,
+      "user": "MARaschke",
+      "timestamp": "2009-12-12T15:45:58Z",
+      "comment": "",
+      "wikitext": "\n{{Babel-1|Schüler_Verfasser}}\n== '''Der Arzt'''==\nÄrzte sind Menschen, mit einer bestimmten Berufsausbildung.\nDer Arzt hilft kindern die sich <u>Ferlezt</u> haben.\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 12882,
+      "parentid": 8811,
+      "user": "MARaschke",
+      "timestamp": "2009-12-12T15:43:51Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nÄrzte sind Menschen, mit einer bestimmten Berufsausbildung.\nDer Arzt hilft kindern die sich Ferlezt haben.\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8811,
+      "parentid": 8810,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:36:24Z",
+      "comment": "Ärzte wurde nach Arzt verschoben: einzahl statt mehrzahl",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nÄrzte sind Menschen, mit einer bestimmten Berufsausbildung.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8810,
+      "parentid": 8809,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:36:02Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nÄrzte sind Menschen, mit einer bestimmten Berufsausbildung.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8809,
+      "parentid": 8638,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:35:52Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nÄrzte sind Menschen, mit einer bestimmten Berufsausbildung.\n\n\n{{Rücksprung|R}}"
+    },
+    {
+      "revid": 8638,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-11T11:42:36Z",
+      "comment": "",
+      "wikitext": "Ärzte sind Leute."
+    }
+  ],
+  "categories": []
+}

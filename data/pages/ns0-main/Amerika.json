@@ -1,0 +1,48 @@
+{
+  "pageid": 2726,
+  "ns": 0,
+  "title": "Amerika",
+  "revisions": [
+    {
+      "revid": 8863,
+      "parentid": 8571,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:13:51Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAmerika ist ein Kontinent.\nAmerika besteht aus mehreren Staaten.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8571,
+      "parentid": 8570,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-06T18:46:06Z",
+      "comment": "",
+      "wikitext": "Amerika ist ein Kontinent.\nAmerika besteht aus mehreren Staaten."
+    },
+    {
+      "revid": 8570,
+      "parentid": 8569,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-06T18:45:18Z",
+      "comment": "",
+      "wikitext": "Amerika ist ein Kontinent.\nAmerika besteht aus unterschiedlichen Ländern."
+    },
+    {
+      "revid": 8569,
+      "parentid": 8568,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-06T18:37:19Z",
+      "comment": "",
+      "wikitext": "Amerika ist ein Kontinent."
+    },
+    {
+      "revid": 8568,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-06T18:37:16Z",
+      "comment": "",
+      "wikitext": "Amerika besteht aus mehreren Staaten."
+    }
+  ],
+  "categories": []
+}

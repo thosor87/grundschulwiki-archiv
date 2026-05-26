@@ -1,0 +1,32 @@
+{
+  "pageid": 2751,
+  "ns": 0,
+  "title": "Damhirsch",
+  "revisions": [
+    {
+      "revid": 8815,
+      "parentid": 8814,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:37:58Z",
+      "comment": "Damhirsch,der wurde nach Damhirsch verschoben: einheitliche schreibweise",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDER DAMHIRSCH lebt in Süddeutschland.\n\n\n\n{{Rücksprung|D}}"
+    },
+    {
+      "revid": 8814,
+      "parentid": 8635,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:37:39Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDER DAMHIRSCH lebt in Süddeutschland.\n\n\n\n{{Rücksprung|D}}"
+    },
+    {
+      "revid": 8635,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-11T07:16:33Z",
+      "comment": "",
+      "wikitext": "DER DAMHIRSCH lebt in Süddeutschland."
+    }
+  ],
+  "categories": []
+}

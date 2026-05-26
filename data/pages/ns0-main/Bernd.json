@@ -1,0 +1,32 @@
+{
+  "pageid": 2727,
+  "ns": 0,
+  "title": "Bernd",
+  "revisions": [
+    {
+      "revid": 8871,
+      "parentid": 8870,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:17:23Z",
+      "comment": "Bernd, der wurde nach Bernd verschoben: ohne begleiter",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nBernd ist ein deutscher Jungen- oder Männername.\n\n\n\n{{Rücksprung|B}}"
+    },
+    {
+      "revid": 8870,
+      "parentid": 8576,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:16:59Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nBernd ist ein deutscher Jungen- oder Männername.\n\n\n\n{{Rücksprung|B}}"
+    },
+    {
+      "revid": 8576,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-06T19:04:59Z",
+      "comment": "",
+      "wikitext": "Bernd ist ein deutscher Name"
+    }
+  ],
+  "categories": []
+}

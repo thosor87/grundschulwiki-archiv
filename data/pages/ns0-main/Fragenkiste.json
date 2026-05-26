@@ -1,0 +1,152 @@
+{
+  "pageid": 1521,
+  "ns": 12,
+  "title": "Hilfe:Fragenkiste",
+  "revisions": [
+    {
+      "revid": 18975,
+      "parentid": 18970,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T19:08:10Z",
+      "comment": "- font-size:9pt;",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''neu einfügen''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!\n\nWenn du eine Antwort weißt, schreibe diese nicht hierhin, sondern in den eigentlichen Text!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Fragezeichen.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&action=edit neu einfügen!]</small></small></div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Fragen}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18970,
+      "parentid": 5918,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T19:01:04Z",
+      "comment": "Karl Kirst verschob Seite [[Fragenkiste]] nach [[Hilfe:Fragenkiste]]: Hilfeseite",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''neu einfügen''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!\n\nWenn du eine Antwort weißt, schreibe diese nicht hierhin, sondern in den eigentlichen Text!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Fragezeichen.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&action=edit neu einfügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Fragen}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 5918,
+      "parentid": 5458,
+      "user": "Leupold",
+      "timestamp": "2007-03-27T10:49:28Z",
+      "comment": "Zusatzinfo",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''neu einfügen''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!\n\nWenn du eine Antwort weißt, schreibe diese nicht hierhin, sondern in den eigentlichen Text!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Fragezeichen.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&action=edit neu einfügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Fragen}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 5458,
+      "parentid": 3465,
+      "user": "Leupold",
+      "timestamp": "2007-03-14T17:59:24Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''neu einfügen''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Fragezeichen.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&action=edit neu einfügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Fragen}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3465,
+      "parentid": 3464,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T14:41:44Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF\" |\n<div style=\"background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Fragezeichen.png|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&action=edit neu einfügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Fragen}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3464,
+      "parentid": 3462,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T14:33:20Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Fragezeichen.png]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&action=edit neu einfügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Fragen}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3462,
+      "parentid": 3430,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T14:32:08Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Fragezeichen.png]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&action=edit neu einfügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{Fragen}}\n|}\n</div>\n|}\n\n\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 3430,
+      "parentid": 3429,
+      "user": "Leupold",
+      "timestamp": "2006-03-12T20:41:37Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 3429,
+      "parentid": 3428,
+      "user": "Leupold",
+      "timestamp": "2006-03-12T20:41:06Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\"></div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 3428,
+      "parentid": 3427,
+      "user": "Leupold",
+      "timestamp": "2006-03-12T20:39:21Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragenkiste&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 3427,
+      "parentid": 3424,
+      "user": "Leupold",
+      "timestamp": "2006-03-12T20:38:34Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 3424,
+      "parentid": 2846,
+      "user": "Leupold",
+      "timestamp": "2006-03-12T17:40:54Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\n   BORDER = #AE0000|\n   BACKGROUND = #AE4C4B|\n   BREITE =100%|\n   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!|\n   BILD=Fragezeichen.png|\n   ÜBERSCHRIFT=Fragenkiste|\n }}\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2846,
+      "parentid": 2785,
+      "user": "Leupold",
+      "timestamp": "2006-02-02T16:23:16Z",
+      "comment": "",
+      "wikitext": "[[Bild:Fragezeichen.jpg]]\n'''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2785,
+      "parentid": 2775,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-26T15:50:33Z",
+      "comment": "",
+      "wikitext": "[[Bild:Fragezeichen.jpg]]\n'''Was ist eigentlich ein Fuder?''' oder '''Wie funktioniert eigentlich eine Pumpe?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2775,
+      "parentid": 2774,
+      "user": "Leupold",
+      "timestamp": "2006-01-26T14:03:08Z",
+      "comment": "",
+      "wikitext": "'''Was ist eigentlich ein Fuder?''' oder '''Wie funktioniert eigentlich eine Pumpe?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2774,
+      "parentid": 2772,
+      "user": "Leupold",
+      "timestamp": "2006-01-26T14:02:42Z",
+      "comment": "",
+      "wikitext": "'''Was ist eigentlich ein Fuder?''' oder '''Wie funktioniert eigentlich eine Pumpe?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\nKlicke dafür unten auf \"''bearbeiten''\" und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen!\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2772,
+      "parentid": 2771,
+      "user": "Leupold",
+      "timestamp": "2006-01-26T14:00:25Z",
+      "comment": "",
+      "wikitext": "'''Was ist eigentlich ein Fuder?''' oder '''Wie funktioniert eigentlich eine Pumpe?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!\n\n\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Fragenkiste:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{Fragen}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2771,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2006-01-26T13:59:06Z",
+      "comment": "",
+      "wikitext": "'''Was ist eigentlich ein Fuder?''' oder '''Wie funktioniert eigentlich eine Pumpe?'''\n\nKennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! \n\nWenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,32 @@
+{
+  "pageid": 2730,
+  "ns": 0,
+  "title": "Alphabet",
+  "revisions": [
+    {
+      "revid": 8858,
+      "parentid": 8857,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:06:32Z",
+      "comment": "Alphabet, das wurde nach Alphabet verschoben: ohne begleiter",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDas Alphabet hat 26 Buchstaben.\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8857,
+      "parentid": 8585,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:06:23Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDas Alphabet hat 26 Buchstaben.\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8585,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-10T17:49:00Z",
+      "comment": "",
+      "wikitext": "Das Alphabet hat 26 Buchstaben"
+    }
+  ],
+  "categories": []
+}

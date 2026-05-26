@@ -1,0 +1,32 @@
+{
+  "pageid": 2734,
+  "ns": 0,
+  "title": "Annika",
+  "revisions": [
+    {
+      "revid": 8851,
+      "parentid": 8849,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:01:06Z",
+      "comment": "Annika, die wurde nach Annika verschoben: ohne begleiter",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnnika ist ein Mädchenname.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8849,
+      "parentid": 8596,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T10:00:06Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nAnnika ist ein Mädchenname.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8596,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-10T18:05:35Z",
+      "comment": "",
+      "wikitext": "ANnika ist ein name."
+    }
+  ],
+  "categories": []
+}

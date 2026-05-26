@@ -1,0 +1,24 @@
+{
+  "pageid": 2742,
+  "ns": 0,
+  "title": "Antilope",
+  "revisions": [
+    {
+      "revid": 8840,
+      "parentid": 8615,
+      "user": "Leupold",
+      "timestamp": "2008-07-15T09:53:11Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDie Antilope lebt in Afrika.\n\n\n{{Rücksprung|A}}"
+    },
+    {
+      "revid": 8615,
+      "parentid": 0,
+      "user": "MAHelmreich",
+      "timestamp": "2008-07-11T06:57:32Z",
+      "comment": "",
+      "wikitext": "Die Antilope lebt in Afrika."
+    }
+  ],
+  "categories": []
+}

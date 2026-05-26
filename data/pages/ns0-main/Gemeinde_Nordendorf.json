@@ -1,0 +1,40 @@
+{
+  "pageid": 4117,
+  "ns": 0,
+  "title": "Gemeinde Nordendorf",
+  "revisions": [
+    {
+      "revid": 17233,
+      "parentid": 16716,
+      "user": "Leupold",
+      "timestamp": "2013-05-21T22:50:09Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Daten==\nDirekte Daten von der Gemeinde Nordendorf folgen.\n\n== Name und Wappen==\n== Vereine==\nFeuerwehrverein\n\n== Besonderheiten==\n\n\n{{Rücksprung|G}}"
+    },
+    {
+      "revid": 16716,
+      "parentid": 16702,
+      "user": "MAWiedemann",
+      "timestamp": "2013-05-03T08:07:01Z",
+      "comment": "/* Vereine */",
+      "wikitext": "== Daten==\nDirekte Daten von der Gemeinde Nordendorf folgen.\n\n== Name und Wappen==\n== Vereine==\nFeuerwehrverein\n\n== Besonderheiten=="
+    },
+    {
+      "revid": 16702,
+      "parentid": 16699,
+      "user": "MAWiedemann",
+      "timestamp": "2013-05-03T08:02:29Z",
+      "comment": "/* Daten */",
+      "wikitext": "== Daten==\nDirekte Daten von der Gemeinde Nordendorf folgen.\n\n== Name und Wappen==\n== Vereine==\n== Besonderheiten=="
+    },
+    {
+      "revid": 16699,
+      "parentid": 0,
+      "user": "MAWiedemann",
+      "timestamp": "2013-05-03T08:01:07Z",
+      "comment": "Die Seite wurde neu angelegt: == Daten== == Name und Wappen== == Vereine== == Besonderheiten==",
+      "wikitext": "== Daten==\n== Name und Wappen==\n== Vereine==\n== Besonderheiten=="
+    }
+  ],
+  "categories": []
+}
