@@ -1,0 +1,32 @@
+{
+  "pageid": 4190,
+  "ns": 0,
+  "title": "Patrick",
+  "revisions": [
+    {
+      "revid": 17352,
+      "parentid": 17341,
+      "user": "Leupold",
+      "timestamp": "2013-10-20T13:29:09Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nist ein männlicher Vorname.\n\n\n{{Rücksprung|P}}"
+    },
+    {
+      "revid": 17341,
+      "parentid": 17313,
+      "user": "Sulzburg",
+      "timestamp": "2013-10-13T13:52:17Z",
+      "comment": "/* Sekundäre Überschrift */",
+      "wikitext": "\n== Einzelnachweise ==\n<references/>\n[http://www.example.com Link-Text][{{Zitat|Text|Autor (optional)|Quelle (optional)]}}'''"
+    },
+    {
+      "revid": 17313,
+      "parentid": 0,
+      "user": "Sulzburg",
+      "timestamp": "2013-10-12T20:13:38Z",
+      "comment": "Die Seite wurde neu angelegt:  == Einzelnachweise == <references/> [http://www.example.com Link-Text][{{Zitat|Text|Autor (optional)|Quelle (optional)]}}''' === Sekundäre Überschrift''' === ====  =...",
+      "wikitext": "\n== Einzelnachweise ==\n<references/>\n[http://www.example.com Link-Text][{{Zitat|Text|Autor (optional)|Quelle (optional)]}}'''\n=== Sekundäre Überschrift''' ===\n==== \n==== Untergeordnete Überschrift ==== ====Patrick ist mein bester Freund.Er ist gut im Zocken hahaha ne in mathe"
+    }
+  ],
+  "categories": []
+}

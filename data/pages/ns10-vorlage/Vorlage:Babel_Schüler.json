@@ -1,0 +1,112 @@
+{
+  "pageid": 1681,
+  "ns": 10,
+  "title": "Vorlage:Babel Schüler",
+  "revisions": [
+    {
+      "revid": 3521,
+      "parentid": 3519,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-13T20:49:52Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=#50ff50|\nBG_COLOR=#c0ffc0|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:Kid.png|40px|center|Schüler]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3519,
+      "parentid": 3378,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-13T20:44:30Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=#50ff50|\nBG_COLOR=#c0ffc0|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:Kid.jpg|40px|center|Schüler]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3378,
+      "parentid": 3370,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:13:15Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=#50ff50|\nBG_COLOR=#c0ffc0|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3370,
+      "parentid": 3369,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T20:22:16Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nCOLOR1=#50ff50|\nCOLOR2=#c0ffc0|\nCOLOR3=#ffffff|\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3369,
+      "parentid": 3368,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T20:21:58Z",
+      "comment": "",
+      "wikitext": "<div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#ffffff;text-align:center;font-size:14pt\" | [[Bild:SchwikiLogo.png|40px|center|Schüler]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.\n|}\n</div>\n\n{{BabelVorlage|\nCOLOR1=#50ff50|\nCOLOR2=#c0ffc0|\nCOLOR3=#ffffff|\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3368,
+      "parentid": 3357,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T20:21:39Z",
+      "comment": "",
+      "wikitext": "<div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#ffffff;text-align:center;font-size:14pt\" | [[Bild:SchwikiLogo.png|40px|center|Schüler]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.\n|}\n</div>\n\n{{BabelVorlage|\nCOLOR1=#50ff50|\nCOLOR2=#c0ffc0|\nCOLOR3=#ffffff|\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nTEXT_SIZE=2|\nTEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3357,
+      "parentid": 3355,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T20:07:32Z",
+      "comment": "",
+      "wikitext": "<div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#ffffff;text-align:center;font-size:14pt\" | [[Bild:SchwikiLogo.png|40px|center|Schüler]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.\n|}\n</div>\n\n{{BabelVorlage|\nCOLOR1=#50ff50|\nCOLOR2=#c0ffc0|\nCOLOR3=#ffffff|\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nTEXT_SIZE=3|\nTEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3355,
+      "parentid": 3352,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T20:00:34Z",
+      "comment": "",
+      "wikitext": "<div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#fff;text-align:center;font-size:14pt\" | [[Bild:SchwikiLogo.png|40px|center|Schüler]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.\n|}\n</div>\n\n{{BabelVorlage|\nCOLOR1=#50ff50|\nCOLOR2=red|\nCOLOR3=yellow|\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nLETTER SIZE=3|\nTEXT_SIZE=3|\nTEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3352,
+      "parentid": 3351,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T19:58:54Z",
+      "comment": "",
+      "wikitext": "<div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#fff;text-align:center;font-size:14pt\" | [[Bild:SchwikiLogo.png|40px|center|Schüler]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.\n|}\n</div>\n\n{{BabelVorlage|\nCOLOR1=blue|\nCOLOR2=red|\nCOLOR3=yellow|\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nLETTER SIZE=3|\nTEXT_SIZE=3|\nTEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3351,
+      "parentid": 3350,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T19:58:20Z",
+      "comment": "",
+      "wikitext": "<div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#fff;text-align:center;font-size:14pt\" | [[Bild:SchwikiLogo.png|40px|center|Schüler]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.\n|}\n</div>\n\n{{BabelVorlage|\nCOLOR1=blue|\nCOLOR2=red|\nCOLOR3=yellow|\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nLETTER SIZE=3|\nTEXT_SIZE=3|\nTEXT=Dieser [[ZUM-Wiki:Benutzer|Benutzer]] ist '''Schüler''' bzw. '''Schülerin'''.|\n}}"
+    },
+    {
+      "revid": 3350,
+      "parentid": 3340,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T19:57:25Z",
+      "comment": "",
+      "wikitext": "<div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#fff;text-align:center;font-size:14pt\" | [[Bild:SchwikiLogo.png|40px|center|Schüler]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.\n|}\n</div>\n\n{{BabelVorlage|\nCOLOR1=blue   |\nCOLOR2=red   |\nCOLOR3=yellow   |\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nLETTER SIZE=3|\nTEXT_SIZE=3|\nTEXT=Dieser [[ZUM-Wiki:Benutzer|Benutzer]] ist '''Schüler''' bzw. '''Schülerin'''.\n     |\n}}"
+    },
+    {
+      "revid": 3340,
+      "parentid": 3299,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T12:57:53Z",
+      "comment": "",
+      "wikitext": "<div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#fff;text-align:center;font-size:14pt\" | [[Bild:SchwikiLogo.png|40px|center|Schüler]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.\n|}\n</div>\n\n{{BabelVorlage|\nCOLOR1=blue   |\nCOLOR2=red   |\nCOLOR3=yellow   |\nIMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|\nTEXT=Dieser [[ZUM-Wiki:Benutzer|Benutzer]] ist '''Schüler''' bzw. '''Schülerin'''.\n     |\n}}"
+    },
+    {
+      "revid": 3299,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-10T10:45:31Z",
+      "comment": "",
+      "wikitext": "<div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#fff;text-align:center;font-size:14pt\" | [[Bild:SchwikiLogo.png|40px|center|Schüler]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | Dieser [[ZUM-Wiki:Benutzer|Benutzer]] ist '''Schüler''' bzw. '''Schülerin'''.\n|}\n</div>"
+    }
+  ],
+  "categories": []
+}

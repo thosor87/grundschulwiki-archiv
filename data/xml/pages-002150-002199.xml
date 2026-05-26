@@ -1,0 +1,1325 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:IMG 2661.JPG</title>
+    <ns>6</ns>
+    <id>3498</id>
+    <revision>
+      <id>13543</id>
+      <timestamp>2010-05-31T11:29:45Z</timestamp>
+      <contributor>
+        <username>Schülerteam5</username>
+        <id>750</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:IMG 3747b.jpg</title>
+    <ns>6</ns>
+    <id>5496</id>
+    <revision>
+      <id>23319</id>
+      <timestamp>2018-07-06T16:13:47Z</timestamp>
+      <contributor>
+        <username>MASturm</username>
+        <id>10271</id>
+      </contributor>
+      <comment>{{Airbus am Frankfurter Flughafen}}</comment>
+      <text xml:space="preserve" bytes="35">{{Airbus am Frankfurter Flughafen}}</text>
+      <sha1>accvkr71mpdfnjgguz5o63bnq5c1kho</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:IMG 8175.JPG</title>
+    <ns>6</ns>
+    <id>5509</id>
+    <revision>
+      <id>23383</id>
+      <timestamp>2018-07-11T06:06:55Z</timestamp>
+      <contributor>
+        <username>Wgse09</username>
+        <id>10184</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Schulhaus
+|Quelle = Karolin Hinle
+|Urheber = Karolin Hinle
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="172">{{Information ohne UploadWizard
+|Beschreibung = Schulhaus
+|Quelle = Karolin Hinle
+|Urheber = Karolin Hinle
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>5ufqxb52s41vmwnai93hd93sklcc646</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:IMG 8177.JPG</title>
+    <ns>6</ns>
+    <id>5511</id>
+    <revision>
+      <id>23389</id>
+      <timestamp>2018-07-11T06:24:32Z</timestamp>
+      <contributor>
+        <username>Wgse14</username>
+        <id>10189</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Schulhaus
+|Quelle = Karolin Hinle
+|Urheber = Karolin Hinle
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="172">{{Information ohne UploadWizard
+|Beschreibung = Schulhaus
+|Quelle = Karolin Hinle
+|Urheber = Karolin Hinle
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>5ufqxb52s41vmwnai93hd93sklcc646</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:IMG 8179.JPG</title>
+    <ns>6</ns>
+    <id>5510</id>
+    <revision>
+      <id>23386</id>
+      <timestamp>2018-07-11T06:11:08Z</timestamp>
+      <contributor>
+        <username>Wgse09</username>
+        <id>10184</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Hartplatz
+|Quelle = Karolin Hinle
+|Urheber = Karolin Hinle
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="172">{{Information ohne UploadWizard
+|Beschreibung = Hartplatz
+|Quelle = Karolin Hinle
+|Urheber = Karolin Hinle
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>la591sr44sh4jlz5vp1o1i3claj93zp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:ISS.Lilly1.JPG</title>
+    <ns>6</ns>
+    <id>3384</id>
+    <revision>
+      <id>12829</id>
+      <timestamp>2009-12-10T12:32:32Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Iberian-lynx-1203999 1920.jpg</title>
+    <ns>6</ns>
+    <id>4932</id>
+    <revision>
+      <id>20218</id>
+      <timestamp>2016-07-07T16:49:53Z</timestamp>
+      <contributor>
+        <username>Wgsa03</username>
+        <id>10138</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Luchs
+|Quelle = wikimedia
+|Urheber = iberian-lynx_1203999_1920.jpg
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung = Luchs
+|Quelle = wikimedia
+|Urheber = iberian-lynx_1203999_1920.jpg
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>hgur0x386nyukkw8c5lqvmsz18bvv5q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Icarus Tablet Bluefire.jpg</title>
+    <ns>6</ns>
+    <id>5075</id>
+    <revision>
+      <id>21244</id>
+      <timestamp>2017-05-31T09:08:11Z</timestamp>
+      <contributor>
+        <username>Burgschule5</username>
+        <id>10231</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:IgelR1.jpg</title>
+    <ns>6</ns>
+    <id>4568</id>
+    <revision>
+      <id>18804</id>
+      <parentid>18803</parentid>
+      <timestamp>2015-02-16T11:20:41Z</timestamp>
+      <contributor>
+        <username>MARabe1</username>
+        <id>10056</id>
+      </contributor>
+      <comment>MARabe1 lud eine neue Version von „[[Datei:IgelR1.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Zeichnung eines Igels
+|Quelle = Natur
+|Urheber = selbst
+|Datum = 16.02.2015
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="179">{{Information ohne UploadWizard
+|Beschreibung = Zeichnung eines Igels
+|Quelle = Natur
+|Urheber = selbst
+|Datum = 16.02.2015
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>0e087mskqzybtnn15d13sluljowur3t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Im Sonnensystem.jpg</title>
+    <ns>6</ns>
+    <id>2085</id>
+    <revision>
+      <id>5121</id>
+      <parentid>5108</parentid>
+      <timestamp>2007-02-14T11:06:46Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="76">[[Bild:Im_Sonnensystem.jpg|thumb|Dieses Bild wurde Jonathan selbst gemahlt]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Image001.jpg</title>
+    <ns>6</ns>
+    <id>4149</id>
+    <revision>
+      <id>17013</id>
+      <parentid>17010</parentid>
+      <timestamp>2013-05-06T14:13:42Z</timestamp>
+      <contributor>
+        <username>GSAJonas</username>
+        <id>1005</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Image001.jpg]]“ hochgeladen: Rathaus
+Quelle:Jonas</comment>
+      <text xml:space="preserve" bytes="20">Rathaus
+Quelle:Jonas</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Images-2-.jpg</title>
+    <ns>6</ns>
+    <id>2820</id>
+    <revision>
+      <id>9103</id>
+      <timestamp>2008-07-20T19:05:23Z</timestamp>
+      <contributor>
+        <username>MAHelmreich</username>
+        <id>443</id>
+      </contributor>
+      <comment>Gefunden bei www.wdr.de</comment>
+      <text xml:space="preserve" bytes="23">Gefunden bei www.wdr.de</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Images.jpg</title>
+    <ns>6</ns>
+    <id>5461</id>
+    <revision>
+      <id>23039</id>
+      <parentid>23033</parentid>
+      <timestamp>2018-06-22T10:30:23Z</timestamp>
+      <contributor>
+        <username>Wgsa38</username>
+        <id>10173</id>
+      </contributor>
+      <comment>Wgsa38 lud eine neue Version von „[[Datei:Images.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Mark Forster
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="160">{{Information ohne UploadWizard
+|Beschreibung = gezeichneter Hase 
+|Quelle = ?? 
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>i7ug0mhqst9145mx0xwmtfxacmy0f15</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Images 002.png</title>
+    <ns>6</ns>
+    <id>5506</id>
+    <revision>
+      <id>23375</id>
+      <parentid>23373</parentid>
+      <timestamp>2018-07-10T17:13:16Z</timestamp>
+      <contributor>
+        <username>Wgsad67</username>
+        <id>10336</id>
+      </contributor>
+      <comment>Wgsad67 lud eine neue Version von „[[Datei:Images 002.png]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Wappen und Fahne
+|Quelle = Google
+|Urheber = unbekannt
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="162">{{Information ohne UploadWizard
+|Beschreibung = fane wappen
+|Quelle = google
+|Urheber = unbekant
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>po59oyrnnyirg8g5anundnf933futb7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Img004.jpg</title>
+    <ns>6</ns>
+    <id>2531</id>
+    <revision>
+      <id>7477</id>
+      <timestamp>2008-01-02T15:26:14Z</timestamp>
+      <contributor>
+        <username>MAFelix</username>
+        <id>392</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Important.png</title>
+    <ns>6</ns>
+    <id>1629</id>
+    <revision>
+      <id>3232</id>
+      <timestamp>2006-03-09T21:37:01Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:In arbeit.png</title>
+    <ns>6</ns>
+    <id>1389</id>
+    <revision>
+      <id>1837</id>
+      <timestamp>2006-01-01T22:28:42Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Bild selbst erstellt (mit Paint Shop Pro X)</comment>
+      <text xml:space="preserve" bytes="43">Bild selbst erstellt (mit Paint Shop Pro X)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Inka01.jpg</title>
+    <ns>6</ns>
+    <id>3050</id>
+    <revision>
+      <id>10673</id>
+      <timestamp>2009-03-04T11:46:45Z</timestamp>
+      <contributor>
+        <username>J.Leupold</username>
+        <id>9</id>
+      </contributor>
+      <comment>Der Inka (von Klaus gemalt)</comment>
+      <text xml:space="preserve" bytes="27">Der Inka (von Klaus gemalt)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Insekten3.jpg</title>
+    <ns>6</ns>
+    <id>4169</id>
+    <revision>
+      <id>17144</id>
+      <timestamp>2013-05-16T08:12:14Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Abgezeichnet aus: memo, Wissen entdecken: Insekten. Verlag Dorling Kindersley. S. 24-25</comment>
+      <text xml:space="preserve" bytes="87">Abgezeichnet aus: memo, Wissen entdecken: Insekten. Verlag Dorling Kindersley. S. 24-25</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:International-space-station-67647 1920.jpg</title>
+    <ns>6</ns>
+    <id>5821</id>
+    <revision>
+      <id>24706</id>
+      <parentid>24705</parentid>
+      <timestamp>2020-06-22T09:44:58Z</timestamp>
+      <contributor>
+        <username>OESBen-Max</username>
+        <id>10414</id>
+      </contributor>
+      <comment>OESBen-Max lud eine neue Version von „[[Datei:International-space-station-67647 1920.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="179">{{Information ohne UploadWizard
+|Beschreibung = ISS Internationale Raumstation
+|Quelle = pixabay.com
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen =  
+}}</text>
+      <sha1>enzdc5q0grday2xpf3rp8ywdg584uq0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Internet.jpg</title>
+    <ns>6</ns>
+    <id>1492</id>
+    <revision>
+      <id>14656</id>
+      <parentid>12371</parentid>
+      <timestamp>2011-03-06T12:23:20Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Internet.jpg]]“ hochgeladen: Zurückgesetzt auf die Version vom 20. Januar 2006, 19:01 Uhr</comment>
+      <text xml:space="preserve" bytes="192">Die roten Linien stellen Verbindungskabel zwischen Servern und Computern dar. Wo Computer nicht mit Kabeln miteinander verbunden sind, da können auch Satelliten die Informationen übertragen.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Ireland-2530238 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5327</id>
+    <revision>
+      <id>22088</id>
+      <parentid>22072</parentid>
+      <timestamp>2018-05-09T06:53:09Z</timestamp>
+      <contributor>
+        <username>Wgsad58</username>
+        <id>10327</id>
+      </contributor>
+      <text xml:space="preserve" bytes="161">{{Information ohne UploadWizard
+|Beschreibung = Irland 
+|Quelle = www.pixabay.de
+|Urheber = freie Nutzung
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>cv9ulha3ebghid8c5yap2nufefs4d62</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Irkick.png</title>
+    <ns>6</ns>
+    <id>1630</id>
+    <revision>
+      <id>3233</id>
+      <timestamp>2006-03-09T21:37:15Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Is.jpg</title>
+    <ns>6</ns>
+    <id>5460</id>
+    <revision>
+      <id>23032</id>
+      <timestamp>2018-06-22T10:29:11Z</timestamp>
+      <contributor>
+        <username>Wgsa29</username>
+        <id>10164</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Avicii
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="147">{{Information ohne UploadWizard
+|Beschreibung = Avicii
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>m79d907wi4jpdre45fysiesvvv0k9wj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Italy-1614931 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5328</id>
+    <revision>
+      <id>22085</id>
+      <parentid>22076</parentid>
+      <timestamp>2018-05-09T06:53:05Z</timestamp>
+      <contributor>
+        <username>Wgsad54</username>
+        <id>10322</id>
+      </contributor>
+      <text xml:space="preserve" bytes="170">{{Information ohne UploadWizard
+|Beschreibung =Höhle
+|Quelle =  www.pixabay.de
+|Andere Versionen = 
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Anmerkungen = 
+}}</text>
+      <sha1>nrwzu7cbdsqed87iom3dq7hxgwungqj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Jaguar.jpg</title>
+    <ns>6</ns>
+    <id>2503</id>
+    <revision>
+      <id>7328</id>
+      <timestamp>2007-12-22T07:17:08Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Ich habe es selber gemalt.</comment>
+      <text xml:space="preserve" bytes="26">Ich habe es selber gemalt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Jan Frodeno Zieleinlauf Hawaii.jpg</title>
+    <ns>6</ns>
+    <id>6183</id>
+    <revision>
+      <id>25487</id>
+      <timestamp>2023-02-07T01:16:34Z</timestamp>
+      <contributor>
+        <username>MAZimmermann2</username>
+        <id>10510</id>
+      </contributor>
+      <text xml:space="preserve" bytes="175">{{Information ohne UploadWizard
+|Beschreibung = Zieleinlauf Jan Frodeno Ironman Hawaii
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>axyz2xz14vx8k5c8t0j7sb25s33ix9j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Jana Reitlehrerin Wiki.jpg</title>
+    <ns>6</ns>
+    <id>3960</id>
+    <revision>
+      <id>15819</id>
+      <timestamp>2012-06-22T07:11:09Z</timestamp>
+      <contributor>
+        <username>GSAJana</username>
+        <id>962</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:JanetKFZMechatronikerinwiki.jpg</title>
+    <ns>6</ns>
+    <id>3962</id>
+    <revision>
+      <id>15857</id>
+      <timestamp>2012-06-22T09:06:49Z</timestamp>
+      <contributor>
+        <username>GSAJanet</username>
+        <id>972</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:JgdFeuerw2.jpg</title>
+    <ns>6</ns>
+    <id>3040</id>
+    <revision>
+      <id>10506</id>
+      <parentid>10505</parentid>
+      <timestamp>2009-02-16T14:56:45Z</timestamp>
+      <contributor>
+        <username>J.Leupold</username>
+        <id>9</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:JgdFeuerw2.jpg]]“ hochgeladen: Kleidung Jugendfeuerwehr</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Johann Wolfgang von Goethe ac.pdf</title>
+    <ns>6</ns>
+    <id>3234</id>
+    <revision>
+      <id>11663</id>
+      <timestamp>2009-05-09T22:11:48Z</timestamp>
+      <contributor>
+        <username>KSAntonia</username>
+        <id>642</id>
+      </contributor>
+      <comment>Aufsatz über Goethe von A.Ceballos, Schweizer Schule, Santiago</comment>
+      <text xml:space="preserve" bytes="63">Aufsatz über Goethe von A.Ceballos, Schweizer Schule, Santiago</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Jolina schweden.jpg</title>
+    <ns>6</ns>
+    <id>5344</id>
+    <revision>
+      <id>22163</id>
+      <timestamp>2018-05-09T07:41:10Z</timestamp>
+      <contributor>
+        <username>Wgsad04</username>
+        <id>10275</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Stadt am See 
+|Quelle = www.Pixabay.de
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="177">{{Information ohne UploadWizard
+|Beschreibung = Stadt am See 
+|Quelle = www.Pixabay.de
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>109lbf3d94buin3uwgwq62g6j4r3v74</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:JosefFeuerwehrmannwiki.jpg</title>
+    <ns>6</ns>
+    <id>3969</id>
+    <revision>
+      <id>15948</id>
+      <timestamp>2012-06-25T06:22:24Z</timestamp>
+      <contributor>
+        <username>GSAJosef</username>
+        <id>966</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Julie Kramer-2.JPG</title>
+    <ns>6</ns>
+    <id>2228</id>
+    <revision>
+      <id>6004</id>
+      <timestamp>2007-04-02T17:08:52Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <comment>Dies ist ein eigenes Bild von Leonies Hund.</comment>
+      <text xml:space="preserve" bytes="43">Dies ist ein eigenes Bild von Leonies Hund.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Justin Bieber.jpg</title>
+    <ns>6</ns>
+    <id>5438</id>
+    <revision>
+      <id>22945</id>
+      <timestamp>2018-06-22T06:56:55Z</timestamp>
+      <contributor>
+        <username>Wgsa02</username>
+        <id>10137</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Justin Bieber
+|Quelle = ???
+|Urheber = ???
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="156">{{Information ohne UploadWizard
+|Beschreibung = Justin Bieber
+|Quelle = ???
+|Urheber = ???
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>j0bunmb8knugv09b3i92qq9ud0y38sr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K1 1.jpg</title>
+    <ns>6</ns>
+    <id>1441</id>
+    <revision>
+      <id>2412</id>
+      <timestamp>2006-01-05T18:36:56Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung für Sudoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen d</comment>
+      <text xml:space="preserve" bytes="494">Lösung für Sudoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K1 2.jpg</title>
+    <ns>6</ns>
+    <id>1442</id>
+    <revision>
+      <id>2413</id>
+      <timestamp>2006-01-05T18:37:53Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen d</comment>
+      <text xml:space="preserve" bytes="494">Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K1 3.jpg</title>
+    <ns>6</ns>
+    <id>1443</id>
+    <revision>
+      <id>2414</id>
+      <timestamp>2006-01-05T18:38:16Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen d</comment>
+      <text xml:space="preserve" bytes="494">Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K2 1.jpg</title>
+    <ns>6</ns>
+    <id>1444</id>
+    <revision>
+      <id>2415</id>
+      <timestamp>2006-01-05T18:38:41Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen d</comment>
+      <text xml:space="preserve" bytes="494">Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K2 2.jpg</title>
+    <ns>6</ns>
+    <id>1445</id>
+    <revision>
+      <id>2416</id>
+      <timestamp>2006-01-05T18:39:01Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen d</comment>
+      <text xml:space="preserve" bytes="494">Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K2 3.jpg</title>
+    <ns>6</ns>
+    <id>1446</id>
+    <revision>
+      <id>2417</id>
+      <timestamp>2006-01-05T18:39:20Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen d</comment>
+      <text xml:space="preserve" bytes="494">Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K2 4.jpg</title>
+    <ns>6</ns>
+    <id>1447</id>
+    <revision>
+      <id>2418</id>
+      <timestamp>2006-01-05T18:39:36Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen d</comment>
+      <text xml:space="preserve" bytes="494">Lösung für SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K3 1.jpg</title>
+    <ns>6</ns>
+    <id>1448</id>
+    <revision>
+      <id>2425</id>
+      <timestamp>2006-01-05T21:57:12Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizen</comment>
+      <text xml:space="preserve" bytes="481">SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K3 2.jpg</title>
+    <ns>6</ns>
+    <id>1449</id>
+    <revision>
+      <id>2426</id>
+      <timestamp>2006-01-05T21:57:34Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizen</comment>
+      <text xml:space="preserve" bytes="481">SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K3 3.jpg</title>
+    <ns>6</ns>
+    <id>1450</id>
+    <revision>
+      <id>2427</id>
+      <timestamp>2006-01-05T21:57:52Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizen</comment>
+      <text xml:space="preserve" bytes="481">SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K3 4.jpg</title>
+    <ns>6</ns>
+    <id>1451</id>
+    <revision>
+      <id>2428</id>
+      <timestamp>2006-01-05T21:58:09Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizen</comment>
+      <text xml:space="preserve" bytes="481">SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K4 1.jpg</title>
+    <ns>6</ns>
+    <id>1452</id>
+    <revision>
+      <id>2429</id>
+      <timestamp>2006-01-05T21:58:32Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizen</comment>
+      <text xml:space="preserve" bytes="481">SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K4 2.jpg</title>
+    <ns>6</ns>
+    <id>1453</id>
+    <revision>
+      <id>2430</id>
+      <timestamp>2006-01-05T21:59:03Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizen</comment>
+      <text xml:space="preserve" bytes="481">SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K4 3.jpg</title>
+    <ns>6</ns>
+    <id>1454</id>
+    <revision>
+      <id>2431</id>
+      <timestamp>2006-01-05T21:59:20Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizen</comment>
+      <text xml:space="preserve" bytes="481">SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:K4 4.jpg</title>
+    <ns>6</ns>
+    <id>1455</id>
+    <revision>
+      <id>2432</id>
+      <timestamp>2006-01-05T21:59:32Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizen</comment>
+      <text xml:space="preserve" bytes="481">SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

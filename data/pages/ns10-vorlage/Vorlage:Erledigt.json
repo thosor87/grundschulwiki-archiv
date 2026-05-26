@@ -1,0 +1,26 @@
+{
+  "pageid": 4241,
+  "ns": 10,
+  "title": "Vorlage:Erledigt",
+  "revisions": [
+    {
+      "revid": 17493,
+      "parentid": 17492,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:34:05Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<onlyinclude><span style=\"display:inline\">&nbsp;[[Datei:Yes check.svg|14px|link=]]&nbsp;'''Erledigt'''</span></onlyinclude>\n\n\n[[Kategorie:Vorlage:Bearbeitungsbausteine]]"
+    },
+    {
+      "revid": 17492,
+      "parentid": 0,
+      "user": "Abrafix",
+      "timestamp": "2013-11-02T17:07:05Z",
+      "comment": "",
+      "wikitext": "<onlyinclude><span style=\"display:inline\">&nbsp;[[Datei:Yes check.svg|14px|link=]]&nbsp;'''Erledigt'''</span></onlyinclude>\n\n\n[[Kategorie:Vorlage:Bearbeitungsbausteine]]"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Bearbeitungsbausteine"
+  ]
+}

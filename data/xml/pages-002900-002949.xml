@@ -1,0 +1,1809 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vorlage:!</title>
+    <ns>10</ns>
+    <id>4227</id>
+    <revision>
+      <id>17465</id>
+      <parentid>17464</parentid>
+      <timestamp>2014-01-08T18:33:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="42">|&lt;noinclude&gt;{{Dokumentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>j828xowck1s6llb48gow4iizziqayud</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:-</title>
+    <ns>10</ns>
+    <id>4246</id>
+    <revision>
+      <id>17509</id>
+      <parentid>17508</parentid>
+      <timestamp>2014-01-20T22:31:41Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="67">&lt;br style=&quot;clear:both&quot; /&gt;&lt;noinclude&gt;
+{{documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>at90wv4jfy4rv074aqbdtult97e9xa3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:10JahreSeitenstark</title>
+    <ns>10</ns>
+    <id>4182</id>
+    <revision>
+      <id>17299</id>
+      <parentid>17298</parentid>
+      <timestamp>2013-08-30T02:18:58Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>seite eingefügt</comment>
+      <text xml:space="preserve" bytes="1536">{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width: 100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; margin:8px; margin-top:5px&quot;&gt;[[Image:Kcmpartitions.png|48px]]&lt;/div&gt;
+&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;HAPPY BIRTHDAY SEITENSTARK&lt;/div&gt;
+&lt;div style=&quot;font-size:9pt; padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=5 width=100%
+|align=left valign=top width=100%|
+{| width=100% 
+|- 
+| width=20% align=&quot;center&quot; | [[Bild:AnimationSeitenstark1.gif|250px]] 
+| width=60% align=&quot;center&quot; | &lt;big&gt;'''11.08.2013'''&lt;/big&gt;
+
+Da ZUM-Grundschulwiki ist Teil der seitenstarken Seiten von Seitenstark auf [http://www.seitenstark.de www.seitenstark.de]. Wir gratulieren der Arbeitsgemeinschaft zu ihrem 10-jährigen Bestehen und hoffen, dass sie noch lange viele tolle und interessante Seiten machen kann.
+
+Macht mit beim seitenstarken Wettbewerb der Zentrale für Unterrichtsmedien und gestaltet eine Wikiseite hier im ZUM-Grundschulwiki. Mehr zu dem Wettbewerb findet ihr auf der Seite zum [http://seitenstark10jahre.wordpress.com/ Wettbewerb] oder direkt auf den Seiten der [http://www.zum.de/GrundschulWebQuest/index.php?module=webquest&amp;id=202 ZUM-Grundschulwebquest].
+
+Viel Erfolg!!
+| width=20% align=&quot;center&quot; | [[Bild:AnimationSeitenstark2.gif|250px]]
+|}
+|}
+&lt;/div&gt;
+|}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Achtung</title>
+    <ns>10</ns>
+    <id>4269</id>
+    <revision>
+      <id>17807</id>
+      <parentid>17573</parentid>
+      <timestamp>2014-02-08T21:37:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="423">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border: 1px solid {{{Rand|#FFA4A4}}}; background-color: {{{Hintergrund|#FFFFFF}}}; border-left: 10px solid {{{RandLinks|#FF6666}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}&quot;
+|- 
+| style=&quot;font-size: 95%; text-align:{{{Textausrichtung|left}}}&quot; | 
+{{{1}}}
+|}&lt;noinclude&gt;
+[[Kategorie:Vorlage:Hinweisbaustein|Achtung]]
+&lt;/noinclude&gt;</text>
+      <sha1>98xhj7v2o7t6b4t4uebrwsefiolfxva</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:AktuellerAufruf</title>
+    <ns>10</ns>
+    <id>3011</id>
+    <revision>
+      <id>13402</id>
+      <parentid>13401</parentid>
+      <timestamp>2010-03-25T17:31:06Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1100">{{Kastendesign|
+BORDER = #AE0000|
+BACKGROUND = #AE4C4B|
+BREITE =100%|
+BILD = Important.png|48px|
+ÜBERSCHRIFT =!Wettbewerb!|
+INHALT=&lt;big&gt;'''24.03.2010 - Tag des Digitalen Lernens 2010''' -- Schreibwettbewerb beim ZUM-Grundschulwiki!&lt;/big&gt;&lt;br&gt;&lt;big&gt;'''Ihr habt viele tolle Beiträge geschrieben! Man konnte merken, wie viel Mühe Ihr Euch gegeben habt!'''&lt;/big&gt;&lt;br&gt;&lt;br&gt;&lt;div style=&quot;font-size:14px;font-family:Verdana&quot;&gt;Der 1. Preis geht an den Artikel '''[[Rom]]'''! Wir gratulieren dem Autor zu seinem gelungenen Text, der mit einem Softwarepaket (Eine Lizenz für die [http://www.medienwerkstatt-online.de/reload.html?/products/krumpfs/ Lernsoftware &quot;Die Krumpfs&quot;]) belohnt wird!&lt;/div&gt;&lt;br&gt;Die Plätze 2 und 3 gehen an die Artikel [[Merkur]] und [[Venus]]. Auch sie werden mit [http://www.grundschulmaterial.de/ Preisen] aus dem Hause Medienwerkstatt Mühlacker honoriert.&lt;br&gt;Hier geht es noch einmal zur [[:Kategorie:Artikel_Tag_des_Digitalen_Lernens_2010|Liste mit allen Beiträgen]]&lt;br&gt;&lt;br&gt;'''Zur Erinnerung''': Die teilnehmenden Artikel, können erst nach dem 29.03.2010 wieder geändert werden!|
+}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Anker</title>
+    <ns>10</ns>
+    <id>4222</id>
+    <revision>
+      <id>17455</id>
+      <parentid>17454</parentid>
+      <timestamp>2014-01-08T18:33:56Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="305">{{#if: {{{1|}}} | {{Anker/code|{{{1|}}}}}{{#if: {{{2|}}} | {{Anker/code|{{{2|}}}}}{{#if: {{{3|}}} | {{Anker/code|{{{3|}}}}}{{#if: {{{4|}}} | {{Anker/code|{{{4|}}}}} {{#if: {{{5|}}} | {{Anker/code|{{{5|}}}}}{{#if: {{{6|}}} | {{Anker/code|{{{6|}}}}} }} }}}} }} }} }}&lt;noinclude&gt;
+{{Dokumentation}}&lt;/noinclude&gt;</text>
+      <sha1>0kuyczdwx5uv0ye5yl5vnomuhkb47hn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Anker/code</title>
+    <ns>10</ns>
+    <id>4223</id>
+    <revision>
+      <id>17457</id>
+      <parentid>17456</parentid>
+      <timestamp>2014-01-08T18:33:56Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="189">{{Dokumentation/Unterseite}}
+
+&lt;onlyinclude&gt;&lt;span id=&quot;{{anchorencode:{{{1|{{{anchor|anchor}}}}}}}}&quot;&gt;&lt;span id=&quot;Anker:{{anchorencode:{{{1|{{{anchor|anchor}}}}}}}}&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/onlyinclude&gt;</text>
+      <sha1>m60dl2ezmrr9kc8lg8tucbkbotydijx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Anleitung</title>
+    <ns>10</ns>
+    <id>4316</id>
+    <revision>
+      <id>17667</id>
+      <parentid>17666</parentid>
+      <timestamp>2014-02-08T21:09:44Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="464">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border: 1px solid {{{Rand|#FF0000}}}; border-left: 10px solid {{{RandLinks|#FF0000}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto&lt;!--; width: {{{Breite|100%}}}--&gt;; float:left&quot;
+|'''WIE GEHT DAS? {{{1}}}''' &lt;br&gt;
+{{{2}}}
+|}&lt;div style=&quot;clear:both&quot;&gt;&lt;/div&gt;&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{Anleitung|&lt;Thema&gt;|&lt;Anleitungstext&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlagen für die Schule|Anleitung]]
+&lt;/noinclude&gt;</text>
+      <sha1>5cr6xf9eizgkswmm10dek5nn4deg75i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Antwort</title>
+    <ns>10</ns>
+    <id>4317</id>
+    <revision>
+      <id>17669</id>
+      <parentid>17668</parentid>
+      <timestamp>2014-02-08T21:09:45Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="567">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|blue}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Datei:Information icon.svg|25px]] &amp;nbsp; Antwort
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{Antwort|&lt;Text der Antwort&gt;}}&lt;/pre&gt;
+
+;Vergleiche: [[Vorlage:Frage]]
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Antwort]]&lt;/noinclude&gt;</text>
+      <sha1>q01ejmgr15fof7qe6fst2m3ljbuthpe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Arbeiten</title>
+    <ns>10</ns>
+    <id>4318</id>
+    <revision>
+      <id>17671</id>
+      <parentid>17670</parentid>
+      <timestamp>2014-02-08T21:09:46Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="595">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 5px solid {{{RandLinks|#000000}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;&amp;nbsp; Aufgabe {{{NUMMER}}}&amp;nbsp; [[Bild:Stift.gif|30px]]
+&lt;/div&gt;
+{{{ARBEIT}}}
+|}&lt;noinclude&gt;
+{{Quellcode}}
+&lt;pre&gt;{{Arbeiten|NUMMER=&lt;Aufgabennummer&gt;|ARBEIT=&lt;Aufgabentext&gt;}}&lt;/pre&gt;
+&lt;/noinclude&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Arbeiten]]&lt;/noinclude&gt;</text>
+      <sha1>h0lpticewmu9wxcrvlvke0ir8yn2mrv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Aufgabe</title>
+    <ns>10</ns>
+    <id>4319</id>
+    <revision>
+      <id>17673</id>
+      <parentid>17672</parentid>
+      <timestamp>2014-02-08T21:09:46Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="653">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Stift.gif|30px]] &amp;nbsp; '''{{#switch: {{{lang|{{SUBPAGENAME}}}}}
+ | de = Aufgabe
+ | en = Task
+ | Aufgabe
+}}'''
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+;Syntax: &lt;pre&gt;{{Aufgabe|&lt;Text der Aufgabe&gt;}}&lt;/pre&gt;
+
+;Alternative: Die [[Vorlage:Aufgabe float]] hat eine variable Seitenbreite.
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Aufgabe]]&lt;/noinclude&gt;</text>
+      <sha1>h68j6r7ebfrtqt3esjcryvj48zxpdav</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Aufgabe-M</title>
+    <ns>10</ns>
+    <id>4320</id>
+    <revision>
+      <id>17675</id>
+      <parentid>17674</parentid>
+      <timestamp>2014-02-08T21:09:46Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="527">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;&amp;nbsp; [[Bild:Stift.gif|30px]] &amp;nbsp; Aufgabe 
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+{{Quellcode}}
+&lt;pre&gt;{{Aufgabe-M|&lt;Aufgabentext&gt;}}&lt;/pre&gt;
+[[Kategorie:Vorlage:Aufgabenbausteine|Aufgabe-M]]&lt;/noinclude&gt;</text>
+      <sha1>8s37om15a4hx5ucu2rykoh49evjkej5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Aufgaben</title>
+    <ns>10</ns>
+    <id>4321</id>
+    <revision>
+      <id>17677</id>
+      <parentid>17676</parentid>
+      <timestamp>2014-02-08T21:09:46Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="562">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Stift.gif|30px]] &amp;nbsp; Aufgabe {{{1}}}
+&lt;/div&gt;
+{{{2}}}
+|}&lt;noinclude&gt;
+;Syntax: &lt;nowiki&gt;{{Aufgaben|&lt;Nummer der Aufgabe&gt;|&lt;Text der Aufgabe&gt;}}&lt;/nowiki&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Aufgaben]]&lt;/noinclude&gt;</text>
+      <sha1>hzek2ejpkjxqcq2xknvnxv7u0ds6yuv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Aufgaben-M</title>
+    <ns>10</ns>
+    <id>4322</id>
+    <revision>
+      <id>17679</id>
+      <parentid>17678</parentid>
+      <timestamp>2014-02-08T21:09:46Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="564">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;&amp;nbsp; [[Bild:Stift.gif|30px]] &amp;nbsp; Aufgabe {{{1}}}
+&lt;/div&gt;
+{{{2}}}
+|}&lt;noinclude&gt;
+
+{{Quellcode}}
+
+&lt;pre&gt;{{Aufgaben-M|&lt;Nummer der Aufgabe&gt;|&lt;Text der Aufgabe&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Aufgaben-M]]&lt;/noinclude&gt;</text>
+      <sha1>h8awrdiyw07tvmsi4hroem674k9ewsh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Aufgaben-blau</title>
+    <ns>10</ns>
+    <id>4323</id>
+    <revision>
+      <id>17681</id>
+      <parentid>17680</parentid>
+      <timestamp>2014-02-08T21:09:46Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="840">&lt;onlyinclude&gt;
+&lt;div style=&quot;border:2px solid #4682B4; {{#if: {{{3|}}} | width:{{{3}}}; }} {{#if: {{{4|}}} | float: {{{4}}}; }} margin: 6px 0; -webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; overflow: hidden;&quot;&gt;
+&lt;div style=&quot;border-left: 10px solid #B0C4DE; background-color:white&quot;&gt;
+&lt;div style=&quot;font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Stift.gif{{!}}30px]] &amp;nbsp; Aufgabe {{{1}}}
+&lt;/div&gt;
+&lt;div style=&quot;padding:5px; font-size:11pt;&quot;&gt;
+{{{2}}}
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/onlyinclude&gt;&lt;noinclude&gt;
+
+
+==Syntax== 
+&lt;pre&gt;
+{{Aufgaben-blau
+|&lt;ggf. Nummer der Aufgabe: 1&gt;
+|&lt;Text der Aufgabe: Kopiere den Syntax dieser Vorlage in Deinen Artikel!&gt;
+|&lt;ggf. Breite in px oder Prozent: 50%&gt;
+|&lt;ggf. float left oder right: right&gt;
+}}
+&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Aufgaben]]&lt;/noinclude&gt;</text>
+      <sha1>kvrczkas2vx1qaxl8uz1ijc3jlnhuem</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Autor</title>
+    <ns>10</ns>
+    <id>3056</id>
+    <revision>
+      <id>10704</id>
+      <timestamp>2009-03-05T13:59:15Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>angelegt</comment>
+      <text xml:space="preserve" bytes="154">Kurzangabe zum Autor/zu den Autoren für die Jury:&lt;br&gt;
+Alter: {{{1}}}&lt;br&gt;
+Klassenstufe: {{{2}}}&lt;br&gt;
+Schulform: {{{3}}}&lt;br&gt;
+Anzahl der Autoren: {{{4}}}&lt;br&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Autotranslate</title>
+    <ns>10</ns>
+    <id>4375</id>
+    <revision>
+      <id>17785</id>
+      <parentid>17784</parentid>
+      <timestamp>2014-02-08T21:11:25Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="445">&lt;includeonly&gt;{{#invoke: fallback|autotranslate|base = {{{base|}}}|lang={{{lang|}}}
+|1={{{1|}}} |2={{{2|}}} |3={{{3|}}} |4={{{4|}}} |5={{{5|}}}|6={{{6|}}} |7={{{7|}}} |8={{{8|}}} |9={{{9|}}} |10={{{10|}}} |11={{{11|}}} |12={{{12|}}} |13={{{13|}}} |14={{{14|}}} |15={{{15|}}} }}&lt;!--  
+--&gt;{{#ifeq: {{FULLPAGENAME}} |Template:{{{base|}}} |[[Category:Autotranslated templates|{{PAGENAME}}]]}}&lt;/includeonly&gt;&lt;noinclude&gt;
+
+{{Documentation}}
+
+&lt;/noinclude&gt;</text>
+      <sha1>21wel7tymi34ekpq37ssx1h9cibp8q8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel-1</title>
+    <ns>10</ns>
+    <id>1684</id>
+    <revision>
+      <id>24814</id>
+      <parentid>3310</parentid>
+      <timestamp>2021-01-16T07:02:58Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Schützte „[[Vorlage:Babel-1]]“ ([Bearbeiten=Nur Administratoren erlauben] (unbeschränkt) [Verschieben=Nur Administratoren erlauben] (unbeschränkt))</comment>
+      <text xml:space="preserve" bytes="156">{| style=&quot;float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF&quot;
+! '''Kurzinfo:'''
+|-
+| {{Babel {{{1}}}}}
+|}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel-2</title>
+    <ns>10</ns>
+    <id>1694</id>
+    <revision>
+      <id>24815</id>
+      <parentid>3392</parentid>
+      <timestamp>2021-01-16T07:04:09Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Schützte „[[Vorlage:Babel-2]]“ ([Bearbeiten=Nur Administratoren erlauben] (unbeschränkt) [Verschieben=Nur Administratoren erlauben] (unbeschränkt))</comment>
+      <text xml:space="preserve" bytes="179">{| style=&quot;float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF&quot;
+! '''Kurzinfo:'''
+|-
+| {{Babel {{{1}}}}}
+|-
+| {{Babel {{{2}}}}}
+|}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel-3</title>
+    <ns>10</ns>
+    <id>1695</id>
+    <revision>
+      <id>3393</id>
+      <timestamp>2006-03-11T21:40:29Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="202">{| style=&quot;float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF&quot;
+! '''Kurzinfo:'''
+|-
+| {{Babel {{{1}}}}}
+|-
+| {{Babel {{{2}}}}}
+|-
+| {{Babel {{{3}}}}}
+|}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel-4</title>
+    <ns>10</ns>
+    <id>1696</id>
+    <revision>
+      <id>3394</id>
+      <timestamp>2006-03-11T21:41:22Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="225">{| style=&quot;float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF&quot;
+! '''Kurzinfo:'''
+|-
+| {{Babel {{{1}}}}}
+|-
+| {{Babel {{{2}}}}}
+|-
+| {{Babel {{{3}}}}}
+|-
+| {{Babel {{{4}}}}}
+|}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel-5</title>
+    <ns>10</ns>
+    <id>1697</id>
+    <revision>
+      <id>3395</id>
+      <timestamp>2006-03-11T21:42:01Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="248">{| style=&quot;float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF&quot;
+! '''Kurzinfo:'''
+|-
+| {{Babel {{{1}}}}}
+|-
+| {{Babel {{{2}}}}}
+|-
+| {{Babel {{{3}}}}}
+|-
+| {{Babel {{{4}}}}}
+|-
+| {{Babel {{{5}}}}}
+|}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel-6</title>
+    <ns>10</ns>
+    <id>1698</id>
+    <revision>
+      <id>3396</id>
+      <timestamp>2006-03-11T21:42:41Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="271">{| style=&quot;float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF&quot;
+! '''Kurzinfo:'''
+|-
+| {{Babel {{{1}}}}}
+|-
+| {{Babel {{{2}}}}}
+|-
+| {{Babel {{{3}}}}}
+|-
+| {{Babel {{{4}}}}}
+|-
+| {{Babel {{{5}}}}}
+|-
+| {{Babel {{{6}}}}}
+|}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:BabelVorlage</title>
+    <ns>10</ns>
+    <id>1685</id>
+    <revision>
+      <id>3380</id>
+      <parentid>3379</parentid>
+      <timestamp>2006-03-11T21:13:54Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="361">&lt;div style=&quot;float:left; border:solid 1px {{{BORDER_COLOR}}}; margin:1px&quot;&gt;
+{| cellpadding=&quot;1&quot; cellspacing=&quot;0&quot; style=&quot;width:18.6em; background-color:{{{BG_COLOR}}}&quot;
+| style=&quot;width:45px; height:50px; background-color:{{{BG_IMAGE_COLOR}}}; text-align:center&quot;|
+{{{IMAGE}}}
+| style=&quot;font-size:{{{TEXT_SIZE}}}; padding:0.47em; line-height:1.25em&quot;| {{{TEXT}}}
+|}
+&lt;/div&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel Lehrer</title>
+    <ns>10</ns>
+    <id>1690</id>
+    <revision>
+      <id>3387</id>
+      <parentid>3385</parentid>
+      <timestamp>2006-03-11T21:23:30Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="207">{{BabelVorlage|
+BORDER_COLOR=cadetblue|
+BG_COLOR=lightblue|
+BG_IMAGE_COLOR=#ffffff|
+IMAGE=[[Bild:Lempel.gif|40px|center|Lehrer]]|
+TEXT_SIZE=8pt|
+TEXT=Dieser Benutzer ist '''Lehrer''' bzw. '''Lehrerin'''.|
+}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel Lehrer Verfasser</title>
+    <ns>10</ns>
+    <id>1709</id>
+    <revision>
+      <id>3682</id>
+      <parentid>3681</parentid>
+      <timestamp>2006-03-23T08:50:53Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="198">{{BabelVorlage|
+ BORDER_COLOR=red|
+ BG_COLOR=khaki|
+ BG_IMAGE_COLOR=white|
+ IMAGE=[[Bild:Kdict.png|40px|center|Lehrer]]|
+ TEXT_SIZE=8pt|
+ TEXT=Der Verfasser ist '''Lehrer''' bzw. '''Lehrerin'''.|
+}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel Schüler</title>
+    <ns>10</ns>
+    <id>1681</id>
+    <revision>
+      <id>3521</id>
+      <parentid>3519</parentid>
+      <timestamp>2006-03-13T20:49:52Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="206">{{BabelVorlage|
+BORDER_COLOR=#50ff50|
+BG_COLOR=#c0ffc0|
+BG_IMAGE_COLOR=#ffffff|
+IMAGE=[[Bild:Kid.png|40px|center|Schüler]]|
+TEXT_SIZE=8pt|
+TEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|
+}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel Schüler Verfasser</title>
+    <ns>10</ns>
+    <id>1704</id>
+    <revision>
+      <id>24813</id>
+      <parentid>24812</parentid>
+      <timestamp>2021-01-16T07:01:02Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Schützte „[[Vorlage:Babel Schüler Verfasser]]“ ([Bearbeiten=Nur Administratoren erlauben] (unbeschränkt) [Verschieben=Nur Administratoren erlauben] (unbeschränkt))</comment>
+      <text xml:space="preserve" bytes="208">{{BabelVorlage|
+BORDER_COLOR=green|
+BG_COLOR=khaki|
+BG_IMAGE_COLOR=white|
+IMAGE=[[Bild:Kid.png|40px|center|Schüler]]|
+TEXT_SIZE=8pt|
+TEXT=Der Verfasser ist '''Grundschüler''' bzw. '''Grundschülerin'''.|
+}}</text>
+      <sha1>ne85pjvmak8m73iyslat0u6oflew1yl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Babel ZUM</title>
+    <ns>10</ns>
+    <id>1693</id>
+    <revision>
+      <id>16155</id>
+      <parentid>16154</parentid>
+      <timestamp>2012-11-13T23:09:07Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>typo</comment>
+      <text xml:space="preserve" bytes="254">{{BabelVorlage|
+BORDER_COLOR=peru|
+BG_COLOR=khaki|
+BG_IMAGE_COLOR=#ffffff|
+IMAGE=[[Bild:ZUM-Logo.png|45px|center|ZUM-Mitglied]]|
+TEXT_SIZE=8pt|
+TEXT=Dieser Benutzer ist Mitglied der &lt;br&gt;'''Zentrale für Unterrichtsmedien &lt;br&gt; im Internet e.&amp;nbsp;V.'''
+}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bausteindesign11</title>
+    <ns>10</ns>
+    <id>4228</id>
+    <revision>
+      <id>17467</id>
+      <parentid>17466</parentid>
+      <timestamp>2014-01-08T18:33:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="239">&lt;code&gt;&lt;onlyinclude&gt;cellspacing=&quot;8&quot; cellpadding=&quot;0&quot; class=&quot;hintergrundfarbe1 rahmenfarbe2&quot; style=&quot;clear:both; margin:0.5em auto; background-color:#eeeeee; border:4px solid #dedede; position:relative;&quot;&lt;/onlyinclude&gt;&lt;/code&gt;
+
+{{Dokumentation}}</text>
+      <sha1>9ioebt1b3l51pmca22ebtp2jmslgk6b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bausteindesign2</title>
+    <ns>10</ns>
+    <id>4236</id>
+    <revision>
+      <id>17483</id>
+      <parentid>17482</parentid>
+      <timestamp>2014-01-08T18:34:01Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="166">width=&quot;100%&quot; border=&quot;0&quot; cellspacing=&quot;8&quot; cellpadding=&quot;0&quot; style=&quot;background-color: #f9f9f9; border-top: 1px solid #aaaaaa; font-size: 95%; margin-top: 1em; clear: both&quot;</text>
+      <sha1>syzl02bw0lykfg978be8atcu5yy8koy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bausteindesign4</title>
+    <ns>10</ns>
+    <id>4620</id>
+    <revision>
+      <id>19031</id>
+      <timestamp>2015-05-08T22:56:47Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Kopie aus dem ZUM-Wiki</comment>
+      <text xml:space="preserve" bytes="262">cellspacing=&quot;4&quot; cellpadding=&quot;4&quot; class=&quot;hintergrundfarbe1 rahmenfarbe3&quot; style=&quot;width: 100%; font-size: 100%; border-style: solid; border-width: 2px; clear: both; position:relative;&quot;&lt;noinclude&gt;
+
+[[Kategorie:Vorlage:Formatierungshilfe|Bausteindesign4]]
+&lt;/noinclude&gt;</text>
+      <sha1>27op1jrrben3n2lexht7052j2iczz07</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bausteindesign5</title>
+    <ns>10</ns>
+    <id>4229</id>
+    <revision>
+      <id>17469</id>
+      <parentid>17468</parentid>
+      <timestamp>2014-01-08T18:33:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="290">&lt;code&gt;&lt;onlyinclude&gt;cellspacing=&quot;8&quot; cellpadding=&quot;0&quot; class=&quot;hintergrundfarbe1 rahmenfarbe2&quot; style=&quot;width: 100%; font-size: 100%; border-style: solid; border-width: 3px; margin: auto; margin-top: 3px; margin-bottom: 3px; clear: both; position:relative;&quot;&lt;/onlyinclude&gt;&lt;/code&gt;
+
+{{Dokumentation}}</text>
+      <sha1>grp8vzw6uddlgfss4mje2a0v2d9axns</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Begriffsklärung</title>
+    <ns>10</ns>
+    <id>4237</id>
+    <revision>
+      <id>17485</id>
+      <parentid>17484</parentid>
+      <timestamp>2014-01-08T18:34:02Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="807">&lt;div id=&quot;Vorlage_Begriffsklaerung&quot;&gt;
+{| {{Bausteindesign2}}
+| style=&quot;width: 30px; vertical-align: top&quot; | [[Bild:Disambig-dark.svg|30px]]
+| Diese Seite ist eine '''[[Wikipedia:Begriffsklärung|Begriffsklärung]]''' zur Unterscheidung mehrerer mit demselben Wort bezeichneter Begriffe.
+|}
+&lt;/div&gt;
+&lt;includeonly&gt;[[Kategorie:Begriffsklärung|{{SUBJECTPAGENAME}}]]&lt;/includeonly&gt;
+&lt;noinclude&gt;
+----
+;Zur Verwendung dieser Vorlage siehe [[ZUM-Wiki:Begriffsklärung]].
+''Hinweis'': Die Formulierung „Für ... siehe ...“ sollte vermieden werden, da sie von vielen als sprachlich unschöne [[Anglizismus|Entlehnung aus dem Englischen]] („For ... see ...“) angesehen wird.
+
+&lt;!--[[Kategorie:Vorlage:Begriffsklärung|!Begriffsklärung]]--&gt;
+
+&lt;/noinclude&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Artikelbausteine|.]]&lt;/noinclude&gt;</text>
+      <sha1>k5mwaqh5ycnmr1c41imumdz9i6m7eni</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Beispiel</title>
+    <ns>10</ns>
+    <id>4324</id>
+    <revision>
+      <id>17683</id>
+      <parentid>17682</parentid>
+      <timestamp>2014-02-08T21:09:47Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="296">{| width=&quot;100%&quot; class=&quot;wikitable&quot; 
+|- 
+! Das sieht man !! Das schreibt man
+|- 
+| width=&quot;50%&quot; |
+{{{1}}} 
+| width=&quot;50%&quot; |
+{{{2}}}
+|}&lt;noinclude&gt;
+
+;Das schreibt man: &lt;tt&gt;&lt;nowiki&gt;{{Beispiel|&lt;Quellcode&gt;|&lt;pre&gt;&lt;Quellcode&gt;&lt;/pre&gt;}}&lt;/nowiki&gt;&lt;/tt&gt;
+
+[[Kategorie:Vorlage:Artikelbausteine|Beispiel]]&lt;/noinclude&gt;</text>
+      <sha1>79rq27n41gbth4x4ad000uoa65dovpm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-0</title>
+    <ns>10</ns>
+    <id>4270</id>
+    <revision>
+      <id>17575</id>
+      <parentid>17574</parentid>
+      <timestamp>2014-02-08T21:09:10Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2672">&lt;div id=&quot;Vorlage_Bild-CC-0/1.0&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei ohne Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Zero“''&lt;br /&gt; in Version 1.0 (abgekürzt „CC-0 1.0“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-Zero-badge.svg|100px|link=|CC-Zero]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;1.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/publicdomain/zero/1.0/legalcode http://creativecommons.org/publicdomain/zero/1.0/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten, öffentlich zugänglich zu machen oder anders zu verwerten sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen und diese zu verwerten.&lt;br clear=&quot;left&quot; /&gt;
+
+'''Der Urheber oder Rechteinhaber knüpft daran keine Bedingungen.'''
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-Zero|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+[[en:Template:Cc-zero]]
+{{commons|Template:Cc-zero|Template:Cc-zero|die entsprechende Vorlage auf Commons}}
+
+&lt;!-- Creative Commons License --&gt;
+&lt;!--
+&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;
+    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;
+    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;
+&lt;Work rdf:about=&quot;&quot;&gt;
+   &lt;license rdf:resource=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot; /&gt;
+&lt;/Work&gt;
+&lt;License rdf:about=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;
+&lt;/License&gt;
+&lt;/rdf:RDF&gt;
+--&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>ltqtu36s7k1bbxzzoy1v2ai4z00p399</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by-sa/2.0</title>
+    <ns>10</ns>
+    <id>4271</id>
+    <revision>
+      <id>17577</id>
+      <parentid>17576</parentid>
+      <timestamp>2014-02-08T21:09:11Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2702">&lt;div id=&quot;Vorlage_Bild-CC-by-sa/2.0&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen“''&lt;br /&gt; in Version 2.0 (abgekürzt „CC-by-sa 2.0“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY-SA_icon.svg|100px|link=|CC-by-sa]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;2.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by-sa/2.0/legalcode http://creativecommons.org/licenses/by-sa/2.0/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc-sa.svg|22px|link=|Weitergabe unter gleichen Bedingungen|left]] ''Weitergabe unter gleichen Bedingungen:'' Wenn Sie das lizenzierte Werk bearbeiten, abwandeln oder als Vorlage für ein neues Werk verwenden, dürfen Sie die neu entstandenen Werke nur unter dieser oder einer zu dieser kompatiblen Lizenz nutzen und weiterverbreiten. 
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by-sa|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>8zjahzbw9kxqudt3qqu9h6tzfr5lio8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by-sa/2.0/de</title>
+    <ns>10</ns>
+    <id>4272</id>
+    <revision>
+      <id>17579</id>
+      <parentid>17578</parentid>
+      <timestamp>2014-02-08T21:09:13Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2779">&lt;div id=&quot;Vorlage_Bild-CC-by-sa/2.0/de&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen Deutschland“''&lt;br /&gt; in Version 2.0 (abgekürzt „CC-by-sa 2.0/de“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY-SA_icon.svg|100px|link=|CC-by-sa]] [[Datei:Flag of Germany.svg|30px|link=|Deutschland]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;2.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by-sa/2.0/de/legalcode http://creativecommons.org/licenses/by-sa/2.0/de/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc-sa.svg|22px|link=|Weitergabe unter gleichen Bedingungen|left]] ''Weitergabe unter gleichen Bedingungen:'' Wenn Sie das lizenzierte Werk bearbeiten, abwandeln oder als Vorlage für ein neues Werk verwenden, dürfen Sie die neu entstandenen Werke nur unter dieser oder einer zu dieser kompatiblen Lizenz nutzen und weiterverbreiten. 
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by-sa|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>ao7c3vxtzo1jrj12y4ifflx6p5uh8e0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by-sa/2.5</title>
+    <ns>10</ns>
+    <id>4273</id>
+    <revision>
+      <id>17581</id>
+      <parentid>17580</parentid>
+      <timestamp>2014-02-08T21:09:14Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2702">&lt;div id=&quot;Vorlage_Bild-CC-by-sa/2.5&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen“''&lt;br /&gt; in Version 2.5 (abgekürzt „CC-by-sa 2.5“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY-SA_icon.svg|100px|link=|CC-by-sa]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;2.5&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by-sa/2.5/legalcode http://creativecommons.org/licenses/by-sa/2.5/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc-sa.svg|22px|link=|Weitergabe unter gleichen Bedingungen|left]] ''Weitergabe unter gleichen Bedingungen:'' Wenn Sie das lizenzierte Werk bearbeiten, abwandeln oder als Vorlage für ein neues Werk verwenden, dürfen Sie die neu entstandenen Werke nur unter dieser oder einer zu dieser kompatiblen Lizenz nutzen und weiterverbreiten. 
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by-sa|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>e7gp46pjgo6uvtmygdr6nujiflhu7ux</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by-sa/3.0</title>
+    <ns>10</ns>
+    <id>4274</id>
+    <revision>
+      <id>17583</id>
+      <parentid>17582</parentid>
+      <timestamp>2014-02-08T21:09:14Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="3444">&lt;div id=&quot;Vorlage_Bild-CC-by-sa/3.0&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen“''&lt;br /&gt; in Version 3.0 (abgekürzt „CC-by-sa 3.0“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY-SA_icon.svg|100px|link=|CC-by-sa]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;3.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by-sa/3.0/legalcode http://creativecommons.org/licenses/by-sa/3.0/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc-sa.svg|22px|link=|Weitergabe unter gleichen Bedingungen|left]] ''Weitergabe unter gleichen Bedingungen:'' Wenn Sie das lizenzierte Werk bearbeiten, abwandeln oder als Vorlage für ein neues Werk verwenden, dürfen Sie die neu entstandenen Werke nur unter dieser oder einer zu dieser kompatiblen Lizenz nutzen und weiterverbreiten. 
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by-sa|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+&lt;!-- Creative Commons License --&gt;
+&lt;!--
+&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;
+    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;
+    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;
+&lt;Work rdf:about=&quot;&quot;&gt;
+   &lt;license rdf:resource=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; /&gt;
+&lt;/Work&gt;
+&lt;License rdf:about=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;
+&lt;/License&gt;
+&lt;/rdf:RDF&gt;
+--&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>4yt0m0l7rltdwztukx3nfya0s6aza6j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by-sa/3.0/de</title>
+    <ns>10</ns>
+    <id>4257</id>
+    <revision>
+      <id>17529</id>
+      <parentid>17528</parentid>
+      <timestamp>2014-02-03T22:38:52Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2834">&lt;div id=&quot;Vorlage_Bild-CC-by-sa/3.0/de&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen Deutschland“''&lt;br /&gt; in Version 3.0 (abgekürzt „CC-by-sa 3.0/de“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY-SA_icon.svg|100px|link=|CC-by-sa]] [[Datei:Flagge von Deutschland.png|30px|link=|Deutschland]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;3.0&lt;/span&gt;
+|}
+&lt;!-- svg aus commons hat nicht funktioniert --&gt;
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by-sa/3.0/de/legalcode http://creativecommons.org/licenses/by-sa/3.0/de/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc-sa.svg|22px|link=|Weitergabe unter gleichen Bedingungen|left]] ''Weitergabe unter gleichen Bedingungen:'' Wenn Sie das lizenzierte Werk bearbeiten, abwandeln oder als Vorlage für ein neues Werk verwenden, dürfen Sie die neu entstandenen Werke nur unter dieser oder einer zu dieser kompatiblen Lizenz nutzen und weiterverbreiten. 
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by-sa|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>ho3ngoolm2eujx6hljlydeg4eml09g2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by/2.0</title>
+    <ns>10</ns>
+    <id>4275</id>
+    <revision>
+      <id>17585</id>
+      <parentid>17584</parentid>
+      <timestamp>2014-02-08T21:09:16Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="3034">&lt;div id=&quot;Vorlage_Bild-CC-by/2.0&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung“''&lt;br /&gt; in Version 2.0 (abgekürzt „CC-by 2.0“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY_icon.svg|100px|link=|CC-by]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;2.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by/2.0/legalcode http://creativecommons.org/licenses/by/2.0/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+&lt;!-- Creative Commons License --&gt;
+&lt;!--
+&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;
+    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;
+    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;
+&lt;Work rdf:about=&quot;&quot;&gt;
+   &lt;license rdf:resource=&quot;http://creativecommons.org/licenses/by/2.0/&quot; /&gt;
+&lt;/Work&gt;
+&lt;License rdf:about=&quot;http://creativecommons.org/licenses/by/2.0/&quot;&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;
+&lt;/License&gt;
+&lt;/rdf:RDF&gt;
+--&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>douq8vm3pkwb8dwrxas8ji0v6hu36zl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by/2.0/de</title>
+    <ns>10</ns>
+    <id>4276</id>
+    <revision>
+      <id>17587</id>
+      <parentid>17586</parentid>
+      <timestamp>2014-02-08T21:09:17Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="3116">&lt;div id=&quot;Vorlage_Bild-CC-by/2.0/de&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung Deutschland“''&lt;br /&gt; in Version 2.0 (abgekürzt „CC-by 2.0/de“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY_icon.svg|100px|link=|CC-by]] [[Datei:Flag of Germany.svg|30px|link=|Deutschland]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;2.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by/2.0/de/legalcode http://creativecommons.org/licenses/by/2.0/de/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;
+&lt;!-- Creative Commons License --&gt;
+&lt;!--
+&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;
+    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;
+    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;
+&lt;Work rdf:about=&quot;&quot;&gt;
+   &lt;license rdf:resource=&quot;http://creativecommons.org/licenses/by/2.0/de/&quot; /&gt;
+&lt;/Work&gt;
+&lt;License rdf:about=&quot;http://creativecommons.org/licenses/by/2.0/de/&quot;&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;
+&lt;/License&gt;
+&lt;/rdf:RDF&gt;
+--&gt;</text>
+      <sha1>il9rr74hza7yt13cb474vw5mudmdk9s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by/2.5</title>
+    <ns>10</ns>
+    <id>4277</id>
+    <revision>
+      <id>17589</id>
+      <parentid>17588</parentid>
+      <timestamp>2014-02-08T21:09:18Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2298">&lt;div id=&quot;Vorlage_Bild-CC-by/2.5&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung“''&lt;br /&gt; in Version 2.5 (abgekürzt „CC-by 2.5“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY_icon.svg|100px|link=|CC-by]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;2.5&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by/2.5/legalcode http://creativecommons.org/licenses/by/2.5/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>fdsg7pjwkvv2ynbs2vyxlx7fwaq6kxz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by/3.0</title>
+    <ns>10</ns>
+    <id>4278</id>
+    <revision>
+      <id>17591</id>
+      <parentid>17590</parentid>
+      <timestamp>2014-02-08T21:09:19Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="3034">&lt;div id=&quot;Vorlage_Bild-CC-by/3.0&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung“''&lt;br /&gt; in Version 3.0 (abgekürzt „CC-by 3.0“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY_icon.svg|100px|link=|CC-by]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;3.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by/3.0/legalcode http://creativecommons.org/licenses/by/3.0/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+&lt;!-- Creative Commons License --&gt;
+&lt;!--
+&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;
+    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;
+    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;
+&lt;Work rdf:about=&quot;&quot;&gt;
+   &lt;license rdf:resource=&quot;http://creativecommons.org/licenses/by/3.0/&quot; /&gt;
+&lt;/Work&gt;
+&lt;License rdf:about=&quot;http://creativecommons.org/licenses/by/3.0/&quot;&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;
+&lt;/License&gt;
+&lt;/rdf:RDF&gt;
+--&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>gplgdlog1kx8zy7q3wo07ypdbove4ad</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-CC-by/3.0/de</title>
+    <ns>10</ns>
+    <id>4279</id>
+    <revision>
+      <id>17593</id>
+      <parentid>17592</parentid>
+      <timestamp>2014-02-08T21:09:19Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2375">&lt;div id=&quot;Vorlage_Bild-CC-by/3.0/de&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung Deutschland“''&lt;br /&gt; in Version 3.0 (abgekürzt „CC-by 3.0/de“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY_icon.svg|100px|link=|CC-by]] [[Datei:Flag of Germany.svg|30px|link=|Deutschland]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;3.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by/3.0/de/legalcode http://creativecommons.org/licenses/by/3.0/de/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>8skz5cgpxmr9n3rsen6jydpzvmrmfvt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-GFDL-Neu</title>
+    <ns>10</ns>
+    <id>4280</id>
+    <revision>
+      <id>17595</id>
+      <parentid>17594</parentid>
+      <timestamp>2014-02-08T21:09:21Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="861">&lt;div id=&quot;Vorlage_Bild-GFDL-Neu&quot;&gt;
+{| {{Lizenzdesign1}}
+| [[Datei:Heckert GNU white.svg|alt=|link=|55px]]
+| Diese Datei wurde unter der '''{{wpde|GNU-Lizenz für freie Dokumentation}}''' veröffentlicht.
+
+Es ist erlaubt, die Datei unter den {{wpde|Wikipedia:GNU Free Documentation License|Bedingungen der GNU-Lizenz für freie Dokumentation}}, Version 1.2 oder einer späteren Version, veröffentlicht von der {{wpde|Free Software Foundation}}, zu kopieren, zu verbreiten und/oder zu modifizieren. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.
+|}
+&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:GFDL|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;&lt;noinclude&gt;
+
+== Siehe auch ==
+* [[Vorlage:Bild-GFDL]]
+* [[Vorlage:Bild-GFDL/1.3]]
+
+[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+
+&lt;/noinclude&gt;</text>
+      <sha1>kubo9bdbu80ewb2xe06fauc61y0lav6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-GFDL/1.3</title>
+    <ns>10</ns>
+    <id>4281</id>
+    <revision>
+      <id>17597</id>
+      <parentid>17596</parentid>
+      <timestamp>2014-02-08T21:09:21Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="865">&lt;div id=&quot;Vorlage_Bild-GFDL-1.3&quot;&gt;
+{| {{Lizenzdesign1}}
+| [[Datei:Heckert GNU white.svg|alt=|link=|55px]]
+| Diese Datei wurde unter der '''{{wpde|GNU-Lizenz für freie Dokumentation}}''' veröffentlicht.
+
+Es ist erlaubt, die Datei unter den {{wpde|Wikipedia:GNU_Free_Documentation_License/1.3|Bedingungen der GNU-Lizenz für freie Dokumentation}}, Version 1.3 oder einer späteren Version, veröffentlicht von der {{wpde|Free Software Foundation}}, zu kopieren, zu verbreiten und/oder zu modifizieren. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.
+|}
+&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:GFDL|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;&lt;noinclude&gt;
+
+== Siehe auch ==
+* [[Vorlage:Bild-GFDL]]
+* [[Vorlage:Bild-GFDL-Neu]]
+
+[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+
+&lt;/noinclude&gt;</text>
+      <sha1>68um039jjf4vgnuddv0wwu5yl7amfn2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-LogoSH</title>
+    <ns>10</ns>
+    <id>4282</id>
+    <revision>
+      <id>17599</id>
+      <parentid>17598</parentid>
+      <timestamp>2014-02-08T21:09:23Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="925">&lt;div id=&quot;Vorlage_Bild-LogoSH&quot;&gt;
+{| {{Lizenzdesign5}}
+| [[Datei:Orange trademark.svg|alt=|link=|55px|Markenrecht]]
+| Diese Datei stellt ein {{wpde|Logografie|Logo}} oder ein ähnliches Objekt dar. Da es dem {{wpde|Markenrecht|Marken-}} oder {{wpde|Namensrecht}} unterliegt, müssen bei der Weiterverwendung diese Schutzrechte beachtet werden.
+
+Auch im {{SITENAME}} unterliegt die Verwendung wie in der Wikipedia diesen Einschränkungen. Die Datei darf ausschließlich zu {{wpde|Enzyklopädie|enzyklopädischen Zwecken}} und in mit dem Logo im Zusammenhang stehenden Seiten verwendet werden.
+|}
+&lt;/div&gt;
+{{#ifeq:{{lc:{{{Commons|}}}}}|ja|[[Kategorie:Datei:Commonsfähige Logos]]&lt;span style=&quot;display:none;&quot;&gt;{{PD-textlogo}}{{Trademarked}}&lt;/span&gt;|{{NoCommons}}}}
+{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:LogoSH|{{PAGENAME}}]]}}&lt;noinclude&gt;
+[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+{{Bild-LogoSH/Meta}}
+&lt;/noinclude&gt;</text>
+      <sha1>8ozb2qkmk0uw3uqarz09es9g7u84c5m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-PD-Amtliches Werk</title>
+    <ns>10</ns>
+    <id>4283</id>
+    <revision>
+      <id>17601</id>
+      <parentid>17600</parentid>
+      <timestamp>2014-02-08T21:09:24Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="625">&lt;div id=&quot;Vorlage_Bild-PD-Amtliches_Werk&quot;&gt;
+{| {{Lizenzdesign2}}
+| [[Datei:PD-icon.svg|link=|55px]]
+| Diese Datei stellt ein {{wpd|Amtliches Werk}} dar und ist nach ''[http://bundesrecht.juris.de/urhg/__5.html § 5 UrhG] (DE)'' bzw. ''[http://kb-law.info/kbc/kbc.php?law=1&amp;lang=DE&amp;page=7 § 7 UrhG] (AT)'' und  ''[http://www.admin.ch/ch/d/sr/231_1/a5.html Art. 5 URG] (CH)'' '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.
+|}
+&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:Public Domain (Amtliches Werk)|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>r9blz3i1ufzo2ytx3wkjsebomt5xx5x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

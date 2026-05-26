@@ -1,0 +1,26 @@
+{
+  "pageid": 4347,
+  "ns": 10,
+  "title": "Vorlage:Merke",
+  "revisions": [
+    {
+      "revid": 17729,
+      "parentid": 17728,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:59Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#ffd700}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Nuvola apps kig.png|30px]] &nbsp; Merke\n</div>\n{{{1}}}\n|}<noinclude>\n\n;Das schreibt man: <pre>{{Merke|<Merktext>}}</pre>\n\n;Hinweis:\nDie [[Vorlage:Merke float]] hat keine feste Seitenbreite und erlaubt umfließenden Text.\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Merke]]</noinclude>"
+    },
+    {
+      "revid": 17728,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-07T15:42:44Z",
+      "comment": "Hinweise und Regeln",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#ffd700}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Nuvola apps kig.png|30px]] &nbsp; Merke\n</div>\n{{{1}}}\n|}<noinclude>\n\n;Das schreibt man: <pre>{{Merke|<Merktext>}}</pre>\n\n;Hinweis:\nDie [[Vorlage:Merke float]] hat keine feste Seitenbreite und erlaubt umfließenden Text.\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Merke]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "pageid": 1524,
+  "ns": 0,
+  "title": "Logik 2",
+  "revisions": [
+    {
+      "revid": 3676,
+      "parentid": 3674,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-23T08:38:31Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=550px|height=400px|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!\n\n<br><br><br>\n\n<br>\n\n{{Rücksprung|L}}"
+    },
+    {
+      "revid": 3674,
+      "parentid": 3670,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-23T08:33:06Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=550px|height=400px|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!\n\n<br><br><br>\n\n<br>\n\n{{Rücksprung|Buchstabe-L.gif|L}}"
+    },
+    {
+      "revid": 3670,
+      "parentid": 3638,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-23T08:30:08Z",
+      "comment": "Test für neue Vorlage",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=550px|height=400px|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!\n\n<br><br><br>\nHier geht es zurück zur [[L|Lexikonseite L]]!\n\n<br>\n\n{{Rücksprung|Buchstabe-L.gif|L}}"
+    },
+    {
+      "revid": 3638,
+      "parentid": 3637,
+      "user": "Leupold",
+      "timestamp": "2006-03-21T18:32:11Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=550px|height=400px|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!\n\n<br><br><br>\nHier geht es zurück zur [[L|Lexikonseite L]]!"
+    },
+    {
+      "revid": 3637,
+      "parentid": 3636,
+      "user": "Leupold",
+      "timestamp": "2006-03-21T18:31:48Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=550px|height=400px|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!\n\n\n\nHier geht es zurück zur [[L|Lexikonseite L]]!"
+    },
+    {
+      "revid": 3636,
+      "parentid": 2790,
+      "user": "Leupold",
+      "timestamp": "2006-03-21T18:31:08Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=550px|height=400px|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!"
+    },
+    {
+      "revid": 2790,
+      "parentid": 2787,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-27T07:19:47Z",
+      "comment": "",
+      "wikitext": "Hier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=550px|height=400px|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!"
+    },
+    {
+      "revid": 2787,
+      "parentid": 2786,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-26T16:54:14Z",
+      "comment": "",
+      "wikitext": "Hier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=70%|height=70%|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!"
+    },
+    {
+      "revid": 2786,
+      "parentid": 2783,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-26T16:50:27Z",
+      "comment": "",
+      "wikitext": "Hier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!"
+    },
+    {
+      "revid": 2783,
+      "parentid": 2782,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-26T15:42:27Z",
+      "comment": "Erster Versuch für Flash Implementation",
+      "wikitext": "Hier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=90%|height=440|quality=best</flash>\n<br>\n\n\nNOCH NICHT FERTIG!"
+    },
+    {
+      "revid": 2782,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-26T15:41:36Z",
+      "comment": "",
+      "wikitext": "Hier entsteht gerade ein \"Lernspiel\" für Logik. \n\n<flash>file=Logik.swf|width=90%|height=440|quality=best</flash>\n\nNOCH NICHT FERTIG!"
+    }
+  ],
+  "categories": []
+}

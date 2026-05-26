@@ -1,0 +1,74 @@
+{
+  "pageid": 1592,
+  "ns": 10,
+  "title": "Vorlage:Kastendesign2",
+  "revisions": [
+    {
+      "revid": 18926,
+      "parentid": 18636,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T22:02:53Z",
+      "comment": "aktuelle Version aus dem ZUM-Wiki (ohne feste Schriftgröße)",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100% \n|align=left valign=top width=50%|\n{{{INHALT1}}}\n|align=left valign=top width=50%|\n{{{INHALT2}}}\n|}\n</div>\n|}<noinclude>\n;Parameter (mit Erklärung nach dem Doppelpunkt)\nÜBERSCHRIFT: Überschriftzeile<br>\nBILD: Bildname, das Bild wird auf 48px verkleinert<br>\nINHALT1: Inhalt der 1.Spalte<br>\nINHALT2: Inhalt der 2.Spalte<br>\n'''''optional:'''''<br>\nBREITE: Breite der Vorlage in % oder Pixel<br>\nBORDER: Borderfarbe (Hexadezimal #FFFFFF oder Name<br>\n</noinclude><noinclude>[[Kategorie:Vorlage:Kastendesign-Bausteine]]</noinclude>"
+    },
+    {
+      "revid": 18636,
+      "parentid": 18631,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:14:24Z",
+      "comment": "",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=50%|\n{{{INHALT1}}}\n|align=left valign=top width=50%|\n{{{INHALT2}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18631,
+      "parentid": 18630,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:07:37Z",
+      "comment": "",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=50%|\n{{{INHALT1}}}\n|align=left valign=top width=50%|\n{{{INHALT2}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18630,
+      "parentid": 18629,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:07:01Z",
+      "comment": "",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=50%|\n{{{INHALT1}}}\n|align=left valign=top width=50%|\n{{{INHALT2}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18629,
+      "parentid": 18628,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:06:33Z",
+      "comment": "",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"font-size:19pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=50%|\n{{{INHALT1}}}\n|align=left valign=top width=50%|\n{{{INHALT2}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18628,
+      "parentid": 18627,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:06:18Z",
+      "comment": "Änderungen von [[Special:Contributions/Leupold|Leupold]] ([[User talk:Leupold|Diskussion]]) wurden auf die letzte Version von [[User:A.Burgermeister|A.Burgermeister]] zurückgesetzt",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=50%|\n{{{INHALT1}}}\n|align=left valign=top width=50%|\n{{{INHALT2}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18627,
+      "parentid": 3152,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:04:57Z",
+      "comment": "",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=50%|\n{{{INHALT1}}}\n|align=left valign=top width=50%|\n{{{INHALT2}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3152,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-08T17:49:48Z",
+      "comment": "",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=50%|\n{{{INHALT1}}}\n|align=left valign=top width=50%|\n{{{INHALT2}}}\n|}\n</div>\n|}"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Kastendesign-Bausteine"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pageid": 4295,
+  "ns": 10,
+  "title": "Vorlage:Kennzeichen verfassungswidriger Organisationen",
+  "revisions": [
+    {
+      "revid": 17625,
+      "parentid": 17624,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:39Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Kennzeichen_verfassungswidriger_Organisationen\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen ein Symbol dar, das von einer nach Artikel 21 Absatz 2 GG vom Bundesverfassungsgericht für verfassungswidrig erklärten Organisation verwendet wurde oder das nach seinem Inhalt dazu bestimmt ist, Bestrebungen einer ehemaligen nationalsozialistischen Organisation fortzusetzen, oder ähnelt einem solchen. \n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div>\n<noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]{{Commons|Template:Nazi symbol}}</noinclude>"
+    },
+    {
+      "revid": 17624,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-08T18:47:21Z",
+      "comment": "aktuelle Version aus der deutschen Wikipedia; angepasst an das ZUM-Wiki",
+      "wikitext": "<div id=\"Vorlage_Kennzeichen_verfassungswidriger_Organisationen\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen ein Symbol dar, das von einer nach Artikel 21 Absatz 2 GG vom Bundesverfassungsgericht für verfassungswidrig erklärten Organisation verwendet wurde oder das nach seinem Inhalt dazu bestimmt ist, Bestrebungen einer ehemaligen nationalsozialistischen Organisation fortzusetzen, oder ähnelt einem solchen. \n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div>\n<noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]{{Commons|Template:Nazi symbol}}</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Hinweis für Bilder"
+  ]
+}

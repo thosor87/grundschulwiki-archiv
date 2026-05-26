@@ -1,0 +1,1383 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>ZUM-Grundschul-Wiki:Lizenzbestimmungen</title>
+    <ns>4</ns>
+    <id>1322</id>
+    <revision>
+      <id>19452</id>
+      <parentid>19451</parentid>
+      <timestamp>2015-11-30T20:09:32Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- Doppelung</comment>
+      <text xml:space="preserve" bytes="2234">{{Achtung|Die [[/alte Lizenzierung|ursprüngliche Lizenzierung im Grundschulwiki]] (CC BY-NC-SA 2.0 DE) ist im Prinzip seit Langem durch die in der ZUM-Wiki-Family allgemein geltende gemeinsame Lizenzierung (CC BY-SA 3.0 DE) aufgehoben. ZUM 1. Januar 2016 wird nur noch die gemeinsame Lizenzierung Gültigkeit behalten.
+
+Sollte es bei eigenen Beiträgen Widerspruch gegen die ab dem 1. Januar 2016 geltende Lizenzierung geben, bitten wir um eine Benachrichtigung per Mail an [[Spezial:E-Mail_senden/Karl_Kirst|Karl Kirst]].}}
+
+&lt;div style=&quot;border: 2px solid #dfdfdf; background-color:papayawhip;;padding:7px;&quot;&gt;
+[[Bild:CC-BY-SA icon.svg|right]] 
+Die Beiträge im ZUM-Grundschul-Wiki sind grundsätzlich lizensiert unter der folgenden '''Creative-Commons'''-Lizenz: &lt;br&gt;
+&lt;div align=&quot;center&quot;&gt;&quot;'''[http://creativecommons.org/licenses/by-sa/3.0/de/ Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)]'''&quot;&lt;/div&gt; 
+Die Bedingungen für die Nutzung von Inhalten aus ZUM-Grundschulwiki sind also: 
+# &quot;'''[http://creativecommons.org/licenses/by-sa/3.0/de/ Namensnennung]'''&quot;
+# &quot;'''[http://creativecommons.org/licenses/by-sa/3.0/de/ Weitergabe unter gleichen Bedingungen]'''&quot;
+Ausnahmen bilden Inhalte, die aus anderen Quellen unter einem anderen Lizenzmodell übernommen worden sind.
+&lt;/div&gt;
+
+So gilt für Texte und Dateien, die unter der GNU-Lizenz für freie Dokumentation z.B. aus der Wikipedia übernommen wurden, die ursprüngliche Lizenz auch weiterhin. Um Probleme mit unterschiedlichen Lizenzen zu vermeiden, sollten in der Regel keine vollständigen Artikel aus anderen Quellen übernommen, sondern auf diese Texte verwiesen werden.
+
+Die Dateien, die ins ZUM-Grundschulwiki hochgeladen werden, stehen unter unterschiedlichen Lizenzen. Welche jeweils gültig ist, steht auf der Seite der jeweiligen Datei.
+
+Der jeweilige Benutzer, der einen Text oder eine Datei aus einer anderen Quelle übernimmt, ist verpflichtet, sich über die jeweiligen Lizenzbestimmungen zu informieren, sie zu beachten und - wenn unter den angegebenen Lizenzbestimmungen eine Übernahme ins ZUM-Grundschulwiki möglich ist -, diese dann auch im ZUM-Grundschulwiki auf der Textseite bzw. auf der Seite der Datei zu dokumentieren.</text>
+      <sha1>5z3fe0a82gwphod4q2cm3kbqvvj0t4p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>ZUM-Grundschul-Wiki:Lizenzbestimmungen/alte Lizenzierung</title>
+    <ns>4</ns>
+    <id>4734</id>
+    <revision>
+      <id>19450</id>
+      <timestamp>2015-11-30T20:02:52Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>alte Lizenzierung</comment>
+      <text xml:space="preserve" bytes="2473">{{Achtung|Die folgenden Lizenzbestimmungen, die ursprünglich im Grundschulwiki gewählt worden sind, stehen seit 2008 im Konflikt mit der auch hier geltenden Lizenzierung der Wikis der Wiki-Family auf ZUM.de und werden zum 1. Januar 2016 zugunsten der [[../|einheitlichen Lizenzierung in der ZUM-Wiki-Family]] aufgehoben.}}
+
+&lt;!-- This work is licensed under a [http://creativecommons.org/licenses/by-nc-sa/2.0/de/ Creative Commons Attribution-NonCommercial-ShareAlike 2.0 Germany] License. --&gt;
+&lt;div style=&quot;border: 2px solid #dfdfdf; background-color:papayawhip;;padding:7px;&quot;&gt;
+[[Bild:Somerights20.gif|right]] 
+Die Beiträge im ZUM-Grundschul-Wiki sind grundsätzlich lizensiert unter der folgenden '''Creative-Commons'''-Lizenz: &lt;br&gt;
+&lt;div align=&quot;center&quot;&gt;&quot;'''[http://creativecommons.org/licenses/by-nc-sa/2.0/de/ Namensnennung-NichtKommerziell-Weitergabe unter gleichen Bedingungen 2.0 Deutschland]'''&quot;&lt;/div&gt; 
+Die Bedingungen für die Nutzung von Inhalten aus ZUM-Grundschulwiki sind also: 
+# &quot;'''[http://creativecommons.org/licenses/by-nc-sa/2.0/de/ Namensnennung]'''&quot;&lt;br&gt;
+# &quot;'''[http://creativecommons.org/licenses/by-nc-sa/2.0/de/ NichtKommerziell]'''&quot;&lt;br&gt;
+# &quot;'''[http://creativecommons.org/licenses/by-nc-sa/2.0/de/ Weitergabe unter gleichen Bedingungen]'''&quot;
+Ausnahmen bilden Inhalte, die aus anderen Quellen unter einem anderen Lizenzmodell übernommen worden sind.
+&lt;/div&gt;
+
+So gilt für Texte und Dateien, die unter der GNU-Lizenz für freie Dokumentation z.B. aus der Wikipedia übernommen wurden, die ursprüngliche Lizenz auch weiterhin. Um Probleme mit unterschiedlichen Lizenzen zu vermeiden, sollten in der Regel keine vollständigen Artikel aus anderen Quellen übernommen, sondern auf diese Texte verwiesen werden.
+
+Die Dateien, die ins ZUM-Grundschulwiki hochgeladen werden, stehen unter unterschiedlichen Lizenzen. Welche jeweils gültig ist, steht auf der Seite der jeweiligen Datei.
+
+Der jeweilige Benutzer, der einen Text oder eine Datei aus einer anderen Quelle übernimmt, ist verpflichtet, sich über die jeweiligen Lizenzbestimmungen zu informieren, sie zu beachten und - wenn unter den angegebenen Lizenzbestimmungen eine Übernahme ins ZUM-Grundschulwiki möglich ist -, diese dann auch im ZUM-Grundschulwiki auf der Textseite bzw. auf der Seite der Datei zu dokumentieren.
+
+----
+
+Bei der Übernahme von Inhalten, die unter die GNU-Lizenz für freie Dokumentation fallen, gilt diese Lizenz auch für die ins ZUM-Grundschulwiki übernommenen Inhalte.</text>
+      <sha1>ocriecnwzqxw1hjxrbz1fy2i290vrmx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>ZUM-Grundschul-Wiki:Suche</title>
+    <ns>4</ns>
+    <id>2138</id>
+    <revision>
+      <id>5421</id>
+      <timestamp>2007-03-09T12:56:27Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="131">Bei [http://www.blinde-kuh.de Blinde-Kuh] kannst du den Suchbegriff eingeben und entsprechende weitere Artikel zu dem Thema finden.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>ZUM-Grundschul-Wiki:Technik</title>
+    <ns>4</ns>
+    <id>1607</id>
+    <revision>
+      <id>18956</id>
+      <parentid>10076</parentid>
+      <timestamp>2015-05-05T23:24:09Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>Karl Kirst verschob Seite [[Technik]] nach [[ZUM-Grundschul-Wiki:Technik]]: Projektseite</comment>
+      <text xml:space="preserve" bytes="884">== GraphViz==
+Gestaltung von Diagrammen ''(installiert am 13.10.06)'':
+
+&lt;graphviz&gt;
+digraph G {
+
+Hallo -&gt; Welt;
+Hallo -&gt; Benutzer;
+Hallo -&gt; Grundschulwiki;
+}
+&lt;/graphviz&gt;
+&lt;graphviz&gt;
+digraph G {
+node [shape=circle style=filled, color=blue, fontcolor=white];
+bgcolor=&quot;transparent&quot;;
+rankdir=&quot;LR&quot;;
+1 -&gt; 2;
+2 -&gt; 3;
+3 -&gt; 4;
+}
+&lt;/graphviz&gt;
+
+&lt;graphviz&gt;
+digraph G {
+node [shape=circle style=filled, color=blue, fontcolor=white];
+bgcolor=&quot;transparent&quot;;
+rankdir=&quot;LR&quot;;
+Ä -&gt; Ö;
+Ö -&gt; Ü;
+Ü -&gt; ß;
+}
+&lt;/graphviz&gt;
+Beschreibung folgt.
+
+== Version von Mediawiki==
+Version 1.6.8 am 20.7.06 Bu
+
+== Icons ==
+Hinweis: [[Nuvola-Icons]]
+
+== Bildergalerien ==
+
+Frei verwendbare Bilder findet man unter: [http://www.Pixelquelle.de www.Pixelquelle.de]
+
+== Ogg-Dateien==
+Ogg-Dateien (Audio Dateien= hörbare) sind komprimierte Dateien. Um ogg-Dateien abzuspielen, muss Java installiert sein. (installiert Dez.08)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>ZUM-Grundschul-Wiki:Todo</title>
+    <ns>4</ns>
+    <id>1296</id>
+    <revision>
+      <id>18983</id>
+      <parentid>18950</parentid>
+      <timestamp>2015-05-08T19:40:17Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>löschen</comment>
+      <text xml:space="preserve" bytes="457">Diese Seite kann gelöscht werden. --[[Benutzer:Karl Kirst|Karl Kirst]] ([[Benutzer Diskussion:Karl Kirst|Diskussion]]) 21:40, 8. Mai 2015 (CEST)
+
+==Aufgaben==
+
+===Umformen für Grundschule===
+* Texte für Urheberrecht (Bu) und Lizenzbestimmungen?
+* Allgemeine Texte (MA)
+* Tipps und Hinweise für Layout-Gestaltung (BU)
+
+===Technik===
+* Softwareeinspielung (Bu)
+
+===Kontakt zu Partnern===
+
+* Blinde Kuh (MA und BU)
+
+
+
+Stand: 13.3.06
+
+[[Kategorie:Löschen]]</text>
+      <sha1>lwydsqhwgmxbq5stjs48ugq4z1c2voq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>ZUM-Grundschul-Wiki:Urheberrechte beachten</title>
+    <ns>4</ns>
+    <id>1403</id>
+    <revision>
+      <id>1962</id>
+      <timestamp>2006-01-03T10:48:00Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="135">==Urheberrechte beim ZUM - Grundschul-Wiki==
+
+Weitere Hinweise unter
+
+[[Hilfe für Kinder]]
+
+[[Hilfe für Eltern, Erzieher und Lehrer]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>ZUM-Grundschul-Wiki:Willkommen</title>
+    <ns>4</ns>
+    <id>1396</id>
+    <revision>
+      <id>2612</id>
+      <parentid>2424</parentid>
+      <timestamp>2006-01-19T14:22:32Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1429">==Herzlich Willkommen im ZUM - Grundschul-Wiki==
+
+In diesem Wiki hast Du die Möglichkeit an interessanten Themen zu schreiben. Wenn Du schon über etwas sehr viel weißt, warum willst Du es nicht allen anderen erzählen? Hier hast Du die Möglichkeit dazu! Die anderen können von Dir lernen!
+
+Diese Internetseite wird durch die ZUM, die Zentrale für Unterrichtsmedien im Internet e.V. [http://www.zum.de (www.zum.de)] bereitgestellt. Alle interessierten Grundschüler können mitarbeiten. Aber auch Kinder der angrenzenden Altersgruppen sind herzlich eingeladen, sich hier gemeinsam mit anderen mit interessanten Themen zu beschäftigen. 
+
+Wenn Du mitmachen möchtest, musst Du allerdings angemeldet werden. Dafür musst Du einfach einen Erwachsenen fragen. Er wird Dir weiterhelfen.
+
+Wenn Du noch mehr wissen möchtest, wie man hier mitarbeiten kann, dann klicke [[Hilfe für Kinder|hier]].
+
+
+===Lehrer, Erzieher und Eltern===
+
+Lehrer, Erzieher und Eltern sind hier ebenfalls willkommen. Mit ihrer Hilfe und Unterstützung kann die Arbeit an dem Wiki fruchtbar werden.
+
+Sie wollen mit Ihrer Klasse, ihren eigenen Kindern oder ihrer Kindergruppe an dem Wiki mitarbeiten? Sie haben Interesse daran, die Qualität des Wikis für Ihre Kinder zu verbessern?
+
+Wir würden uns freuen, wenn Sie mithelfen würden, dass dieses Projekt wächst!
+
+Auf der Seite &quot;[[Hilfe für Eltern, Erzieher und Lehrer]]&quot; finden Sie mehr Informationen!</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>ZUM-Grundschul-Wiki:Über ZUM-Grundschul-Wiki</title>
+    <ns>4</ns>
+    <id>1502</id>
+    <revision>
+      <id>25611</id>
+      <parentid>18898</parentid>
+      <timestamp>2024-05-27T18:35:01Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>aktualisierung des impressums der zum</comment>
+      <text xml:space="preserve" bytes="847">{{Kastendesign|
+   BORDER = #97BF87|
+   BACKGROUND = #AADDAA|
+   BREITE =100%|
+   INHALT=Das '''[[Hauptseite|ZUM-Grundschulwiki]]''' ist ein Projekt der '''Zentrale für Unterrichtsmedien im Internet e. V.''' auf dem [http://www.zum.de ZUM.de]-Server.
+
+'''Haftungshinweis''': Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
+
+Für das ZUM-Grundschulwiki gilt das '''[https://www.zum.de/portal/impressum/ Impressum von ZUM.de]'''.
+
+siehe auch [[Hilfe_f%C3%BCr_Eltern%2C_Erzieher_und_Lehrer|Hilfe für Eltern, Erzieher und Lehrer]]
+
+Bei Fragen, Wünschen und Anregungen senden Sie uns gerne auch eine [mailto:email@grundschulwiki.de E-Mail]!|
+   BILD=Important.png|48px|
+   ÜBERSCHRIFT=Impressum|
+ }}</text>
+      <sha1>mt5lvpc4e6dv9wwqoue2rqejv8z2m8u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>ZUM-Grundschul-Wiki:Über ZUM-Schüler</title>
+    <ns>4</ns>
+    <id>1320</id>
+    <revision>
+      <id>2396</id>
+      <parentid>2394</parentid>
+      <timestamp>2006-01-05T11:06:28Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="556">Dieses WIKI wird von der ZUM, der Zentrale für Unterrichtsmedien im Internet e.V. [http://www.zum.de (www.zum.de)], betrieben. Ziel ist es, Schülern Möglichkeiten zu geben, ihre Medienkompetenz zu erweitern und sinnvoll anzuwenden.
+
+Für weitere Fragen schauen sie bitte auf den folgenden Seiten nach:
+
+*[[Hilfe für Kinder]]
+
+*[[Hilfe für Eltern, Erzieher und Lehrer]]
+
+Oder schreiben Sie uns eine [mailto:email@grundschulwiki.de E-Mail].
+
+
+Viel Spaß bei der Nutzung vom Grundschul-WIKI der ZUM wünschen Ihnen
+
+Achim Burgermeister und MArtin Leupold</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:-Sumatra Tiger .jpg</title>
+    <ns>6</ns>
+    <id>4902</id>
+    <revision>
+      <id>20061</id>
+      <timestamp>2016-07-07T06:15:54Z</timestamp>
+      <contributor>
+        <username>Wgsa11</username>
+        <id>10146</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:060toffen.png</title>
+    <ns>6</ns>
+    <id>3608</id>
+    <revision>
+      <id>14064</id>
+      <parentid>14063</parentid>
+      <timestamp>2010-11-11T19:25:03Z</timestamp>
+      <contributor>
+        <username>MALukas</username>
+        <id>837</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:060toffen.png]]“ hochgeladen: Von MALukas Erstellt</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:066Spielplatz-toffen.JPG</title>
+    <ns>6</ns>
+    <id>3609</id>
+    <revision>
+      <id>14065</id>
+      <timestamp>2010-11-11T19:28:28Z</timestamp>
+      <contributor>
+        <username>MALukas</username>
+        <id>837</id>
+      </contributor>
+      <comment>Der Spielplatz Toffen im Niesenweg '''von MALukas Erstellt'''</comment>
+      <text xml:space="preserve" bytes="61">Der Spielplatz Toffen im Niesenweg '''von MALukas Erstellt'''</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:067toffenTor.JPG</title>
+    <ns>6</ns>
+    <id>3610</id>
+    <revision>
+      <id>14066</id>
+      <timestamp>2010-11-11T20:14:49Z</timestamp>
+      <contributor>
+        <username>MALukas</username>
+        <id>837</id>
+      </contributor>
+      <comment>Toffen und ein Supertor</comment>
+      <text xml:space="preserve" bytes="23">Toffen und ein Supertor</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:068ToffenTorschusschance.JPG</title>
+    <ns>6</ns>
+    <id>3611</id>
+    <revision>
+      <id>14067</id>
+      <timestamp>2010-11-11T20:16:20Z</timestamp>
+      <contributor>
+        <username>MALukas</username>
+        <id>837</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:0762 grossbritannien.jpg</title>
+    <ns>6</ns>
+    <id>5357</id>
+    <revision>
+      <id>22285</id>
+      <parentid>22284</parentid>
+      <timestamp>2018-05-13T08:51:37Z</timestamp>
+      <contributor>
+        <username>Wgsad71</username>
+        <id>10340</id>
+      </contributor>
+      <comment>Wgsad71 lud eine neue Version von „[[Datei:0762 grossbritannien.jpg]]“ hoch: Zurückgesetzt auf die Version vom 13. Mai 2018, 08:45 Uhr</comment>
+      <text xml:space="preserve" bytes="189">{{Information ohne UploadWizard
+|Beschreibung = Flagge von Großbritannien
+|Quelle = Internet 
+|Urheber = Michael Pfluegler
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>kagigbhcwbjp7edcxvsxrlxs58ee97t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:1000000.jpg</title>
+    <ns>6</ns>
+    <id>4179</id>
+    <revision>
+      <id>17273</id>
+      <timestamp>2013-07-02T13:20:01Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:100 1722.JPG</title>
+    <ns>6</ns>
+    <id>3486</id>
+    <revision>
+      <id>13500</id>
+      <timestamp>2010-05-17T10:31:14Z</timestamp>
+      <contributor>
+        <username>Schülerteam3</username>
+        <id>748</id>
+      </contributor>
+      <comment>Grundschule Sümmern</comment>
+      <text xml:space="preserve" bytes="20">Grundschule Sümmern</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:100 1729.JPG</title>
+    <ns>6</ns>
+    <id>3489</id>
+    <revision>
+      <id>13507</id>
+      <timestamp>2010-05-17T11:19:17Z</timestamp>
+      <contributor>
+        <username>Schülerteam3</username>
+        <id>748</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:1024px-Kragenbaer anholter schweitz.jpg</title>
+    <ns>6</ns>
+    <id>4930</id>
+    <revision>
+      <id>20295</id>
+      <parentid>20176</parentid>
+      <timestamp>2016-07-11T05:54:23Z</timestamp>
+      <contributor>
+        <username>Wgsa04</username>
+        <id>10211</id>
+      </contributor>
+      <comment>Wgsa04 lud eine neue Version von „[[Datei:1024px-Kragenbaer anholter schweitz.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="211">{{Information ohne UploadWizard
+|Beschreibung = Kragenbär am Waldrand
+|Quelle = Wikimedia
+|Urheber =  10 1024px-Kragenbaer_anholter_schweitz.jpg
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>6a1pwkp72ghjhhwb11menyyqb0284e7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:123.jpg</title>
+    <ns>6</ns>
+    <id>5325</id>
+    <revision>
+      <id>22084</id>
+      <parentid>22070</parentid>
+      <timestamp>2018-05-09T06:52:56Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <text xml:space="preserve" bytes="169">{{Information ohne UploadWizard
+|Beschreibung = Welle
+|Quelle = www.pixabay.de
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>gsoy8nhshvbpgsxx93x8wsfegms13v1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:1280px-Europabruecke Brenner 6233.jpg</title>
+    <ns>6</ns>
+    <id>5149</id>
+    <revision>
+      <id>21575</id>
+      <parentid>21570</parentid>
+      <timestamp>2017-07-10T06:27:07Z</timestamp>
+      <contributor>
+        <username>Wgsa32</username>
+        <id>10167</id>
+      </contributor>
+      <text xml:space="preserve" bytes="176">{{Information ohne UploadWizard
+|Beschreibung =  Europabrücke
+|Quelle = www.commons.wikimedia.org
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ibufrt2ib1ec7r0oz4zt2ilt3tsv3cz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:139146-claas.jpg</title>
+    <ns>6</ns>
+    <id>5014</id>
+    <revision>
+      <id>21040</id>
+      <parentid>21010</parentid>
+      <timestamp>2017-02-06T14:01:46Z</timestamp>
+      <contributor>
+        <username>MAPeters2</username>
+        <id>10224</id>
+      </contributor>
+      <text xml:space="preserve" bytes="219">{{Information ohne UploadWizard
+|Beschreibung = Claas 950
+|Quelle = http://www.claas.de/produkte/traktoren/axion950-920
+|Urheber = www.claas.de
+|Datum = 23.01.2017
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>72viem2l6kuuce1nwz4t2sq80l4zpzm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:16-koehlbrandbruecke-beim-blue-port.large.jpg</title>
+    <ns>6</ns>
+    <id>5155</id>
+    <revision>
+      <id>21606</id>
+      <parentid>21587</parentid>
+      <timestamp>2017-07-10T07:19:21Z</timestamp>
+      <contributor>
+        <username>Wgsa20</username>
+        <id>10155</id>
+      </contributor>
+      <text xml:space="preserve" bytes="207">{{Information ohne UploadWizard
+|Beschreibung = Köhlbrandbrücke leuchtet gelb, rosa und blau
+|Quelle = Secret Hamburg 
+|Urheber = Jan Hapke
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>98gehzx47vg75l2refbnmduek5wg45e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:18061C39-CCFF-42CB-BA92-F75BD1A3214D.jpeg</title>
+    <ns>6</ns>
+    <id>5820</id>
+    <revision>
+      <id>24698</id>
+      <timestamp>2020-06-22T09:33:42Z</timestamp>
+      <contributor>
+        <username>OESLaureen-Amelie</username>
+        <id>10420</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle =  pixabay.com
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="149">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle =  pixabay.com
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>gtjbzcsmucahtxybktwatiwwvwd1im9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:2,jpg,171,.jpg</title>
+    <ns>6</ns>
+    <id>2177</id>
+    <revision>
+      <id>5612</id>
+      <timestamp>2007-03-21T15:04:39Z</timestamp>
+      <contributor>
+        <username>LASchöbel</username>
+        <id>263</id>
+      </contributor>
+      <comment>Bild von:http://www.wfv.de/, Download vom 21.03.2007</comment>
+      <text xml:space="preserve" bytes="52">Bild von:http://www.wfv.de/, Download vom 21.03.2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:20090318LZArtikel.jpg</title>
+    <ns>6</ns>
+    <id>3158</id>
+    <revision>
+      <id>11238</id>
+      <timestamp>2009-03-21T15:34:32Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Artikel aus der Landeszeitung Lüneburg vom 18.03.2009</comment>
+      <text xml:space="preserve" bytes="54">Artikel aus der Landeszeitung Lüneburg vom 18.03.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:200px-SK Sturm Graz Logo svg.png</title>
+    <ns>6</ns>
+    <id>3790</id>
+    <revision>
+      <id>15064</id>
+      <timestamp>2011-12-09T18:43:21Z</timestamp>
+      <contributor>
+        <username>MAMatthias</username>
+        <id>839</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:20160721 121916.jpg</title>
+    <ns>6</ns>
+    <id>4985</id>
+    <revision>
+      <id>20871</id>
+      <timestamp>2016-07-26T13:14:14Z</timestamp>
+      <contributor>
+        <username>Wgse04</username>
+        <id>10179</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Grundschule Emersacker
+|Quelle = Eigenes Bild
+|Urheber = Eigenes Bild 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="184">{{Information ohne UploadWizard
+|Beschreibung = Grundschule Emersacker
+|Quelle = Eigenes Bild
+|Urheber = Eigenes Bild 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>nzyknr4g5eeb8c2o5b0cn7cnucoy6rx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:2016206212742 2016-07-24 SWR4 Schlagernacht - Sven - 1D X II - 0745 - AK8I9164 mod.jpg</title>
+    <ns>6</ns>
+    <id>5459</id>
+    <revision>
+      <id>23031</id>
+      <timestamp>2018-06-22T10:28:56Z</timestamp>
+      <contributor>
+        <username>Wgsa31</username>
+        <id>10166</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Beatrice Egli
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="154">{{Information ohne UploadWizard
+|Beschreibung = Beatrice Egli
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ax8o0wryuh54xp1x9dnyzayhk33m8gj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:20170706 135954.jpg</title>
+    <ns>6</ns>
+    <id>5160</id>
+    <revision>
+      <id>21604</id>
+      <parentid>21593</parentid>
+      <timestamp>2017-07-10T07:17:04Z</timestamp>
+      <contributor>
+        <username>Wgsa15</username>
+        <id>10150</id>
+      </contributor>
+      <text xml:space="preserve" bytes="182">{{Information ohne UploadWizard
+|Beschreibung = Aufteilung Querflöte
+|Quelle = Eigenes Bild
+|Urheber = Eigenes Bild
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>qiusr4k66hmuvv5pkgt3qu3657ts4ma</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:20181126 172007.jpg</title>
+    <ns>6</ns>
+    <id>5564</id>
+    <revision>
+      <id>23532</id>
+      <timestamp>2018-11-27T20:48:14Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Farbmaus
+|Quelle = Jana
+|Urheber = Jana
+|Datum = 27.11.2018
+|Genehmigung = ja 
+|Andere Versionen = nein
+|Anmerkungen = nein
+}}</comment>
+      <text xml:space="preserve" bytes="174">{{Information ohne UploadWizard
+|Beschreibung = Farbmaus
+|Quelle = Jana
+|Urheber = Jana
+|Datum = 27.11.2018
+|Genehmigung = ja 
+|Andere Versionen = nein
+|Anmerkungen = nein
+}}</text>
+      <sha1>enoesd2aal7fyn1nes2jw8gp7koubxs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:20181126 172313.jpg</title>
+    <ns>6</ns>
+    <id>5563</id>
+    <revision>
+      <id>23535</id>
+      <parentid>23531</parentid>
+      <timestamp>2018-11-27T21:04:39Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <comment>MASchmitz2 lud eine neue Version von „[[Datei:20181126 172313.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Farbmaus 
+|Quelle = JAD
+|Urheber = JAD
+|Datum = 26.11.2018
+|Genehmigung = ja
+|Andere Versionen = nein
+|Anmerkungen = keine
+}}</comment>
+      <text xml:space="preserve" bytes="213">{{Information ohne UploadWizard
+|Beschreibung = Das ist eine neugierige Farbmaus
+|Quelle = selbst fotografiert von Jana
+|Urheber = Jana
+|Datum = 27.11.2018
+|Genehmigung = ja
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>6ahll007atclowogyuy5brvns3logdb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:20181126 173059.jpg</title>
+    <ns>6</ns>
+    <id>5562</id>
+    <revision>
+      <id>23542</id>
+      <parentid>23541</parentid>
+      <timestamp>2018-11-27T21:22:31Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <comment>MASchmitz2 lud eine neue Version von „[[Datei:20181126 173059.jpg]]“ hoch: Zurückgesetzt auf die Version vom 27. November 2018, 20:44 Uhr</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:20181126 173440.jpg</title>
+    <ns>6</ns>
+    <id>5561</id>
+    <revision>
+      <id>23546</id>
+      <parentid>23545</parentid>
+      <timestamp>2018-11-27T21:35:42Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <comment>MASchmitz2 lud eine neue Version von „[[Datei:20181126 173440.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="169">{{Information ohne UploadWizard
+|Beschreibung = Farbmaus
+|Quelle = JA
+|Urheber = JA
+|Datum = 26.11.2018
+|Genehmigung = ja
+|Andere Versionen = nein
+|Anmerkungen = nein
+}}</text>
+      <sha1>otzt8m1b5mhcxi44d5bjlgiyg51680g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:240 F 143307560 G5wEuvZDPeNBenj8dpibIm40OXFX6YeD.jpg</title>
+    <ns>6</ns>
+    <id>6170</id>
+    <revision>
+      <id>25462</id>
+      <parentid>25457</parentid>
+      <timestamp>2023-02-06T03:07:54Z</timestamp>
+      <contributor>
+        <username>FZRui51</username>
+        <id>10532</id>
+      </contributor>
+      <comment>FZRui51 lud eine neue Version von „[[Datei:240 F 143307560 G5wEuvZDPeNBenj8dpibIm40OXFX6YeD.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Chamäleon
+|Quelle = https://stock.adobe.com/de/category/chamaleon/73?asset_id=143307560
+|Urheber </comment>
+      <text xml:space="preserve" bytes="223">{{Information ohne UploadWizard
+|Beschreibung = Chamäleon
+|Quelle = https://stock.adobe.com/de/category/chamaleon/73?asset_id=143307560
+|Urheber = 
+|Datum = 6.2.2023 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>f5rsjk1c35zc4x2b59gmm3ea114uehx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:247414CD-3988-4AA5-A119-200ED64B758E.jpeg</title>
+    <ns>6</ns>
+    <id>5972</id>
+    <revision>
+      <id>25109</id>
+      <timestamp>2022-05-06T07:35:35Z</timestamp>
+      <contributor>
+        <username>KOIGSRO42</username>
+        <id>10495</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Selbstgemalt
+|Urheber = Aniko
+|Datum = 06.05.2022
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="164">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Selbstgemalt
+|Urheber = Aniko
+|Datum = 06.05.2022
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>03girvsu2dw4lgjwtww1e6sw916mh74</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:280px-Hippopotamus.jpg</title>
+    <ns>6</ns>
+    <id>1308</id>
+    <revision>
+      <id>1434</id>
+      <timestamp>2005-12-28T00:32:50Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Flusspferd Bild aus der englischen Wikipedia
+
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. 
+Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokum</comment>
+      <text xml:space="preserve" bytes="463">Flusspferd Bild aus der englischen Wikipedia
+
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. 
+Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:300px-Brooklyn Bridge NY.jpg</title>
+    <ns>6</ns>
+    <id>5154</id>
+    <revision>
+      <id>21601</id>
+      <parentid>21586</parentid>
+      <timestamp>2017-07-10T07:16:39Z</timestamp>
+      <contributor>
+        <username>Wgsa18</username>
+        <id>10153</id>
+      </contributor>
+      <text xml:space="preserve" bytes="171">{{Information ohne UploadWizard
+|Beschreibung =Brooklyn Bridge 
+|Quelle =Wikipedia  
+|Urheber =Wikipedia 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>6oozrfmnyu592amke1x0yl6tod66agf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:3571r.jpg</title>
+    <ns>6</ns>
+    <id>5512</id>
+    <revision>
+      <id>23395</id>
+      <parentid>23394</parentid>
+      <timestamp>2018-07-12T14:49:58Z</timestamp>
+      <contributor>
+        <username>Wgsad67</username>
+        <id>10336</id>
+      </contributor>
+      <text xml:space="preserve" bytes="207">{{Information ohne UploadWizard
+|Beschreibung =Flagge Rheinlandfalz 
+|Quelle = google
+|Urheber =unbekannt &lt;br /&gt;
+[[Datei:3571r.jpg|miniatur]]
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>6g88j6o05c6lu4iqh8hc8makf8zik43</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:38B6501E-ABEB-47E3-9229-1554C64546F8.jpeg</title>
+    <ns>6</ns>
+    <id>5959</id>
+    <revision>
+      <id>25087</id>
+      <parentid>25081</parentid>
+      <timestamp>2022-04-29T07:45:39Z</timestamp>
+      <contributor>
+        <username>KOIGSRO42</username>
+        <id>10495</id>
+      </contributor>
+      <text xml:space="preserve" bytes="197">{{Information ohne UploadWizard
+|Beschreibung = Trinken Fohlen 
+|Quelle = pixabay 
+|Urheber =  RebeccasPictures
+|Datum = 10.Juni 2018
+|Genehmigung = CC BY SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>nvnvx58vt4wtht98ql7oq3mhvbg9jtx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:450px-Stegosaurus.jpg</title>
+    <ns>6</ns>
+    <id>1487</id>
+    <revision>
+      <id>2569</id>
+      <timestamp>2006-01-10T17:16:11Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Fossil stegosaurus skeleton at the National Museum of Natural History, Washington, DC; digital photograph by User:Postdlf, 2/20/05
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröff</comment>
+      <text xml:space="preserve" bytes="638">Fossil stegosaurus skeleton at the National Museum of Natural History, Washington, DC; digital photograph by User:Postdlf, 2/20/05
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:48px-Exquisite-khelpcenter.png</title>
+    <ns>6</ns>
+    <id>1597</id>
+    <revision>
+      <id>3157</id>
+      <timestamp>2006-03-08T17:55:37Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:48px-News.png</title>
+    <ns>6</ns>
+    <id>1599</id>
+    <revision>
+      <id>3159</id>
+      <timestamp>2006-03-08T17:56:36Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:48px-Organizer.png</title>
+    <ns>6</ns>
+    <id>1601</id>
+    <revision>
+      <id>3161</id>
+      <timestamp>2006-03-08T17:57:26Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:48px-Tip.png</title>
+    <ns>6</ns>
+    <id>1602</id>
+    <revision>
+      <id>3162</id>
+      <timestamp>2006-03-08T17:57:45Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:512px-American Beaver.jpg</title>
+    <ns>6</ns>
+    <id>4705</id>
+    <revision>
+      <id>19289</id>
+      <parentid>19285</parentid>
+      <timestamp>2015-07-14T07:37:15Z</timestamp>
+      <contributor>
+        <username>GSATimoB</username>
+        <id>10078</id>
+      </contributor>
+      <text xml:space="preserve" bytes="189">{{Information ohne UploadWizard
+|Beschreibung = Biber
+|Quelle = American Beaver
+|Urheber = by Steve from Washington de. usa
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>kbwev8f6ktyga6z1i9k5z8p1qmzjgx7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:512px-Göltzschtalbrücke Germany.JPG</title>
+    <ns>6</ns>
+    <id>5156</id>
+    <revision>
+      <id>21607</id>
+      <parentid>21588</parentid>
+      <timestamp>2017-07-10T07:19:24Z</timestamp>
+      <contributor>
+        <username>Wgsa21</username>
+        <id>10156</id>
+      </contributor>
+      <text xml:space="preserve" bytes="182">{{Information ohne UploadWizard
+|Beschreibung =  Orange Brücke mit Büschen
+|Quelle = Wikimedia 
+|Urheber = Buhungi
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>f7bg98rjqd7grofchyi9nogvqtqyrlf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:65px-Heckert GNU white.png</title>
+    <ns>6</ns>
+    <id>1439</id>
+    <revision>
+      <id>2410</id>
+      <timestamp>2006-01-05T18:13:07Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>GNU Symbol</comment>
+      <text xml:space="preserve" bytes="10">GNU Symbol</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:6x6-Sudoku.jpg</title>
+    <ns>6</ns>
+    <id>1474</id>
+    <revision>
+      <id>2518</id>
+      <timestamp>2006-01-07T19:10:11Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Beschreibung 6x6 Sudoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingung</comment>
+      <text xml:space="preserve" bytes="498">Beschreibung 6x6 Sudoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:800px-Alte mainbruecke.jpg</title>
+    <ns>6</ns>
+    <id>5151</id>
+    <revision>
+      <id>21576</id>
+      <parentid>21572</parentid>
+      <timestamp>2017-07-10T06:27:09Z</timestamp>
+      <contributor>
+        <username>Wgsa29</username>
+        <id>10164</id>
+      </contributor>
+      <text xml:space="preserve" bytes="175">{{Information ohne UploadWizard
+|Beschreibung = Alte Mainbrücke
+|Quelle = Wikipedia
+|Urheber = Moritz Tilman
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>gy90jvputl8wbfc3e3l78l99dnlds32</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

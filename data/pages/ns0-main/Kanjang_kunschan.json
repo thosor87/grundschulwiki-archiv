@@ -1,0 +1,32 @@
+{
+  "pageid": 5116,
+  "ns": 0,
+  "title": "Kanjang kunschan",
+  "revisions": [
+    {
+      "revid": 21338,
+      "parentid": 21323,
+      "user": "Wgsa17",
+      "timestamp": "2017-07-03T06:35:06Z",
+      "comment": "",
+      "wikitext": "== Aussehen == \nEins\n\n== Standort ==\nZwei\n\n== Interessantes == \nDrei\n\n== Erbauer ==\nVier"
+    },
+    {
+      "revid": 21323,
+      "parentid": 21319,
+      "user": "Wgsa17",
+      "timestamp": "2017-07-03T06:30:17Z",
+      "comment": "",
+      "wikitext": "== Aussehen == \nEins\n== Standort ==\nZwei\n\n== Interessantes == \nDrei\n\n== Erbauer ==\nVier"
+    },
+    {
+      "revid": 21319,
+      "parentid": 0,
+      "user": "Wgsa17",
+      "timestamp": "2017-07-03T06:27:36Z",
+      "comment": "Die Seite wurde neu angelegt: „== Aussehen ==   == Standort ==   == Interessantes ==    == Erbauer ==“",
+      "wikitext": "== Aussehen == \n\n== Standort ==\n\n\n== Interessantes == \n\n\n== Erbauer =="
+    }
+  ],
+  "categories": []
+}

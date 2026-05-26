@@ -1,0 +1,32 @@
+{
+  "pageid": 4571,
+  "ns": 0,
+  "title": "Laubfrosch",
+  "revisions": [
+    {
+      "revid": 18825,
+      "parentid": 18824,
+      "user": "Leupold",
+      "timestamp": "2015-02-20T19:12:06Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n[[Bild:LaubfroschR1.jpg|thumb]]\n\n\n\n{{Rücksprung|L}}"
+    },
+    {
+      "revid": 18824,
+      "parentid": 18813,
+      "user": "Leupold",
+      "timestamp": "2015-02-20T19:11:20Z",
+      "comment": "Leupold verschob Seite [[Laubfrosch, der]] nach [[Laubfrosch]], ohne dabei eine Weiterleitung anzulegen",
+      "wikitext": "<gallery>\nLaubfroschR1.jpg\n</gallery>"
+    },
+    {
+      "revid": 18813,
+      "parentid": 0,
+      "user": "MARabe1",
+      "timestamp": "2015-02-16T11:40:00Z",
+      "comment": "Die Seite wurde neu angelegt: „<gallery> LaubfroschR1.jpg </gallery>“",
+      "wikitext": "<gallery>\nLaubfroschR1.jpg\n</gallery>"
+    }
+  ],
+  "categories": []
+}

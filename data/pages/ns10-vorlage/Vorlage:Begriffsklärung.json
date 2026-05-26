@@ -1,0 +1,26 @@
+{
+  "pageid": 4237,
+  "ns": 10,
+  "title": "Vorlage:Begriffsklärung",
+  "revisions": [
+    {
+      "revid": 17485,
+      "parentid": 17484,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:34:02Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<div id=\"Vorlage_Begriffsklaerung\">\n{| {{Bausteindesign2}}\n| style=\"width: 30px; vertical-align: top\" | [[Bild:Disambig-dark.svg|30px]]\n| Diese Seite ist eine '''[[Wikipedia:Begriffsklärung|Begriffsklärung]]''' zur Unterscheidung mehrerer mit demselben Wort bezeichneter Begriffe.\n|}\n</div>\n<includeonly>[[Kategorie:Begriffsklärung|{{SUBJECTPAGENAME}}]]</includeonly>\n<noinclude>\n----\n;Zur Verwendung dieser Vorlage siehe [[ZUM-Wiki:Begriffsklärung]].\n''Hinweis'': Die Formulierung „Für ... siehe ...“ sollte vermieden werden, da sie von vielen als sprachlich unschöne [[Anglizismus|Entlehnung aus dem Englischen]] („For ... see ...“) angesehen wird.\n\n<!--[[Kategorie:Vorlage:Begriffsklärung|!Begriffsklärung]]-->\n\n</noinclude>\n<noinclude>[[Kategorie:Vorlage:Artikelbausteine|.]]</noinclude>"
+    },
+    {
+      "revid": 17484,
+      "parentid": 0,
+      "user": "Ludwig-Dern-Schule",
+      "timestamp": "2008-10-02T08:59:47Z",
+      "comment": "",
+      "wikitext": "<div id=\"Vorlage_Begriffsklaerung\">\n{| {{Bausteindesign2}}\n| style=\"width: 30px; vertical-align: top\" | [[Bild:Disambig-dark.svg|30px]]\n| Diese Seite ist eine '''[[Wikipedia:Begriffsklärung|Begriffsklärung]]''' zur Unterscheidung mehrerer mit demselben Wort bezeichneter Begriffe.\n|}\n</div>\n<includeonly>[[Kategorie:Begriffsklärung|{{SUBJECTPAGENAME}}]]</includeonly>\n<noinclude>\n----\n;Zur Verwendung dieser Vorlage siehe [[ZUM-Wiki:Begriffsklärung]].\n''Hinweis'': Die Formulierung „Für ... siehe ...“ sollte vermieden werden, da sie von vielen als sprachlich unschöne [[Anglizismus|Entlehnung aus dem Englischen]] („For ... see ...“) angesehen wird.\n\n<!--[[Kategorie:Vorlage:Begriffsklärung|!Begriffsklärung]]-->\n\n</noinclude>\n<noinclude>[[Kategorie:Vorlage:Artikelbausteine|.]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Artikelbausteine"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "pageid": 4303,
+  "ns": 10,
+  "title": "Vorlage:NoCommons",
+  "revisions": [
+    {
+      "revid": 17641,
+      "parentid": 17640,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:41Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_NoCommons\">\n{| {{Lizenzdesign4}}\n| [[Bild:NoCommons.svg|55px|alt=|link=|Do not move this file to Wikimedia Commons without an individual review]]\n| Diese Datei ist möglicherweise [[Wikipedia:Nicht commonsfähig|nicht mit den Richtlinien von Wikimedia Commons]] kompatibel.\n\nEs sollte individuell geprüft werden, ob sie nach Wikimedia Commons verschoben werden darf.\n-----\n<big>'''Do not transfer this file to Wikimedia Commons without an individual review!'''</big>\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|Datei|[[Kategorie:Datei:NoCommons]]}}</includeonly><noinclude>\n{{Dokumentation}}\n</noinclude>"
+    },
+    {
+      "revid": 17640,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:26Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "<div id=\"Vorlage_NoCommons\">\n{| {{Lizenzdesign4}}\n| [[Bild:NoCommons.svg|55px|alt=|link=|Do not move this file to Wikimedia Commons without an individual review]]\n| Diese Datei ist möglicherweise [[Wikipedia:Nicht commonsfähig|nicht mit den Richtlinien von Wikimedia Commons]] kompatibel.\n\nEs sollte individuell geprüft werden, ob sie nach Wikimedia Commons verschoben werden darf.\n-----\n<big>'''Do not transfer this file to Wikimedia Commons without an individual review!'''</big>\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|Datei|[[Kategorie:Datei:NoCommons]]}}</includeonly><noinclude>\n{{Dokumentation}}\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:nicht dokumentiert"
+  ]
+}

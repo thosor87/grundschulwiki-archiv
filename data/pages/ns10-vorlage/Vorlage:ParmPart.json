@@ -1,0 +1,26 @@
+{
+  "pageid": 4233,
+  "ns": 10,
+  "title": "Vorlage:ParmPart",
+  "revisions": [
+    {
+      "revid": 17477,
+      "parentid": 17476,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:59Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<onlyinclude>{{#ifeq:/{{{2|}}}\n|{{#titleparts:/{{{2|}}}|1|{{#expr:1+{{{1|1}}}}}}}\n|\n|{{#titleparts:/{{{2|}}}|1|{{#expr:1+{{{1|1}}}}}}}\n}}</onlyinclude>\n{{Dokumentation}}"
+    },
+    {
+      "revid": 17476,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:42Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "<onlyinclude>{{#ifeq:/{{{2|}}}\n|{{#titleparts:/{{{2|}}}|1|{{#expr:1+{{{1|1}}}}}}}\n|\n|{{#titleparts:/{{{2|}}}|1|{{#expr:1+{{{1|1}}}}}}}\n}}</onlyinclude>\n{{Dokumentation}}"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:nicht dokumentiert"
+  ]
+}

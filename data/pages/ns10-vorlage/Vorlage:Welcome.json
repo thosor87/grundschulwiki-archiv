@@ -1,0 +1,34 @@
+{
+  "pageid": 4383,
+  "ns": 10,
+  "title": "Vorlage:Welcome",
+  "revisions": [
+    {
+      "revid": 18076,
+      "parentid": 17803,
+      "user": "Karl Kirst",
+      "timestamp": "2014-05-11T08:35:09Z",
+      "comment": "Datei:Button - Unterschrift.png",
+      "wikitext": "<div style=\"margin:0; margin-right:4px; margin-left:4px; border:5px solid #FFC125; padding: 1em 1em 1em 1em; background-color:#FFFFFF; align:left;\">\n<big><span style=\"color:#FFC125\">&nbsp;'''Herzlich Willkommen im {{SITENAME}} '''</span> </big>\n\n\n* Bitte stelle Dich doch [[Benutzer:{{PAGENAME}}|auf Deiner Benutzerseite]] vor. \n** Bist Du Schüler/in (Studierende/r), dann nenne auch Deine Schule (Institution) und Deine Lehrkraft, in deren Unterricht Du das ''{{SITENAME}}'' nutzt.\n** Bist Du Lehrer/in (Lehrende/r), dann nenne auch Deine Schule (Institution) und/oder Unterrichtsfächer bzw. Kurse oder Projekte, in denen Du das ''{{SITENAME}}'' nutzt.\n* Die wichtigsten Hilfen findest du unter: [http://wikis.zum.de/projektwiki/images/8/86/Kurzanleitung_Projektwiki_2012.pdf Kurzanleitung] - [[Hilfe:Layout|Layout]] - [[Hilfe:Multimedia|Multimedia]] -  [[Hilfe:Quiz|Quiz]] - [[Hilfe:Tabellen|Tabellen]]\n* Wenn du nicht mehr weiter weißt, helfen wir gerne weiter. Bitte stell deine Fragen bei einem [[Spezial:Benutzer/sysop|Admin]] unter {{Register|Diskussion}}. Unterschreibe deine Beiträge mit einem Klick auf das Symbol [[Datei:Button - Unterschrift.png|Signatur und Zeitstempel]] im WikiEditor unter \"Erweitert\".\n* Bitte beachte die [[Hilfe:Richtlinien im Wiki|Richtlinien im Wiki]].\n\n\n\n'''Viel Spaß''' und eine '''gute Zusammenarbeit ''' wünschen die '''''[[Spezial:Benutzer/sysop|Admins]]''''' im ''{{SITENAME}}''\n\n</div>"
+    },
+    {
+      "revid": 17803,
+      "parentid": 17802,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:37:56Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div style=\"margin:0; margin-right:4px; margin-left:4px; border:5px solid #FFC125; padding: 1em 1em 1em 1em; background-color:#FFFFFF; align:left;\">\n<big><span style=\"color:#FFC125\">&nbsp;'''Herzlich Willkommen im {{SITENAME}} '''</span> </big>\n\n\n* Bitte stelle Dich doch [[Benutzer:{{PAGENAME}}|auf Deiner Benutzerseite]] vor. \n** Bist Du Schüler/in (Studierende/r), dann nenne auch Deine Schule (Institution) und Deine Lehrkraft, in deren Unterricht Du das ''{{SITENAME}}'' nutzt.\n** Bist Du Lehrer/in (Lehrende/r), dann nenne auch Deine Schule (Institution) und/oder Unterrichtsfächer bzw. Kurse oder Projekte, in denen Du das ''{{SITENAME}}'' nutzt.\n* Die wichtigsten Hilfen findest du unter: [http://wikis.zum.de/projektwiki/images/8/86/Kurzanleitung_Projektwiki_2012.pdf Kurzanleitung] - [[Hilfe:Layout|Layout]] - [[Hilfe:Multimedia|Multimedia]] -  [[Hilfe:Quiz|Quiz]] - [[Hilfe:Tabellen|Tabellen]]\n* Wenn du nicht mehr weiter weißt, helfen wir gerne weiter. Bitte stell deine Fragen bei einem [[Spezial:Benutzer/sysop|Admin]] unter {{Register|Diskussion}}. Unterschreibe deine Beiträge mit einem Klick auf das Symbol [[Bild:Button sig.png]].\n* Bitte beachte die [[Hilfe:Richtlinien im Wiki|Richtlinien im Wiki]].\n\n\n\n'''Viel Spaß''' und eine '''gute Zusammenarbeit ''' wünschen die '''''[[Spezial:Benutzer/sysop|Admins]]''''' im ''{{SITENAME}}''\n\n</div>"
+    },
+    {
+      "revid": 17802,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-07T21:14:58Z",
+      "comment": "- kat",
+      "wikitext": "<div style=\"margin:0; margin-right:4px; margin-left:4px; border:5px solid #FFC125; padding: 1em 1em 1em 1em; background-color:#FFFFFF; align:left;\">\n<big><span style=\"color:#FFC125\">&nbsp;'''Herzlich Willkommen im {{SITENAME}} '''</span> </big>\n\n\n* Bitte stelle Dich doch [[Benutzer:{{PAGENAME}}|auf Deiner Benutzerseite]] vor. \n** Bist Du Schüler/in (Studierende/r), dann nenne auch Deine Schule (Institution) und Deine Lehrkraft, in deren Unterricht Du das ''{{SITENAME}}'' nutzt.\n** Bist Du Lehrer/in (Lehrende/r), dann nenne auch Deine Schule (Institution) und/oder Unterrichtsfächer bzw. Kurse oder Projekte, in denen Du das ''{{SITENAME}}'' nutzt.\n* Die wichtigsten Hilfen findest du unter: [http://wikis.zum.de/projektwiki/images/8/86/Kurzanleitung_Projektwiki_2012.pdf Kurzanleitung] - [[Hilfe:Layout|Layout]] - [[Hilfe:Multimedia|Multimedia]] -  [[Hilfe:Quiz|Quiz]] - [[Hilfe:Tabellen|Tabellen]]\n* Wenn du nicht mehr weiter weißt, helfen wir gerne weiter. Bitte stell deine Fragen bei einem [[Spezial:Benutzer/sysop|Admin]] unter {{Register|Diskussion}}. Unterschreibe deine Beiträge mit einem Klick auf das Symbol [[Bild:Button sig.png]].\n* Bitte beachte die [[Hilfe:Richtlinien im Wiki|Richtlinien im Wiki]].\n\n\n\n'''Viel Spaß''' und eine '''gute Zusammenarbeit ''' wünschen die '''''[[Spezial:Benutzer/sysop|Admins]]''''' im ''{{SITENAME}}''\n\n</div>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks"
+  ]
+}

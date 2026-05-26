@@ -1,0 +1,56 @@
+{
+  "pageid": 1684,
+  "ns": 10,
+  "title": "Vorlage:Babel-1",
+  "revisions": [
+    {
+      "revid": 24814,
+      "parentid": 3310,
+      "user": "Leupold",
+      "timestamp": "2021-01-16T07:02:58Z",
+      "comment": "Schützte „[[Vorlage:Babel-1]]“ ([Bearbeiten=Nur Administratoren erlauben] (unbeschränkt) [Verschieben=Nur Administratoren erlauben] (unbeschränkt))",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{Babel {{{1}}}}}\n|}"
+    },
+    {
+      "revid": 3310,
+      "parentid": 3309,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-10T23:24:53Z",
+      "comment": "",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{Babel {{{1}}}}}\n|}"
+    },
+    {
+      "revid": 3309,
+      "parentid": 3308,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-10T23:15:06Z",
+      "comment": "",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{User {{{1}}}}}\n|}"
+    },
+    {
+      "revid": 3308,
+      "parentid": 3307,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-10T23:13:51Z",
+      "comment": "",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em;\nborder:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{User {{{1}}}}}\n|}"
+    },
+    {
+      "revid": 3307,
+      "parentid": 3305,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-10T23:12:54Z",
+      "comment": "",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{{{{1}}}}}\n|}"
+    },
+    {
+      "revid": 3305,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-10T23:10:23Z",
+      "comment": "",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{User {{{1}}}}}\n|}"
+    }
+  ],
+  "categories": []
+}

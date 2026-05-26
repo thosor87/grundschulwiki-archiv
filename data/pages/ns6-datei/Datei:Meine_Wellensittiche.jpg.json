@@ -1,0 +1,32 @@
+{
+  "pageid": 2086,
+  "ns": 6,
+  "title": "Datei:Meine Wellensittiche.jpg",
+  "revisions": [
+    {
+      "revid": 5127,
+      "parentid": 5124,
+      "user": "BASchiemann",
+      "timestamp": "2007-02-14T11:12:15Z",
+      "comment": "",
+      "wikitext": "[[Bild:Meine_Wellensittiche.jpg|thumb|Dieses Bild wurde von Stephan fotografiert]]"
+    },
+    {
+      "revid": 5124,
+      "parentid": 5109,
+      "user": "BASchiemann",
+      "timestamp": "2007-02-14T11:06:56Z",
+      "comment": "",
+      "wikitext": "[[Bild:Meine_Wellensittiche.jpg|thumb|Dieses Bild wurde von Stephan fotografiert"
+    },
+    {
+      "revid": 5109,
+      "parentid": 0,
+      "user": "BASchiemann",
+      "timestamp": "2007-02-14T10:46:56Z",
+      "comment": "",
+      "wikitext": ""
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,24 @@
+{
+  "pageid": 4236,
+  "ns": 10,
+  "title": "Vorlage:Bausteindesign2",
+  "revisions": [
+    {
+      "revid": 17483,
+      "parentid": 17482,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:34:01Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "width=\"100%\" border=\"0\" cellspacing=\"8\" cellpadding=\"0\" style=\"background-color: #f9f9f9; border-top: 1px solid #aaaaaa; font-size: 95%; margin-top: 1em; clear: both\""
+    },
+    {
+      "revid": 17482,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2005-11-22T18:22:38Z",
+      "comment": "übernommen aus Wikipedia.de",
+      "wikitext": "width=\"100%\" border=\"0\" cellspacing=\"8\" cellpadding=\"0\" style=\"background-color: #f9f9f9; border-top: 1px solid #aaaaaa; font-size: 95%; margin-top: 1em; clear: both\""
+    }
+  ],
+  "categories": []
+}

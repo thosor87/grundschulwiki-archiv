@@ -1,0 +1,32 @@
+{
+  "pageid": 1321,
+  "ns": 6,
+  "title": "Datei:Atom.png",
+  "revisions": [
+    {
+      "revid": 1543,
+      "parentid": 1542,
+      "user": "Leupold",
+      "timestamp": "2005-12-29T10:04:20Z",
+      "comment": "",
+      "wikitext": "Stark vereinfachende Darstellung eines Helium-Atoms: Zwei Elektronen umkreisen einen Kern aus zwei Protonen und zwei Neutronen. (Bild von der deutschprachigen Wikipedia.)\n\nDieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext."
+    },
+    {
+      "revid": 1542,
+      "parentid": 1541,
+      "user": "Leupold",
+      "timestamp": "2005-12-29T10:02:30Z",
+      "comment": "",
+      "wikitext": "Stark vereinfachende Darstellung eines Helium-Atoms: Zwei Elektronen umkreisen einen Kern aus zwei Protonen und zwei Neutronen."
+    },
+    {
+      "revid": 1541,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2005-12-29T10:01:45Z",
+      "comment": "Stark vereinfachtes Helium-Atom",
+      "wikitext": "Stark vereinfachtes Helium-Atom"
+    }
+  ],
+  "categories": []
+}

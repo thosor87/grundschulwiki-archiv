@@ -1,0 +1,26 @@
+{
+  "pageid": 4365,
+  "ns": 10,
+  "title": "Vorlage:Versuch",
+  "revisions": [
+    {
+      "revid": 17765,
+      "parentid": 17764,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:11:20Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#9acd32}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Nuvola apps edu science.png|30px]] &nbsp; Versuch\n</div>\n{{{1}}}\n|}<noinclude>\n;Syntax: <nowiki>{{Versuch|<Versuchsbeschreibung>}}</nowiki>\n\n;Hinweis: Während diese Vorlage eine feste Seitenbreite hat, ist die Breite der [[Vorlage:Versuch float]] flexibel und passt sich Beispiel einem Bild am Seitenrand an.\n\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Versuch]]</noinclude>"
+    },
+    {
+      "revid": 17764,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-12-17T19:48:47Z",
+      "comment": "Hinweis auf Vorlage:Versuch float",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#9acd32}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Nuvola apps edu science.png|30px]] &nbsp; Versuch\n</div>\n{{{1}}}\n|}<noinclude>\n;Syntax: <nowiki>{{Versuch|<Versuchsbeschreibung>}}</nowiki>\n\n;Hinweis: Während diese Vorlage eine feste Seitenbreite hat, ist die Breite der [[Vorlage:Versuch float]] flexibel und passt sich Beispiel einem Bild am Seitenrand an.\n\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Versuch]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

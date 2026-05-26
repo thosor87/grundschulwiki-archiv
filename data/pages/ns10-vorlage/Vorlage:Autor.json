@@ -1,0 +1,16 @@
+{
+  "pageid": 3056,
+  "ns": 10,
+  "title": "Vorlage:Autor",
+  "revisions": [
+    {
+      "revid": 10704,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2009-03-05T13:59:15Z",
+      "comment": "angelegt",
+      "wikitext": "Kurzangabe zum Autor/zu den Autoren für die Jury:<br>\nAlter: {{{1}}}<br>\nKlassenstufe: {{{2}}}<br>\nSchulform: {{{3}}}<br>\nAnzahl der Autoren: {{{4}}}<br>"
+    }
+  ],
+  "categories": []
+}

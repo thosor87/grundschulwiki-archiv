@@ -1,0 +1,24 @@
+{
+  "pageid": 4311,
+  "ns": 10,
+  "title": "Vorlage:Shortcut",
+  "revisions": [
+    {
+      "revid": 17657,
+      "parentid": 17656,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:43Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"shortcut\" class=\"shortcut\" align=\"right\">[[ZUM-Wiki:Abkürzungen|Abkürzung]]: {{{1}}}</div>"
+    },
+    {
+      "revid": 17656,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2005-12-05T13:49:31Z",
+      "comment": "span -> div; +align=\"right\"",
+      "wikitext": "<div id=\"shortcut\" class=\"shortcut\" align=\"right\">[[ZUM-Wiki:Abkürzungen|Abkürzung]]: {{{1}}}</div>"
+    }
+  ],
+  "categories": []
+}

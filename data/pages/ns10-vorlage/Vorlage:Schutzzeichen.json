@@ -1,0 +1,26 @@
+{
+  "pageid": 4310,
+  "ns": 10,
+  "title": "Vorlage:Schutzzeichen",
+  "revisions": [
+    {
+      "revid": 17655,
+      "parentid": 17654,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:43Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Schutzzeichen\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen ein {{wpde|Schutzzeichen}} nach verschiedenen Abkommen, insbesondere die {{wpde|Haager Landkriegsordnung|Haager Landkriegsordnung}} von 1899 und 1907, die {{wpde|Genfer Konventionen|Genfer Konventionen}} von 1949 sowie ihre Zusatzprotokolle von 1977 und 2005 und weitere Regeln des {{wpde|Humanitäres Völkerrecht|humanitären Völkerrechts}} dar.\n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div><noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]\n</noinclude>"
+    },
+    {
+      "revid": 17654,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-08T18:54:29Z",
+      "comment": "linkfix",
+      "wikitext": "<div id=\"Vorlage_Schutzzeichen\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen ein {{wpde|Schutzzeichen}} nach verschiedenen Abkommen, insbesondere die {{wpde|Haager Landkriegsordnung|Haager Landkriegsordnung}} von 1899 und 1907, die {{wpde|Genfer Konventionen|Genfer Konventionen}} von 1949 sowie ihre Zusatzprotokolle von 1977 und 2005 und weitere Regeln des {{wpde|Humanitäres Völkerrecht|humanitären Völkerrechts}} dar.\n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div><noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Hinweis für Bilder"
+  ]
+}

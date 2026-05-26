@@ -1,0 +1,16 @@
+{
+  "pageid": 2555,
+  "ns": 10,
+  "title": "Vorlage:Geburtstag",
+  "revisions": [
+    {
+      "revid": 7626,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2008-01-14T16:41:48Z",
+      "comment": "neue vorlage erstellt, kann gelegentlich eingebaut werden",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =Geburtstag|\nINHALT=<big>'''04.01.2008'''</big><br>Das Grundschulwiki hat Geburtstag! Nicht nur, weil es so ziemlich genau zwei Jahre alt ist, sondern weil wir auch unsere ersten '''100.000 Besucher''' auf unserer Seite hatten!<br>\nToll, dass ihr alle so fleißig geschrieben habt!<br>\nWir hoffen auf viele weitere tolle Artikel von euch. '''Macht mit!'''|\n}}"
+    }
+  ],
+  "categories": []
+}

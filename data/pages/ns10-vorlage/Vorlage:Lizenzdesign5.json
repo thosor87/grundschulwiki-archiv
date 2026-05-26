@@ -1,0 +1,26 @@
+{
+  "pageid": 4301,
+  "ns": 10,
+  "title": "Vorlage:Lizenzdesign5",
+  "revisions": [
+    {
+      "revid": 17637,
+      "parentid": 17636,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:40Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color:#FFD5AA; border:3px solid #ff7f00; position:relative;\" width=\"80%\"<noinclude>\n\n[[Kategorie:Vorlage:Formatierungshilfe|{{PAGENAME}}]]\n</noinclude>"
+    },
+    {
+      "revid": 17636,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:39:56Z",
+      "comment": "aus der deutschen Wikipedia",
+      "wikitext": "cellspacing=\"8\" cellpadding=\"0\" style=\"clear:both; margin:0.5em auto; background-color:#FFD5AA; border:3px solid #ff7f00; position:relative;\" width=\"80%\"<noinclude>\n\n[[Kategorie:Vorlage:Formatierungshilfe|{{PAGENAME}}]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Formatierungshilfe"
+  ]
+}

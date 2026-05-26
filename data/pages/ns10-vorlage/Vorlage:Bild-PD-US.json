@@ -1,0 +1,26 @@
+{
+  "pageid": 4285,
+  "ns": 10,
+  "title": "Vorlage:Bild-PD-US",
+  "revisions": [
+    {
+      "revid": 17605,
+      "parentid": 17604,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:25Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-US\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|link=|alt=|55px|Icon „gemeinfrei“]]\n| Diese Datei ist in den Vereinigten Staaten „public domain“, da sie von einem Bediensteten einer Bundesbehörde („federal government“) in Ausübung seiner dienstlichen Pflichten erstellt wurde und somit ein {{wpd|Wikipedia:Bildrechte#Bilder von US-Regierungsbehörden (NASA und andere)|Werk der Regierung der Vereinigten Staaten}} ist.\n| [[Datei:Flag of the United States.svg|link=|55px|alt=|Flagge der Vereinigten Staaten]]\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Public-Domain-Bild (Werk der Regierung der Vereinigten Staaten)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\n<!--[[en:Template:PD-USGov]]--></noinclude>"
+    },
+    {
+      "revid": 17604,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-03T14:37:50Z",
+      "comment": "wpd-Link",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-US\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|link=|alt=|55px|Icon „gemeinfrei“]]\n| Diese Datei ist in den Vereinigten Staaten „public domain“, da sie von einem Bediensteten einer Bundesbehörde („federal government“) in Ausübung seiner dienstlichen Pflichten erstellt wurde und somit ein {{wpd|Wikipedia:Bildrechte#Bilder von US-Regierungsbehörden (NASA und andere)|Werk der Regierung der Vereinigten Staaten}} ist.\n| [[Datei:Flag of the United States.svg|link=|55px|alt=|Flagge der Vereinigten Staaten]]\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Public-Domain-Bild (Werk der Regierung der Vereinigten Staaten)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\n<!--[[en:Template:PD-USGov]]--></noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

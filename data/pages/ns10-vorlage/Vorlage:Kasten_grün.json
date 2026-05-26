@@ -1,0 +1,24 @@
+{
+  "pageid": 1547,
+  "ns": 10,
+  "title": "Vorlage:Kasten grün",
+  "revisions": [
+    {
+      "revid": 2952,
+      "parentid": 2940,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-13T09:24:09Z",
+      "comment": "",
+      "wikitext": "<!--- Hinweis: Vorlage so nutzen: {{Kasten grün|<Text>}} --->\n<div style=\"border: 2px solid #dfdfdf; background-color:#a8fe84;padding:7px;\">\n{{{1}}}\n</div>"
+    },
+    {
+      "revid": 2940,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-13T08:52:48Z",
+      "comment": "",
+      "wikitext": "<!--- Hinweis: Vorlage so nutzen: {{Kasten grün|<Text>}} --->\n<div style=\"border: 2px solid #dfdfdf; background-color:#ECFFE4;;padding:7px;\">\n{{{1}}}\n</div>"
+    }
+  ],
+  "categories": []
+}

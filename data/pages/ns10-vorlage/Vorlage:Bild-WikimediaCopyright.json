@@ -1,0 +1,26 @@
+{
+  "pageid": 4291,
+  "ns": 10,
+  "title": "Vorlage:Bild-WikimediaCopyright",
+  "revisions": [
+    {
+      "revid": 17617,
+      "parentid": 17616,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:34Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-WikimediaCopyright\">\n{| {{Lizenzdesign3}}\n| [[Bild:Red copyright.svg|alt=|link=|55px]]\n| Diese Datei (oder Bestandteile derselbigen) ist als offizielles Logo der {{wpde|Wikimedia|Wikimedia Foundation}} oder eines ihrer Projekte '''{{wpde|Markenrecht|marken-}} und {{wpde|Urheberrecht|urheberrechtlich}} geschützt'''. Die Benutzung in der Wikipedia wird als projektweite Ausnahme angesehen.<br /> \n© & ™ Alle Rechte vorbehalten, Wikimedia Foundation, Inc.\nWikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.\n| [[Bild:Wikimedia-logo.svg|alt=|link=|55px]]\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:Wikimedia-Copyright|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:|{{PAGENAME}}]]\n{{Bild-WikimediaCopyright/Meta}}\n</noinclude>"
+    },
+    {
+      "revid": 17616,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-08T18:09:18Z",
+      "comment": "wpde-Links",
+      "wikitext": "<div id=\"Vorlage_Bild-WikimediaCopyright\">\n{| {{Lizenzdesign3}}\n| [[Bild:Red copyright.svg|alt=|link=|55px]]\n| Diese Datei (oder Bestandteile derselbigen) ist als offizielles Logo der {{wpde|Wikimedia|Wikimedia Foundation}} oder eines ihrer Projekte '''{{wpde|Markenrecht|marken-}} und {{wpde|Urheberrecht|urheberrechtlich}} geschützt'''. Die Benutzung in der Wikipedia wird als projektweite Ausnahme angesehen.<br /> \n© & ™ Alle Rechte vorbehalten, Wikimedia Foundation, Inc.\nWikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.\n| [[Bild:Wikimedia-logo.svg|alt=|link=|55px]]\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:Wikimedia-Copyright|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:|{{PAGENAME}}]]\n{{Bild-WikimediaCopyright/Meta}}\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:"
+  ]
+}

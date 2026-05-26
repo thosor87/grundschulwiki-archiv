@@ -1,0 +1,28 @@
+{
+  "pageid": 4357,
+  "ns": 10,
+  "title": "Vorlage:Stundenverlauf/Kopf",
+  "revisions": [
+    {
+      "revid": 17749,
+      "parentid": 17748,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:10:16Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<onlyinclude>{| class=\"toptextcells\" style=\"width:100%; border-spacing:1px; border:1px solid #4682B4;\"\n|- style=\"background-color: #B0C4DE; vertical-align:middle;\"\n|style=\"width:2em;padding:4px;vertical-align:middle; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh time.png|24px|verweis=]]||style=\"width:6em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh_database.png|24px|verweis=]] Phase||style=\"padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Progressbar.png|verweis=]] Unterrichtsschritt||style=\"width: 8em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh_group_gear.png|24px|verweis=]] Sozialform||style=\"width: 8em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh_multitool.png|verweis=]] Methode||style=\"width: 10em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh_film.png|24px|verweis=]] Medium</onlyinclude><noinclude>\n|}\nDiese Vorlage ist Teil der [[:Vorlage:Stundenverlauf]] und sollte nicht einzeln genutzt werden.\n\nDiese Vorlage erstellt den Tabellenkopf.\n[[Kategorie:Vorlage:Stundenverlauf]]\n</noinclude><onlyinclude>[[Kategorie:Stundenverlauf]]</onlyinclude>"
+    },
+    {
+      "revid": 17748,
+      "parentid": 0,
+      "user": "Konstantin Kowalski",
+      "timestamp": "2012-08-31T23:01:58Z",
+      "comment": "",
+      "wikitext": "<onlyinclude>{| class=\"toptextcells\" style=\"width:100%; border-spacing:1px; border:1px solid #4682B4;\"\n|- style=\"background-color: #B0C4DE; vertical-align:middle;\"\n|style=\"width:2em;padding:4px;vertical-align:middle; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh time.png|24px|verweis=]]||style=\"width:6em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh_database.png|24px|verweis=]] Phase||style=\"padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Progressbar.png|verweis=]] Unterrichtsschritt||style=\"width: 8em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh_group_gear.png|24px|verweis=]] Sozialform||style=\"width: 8em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh_multitool.png|verweis=]] Methode||style=\"width: 10em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;\"|[[Datei:Farm-Fresh_film.png|24px|verweis=]] Medium</onlyinclude><noinclude>\n|}\nDiese Vorlage ist Teil der [[:Vorlage:Stundenverlauf]] und sollte nicht einzeln genutzt werden.\n\nDiese Vorlage erstellt den Tabellenkopf.\n[[Kategorie:Vorlage:Stundenverlauf]]\n</noinclude><onlyinclude>[[Kategorie:Stundenverlauf]]</onlyinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Stundenverlauf",
+    "Kategorie:Vorlage:Stundenverlauf"
+  ]
+}

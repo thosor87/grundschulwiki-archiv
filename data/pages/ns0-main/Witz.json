@@ -1,0 +1,104 @@
+{
+  "pageid": 2000,
+  "ns": 0,
+  "title": "Witz",
+  "revisions": [
+    {
+      "revid": 7563,
+      "parentid": 7562,
+      "user": "Leupold",
+      "timestamp": "2008-01-04T17:34:44Z",
+      "comment": "babel",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\nAn Ostern solltest du unbedingt die Häschenwitze erzählen! Du findest sie bei der Blinden Kuh unter [http://www.blindekuh.de] oder auch bei [http://www.zzzebra.de] !\n\n\n==Witze==\n\nHier kannst du deine Witze eintragen:\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 7562,
+      "parentid": 7552,
+      "user": "Leupold",
+      "timestamp": "2008-01-04T17:34:31Z",
+      "comment": "Witzeüberschrift",
+      "wikitext": "Ein Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\nAn Ostern solltest du unbedingt die Häschenwitze erzählen! Du findest sie bei der Blinden Kuh unter [http://www.blindekuh.de] oder auch bei [http://www.zzzebra.de] !\n\n\n==Witze==\n\nHier kannst du deine Witze eintragen:\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 7552,
+      "parentid": 5489,
+      "user": "MABenni",
+      "timestamp": "2008-01-04T13:13:06Z",
+      "comment": "",
+      "wikitext": "Ein Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\nAn Ostern solltest du unbedingt die Häschenwitze erzählen! Du findest sie bei der Blinden Kuh unter [http://www.blindekuh.de] oder auch bei [http://www.zzzebra.de] !\nHier noch ein par [[Erzälte Witze]]\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 5489,
+      "parentid": 5483,
+      "user": "Leupold",
+      "timestamp": "2007-03-19T16:50:45Z",
+      "comment": "",
+      "wikitext": "Ein Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\nAn Ostern solltest du unbedingt die Häschenwitze erzählen! Du findest sie bei der Blinden Kuh unter [http://www.blindekuh.de] oder auch bei [http://www.zzzebra.de] !\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 5483,
+      "parentid": 4994,
+      "user": "MAHahn",
+      "timestamp": "2007-03-18T20:10:56Z",
+      "comment": "",
+      "wikitext": "Ein Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\nAn Ostern solltest du unbedingt die Häschenwitze erzählen! Du findest sie bei der Blinden Kuh unter [http:/www.blindekuh.de] oder auch bei [http:/www.zzzebra.de] !\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 4994,
+      "parentid": 4798,
+      "user": "Leupold",
+      "timestamp": "2007-01-23T10:29:19Z",
+      "comment": "",
+      "wikitext": "Ein Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 4798,
+      "parentid": 4797,
+      "user": "MAPhilip",
+      "timestamp": "2006-11-23T13:35:10Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 4797,
+      "parentid": 4768,
+      "user": "MAPhilip",
+      "timestamp": "2006-11-23T13:34:15Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\n\n\n\n{{Rücksprung|W}}\n                                  von Philip"
+    },
+    {
+      "revid": 4768,
+      "parentid": 4767,
+      "user": "Leupold",
+      "timestamp": "2006-11-06T18:40:43Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 4767,
+      "parentid": 4766,
+      "user": "Leupold",
+      "timestamp": "2006-11-06T18:40:19Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\n\n\n\n[[Rücksprung|W]]"
+    },
+    {
+      "revid": 4766,
+      "parentid": 4764,
+      "user": "Leupold",
+      "timestamp": "2006-11-06T18:39:27Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Verfasser_Schüler}}\nEin Witz ist eine Erzählung, bei der am Ende gelacht werden soll.\n\n\n\n[[Rücksprung|W]]"
+    },
+    {
+      "revid": 4764,
+      "parentid": 0,
+      "user": "MABianca",
+      "timestamp": "2006-11-05T15:05:06Z",
+      "comment": "",
+      "wikitext": "Treffen sich zwei Jäger. Beide tot."
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,40 @@
+{
+  "pageid": 1724,
+  "ns": 6,
+  "title": "Datei:Okapibild.jpg",
+  "revisions": [
+    {
+      "revid": 9565,
+      "parentid": 3791,
+      "user": "Leupold",
+      "timestamp": "2008-10-06T13:05:57Z",
+      "comment": "Herkunft aktualisiert",
+      "wikitext": "Bild von einem Okapi. Von Wikipadia."
+    },
+    {
+      "revid": 3791,
+      "parentid": 3784,
+      "user": "Leupold",
+      "timestamp": "2006-05-03T16:48:51Z",
+      "comment": "",
+      "wikitext": "Bild von einem Okapi. Von der Internetseite:http://www.rth.org Vom: 2.5.2006"
+    },
+    {
+      "revid": 3784,
+      "parentid": 3778,
+      "user": "MApatrick",
+      "timestamp": "2006-05-02T13:43:21Z",
+      "comment": "",
+      "wikitext": "Bild von einem Okapi. Von der Internetseite:http://www.rth.org/sdzoo/Okapi.jpg\nVom:2.5.2006"
+    },
+    {
+      "revid": 3778,
+      "parentid": 0,
+      "user": "MApatrick",
+      "timestamp": "2006-05-02T13:37:04Z",
+      "comment": "Bild von einem Okapi. Von",
+      "wikitext": "Bild von einem Okapi. Von"
+    }
+  ],
+  "categories": []
+}

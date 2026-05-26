@@ -1,0 +1,80 @@
+{
+  "pageid": 2925,
+  "ns": 10,
+  "title": "Vorlage:Geburtstagsgruß",
+  "revisions": [
+    {
+      "revid": 16166,
+      "parentid": 16165,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-18T22:21:13Z",
+      "comment": "typo",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =HAPPY BIRTHDAY|\nINHALT=<big>'''17.11.2012'''</big>\n\nDas Grundschulwiki feiert einen RIESENGROSSEN Geburtstag, denn am 17.11.2012 besuchte uns der '''1.000.000ste Besucher''' auf unserer Seite und hat '''EURE''' Artikel gelesen!\n\nToll, dass Ihr alle so fleißig geschrieben habt und interessiert seid!\n\nWir hoffen auf viele weitere tolle Artikel von Euch. '''Macht mit!'''\n|}}"
+    },
+    {
+      "revid": 16165,
+      "parentid": 16164,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-18T22:19:52Z",
+      "comment": "mit Leerzeilen (sieht besser aus)",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =HAPPY BIRTHDAY|\nINHALT=<big>'''17.11.2012'''\n\nDas Grundschulwiki feiert einen RIESENGROSSEN Geburtstag, denn am 17.11.2012 besuchte uns der '''1.000.000ste Besucher''' auf unserer Seite und hat '''EURE''' Artikel gelesen!\n\nToll, dass Ihr alle so fleißig geschrieben habt und interessiert seid!\n\nWir hoffen auf viele weitere tolle Artikel von Euch. '''Macht mit!'''\n|}}"
+    },
+    {
+      "revid": 16164,
+      "parentid": 14774,
+      "user": "Leupold",
+      "timestamp": "2012-11-18T19:01:39Z",
+      "comment": "geburtstagsgruß angepasst",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =HAPPY BIRTHDAY|\nINHALT=<big>'''17.11.2012'''</big><br>Das Grundschulwiki feiert einen RIESENGROSSEN Geburtstag, denn am 17.11.2012 besuchte uns der '''1.000.000ste Besucher''' auf unserer Seite und hat '''EURE''' Artikel gelesen!<br>\nToll, dass Ihr alle so fleißig geschrieben habt und interessiert seid!<br>\nWir hoffen auf viele weitere tolle Artikel von Euch. '''Macht mit!'''|\n}}"
+    },
+    {
+      "revid": 14774,
+      "parentid": 13797,
+      "user": "Leupold",
+      "timestamp": "2011-04-20T19:29:55Z",
+      "comment": "geburtstagsgrüße",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =HAPPY BIRTHDAY|\nINHALT=<big>'''20.04.2011'''</big><br>Das Grundschulwiki hat mal wieder Geburtstag, denn Mitte April besuchte uns der '''700.000ste Besucher''' auf unserer Seite und hat '''EURE''' Artikel gelesen!<br>\nToll, dass Ihr alle so fleißig geschrieben habt und interessiert seid!<br>\nWir hoffen auf viele weitere tolle Artikel von Euch. '''Macht mit!'''|\n}}"
+    },
+    {
+      "revid": 13797,
+      "parentid": 13796,
+      "user": "Leupold",
+      "timestamp": "2010-07-17T17:56:40Z",
+      "comment": "Zusatz eingefügt",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =HAPPY BIRTHDAY|\nINHALT=<big>'''13.07.2010'''</big><br>Das Grundschulwiki hat mal wieder Geburtstag, denn am 13.07.2010 besuchte uns der '''550.000ste Besucher''' auf unserer Seite und hat '''EURE''' Artikel gelesen!<br>\nToll, dass Ihr alle so fleißig geschrieben habt und interessiert seid!<br>\nWir hoffen auf viele weitere tolle Artikel von Euch. '''Macht mit!'''|\n}}"
+    },
+    {
+      "revid": 13796,
+      "parentid": 13793,
+      "user": "Leupold",
+      "timestamp": "2010-07-17T17:55:58Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =HAPPY BIRTHDAY|\nINHALT=<big>'''13.07.2010'''</big><br>Das Grundschulwiki hat mal wieder Geburtstag, denn am 13.07.2010 besuchte uns der '''550.000ste Besucher''' auf unserer Seite!<br>\nToll, dass Ihr alle so fleißig geschrieben habt und interessiert seid!<br>\nWir hoffen auf viele weitere tolle Artikel von Euch. '''Macht mit!'''|\n}}"
+    },
+    {
+      "revid": 13793,
+      "parentid": 10458,
+      "user": "Leupold",
+      "timestamp": "2010-07-17T17:53:25Z",
+      "comment": "angepasst",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =Geburtstag|\nINHALT=<big>'''13.07.2010'''</big><br>Das Grundschulwiki hat mal wieder Geburtstag, denn am 13.07.2010 besuchte uns der '''550.000ste Besucher''' auf unserer Seite!<br>\nToll, dass Ihr alle so fleißig geschrieben habt und interessiert seid!<br>\nWir hoffen auf viele weitere tolle Artikel von Euch. '''Macht mit!'''|\n}}"
+    },
+    {
+      "revid": 10458,
+      "parentid": 9685,
+      "user": "Leupold",
+      "timestamp": "2009-02-13T12:25:59Z",
+      "comment": "angepasst",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =Geburtstag|\nINHALT=<big>'''13.02.2009'''</big><br>Das Grundschulwiki hat schon wieder Geburtstag, denn am 13.02.2009 besuchte uns der '''300.000ste Besucher''' auf unserer Seite!<br>\nToll, dass Ihr alle so fleißig geschrieben habt und interessiert seid!<br>\nWir hoffen auf viele weitere tolle Artikel von Euch. '''Macht mit!'''|\n}}"
+    },
+    {
+      "revid": 9685,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2008-11-14T16:27:38Z",
+      "comment": "vorlage angelegt",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Kcmpartitions.png|48px|\nÜBERSCHRIFT =Geburtstag|\nINHALT=<big>'''14.10.2008'''</big><br>Das Grundschulwiki hat schon wieder Geburtstag, denn am 14.10.2008 besuchte uns der '''250.000ste Besucher''' auf unserer Seite!<br>\nToll, dass ihr alle so fleißig geschrieben habt und interessiert seid!<br>\nWir hoffen auf viele weitere tolle Artikel von euch. '''Macht mit!'''|\n}}"
+    }
+  ],
+  "categories": []
+}

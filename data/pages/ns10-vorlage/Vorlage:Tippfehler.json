@@ -1,0 +1,16 @@
+{
+  "pageid": 2996,
+  "ns": 10,
+  "title": "Vorlage:Tippfehler",
+  "revisions": [
+    {
+      "revid": 10088,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2008-12-22T07:53:37Z",
+      "comment": "vorlage angelegt",
+      "wikitext": "<br style=\"clear:both;\"/>\n<div style=\"float:left; border:solid 4px red; margin:1px; width:100%\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:100%; background-color:white\"\n| style=\"width:20%; height:50px; background-color: white; text-align:center\"|\n[[Bild:Rufzeichen.gif]]\n| style=\"width:60%; font-size:18px; padding:0.47em; line-height:1.25em; text-align: center\"| Dieser Artikel enthält noch Tippfehler!<br>'''Hilf mit''', das ZUM-Grundschulwiki noch besser zu machen!<br>Korrigiere die Fehler, die Du findest!\n| style=\"width:20%; height:50px; background-color: white; text-align:center\"|\n[[Bild:Rufzeichen.gif]]\n|\n|}\n</div>"
+    }
+  ],
+  "categories": []
+}

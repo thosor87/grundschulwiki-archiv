@@ -1,0 +1,26 @@
+{
+  "pageid": 4286,
+  "ns": 10,
+  "title": "Vorlage:Bild-PD-alt",
+  "revisions": [
+    {
+      "revid": 17607,
+      "parentid": 17606,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:27Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-alt\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|alt=|link=|55px]]\n| Die {{wpd|Regelschutzfrist|Schutzdauer}} für das von dieser Datei gezeigte Werk ist nach den Maßstäben des deutschen, des österreichischen und des schweizerischen Urheberrechts abgelaufen. Es ist daher '''[[Gemeinfreiheit|gemeinfrei]]'''.\n| [[Datei:German-Language-Flag.svg|alt=|link=|55px]]\n|-\n| valign=\"middle\" |\n|Liegt eine triviale Wiedergabe vor, so erreicht diese weder die für einen urheberrechtlichen Schutz als {{wpd|Lichtbildwerk}} nötige {{wpd|Schöpfungshöhe}}, noch weist sie ein „Mindestmaß an persönlicher Leistung“ (<small>vgl. BGH GRUR 90, 669 - Bibelreproduktion</small>) auf, um in Deutschland Leistungsschutz als {{wpd|Lichtbild}} genießen zu können.\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Public-Domain-Bild (alt)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\nvgl: {{wpe|Template:PD-old-70}} (Unterschied: spricht explizit von 70 Jahren)</noinclude>"
+    },
+    {
+      "revid": 17606,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-03T14:25:44Z",
+      "comment": "wpd-Links",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-alt\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|alt=|link=|55px]]\n| Die {{wpd|Regelschutzfrist|Schutzdauer}} für das von dieser Datei gezeigte Werk ist nach den Maßstäben des deutschen, des österreichischen und des schweizerischen Urheberrechts abgelaufen. Es ist daher '''[[Gemeinfreiheit|gemeinfrei]]'''.\n| [[Datei:German-Language-Flag.svg|alt=|link=|55px]]\n|-\n| valign=\"middle\" |\n|Liegt eine triviale Wiedergabe vor, so erreicht diese weder die für einen urheberrechtlichen Schutz als {{wpd|Lichtbildwerk}} nötige {{wpd|Schöpfungshöhe}}, noch weist sie ein „Mindestmaß an persönlicher Leistung“ (<small>vgl. BGH GRUR 90, 669 - Bibelreproduktion</small>) auf, um in Deutschland Leistungsschutz als {{wpd|Lichtbild}} genießen zu können.\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Public-Domain-Bild (alt)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\nvgl: {{wpe|Template:PD-old-70}} (Unterschied: spricht explizit von 70 Jahren)</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

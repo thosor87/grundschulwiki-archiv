@@ -1,0 +1,26 @@
+{
+  "pageid": 4226,
+  "ns": 10,
+  "title": "Vorlage:Überschriftensimulation 4",
+  "revisions": [
+    {
+      "revid": 17463,
+      "parentid": 17462,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:57Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "{{Anker|{{{1}}}}}<div class=\"Vorlage_Ueberschriftensimulation_4\" style=\"margin:0; margin-bottom:.3em; padding-top:.5em; padding-bottom:.17em; background:none; font-size:116%; color:black; font-weight:bold\">{{{1}}}</div><noinclude>\n\n----\nSimuliert in ''Diskussionseiten'' eine Überschrift, die nicht im Inhaltsverzeichnis erscheinen soll. In ''Artikeln'' darf diese Vorlage nicht verwendet werden; dafür gibt es andere Lösungen, siehe [[Hilfe:Inhaltsverzeichnis]].\n\nFür Syntax und Anwendung siehe [[Wikipedia:Textbausteine/Formatierungshilfen]].\n\n[[Kategorie:Vorlage:Formatierungshilfe|Uberschriftensimulation 4]]\n</noinclude>"
+    },
+    {
+      "revid": 17462,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:42Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "{{Anker|{{{1}}}}}<div class=\"Vorlage_Ueberschriftensimulation_4\" style=\"margin:0; margin-bottom:.3em; padding-top:.5em; padding-bottom:.17em; background:none; font-size:116%; color:black; font-weight:bold\">{{{1}}}</div><noinclude>\n\n----\nSimuliert in ''Diskussionseiten'' eine Überschrift, die nicht im Inhaltsverzeichnis erscheinen soll. In ''Artikeln'' darf diese Vorlage nicht verwendet werden; dafür gibt es andere Lösungen, siehe [[Hilfe:Inhaltsverzeichnis]].\n\nFür Syntax und Anwendung siehe [[Wikipedia:Textbausteine/Formatierungshilfen]].\n\n[[Kategorie:Vorlage:Formatierungshilfe|Uberschriftensimulation 4]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Formatierungshilfe"
+  ]
+}

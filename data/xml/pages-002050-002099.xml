@@ -1,0 +1,1281 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Großerpanda01.jpg</title>
+    <ns>6</ns>
+    <id>4919</id>
+    <revision>
+      <id>20136</id>
+      <parentid>20133</parentid>
+      <timestamp>2016-07-07T08:04:15Z</timestamp>
+      <contributor>
+        <username>Wgsa19</username>
+        <id>10154</id>
+      </contributor>
+      <text xml:space="preserve" bytes="199">{{Information ohne UploadWizard
+|Beschreibung = Großer Panda 
+|Quelle = Wikimedia
+|Urheber =von J. Patrick Fischer (Eigenes Werk)
+
+ 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>qe3ieeaggptxartdu0zi7d5l8oexx7z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gruendeln.jpg</title>
+    <ns>6</ns>
+    <id>1999</id>
+    <revision>
+      <id>4758</id>
+      <timestamp>2006-10-27T06:20:23Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Bild von MArtin Leupold, aufgenommen am 18.10.2006, Weitergabe erlaubt.</comment>
+      <text xml:space="preserve" bytes="71">Bild von MArtin Leupold, aufgenommen am 18.10.2006, Weitergabe erlaubt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Grundriss koelner Dom.png</title>
+    <ns>6</ns>
+    <id>5863</id>
+    <revision>
+      <id>24827</id>
+      <timestamp>2021-01-24T12:35:46Z</timestamp>
+      <contributor>
+        <username>MARaphael</username>
+        <id>10392</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Grundriss Kölner Dom
+|Quelle = Wikipedia
+|Urheber = wikipedia
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="176">{{Information ohne UploadWizard
+|Beschreibung = Grundriss Kölner Dom
+|Quelle = Wikipedia
+|Urheber = wikipedia
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>3hnuvxvu9ihov7351awo6voj8pk91x5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Grundschule.png</title>
+    <ns>6</ns>
+    <id>4577</id>
+    <revision>
+      <id>18850</id>
+      <timestamp>2015-03-06T21:25:05Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Logo für den Bereich Grundschule auf ZUM.de
+|Quelle = selbst erstellt
+|Urheber = Schnurrende Elfe
+|Datum = Anfang 2015
+|Genehmigung = Erstellt für ZUM.de
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="243">{{Information ohne UploadWizard
+|Beschreibung = Logo für den Bereich Grundschule auf ZUM.de
+|Quelle = selbst erstellt
+|Urheber = Schnurrende Elfe
+|Datum = Anfang 2015
+|Genehmigung = Erstellt für ZUM.de
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>068jy2jc496im9bp7biowzii1xgrc3k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GsaMartin01.jpg</title>
+    <ns>6</ns>
+    <id>4138</id>
+    <revision>
+      <id>16944</id>
+      <timestamp>2013-05-06T08:07:52Z</timestamp>
+      <contributor>
+        <username>GSAMartin</username>
+        <id>1013</id>
+      </contributor>
+      <comment>Kirche
+Quelle:GSAMartin</comment>
+      <text xml:space="preserve" bytes="23">Kirche
+Quelle:GSAMartin</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GsaMoritz01.jpg</title>
+    <ns>6</ns>
+    <id>4160</id>
+    <revision>
+      <id>17045</id>
+      <timestamp>2013-05-08T06:34:21Z</timestamp>
+      <contributor>
+        <username>GSAMoritz</username>
+        <id>988</id>
+      </contributor>
+      <comment>Kirche
+Quelle: gsaMoritz</comment>
+      <text xml:space="preserve" bytes="24">Kirche
+Quelle: gsaMoritz</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GsaSonnenuntergang.jpg</title>
+    <ns>6</ns>
+    <id>5613</id>
+    <revision>
+      <id>23752</id>
+      <parentid>23751</parentid>
+      <timestamp>2019-07-10T03:26:11Z</timestamp>
+      <contributor>
+        <username>Wgsa40</username>
+        <id>10175</id>
+      </contributor>
+      <text xml:space="preserve" bytes="185">{{Information ohne UploadWizard
+|Beschreibung = Sonnenuntergang in Lit-et-Mixe
+|Quelle = Eigenes Bild
+|Urheber = wgsa40
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>4tyiwi42e9czrfg7jcr4cwtu0tu5oa8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsaandreas1.jpg</title>
+    <ns>6</ns>
+    <id>4701</id>
+    <revision>
+      <id>19290</id>
+      <parentid>19281</parentid>
+      <timestamp>2015-07-14T07:37:16Z</timestamp>
+      <contributor>
+        <username>GSAAndreaS</username>
+        <id>10093</id>
+      </contributor>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung = Wasserfledermaus
+|Quelle = GSAAndreaS Privat
+|Urheber = GSAAndreaS
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>bheldbejbvc8m2qnzt5zhfvb4mwhxff</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsaanika01.jpg</title>
+    <ns>6</ns>
+    <id>4125</id>
+    <revision>
+      <id>16886</id>
+      <timestamp>2013-05-06T06:29:27Z</timestamp>
+      <contributor>
+        <username>GSAAnika</username>
+        <id>1015</id>
+      </contributor>
+      <comment>Kneippbecken
+Quelle:GSAAnika</comment>
+      <text xml:space="preserve" bytes="28">Kneippbecken
+Quelle:GSAAnika</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsabelindaf1.jpg</title>
+    <ns>6</ns>
+    <id>4710</id>
+    <revision>
+      <id>19321</id>
+      <parentid>19317</parentid>
+      <timestamp>2015-07-14T10:02:37Z</timestamp>
+      <contributor>
+        <username>GSABelindaF</username>
+        <id>10080</id>
+      </contributor>
+      <text xml:space="preserve" bytes="164">{{Information ohne UploadWizard
+|Beschreibung = Tigerhai
+|Quelle = Wikipedia
+|Urheber = Albert Kok
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>3pj7jz0gcl0587ev8ym3204c5gdniy0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsachrish1.jpg</title>
+    <ns>6</ns>
+    <id>4711</id>
+    <revision>
+      <id>19323</id>
+      <parentid>19318</parentid>
+      <timestamp>2015-07-14T10:02:40Z</timestamp>
+      <contributor>
+        <username>GSAChrisH</username>
+        <id>10084</id>
+      </contributor>
+      <text xml:space="preserve" bytes="187">{{Information ohne Upload Wizard
+|Beschreibung = Eine Anthrazit Napfschnecke
+|Quelle = Wikipedia
+|Urheber = Manfred Heyde
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>0qxtt6un7vg51udtn2t92iygrv5cxr8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsaelisaw1.jpg</title>
+    <ns>6</ns>
+    <id>4690</id>
+    <revision>
+      <id>19250</id>
+      <parentid>19236</parentid>
+      <timestamp>2015-07-14T06:40:43Z</timestamp>
+      <contributor>
+        <username>GSAElisaW</username>
+        <id>10098</id>
+      </contributor>
+      <text xml:space="preserve" bytes="168">{{Information ohne UploadWizard
+|Beschreibung = Wappen
+|Quelle = gsaelisaw privat
+|Urheber = gsaelisaw
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>eeomahc1bu2z73jve3mntqdseojxuag</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsaenricog1.jpg</title>
+    <ns>6</ns>
+    <id>4708</id>
+    <revision>
+      <id>19306</id>
+      <parentid>19303</parentid>
+      <timestamp>2015-07-14T09:08:07Z</timestamp>
+      <contributor>
+        <username>GSAEnricoG</username>
+        <id>10101</id>
+      </contributor>
+      <text xml:space="preserve" bytes="160">{{Information ohne UploadWizard
+|Beschreibung = Hecht
+|Quelle =wikipedia 
+|Urheber =Milla Tom 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>97wpz58pgnndgopyh8a02sr0haoj7r6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsafabianl1.jpg</title>
+    <ns>6</ns>
+    <id>4688</id>
+    <revision>
+      <id>19245</id>
+      <parentid>19234</parentid>
+      <timestamp>2015-07-14T06:40:08Z</timestamp>
+      <contributor>
+        <username>GSAFabianL</username>
+        <id>10087</id>
+      </contributor>
+      <text xml:space="preserve" bytes="168">{{Information ohne UploadWizard
+|Beschreibung = Wappen
+|Quelle = gsafabian privat
+|Urheber = gsafabian
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>50iknuby7kqdectsfq5ysno7tdvn5sd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsafabianl2.jpg</title>
+    <ns>6</ns>
+    <id>4699</id>
+    <revision>
+      <id>19277</id>
+      <parentid>19273</parentid>
+      <timestamp>2015-07-14T07:00:12Z</timestamp>
+      <contributor>
+        <username>GSAFabianL</username>
+        <id>10087</id>
+      </contributor>
+      <text xml:space="preserve" bytes="172">{{Information ohne UploadWizard
+|Beschreibung = Schützenheim
+|Quelle = gsafabian privat
+|Urheber = fabian
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>47tthnhujen4v2ijt2ps61itvoamegf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsafranziskad1.jpg</title>
+    <ns>6</ns>
+    <id>4691</id>
+    <revision>
+      <id>19248</id>
+      <parentid>19237</parentid>
+      <timestamp>2015-07-14T06:40:10Z</timestamp>
+      <contributor>
+        <username>GSAFranziskaD</username>
+        <id>10079</id>
+      </contributor>
+      <text xml:space="preserve" bytes="196">{{Information ohne UploadWizard
+|Beschreibung = Feuerwehrhaus Eppishofen 
+|Quelle =  GSAFranziska privat 
+|Urheber = GSAFranziska 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>tn9ywpzl9swsy24v256tz8anjcudqqe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsafranziskad2.jpg</title>
+    <ns>6</ns>
+    <id>4697</id>
+    <revision>
+      <id>19275</id>
+      <parentid>19262</parentid>
+      <timestamp>2015-07-14T06:59:20Z</timestamp>
+      <contributor>
+        <username>GSAFranziskaD</username>
+        <id>10079</id>
+      </contributor>
+      <comment>GSAFranziskaD lud eine neue Version von „[[Datei:Gsafranziskad2.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Wappen am Feuerwehrhaus  
+|Quelle = GSAfranziska
+|Urheber = GSAfranziska
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmer</comment>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung = Das Wappen 
+|Quelle = GSAfranziska privat
+|Urheber = GASfranziska 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>omlpspy4s0wb6p93x9ld6l5aeza9gqj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsajessicamic01.jpg</title>
+    <ns>6</ns>
+    <id>4135</id>
+    <revision>
+      <id>16941</id>
+      <timestamp>2013-05-06T08:07:24Z</timestamp>
+      <contributor>
+        <username>GSAJessicaMic</username>
+        <id>1001</id>
+      </contributor>
+      <comment>Kneipe
+Quelle:GSAJessicaMic</comment>
+      <text xml:space="preserve" bytes="27">Kneipe
+Quelle:GSAJessicaMic</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsajessicamis01.jpg</title>
+    <ns>6</ns>
+    <id>4134</id>
+    <revision>
+      <id>16940</id>
+      <timestamp>2013-05-06T08:07:23Z</timestamp>
+      <contributor>
+        <username>GSAJessicaMis</username>
+        <id>1002</id>
+      </contributor>
+      <comment>Wallfahrtskirche
+Quelle:GSAJessicaMis</comment>
+      <text xml:space="preserve" bytes="37">Wallfahrtskirche
+Quelle:GSAJessicaMis</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsajessicar1.jpg</title>
+    <ns>6</ns>
+    <id>4693</id>
+    <revision>
+      <id>19251</id>
+      <parentid>19239</parentid>
+      <timestamp>2015-07-14T06:40:44Z</timestamp>
+      <contributor>
+        <username>GSAJessicaR</username>
+        <id>10091</id>
+      </contributor>
+      <text xml:space="preserve" bytes="173">{{Information ohne UploadWizard
+|Beschreibung = Jacke 
+|Quelle = gsajessicar Privat 
+|Urheber = gsajessicar
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>l2gjifxa2qz2qawv7uceie8ixcqx2zr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsajohanna01.jpg</title>
+    <ns>6</ns>
+    <id>4136</id>
+    <revision>
+      <id>16942</id>
+      <timestamp>2013-05-06T08:07:34Z</timestamp>
+      <contributor>
+        <username>GSAJohanna</username>
+        <id>1003</id>
+      </contributor>
+      <comment>Brunnen
+Quelle:GSAJohanna</comment>
+      <text xml:space="preserve" bytes="25">Brunnen
+Quelle:GSAJohanna</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsajonas01.jpg</title>
+    <ns>6</ns>
+    <id>4130</id>
+    <revision>
+      <id>16891</id>
+      <timestamp>2013-05-06T06:29:36Z</timestamp>
+      <contributor>
+        <username>GSAJonas</username>
+        <id>1005</id>
+      </contributor>
+      <comment>Kinderkrippe Altenmünster
+Quelle:GSAJonas</comment>
+      <text xml:space="preserve" bytes="42">Kinderkrippe Altenmünster
+Quelle:GSAJonas</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsajonas02.jpg</title>
+    <ns>6</ns>
+    <id>4150</id>
+    <revision>
+      <id>17014</id>
+      <timestamp>2013-05-06T14:19:27Z</timestamp>
+      <contributor>
+        <username>GSAJonas</username>
+        <id>1005</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsajulianv1.jpg</title>
+    <ns>6</ns>
+    <id>4689</id>
+    <revision>
+      <id>19247</id>
+      <parentid>19235</parentid>
+      <timestamp>2015-07-14T06:40:09Z</timestamp>
+      <contributor>
+        <username>GSAJulianV</username>
+        <id>10096</id>
+      </contributor>
+      <text xml:space="preserve" bytes="163">{{Information ohne UploadWizard
+|Beschreibung = Wappen
+|Quelle = SSV Privat
+|Urheber =SSV Privat 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>7hfw40uf5fkrjf1pus1dwfg17m9xwir</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsalaurenk1.jpg</title>
+    <ns>6</ns>
+    <id>4704</id>
+    <revision>
+      <id>19291</id>
+      <parentid>19284</parentid>
+      <timestamp>2015-07-14T07:37:17Z</timestamp>
+      <contributor>
+        <username>GSALaurenK</username>
+        <id>10086</id>
+      </contributor>
+      <text xml:space="preserve" bytes="166">{{Information ohne UploadWizard
+|Beschreibung = Einen Karpfen
+|Quelle = Pixelio
+|Urheber = mondstein
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>6j4h19vajpscmksjxyoucy7jzrsolx8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsalenas1.jpg</title>
+    <ns>6</ns>
+    <id>4715</id>
+    <revision>
+      <id>19347</id>
+      <timestamp>2015-07-16T09:16:57Z</timestamp>
+      <contributor>
+        <username>GSALenaS</username>
+        <id>10094</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Korallen
+|Quelle = lena privat
+|Urheber = caribian world resort
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="177">{{Information ohne UploadWizard
+|Beschreibung = Korallen
+|Quelle = lena privat
+|Urheber = caribian world resort
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>s1wytwvyhh0le9x7nw4laonl0ai2d96</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsamagdalena01.jpg</title>
+    <ns>6</ns>
+    <id>4159</id>
+    <revision>
+      <id>17044</id>
+      <timestamp>2013-05-08T06:34:21Z</timestamp>
+      <contributor>
+        <username>GSAMagdalena</username>
+        <id>994</id>
+      </contributor>
+      <comment>Brunnen
+Quelle: GSAMagdalena</comment>
+      <text xml:space="preserve" bytes="28">Brunnen
+Quelle: GSAMagdalena</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsamarco01.jpg</title>
+    <ns>6</ns>
+    <id>4129</id>
+    <revision>
+      <id>16890</id>
+      <timestamp>2013-05-06T06:29:34Z</timestamp>
+      <contributor>
+        <username>GSAMarco</username>
+        <id>1012</id>
+      </contributor>
+      <comment>Kirche
+Quelle:GSAMarco</comment>
+      <text xml:space="preserve" bytes="22">Kirche
+Quelle:GSAMarco</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsamarieh1.jpg</title>
+    <ns>6</ns>
+    <id>4695</id>
+    <revision>
+      <id>19249</id>
+      <parentid>19241</parentid>
+      <timestamp>2015-07-14T06:40:16Z</timestamp>
+      <contributor>
+        <username>GSAMarieH</username>
+        <id>10081</id>
+      </contributor>
+      <text xml:space="preserve" bytes="174">{{Information ohne UploadWizard
+|Beschreibung =Feuerwehrhaus 
+|Quelle =Privat GSAMarieH
+|Urheber = GSAMarieH
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>d92fy9ec6eox03ue0cr6njvo52jexmm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsamaximilianl1.jpg</title>
+    <ns>6</ns>
+    <id>4713</id>
+    <revision>
+      <id>19322</id>
+      <parentid>19320</parentid>
+      <timestamp>2015-07-14T10:02:39Z</timestamp>
+      <contributor>
+        <username>GSAMaximilianL</username>
+        <id>10088</id>
+      </contributor>
+      <text xml:space="preserve" bytes="173">{{Information ohne UploadWizard
+|Beschreibung = Frosch 
+|Quelle = GSAmaximilianL 
+|Urheber =GSAmaximilianL 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ktw416b881dskwqygenh5ivsqaychjt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsaniklasm1.jpg</title>
+    <ns>6</ns>
+    <id>4696</id>
+    <revision>
+      <id>19244</id>
+      <parentid>19242</parentid>
+      <timestamp>2015-07-14T06:40:05Z</timestamp>
+      <contributor>
+        <username>GSANiklasM</username>
+        <id>10089</id>
+      </contributor>
+      <text xml:space="preserve" bytes="171">{{Information ohne UploadWizard
+|Beschreibung = Schwimmbad Welden
+|Quelle = GSAnm privat
+|Urheber = GSAnm
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ejaflw0e6url99wg980h41e141zygk4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsapatrick01.jpg</title>
+    <ns>6</ns>
+    <id>4128</id>
+    <revision>
+      <id>16889</id>
+      <timestamp>2013-05-06T06:29:32Z</timestamp>
+      <contributor>
+        <username>GSAPatrick</username>
+        <id>1016</id>
+      </contributor>
+      <comment>Ein Wolf
+Quelle: GSAPatrick</comment>
+      <text xml:space="preserve" bytes="27">Ein Wolf
+Quelle: GSAPatrick</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsapaulu1.jpg</title>
+    <ns>6</ns>
+    <id>4712</id>
+    <revision>
+      <id>19324</id>
+      <parentid>19319</parentid>
+      <timestamp>2015-07-14T10:02:46Z</timestamp>
+      <contributor>
+        <username>GSAPaulU</username>
+        <id>10095</id>
+      </contributor>
+      <text xml:space="preserve" bytes="160">{{Information ohne UploadWizard
+|Beschreibung =Piranha 
+|Quelle =GSAPaulU 
+|Urheber =GSAPaulU 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>nii5t1sgc4bwnxpiyzu4ovvqtbd2j69</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsarafael01.jpg</title>
+    <ns>6</ns>
+    <id>4153</id>
+    <revision>
+      <id>17038</id>
+      <timestamp>2013-05-08T06:33:55Z</timestamp>
+      <contributor>
+        <username>GSARafael</username>
+        <id>989</id>
+      </contributor>
+      <comment>Kirche
+Quelle: GSARafael</comment>
+      <text xml:space="preserve" bytes="24">Kirche
+Quelle: GSARafael</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsaraphael001.jpg</title>
+    <ns>6</ns>
+    <id>4127</id>
+    <revision>
+      <id>16888</id>
+      <timestamp>2013-05-06T06:29:29Z</timestamp>
+      <contributor>
+        <username>GSARaphael</username>
+        <id>1008</id>
+      </contributor>
+      <comment>Schild Hegnenbach
+Quelle:GSARaphael</comment>
+      <text xml:space="preserve" bytes="35">Schild Hegnenbach
+Quelle:GSARaphael</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsaregina01.jpg</title>
+    <ns>6</ns>
+    <id>4131</id>
+    <revision>
+      <id>16892</id>
+      <timestamp>2013-05-06T06:29:38Z</timestamp>
+      <contributor>
+        <username>GSARegina</username>
+        <id>1006</id>
+      </contributor>
+      <comment>Brunnen am Feuerwehrhaus
+Quelle:GSARegina</comment>
+      <text xml:space="preserve" bytes="41">Brunnen am Feuerwehrhaus
+Quelle:GSARegina</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsasaraha1.jpg</title>
+    <ns>6</ns>
+    <id>4700</id>
+    <revision>
+      <id>19287</id>
+      <parentid>19280</parentid>
+      <timestamp>2015-07-14T07:37:15Z</timestamp>
+      <contributor>
+        <username>GSASarahA</username>
+        <id>10077</id>
+      </contributor>
+      <text xml:space="preserve" bytes="176">{{Information ohne UploadWizard
+|Beschreibung = Seepferdchen 
+|Quelle = GSASarahA Privat 
+|Urheber = GSASarahA
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>l5e3bv7g8e2ae1ujeioaoq5d4521m8x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsaselinah1.jpg</title>
+    <ns>6</ns>
+    <id>4702</id>
+    <revision>
+      <id>19288</id>
+      <parentid>19282</parentid>
+      <timestamp>2015-07-14T07:37:15Z</timestamp>
+      <contributor>
+        <username>GSASelinaH</username>
+        <id>10082</id>
+      </contributor>
+      <text xml:space="preserve" bytes="173">{{Information ohne UploadWizard
+|Beschreibung = Stockente
+|Quelle = GSASelinaH Privat
+|Urheber = GSASelinaH
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>s8i39og4cgnd17scws1vrnpnpze8xic</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsatheresap1.jpg</title>
+    <ns>6</ns>
+    <id>4707</id>
+    <revision>
+      <id>19307</id>
+      <parentid>19302</parentid>
+      <timestamp>2015-07-14T09:08:20Z</timestamp>
+      <contributor>
+        <username>GSATheresaP</username>
+        <id>10105</id>
+      </contributor>
+      <text xml:space="preserve" bytes="179">{{Information ohne UploadWizard
+|Beschreibung = Eine Seerose
+|Quelle = GSATheresaP Privat 
+|Urheber = GSATheresaP
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>1bc9q8sdeb6976vz2ekppevndhnjlhn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsatobias01.jpg</title>
+    <ns>6</ns>
+    <id>4132</id>
+    <revision>
+      <id>16938</id>
+      <timestamp>2013-05-06T08:06:44Z</timestamp>
+      <contributor>
+        <username>GSATobias</username>
+        <id>1011</id>
+      </contributor>
+      <comment>Kinderkrippe
+Quelle: götze</comment>
+      <text xml:space="preserve" bytes="27">Kinderkrippe
+Quelle: götze</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsatobiasg1.jpg</title>
+    <ns>6</ns>
+    <id>4709</id>
+    <revision>
+      <id>19305</id>
+      <parentid>19304</parentid>
+      <timestamp>2015-07-14T09:08:04Z</timestamp>
+      <contributor>
+        <username>GSATobiasG</username>
+        <id>10100</id>
+      </contributor>
+      <text xml:space="preserve" bytes="176">{{Information ohne UploadWizard
+|Beschreibung = Wasserläufer
+|Quelle = GSATobiasG Privat
+|Urheber = GSATobias
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>9j3ohxn74b2lmxhkkdsn09r5hf0ys8g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsatobiash1.jpg</title>
+    <ns>6</ns>
+    <id>4692</id>
+    <revision>
+      <id>19246</id>
+      <parentid>19238</parentid>
+      <timestamp>2015-07-14T06:40:08Z</timestamp>
+      <contributor>
+        <username>GSATobiasH</username>
+        <id>10083</id>
+      </contributor>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung = Tragkraftspritze
+|Quelle = GSATobiasH privat
+|Urheber = GSATobiasH
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>tsu9g2nhfdv8dtcrsoa9um9uonyr3fp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsatobiash3.jpg</title>
+    <ns>6</ns>
+    <id>4698</id>
+    <revision>
+      <id>19263</id>
+      <timestamp>2015-07-14T06:56:22Z</timestamp>
+      <contributor>
+        <username>GSATobiasH</username>
+        <id>10083</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Wappen
+|Quelle = GSATobiasH privat
+|Urheber = GSATobiasH 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="171">{{Information ohne UploadWizard
+|Beschreibung = Wappen
+|Quelle = GSATobiasH privat
+|Urheber = GSATobiasH 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>5yea44d78y9p2lwp3w0b9iu3w7oj9jv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsawiki.jpg</title>
+    <ns>6</ns>
+    <id>4491</id>
+    <revision>
+      <id>18342</id>
+      <timestamp>2014-06-04T06:40:36Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gseannikas.jpg</title>
+    <ns>6</ns>
+    <id>4726</id>
+    <revision>
+      <id>19381</id>
+      <parentid>19376</parentid>
+      <timestamp>2015-07-21T13:08:03Z</timestamp>
+      <contributor>
+        <username>GSEAnnikaS</username>
+        <id>10111</id>
+      </contributor>
+      <text xml:space="preserve" bytes="169">{{Information ohne UploadWizard
+|Beschreibung = Sekretärin 
+|Quelle = GSEAnnikaS
+|Urheber = GSEAnnikaS
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>nisx388nk8wknfv95k2h3dfl5yy7t82</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gseaylineg.jpg</title>
+    <ns>6</ns>
+    <id>4724</id>
+    <revision>
+      <id>19404</id>
+      <parentid>19399</parentid>
+      <timestamp>2015-07-22T19:43:56Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>MAWiedemann lud eine neue Version von „[[Datei:Gseaylineg.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="175">{{Information ohne UploadWizard
+|Beschreibung = Künstliche Nägel
+|Quelle = GSEAylineG
+|Urheber = GSEAylineG
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>rae4maojwm22h7at5m705rhu4n692r8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gsedennisd.jpg</title>
+    <ns>6</ns>
+    <id>4725</id>
+    <revision>
+      <id>19378</id>
+      <parentid>19375</parentid>
+      <timestamp>2015-07-21T13:06:57Z</timestamp>
+      <contributor>
+        <username>GSEDennisD</username>
+        <id>10108</id>
+      </contributor>
+      <text xml:space="preserve" bytes="173">{{Information ohne UploadWizard
+|Beschreibung = Heizungsbrenner
+
+|Quelle = GSEDennisD
+|Urheber = GSEDennisD
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ndpbgqlmvyl5xqkkp43ma1u5hcj4x5y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Gserebeccak.jpg</title>
+    <ns>6</ns>
+    <id>4727</id>
+    <revision>
+      <id>19379</id>
+      <parentid>19377</parentid>
+      <timestamp>2015-07-21T13:07:25Z</timestamp>
+      <contributor>
+        <username>GSERebeccaK</username>
+        <id>10110</id>
+      </contributor>
+      <text xml:space="preserve" bytes="181">{{Information ohne UploadWizard
+|Beschreibung = Lehrerin
+|Quelle = GSERebeccaK privat
+|Urheber = GSERebeccaK privat
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>av0oj34btbrsxgjlungo68g2qetdt90</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:HNI 0008 MPO.JPG</title>
+    <ns>6</ns>
+    <id>4151</id>
+    <revision>
+      <id>17027</id>
+      <timestamp>2013-05-06T17:18:16Z</timestamp>
+      <contributor>
+        <username>Sulzburg</username>
+        <id>998</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:HW10.jpg</title>
+    <ns>6</ns>
+    <id>3915</id>
+    <revision>
+      <id>15606</id>
+      <parentid>15605</parentid>
+      <timestamp>2012-06-03T20:48:36Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:HW10.jpg]]“ hochgeladen: 3 Hot Wheels Modelle</comment>
+      <text xml:space="preserve" bytes="20">3 Hot Wheels Modelle</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

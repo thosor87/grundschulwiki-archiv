@@ -1,0 +1,32 @@
+{
+  "pageid": 2061,
+  "ns": 6,
+  "title": "Datei:Gassi gehn.jpg",
+  "revisions": [
+    {
+      "revid": 5059,
+      "parentid": 5054,
+      "user": "Leupold",
+      "timestamp": "2007-01-31T20:33:38Z",
+      "comment": "",
+      "wikitext": ""
+    },
+    {
+      "revid": 5054,
+      "parentid": 5053,
+      "user": "BAKehrer",
+      "timestamp": "2007-01-31T17:34:17Z",
+      "comment": "",
+      "wikitext": "[[Bild: Gassi_gehn.jpg|Das ist Clio]]"
+    },
+    {
+      "revid": 5053,
+      "parentid": 0,
+      "user": "BAKehrer",
+      "timestamp": "2007-01-31T17:29:12Z",
+      "comment": "Das ist Clio",
+      "wikitext": "Das ist Clio"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,35 @@
+{
+  "pageid": 4023,
+  "ns": 10,
+  "title": "Vorlage:ZUM-Wiki",
+  "revisions": [
+    {
+      "revid": 17571,
+      "parentid": 16285,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:09Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#F2C18C}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#f4f0e4}}}\"\n|- \n|\n{{{1}}}\n|}<noinclude>\n\n;Das schreibt man: <pre>{{ZUM-Wiki|<Text>}}</pre>\n\n[[Kategorie:Vorlage:Artikelbausteine|ZUM-Wiki]]\n[[Kategorie:ZUM-Wiki]]\n</noinclude>"
+    },
+    {
+      "revid": 16285,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-28T20:21:59Z",
+      "comment": "aus dem ZUM-Wiki",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#F2C18C}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#f4f0e4}}}\"\n|- \n|\n{{{1}}}\n|}<noinclude>\n\n;Das schreibt man: <pre>{{ZUM-Wiki|<Text>}}</pre>\n\n[[Kategorie:Vorlage:Artikelbausteine|ZUM-Wiki]]\n[[Kategorie:ZUM-Wiki]]\n</noinclude>"
+    },
+    {
+      "revid": 17570,
+      "parentid": 16285,
+      "user": "Karl Kirst",
+      "timestamp": "2010-05-10T08:47:12Z",
+      "comment": "Das schreibt man",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#F2C18C}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#f4f0e4}}}\"\n|- \n|\n{{{1}}}\n|}<noinclude>\n\n;Das schreibt man: <pre>{{ZUM-Wiki|<Text>}}</pre>\n\n[[Kategorie:Vorlage:Artikelbausteine|ZUM-Wiki]]\n[[Kategorie:ZUM-Wiki]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Artikelbausteine",
+    "Kategorie:ZUM-Wiki"
+  ]
+}

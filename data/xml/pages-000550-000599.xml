@@ -1,0 +1,1679 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Grundschulwiki</title>
+    <ns>0</ns>
+    <id>4191</id>
+    <revision>
+      <id>21178</id>
+      <parentid>20950</parentid>
+      <timestamp>2017-04-14T11:53:22Z</timestamp>
+      <contributor>
+        <username>MATom-Tove</username>
+        <id>10130</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="260">{{Babel-1|Schüler_Verfasser}}
+Grundschulwiki ist eine Wiki für Grundschulkinder. In der Grundschulwiki kannst du Texte und Infos über verschiedene Dinge schreiben und veröffentlichen.Du kannst auch Bilder und andere Dateien hinzufügen.
+
+
+{{Rücksprung|G}}</text>
+      <sha1>s1n5794xbhjuy8zhyc3i8ccr8zdshgw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Grundwasser</title>
+    <ns>0</ns>
+    <id>3725</id>
+    <revision>
+      <id>14883</id>
+      <parentid>14874</parentid>
+      <timestamp>2011-05-17T19:55:23Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>rücksprung</comment>
+      <text xml:space="preserve" bytes="685">{{Babel-1|Schüler_Verfasser}} [[Bild:Marco-Diego.jpg|thumb|Das Grundwasser und die Schichten]]
+== Das Grundwasser==
+Als erstes regnet es über dem Land. Dann nehmen die Pflanzen das Wasser auf. Nun sickert das Wasser  durch den Humus, dann durch den Sand  und den Kies. Der Ton läst das Wasser nicht durch. So bildet sich zwischen den Ton  und der Kiesschicht  Grundwasser. Dann fließt das Wasser in  Seen, Flüssen und Bächen. Danach wird das Grundwasser von Pumpen ins [[Wasserwerk]] geleitet. Früher mussten die Menschen  das Wasser aus den Brunnen holen. 
+
+Von Marco ,Diego
+
+
+=== Literatur ===
+1.) Pusteblume (3/4) - Das Arbeitsbuch - Schroedel Verlag 2010
+
+
+{{Rücksprung|G}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Gruppe</title>
+    <ns>0</ns>
+    <id>3793</id>
+    <revision>
+      <id>15118</id>
+      <parentid>15075</parentid>
+      <timestamp>2011-12-13T19:38:29Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="86">{{Babel-1|Schüler_Verfasser}}
+
+Eine Gruppe ist eine Gemeinschaft.
+
+
+{{Rücksprung|G}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Grußworte Prof. Aufenanger</title>
+    <ns>0</ns>
+    <id>2433</id>
+    <revision>
+      <id>7017</id>
+      <parentid>6968</parentid>
+      <timestamp>2007-08-31T17:14:50Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>GrußworteAufenanger wurde nach Grußworte Prof. Aufenanger verschoben: War nicht ganz schön.</comment>
+      <text xml:space="preserve" bytes="2890">{{Kastendesign|
+   BORDER = #97BF87|
+   BACKGROUND = #AADDAA|
+   BREITE =100%|
+   INHALT=&lt;br/&gt;[[Bild:Aufenanger 05 p.jpg|thumb|Prof. Dr. Stefan Aufenanger]]Dass Kinder schon in der Grundschule mit dem Computer und dem Internet arbeiten, hat sich seit einiger Zeit durchgesetzt. Die Erfolge zeigen, dass dies bei entsprechender pädagogischer Unterstützung und sinnvoller Einbettung in den Unterricht erfolgreich sein kann, wie eine Vielzahl von Veröffentlichungen zeigen. Deshalb ist die Weiterentwicklung von Erfahrungs- und Lernmöglichkeiten für Grundschulkinder ein sinnvolles Unterfangen, nicht nur um einfach auf medientechnologische Entwicklungen zu reagieren, sondern die Potenziale der neuen Medien auch pädagogisch dort zu nutzen, wo sie das selbstständige und selbstbestimmte Lernen von Schülern und Schülerinnen erweitern. Die Web 2.0-Anwendungen ermöglichen solche Potenziale und so bietet es sich nur an, diese auch im Grundschulunterricht zu erproben. Neben den Weblogs werden vor allem Wikis als eine wichtige Erweiterung des Arbeitens mit Netzanwendungen gesehen. Neben der bekannten Wikipedia haben sich viele spezielle Wikis – also webbasierte Enzyklopädien – etabliert, die vor allem dadurch gekennzeichnet sind, dass gemeinsam und unter gegenseitiger Hilfe und Kritik an den einzelnen Artikeln geschrieben wird. Wenn Wikis also im Grundschulunterricht Anwendung finden, dann kann damit nicht nur das Erstellen von Texten den Sprachunterricht sinnvoll erweitern, sondern die gemeinsame Tätigkeit sollte als eine wichtige Ergänzung des Arbeitens in Gruppen bzw. im Team als auch des Erlernens von kooperativen Fähigkeiten gesehen werden.
+
+Das Grundschulwiki mit seinem Kinderlexikon stellt eine solche sinnvolle und vor allem motivierende Möglichkeit der Erweiterung des Arbeitens mit neuen Medien dar. Wie die einzelnen Artikel zeigen, engagieren sich die Kinder in der Produktion von Texten und den Ergänzungen durch Bilder bzw. Fotos. Sie korrigieren ihre Artikel oder ergänzen jene von anderen Kindern. Dabei lernen sie nicht nur Texte zu schreiben, sondern auch zu korrigieren bzw. zu überarbeiten. Damit entwickeln sie schon früh wichtige sprachliche Fähigkeiten und Fertigkeiten, die auch für andere Fächer als auch für den Alltag wichtig sind. Nicht zu letzt gibt ihnen die Veröffentlichung ihrer Texte im Internet durch das Wiki ein Selbstwertgefühl, etwas Interessantes und Wichtiges produziert zu haben, was auch von anderen anerkannt wird. In diesem Sinne stellt das Grundschulwiki eine bedeutsame pädagogische Leistung dar, die vor allem unter der Anerkennung des innovativen Potenzials für die Grundschule gewürdigt werden sollte.
+
+Stefan Aufenanger&lt;br/&gt;
+AG Medienpädagogik&lt;br/&gt;
+Pädagogisches Institut Universität Mainz
+|
+   BILD=Email.png|
+   ÜBERSCHRIFT=Grußworte von Prof. Dr. Stefan Aufenanger, Universität Mainz|
+ }}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Gänseblümchen</title>
+    <ns>0</ns>
+    <id>6197</id>
+    <revision>
+      <id>25560</id>
+      <timestamp>2023-03-13T12:30:43Z</timestamp>
+      <contributor>
+        <username>MANiefeldt</username>
+        <id>10618</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Der lateinische Name ist Bellis Perennis und der englische Name ist Daisy.  Das Gänseblümchen gehört außerdem zu den Korbblütern.  Es verbreitet sich fast…“</comment>
+      <text xml:space="preserve" bytes="508">Der lateinische Name ist Bellis Perennis und der englische Name ist Daisy. 
+Das Gänseblümchen gehört außerdem zu den Korbblütern. 
+Es verbreitet sich fast in ganz Mitteleuropa. 
+Das Aussehen des Gänseblümchens ist weiß bis zartrosa an den Blütenblättern.
+Die Farbe der Blüte ist gelb. 
+Ein beliebter Standort ist auf Wildwiesen und in Gärten.
+Es ist 4-15cm groß. 
+Die Besonderheiten sind Linderung von Husten, als Zutat von Pesto und Kräuterbutter. 
+[[Datei:Pexels-karol-d-409696.jpg|miniatur]]</text>
+      <sha1>0htjenln0stmz5iu87sowv6z5ohfwk7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Göltzschtalbrücke</title>
+    <ns>0</ns>
+    <id>5146</id>
+    <revision>
+      <id>24508</id>
+      <parentid>24507</parentid>
+      <timestamp>2020-06-07T16:31:15Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="647">{{Babel-1|Schüler_Verfasser}}
+== Aussehen ==
+Breite: Die dünnste Stelle ist 7,93m ,die breiteste Stelle ist 23m.&lt;br /&gt;
+Material: Die Brücke wurde aus Ziegelstein gebaut.&lt;br /&gt;
+Art: Bogenbrücke, die Brücke hat 29 Bögen.&lt;br /&gt;
+Länge: 574m&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+== Standort ==
+Verbindung: Die Brücke steht zwischen Netschkau und Mylau.&lt;br /&gt;
+Die Brücke steht im Vogtland, das liegt in Deutschland.&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+[[Datei:512px-Göltzschtalbrücke Germany.JPG|miniatur|Göltzschtahlbrücke ]]
+
+== Interessantes ==
+Sie ist die größte aus Ziegelstein gebaute Brücke der Welt. &lt;br /&gt;
+Sie wurde im Jahre 1851 eröffnet.
+
+
+{{Rücksprung|G}}</text>
+      <sha1>7w2yax1dm3dn6370jnl5otlijtyhz8d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Göltzstahlbrücke</title>
+    <ns>0</ns>
+    <id>4885</id>
+    <revision>
+      <id>20690</id>
+      <parentid>20394</parentid>
+      <timestamp>2016-07-15T08:01:23Z</timestamp>
+      <contributor>
+        <username>Wgsa30</username>
+        <id>10165</id>
+      </contributor>
+      <comment>/* Aussehen */</comment>
+      <text xml:space="preserve" bytes="1009">== Aussehen ==
+
+[[Datei:Goeltzschtalbruecke.jpg|miniatur|rechts]]
+Die 1846 bis 1851 erbaute Göltzschtahlbrücke ist die markanteste der wunderschönen Steinbrücken im Vogtland.
+
+
+Ihre 574m lange Gewölbereihe besteht aus 4 Etagen mit 29 Öffnungen und hat eine Höhe von 78m.
+
+== Standort ==
+Die Göltzschtahlbrücke ist zwischen den Orten Mylau und Netschkau.
+
+== Erfinder ==
+Johan Andreas Schubert und Robert Wilke haben den Entwurf von dieser Brücke gemacht.
+
+Aufgrund der unerwarteten schwierigen Baugrundverhältnisse müsste der Entwurf 1845 jedoch geändert werden.
+
+Im Monatsdurchschnitt waren 772 Arbeiter auf der Brücke. 
+
+31 Arbeiter verloren ihrer Leben.
+
+== Besonderheiten ==
+Die Göltzschtahlbrücke ist die größte Ziegelstenbrücke der Welt. 
+
+Für Ihren Bau wurden 26,021000 Ziegelsteine verbraucht.
+
+Beidseitig der großen Mittelöffnung,die nur in der 2 Etange ein ausstreifendes Gewölbe hat.Die Pfeiler als Doppelpfeiler mit 4 Gewölbe bei einer leichten Weite von 7,36m ausgebildet.</text>
+      <sha1>877tftik0ja0d3do38i8e0iz27r7c3f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>H</title>
+    <ns>0</ns>
+    <id>1346</id>
+    <revision>
+      <id>19007</id>
+      <parentid>16060</parentid>
+      <timestamp>2015-05-08T20:26:14Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- font-size:9pt;</comment>
+      <text xml:space="preserve" bytes="790">{{Lexikonaufruf}}
+
+{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; margin:12px; margin-top:10px&quot;&gt;[[Bild:Buchstabe-H.gif]]&lt;/div&gt;
+&lt;div style=&quot;font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Beiträge &amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;small&gt;[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteH&amp;action=edit neuen Beitrag hinzufügen!]&lt;/small&gt;&lt;/small&gt;&lt;/div&gt;
+&lt;div style=&quot;padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=3 width=100%
+|align=left valign=top width=100%|
+{{InhalteH}}
+|}
+&lt;/div&gt;
+|}</text>
+      <sha1>hkzmbg0xmsl6w9mwjpewrky7tth3tfv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>HTML</title>
+    <ns>0</ns>
+    <id>5065</id>
+    <revision>
+      <id>24510</id>
+      <parentid>21310</parentid>
+      <timestamp>2020-06-07T16:33:42Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="1030">{{Babel-1|Schüler_Verfasser}}
+===== Was ist HTML? =====
+HTML ist eine Website-Programmiersprache.
+===== Beispiel =====
+Ein Beispiel:
+
+&lt;nowiki&gt;
+&lt;!DOCTYPE html&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;html&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;head&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;title&gt;!&lt;/title&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;meta charset=&quot;ISO-8859-1&quot;&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;meta name=&quot;description&quot; content=&quot;&quot;&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;meta name=&quot;author&quot; content=&quot;&quot;&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;meta name=&quot;keywords&quot; content=&quot;&quot;&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;link href=&quot;images/1.ico&quot; type=&quot;image/x-icon&quot; rel=&quot;shortcut icon&quot;&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;frameset cols=&quot;200, *&quot;&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;frame src=&quot;menue.html&quot; name=&quot;menue&quot;&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;frame src=&quot;leer.html&quot; name=&quot;seite&quot;&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;/frameset&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;/head&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;body&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;/body&gt;&lt;/nowiki&gt;&lt;br/&gt;
+&lt;nowiki&gt;&lt;/html&gt;&lt;/nowiki&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+Ich habe bereits selbst eine HTML-Website geschrieben. Diese ist unter der URL „http://www.tom-tove.de&quot;
+
+
+{{Rücksprung|H}}</text>
+      <sha1>ts1rz0rf9cznd5nmyzsr7hmfnnvbov2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Habicht</title>
+    <ns>0</ns>
+    <id>2248</id>
+    <revision>
+      <id>6174</id>
+      <parentid>6082</parentid>
+      <timestamp>2007-04-20T06:42:45Z</timestamp>
+      <contributor>
+        <username>Alex.PPS</username>
+        <id>272</id>
+      </contributor>
+      <text xml:space="preserve" bytes="418">Er lebt in Nordamerika, Nordasien und Nordeuropa. Dort lebt er in Wäldern. Das Weibchen wird 60cm groß und das Mänchen 50cm groß. Der Habicht gehört zur Familie der Raubvögel. Er kann fliegen und laufen. Der Habicht wird bis zu 28 Jahre alt. Er legt 2-4 Eier. Die Brutzeit dauert 35-40 Tage. Der Habicht frisst Mäuse, Ratten, Kaninchen und Hamster. Die Feinde sind der Uhu und der Seeadler.
+
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hades, Gott der Unterwelt</title>
+    <ns>0</ns>
+    <id>2913</id>
+    <revision>
+      <id>23639</id>
+      <parentid>23638</parentid>
+      <timestamp>2019-05-08T11:18:46Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <text xml:space="preserve" bytes="805">{{Babel-1|Schüler_Verfasser}}
+'''Hades''' war der griechische Gott der Unterwelt. Römer nannten ihn '''Pluto'''. Das bedeutet der Reiche. Der Verstorbene muss den großen Fluss '''Styx''' überqueren. Der Eingang der Unterwelt wird von einem dreiköpfigen Hund bewacht. Der heißt Zerberos.  Er passt auf, dass keine tote Seele herauskommt und kein lebendiger Mensch hineinkommt.
+
+Nur '''Orpheus''' hat es geschafft den dreiköpfigen Hund auszutricksen. Er spielte so gut auf seiner Harfe, dass der Hund einschlief. Orpheus wollte nämlich seine verstorbene Geliebte, '''Eurydike''', retten. Hades versprach ihm alles, wenn er sich bis zur Oberwelt nicht umdreht. Doch er drehte sich vor dem Ausgang um und Eurydike verschwand in der Unterwelt. Orpheus musste alleine zurückkehren.
+
+
+
+{{Rücksprung|H}}</text>
+      <sha1>07hf8oj01s8ulwj5jrggq8djupud2fu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hafer</title>
+    <ns>0</ns>
+    <id>3747</id>
+    <revision>
+      <id>14916</id>
+      <parentid>14869</parentid>
+      <timestamp>2011-05-31T20:03:54Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>rücksprung</comment>
+      <text xml:space="preserve" bytes="872">{{Babel-1|Schüler_Verfasser}} [[Bild:Emily und Isabel.jpg|thumb|Der Hafer]]
+== Der Hafer ==
+Aus  Hafer kann man Haferflocken, Hafergrütze  und Haferschleim herstellen. Vor  allem  Pferde essen  Hafer. Diese  Getreideart wächst  vor allem im nördlichen, gemäßigten Klimagebiet. Hafer ist für die  Ernährung  der  Menschen nicht ganz  so wichtig wie der  Weizen. Hauptsächlich  wird er als Viehfutter  verwendet.  Der Hafer besitzt  lange dünne   Körnern  .  Der Hafer hat außerdem  eine Rispe  statt  eine Ähre und keine  Grannen. Dieses  Getreide  gilt  lange als  nutzloses  Unkraut. Zur  Kulturpflanze ist der  Hafer vor   etwa  2000 bis 3000  Jahren   geworden. Hafer  wird im   März  oder  April  ausgesät  und  im August geerntet.
+
+
+=== Literatur ===
+# www.hamsterkiste.de
+# www.grundschul-abc.de.vu
+# www.medienwerkstatt-online.de
+
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Haferhorde</title>
+    <ns>0</ns>
+    <id>5887</id>
+    <revision>
+      <id>24978</id>
+      <parentid>24977</parentid>
+      <timestamp>2022-02-13T09:52:46Z</timestamp>
+      <contributor>
+        <username>MALea2</username>
+        <id>10469</id>
+      </contributor>
+      <minor/>
+      <comment>/* Titel */</comment>
+      <text xml:space="preserve" bytes="1533">{{Babel-1|Schüler_Verfasser}}
+== Autorin ==
+''Suza Kolb'' ist im Rheinland geboren und hat schon mit neun Jahren Geschichten geschrieben. Sie ist viel durch die Welt gereist.
+
+== Tiere vom Blümchenhof ==
+Die Ponys heißen Schoko, Keks und Toni. Auf dem Blümchenhof leben noch: die drei Hühner-Damen Frau Gelb, Frau Grün und Frau Blau, der Hund Bruno, die Katze Amalie, die Gräfin (die Gräfin ist das Pferd von Frau Blümchen), der Wallach Ole und das Fohlen Finchen (richtiger Name von Finchen: Josefine Kaatje, Achtung: Finchen gibt es erst ab „So ein Fohlentheater“).
+Die Gräfin hat einen langen Namen und der lautet: Gräfin Julietta Rotrubin von der Seenweide aus der Juliarose Kaiserspiel von Rosenstolz aus der Kathleen Evergreen von Fürstenberg aus der Freudenfest im Maiengrün von Löwenzahn aus der Kassiopeia Eldorakla Blau von Weißensee aus der Bellefleur Feenstaub und Mistelzweig von Lothringen.
+
+==Hauptpferd==
+Schoko ist die Hauptperson.
+
+== Bücher ==
+Es gibt 19 Bücher.
+
+== Titel ==
+Die Titel lauten:
+# Flausen im Schopf
+# Volle Mähne!
+# Immer den Nüstern nach!
+# Schmetterlinge im Ponybauch
+# Stallpiraten ahoi!
+# Hopp, hopp, hurra!
+# Huf über Kopf
+# So ein Fohlentheater!
+# Süßer die Hufe nie klingen
+# Für kein Heu der Welt
+# Eins, zwei, Ponyzei!
+# Jetzt geht‘s um die Möhre!
+# Das ist ja der Ponygipfel!
+# Löschen im Galopp
+# Volle Ponyfahrt voraus!
+# Advent, Advent, ein Pony rennt!
+# Märchenstund‘ hat Heu im Mund
+# Pony bei die Fische
+# Gans schön gefährlich!
+
+{{Rücksprung|H}}</text>
+      <sha1>pqkdurjn6v841yz3y7tgffv50rb2lu5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Haflinger</title>
+    <ns>0</ns>
+    <id>1737</id>
+    <revision>
+      <id>18748</id>
+      <parentid>3905</parentid>
+      <timestamp>2015-01-11T22:04:15Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="568">{{Babel-1|Schüler_Verfasser}}
+Der Haflinger ist eine Ponyrasse, die aus Österreich stammt. Der erste Haflinger wurde in dem Dorf Hafling gezüchtet, daher sein Rassename. Dieses Pony hat hellbraunes Fell und eine weiße Mähne und einen weißen Schweif. Es kann bis zu 40 Jahren alt werden. Das ist dann für Pferde sehr alt. Haflinger kann man in allen Pferdesportarten einsetzen, sie eignen sich aber auch als Freizeitpferde. In den Alpen leben manche Haflinger den Sommer über auf saftig grünen Bergwiesen.
+--Jasmin 17:09, 2. Jun 2006 (CEST)
+
+
+{{Rücksprung|H}}</text>
+      <sha1>6jsqwvjymic2ulf68sc8gddt166dxit</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hai</title>
+    <ns>0</ns>
+    <id>2550</id>
+    <revision>
+      <id>20274</id>
+      <parentid>20166</parentid>
+      <timestamp>2016-07-09T19:12:07Z</timestamp>
+      <contributor>
+        <username>Wgsa02</username>
+        <id>10137</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1262">{{Babel-1|Schüler_Verfasser}}
+'''Hai'''
+[[Bild:Hammerhai.jpg|thumb|So sieht ein Hammerhai aus.]]
+[[Bild:Weißer_Hai.jpg|thumb|So sieht ein weißer Hai aus.]]
+Die Haie leben im Meer. Es gibt verschiedene Arten von Haien z.B. Hammerhaie, Weißhaie, Tigerhaie, Walhaie, Riesenhaie….
+Die meisten Hai-Weibchen legen keine Eier. Sie bringen lebende Junge zur Welt. Im Mutterleib fressen die großen Jungen die kleinen auf. Bei einigen Haiarten bleibt nur mehr ein Junges übrig.
+
+Die Menschen fürchten sich am meisten vor den Haien. Die Haie haben einen starken Körper. Sie haben sehr spitze Zähne. Sie schwimmen sehr schnell. Wenn sie eine Beute sehen, schnappen sie zu. Es gibt auch ungefährliche Haie. Sie beißen nicht und sind keine Gefahr für die Menschen.Z.b.: Der größte Hai der Welt ist der Walhai. Er ist ungefähr 12  Meter lang.   Der zweitgrößte Hai ist der Riesenhai. Er ist 10 Meter lang.
+
+Der Weißhai und der Hammerhai können den Menschen gefährlich werden. Der Weißhai hat sehr scharfe Zähne. Ein Zahn ist ungefähr so lang wie ein Finger. Für den Weißhai sind wir Menschen nur ein kleiner Happen. Kein Mensch weiß wie oft Haie Menschen verletzen oder töten. Etwa fünfzig Mal im Jahr greifen Haie Menschen an.
+
+
+{{Rücksprung|H}}</text>
+      <sha1>446i21q1bfpdhg25n1bo8cf5zbprq8x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Halloween</title>
+    <ns>0</ns>
+    <id>2002</id>
+    <revision>
+      <id>13982</id>
+      <parentid>7504</parentid>
+      <timestamp>2010-11-05T08:23:05Z</timestamp>
+      <contributor>
+        <username>BKOskar</username>
+        <id>816</id>
+      </contributor>
+      <text xml:space="preserve" bytes="775">{{Babel-1|Schüler_Verfasser}}
+[[Bild:Img004.jpg|thumb|Ein &quot;Gespenst&quot; an Halloween!]]
+== Halloween ==
+
+Halloween ist ein Fest. Es ist die Nacht vor Allerheiligen (1. November). An Halloween laufen die Kinder durch die Straßen und fragen nach Süßigkeiten. Sie rufen „Süßes oder Saures“. Sie sind gruselig verkleidet, z.B wie Hexen, wie Draculas oder wie Skelette und Geister. In der Nacht sollen die bösen Geister vertrieben werden. Halloween ist ursprünglich aus Irland, dann wurde es in Amerika gefeiert. 
+
+
+Halloween ist nur einmal im Jahr. Die Kinder verkleiden sich und gehen von Tür zur Tür, um sich 
+etwas Süßes zu holen. Aber Vorsicht, viele erschrecken sich auch. Manche Kinder sind z.B: Hexe, Drakula, Skelett oder ein Werwolf.   
+
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hamburg</title>
+    <ns>0</ns>
+    <id>5910</id>
+    <revision>
+      <id>24965</id>
+      <parentid>24964</parentid>
+      <timestamp>2021-09-12T16:21:02Z</timestamp>
+      <contributor>
+        <username>MAMartens2</username>
+        <id>10464</id>
+      </contributor>
+      <comment>/* Hamburg */</comment>
+      <text xml:space="preserve" bytes="215">= Hamburg =
+'''Hamburg''' ist eine Stadt und ein Stadtstaat in Norddeutschland.
+Dieser Artikel befindet sich im Aufbau. Es folgen weitere Informationen über die Stadt und ihre Sehenswürdigkeiten.
+{{Rücksprung|H}}</text>
+      <sha1>lp6ge2tig80vmq8qkb3l22qnwllm9zz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hamburger Sportverein</title>
+    <ns>0</ns>
+    <id>4439</id>
+    <revision>
+      <id>18436</id>
+      <parentid>18137</parentid>
+      <timestamp>2014-06-06T11:19:59Z</timestamp>
+      <contributor>
+        <username>MALeupold</username>
+        <id>710</id>
+      </contributor>
+      <text xml:space="preserve" bytes="225">Hamburg bleibt in der Bundesliga für 52 jahre.Im Hinspiel sicherten sie sich ein 0:0.Im Rückspiel holte Pierre Michel Lasogga das
+1:0.Dann in der 62 spiel minute erzielte Stephan Fürstner das 1:1 aber es hat Nichts.Am ende</text>
+      <sha1>3i9dmzchojhyzojp0q159fa1dw0cze1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hamster</title>
+    <ns>0</ns>
+    <id>2001</id>
+    <revision>
+      <id>14213</id>
+      <parentid>9864</parentid>
+      <timestamp>2010-11-24T20:18:03Z</timestamp>
+      <contributor>
+        <username>MALukas</username>
+        <id>837</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="4793">{{Babel-1|Schüler_Verfasser}}
+[[Bild:Lemmings.JPG|thumb|Hier sitzt Bobo in seiner Futterschüssel.]]
+
+Hamster haben zwei lange Nagezähne und sind Nagetiere. Hamster werden ebenso wie Ratten zwei bis drei Jahre alt. Die Vorfahren des [[Goldhamster|Goldhamsters]] stammen aus den Steppen Syriens. Dort leben die &quot;Goldhamster&quot; wild. Ihr goldschimmerndes Fell hat ihnen ihren Namen gegeben. Sie sind in der Natur selten geworden. Hamster bewohnen unterirdische Bauten in denen sie den Tag verbringen und ihren Winterschlaf halten. Erst in der Dämmerung werden sie aktiv und begeben sich auf die Suche nach Nahrung. Sie fressen vor allem Samen, aber auch andere Pflanzenteile. Der Hamster darf nicht mit spitzen Körnern gefüttert werden, damit er sich nicht an der Backe verletzt. Das typische Merkmal der Hamster sind ihre Hamsterbacken. In ihnen tragen sie Vorräte in den Bau. Die Zähne wachsen ständig nach.&lt;br&gt;
+Hamster leben - abgesehen von der Paarungszeit - alleine. Deshalb ist es völlig in Ordnung, einen Hamster allein zu halten. Hast du Weibchen und Männchen gemeinsam, dann kannst du mit viel Nachwuchs rechnen: Etwa sieben Mal im Jahr bekommt das Weibchen 8 -10 Junge. Alle Weibchen, die bei diesem ersten Wurf geboren werden, können bereits nach zehn Wochen wieder Junge bekommen.&lt;br&gt;
+Wenn der Hamster verloren geht, dann kann man ihm eine Futterfalle stellen. Man muss dafür ein Glas mit Futter füllen und auf den Boden legen. Dann geht der Hamster in die Falle.
+
+== '''Der Hamster als Haustier''' ==
+
+'''Verschiedene Arten'''
+
+'''Was ist ein Hamster?'''
+Der Hamster ist ein Nagetier und nachtaktiv. Er frisst gerne Samen und Nüsse. Sein Fell ist Kurzhaarig und wohnt in einem Bau.
+
+'''Hamster Geschichte'''
+Goldhamster wurden erstmals 1839 von George Waterhouse, dem Kurator der Londoner Zoologischen Gesellschaft wissenschaftlich beschrieben.
+
+'''Verschiedene Arten'''
+1. Name : Zwerghamster
+Verbreitungsgebiet: Er lebt in den Steppen von China und Sibirien
+Farbe / Aussehen: Der Zwerghamster hat ein graubraunes Fell
+
+2. Name : Goldhamster
+Verbreitungsgebiet: Er lebt in Aleppo in Syrien .
+Farbe / Aussehen: meist kurzhaarig
+
+3. Name: Maushamster
+Verbreitungsgebiet : Iran
+Farbe/ Aussehen: sieht der Maus ähnlich
+
+
+'''Hamsterhaltung'''
+
+'''Was erwartet ein Hamster von mir?'''
+Ein Hamster erwartet viel Bewegung, Versorgung, Pflege und Nahrung von mir.
+Voraussetzung für die Hamsterhaltung
+Hamster schlafen morgens (am Tag) und dürfen dabei nicht geweckt werden. Hamster sind Einzelgänger und dürfen nicht mit anderen Tieren zusammen gehalten werden.
+
+'''Einrichtung'''
+Für die Einrichtung des Hamsterheims benötigt man ein Hamsterklo, Sand oder Kleintierstreu, Stroh, Heu, Papiertaschentücher, eine Wasserflasche und einen Futternapf.
+
+'''Hamsterspielzeug'''
+Als Spielzeug benutzt der Hamster das Laufrad, Papierröhren, Dosen, Korkröhren und auch durchlöcherte Baumstämme.
+
+'''Zubehör'''
+Wichtiges Zubehör für die Hamsterhaltung ist der Käfig, das Schlafhäuschen, ein Laufrad, Tropftränke, Heu und Kleintierstreu.
+
+
+'''Futter'''
+Der Speisezettel des Hamsters besteht aus Basisfutter, Frischfutter und Leckerchen.
+
+'''1. Basisfutter:''' Heu, Stroh, Rohe Nudeln, Knäckebrot, Zwieback, Zirbennüsse, Erdnüsse, Reis, Mais, Gerste, Weizen, Kolbenhirse
+
+'''2. Frischfutter:''' Obst, Gemüse, Salat, Trauben, Mandarinnen, Eiweißfutter (Joghurt, Mehlwürmer)
+
+'''3. Leckerchen:''' Rosinen, Trockenobst in geringen Mengen, sonst verkleben die Backentaschen, Knabberstangen, Mais, Sonnenblumenkerne, Haferflocken, Knabberringe
+
+'''Futterplan'''
+1 mal pro Tag: Trocken-, Saft- und Frischfutter, Wasser, Nagematerial
+2 bis 3 mal pro Woche: Eiweißfutter
+1 mal pro Woche: Leckerbissen
+
+
+'''Pflege'''
+
+'''Krankenpflege'''
+Medikamente verabreicht man am besten vermischt mit einen halben Teelöffel Obst oder Gemüsebrei.
+
+'''Fellpflege'''
+Mit der Zunge beleckt sich der Hamster ausgiebig das Fell und putzt sich zusätzlich mit den Vorderpfötchen.
+
+'''Nagezähnepflege'''
+Mit zu langen Zähnen kann der Hamster nicht mehr richtig fressen. Schaue sie wöchentlich an. Lasse sie bei Bedarf vom Tierarzt kürzen.
+
+'''Reinigung'''
+Die Hamstertoilette sollte täglich gereinigt werden, das gesamte Gehege höchstens alle 2-4 Wochen.
+
+
+'''Körperbau und Krankheiten'''
+
+'''1. Sinne:''' Der Hamster hat eine gute Nase. Er kann auch sehr gut hören. Sehen kann er nicht so gut.
+
+'''2. Körperbau:''' Das Weibchen wiegt ca.80-150g und die Böcke 100-160g. Die Körpertemperatur liegt bei 38 Grad.
+
+'''3. Krankheiten:''' Hamster zeigen Krankheiten recht spät an ,deshalb solltest du die Tiere immer gut beobachten.
+
+'''4.Nachwuchs:''' Der Hamster bekommt bis 10 Junge. Die Paarungszeit
+ist im Mai. Die kleinen Hamster werden blind und taub geboren.
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hamsterkäfig</title>
+    <ns>0</ns>
+    <id>2011</id>
+    <revision>
+      <id>4838</id>
+      <parentid>4836</parentid>
+      <timestamp>2006-12-08T19:05:22Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="135">{{Babel-1|Schüler_Verfasser}}
+Hamsterkäfige sollten groß sein und genügend Platz haben für einen Schlafplatz.
+
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Handball</title>
+    <ns>0</ns>
+    <id>2219</id>
+    <revision>
+      <id>12014</id>
+      <parentid>12013</parentid>
+      <timestamp>2009-06-15T14:10:45Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>/* Spiel(Feld): */ überschrift angepasst</comment>
+      <text xml:space="preserve" bytes="1650">{{Babel-1|Schüler_Verfasser}}
+Handball spielt man nur mit der Hand. Wenn ein Spieler den Fuß benutzt, gibt es einen Freiwurf.
+In einer Mannschaft sind 6 Spieler und 1 Torwart. Es gibt verschiedene Handballgrößen - von mini bis Größe III.
+Man kann Handball auch im Sand spielen, dann kann man den Ball nicht doppen.
+Die Spieler haben T-shirts und kurze Hosen an, der Torwart trägt lange Hosen und ein langärmeliges Hemd.
+Wenn ein Tor gefallen ist, geht das Spiel normal weiter.
+
+Beim Handball gibt es sechs Feldspieler und ein Torwart. Vor jedem Tor  gibt es einen Halbkreis Radius von sechs Metern.  
+ 
+===Regeln:===
+
+Man darf alles benutzen außer die Beine und die Füße.
+In den (Halb)kreis darf niemand rein , außer dem Torwart.
+Man darf nicht in den Arm greifen. Wenn man so etwas oder sonstige Sachen macht , bekommt man erst eine gelbe Karte dann 2 min.  rote Karte. 
+
+
+=== Tore: ===
+
+Die Tore sind zwei Meter hoch und drei Meter breit.
+
+
+=== Spielfeld: ===
+Ein Spiel  dauert zwei mal 30 Minuten. In jeder Halbzeit darf der Trainern eine Auszeit nehmen.     
+Ein Handballfeld ist 40 Meter lang , und 20 Meter breit.
+
+=== Ball: ===
+
+Es gibt verschiedene Ballgrößen mini, 1,2 und 3. 
+                 
+      
+
+=== Spitzenvereine / Spitzenspieler: ===
+
+Sind der THW Kiel, der HSV Handball und die Rhein Neckar Löwen aus Deutschland sowie Ciudad Real und FC Barcelona aus Spanien . Die besten Nationalmannschaften sind  Deutschland , Polen und Frankreich sowie Spanien . 	
+Der beste Spieler ist Nikola Karabatic . Weitere gute sind : Michael Kraus , Therry Omeyer , Pascal Hens , Johannes Bitter und Dominik Klein .
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Handspanne</title>
+    <ns>0</ns>
+    <id>3391</id>
+    <revision>
+      <id>12955</id>
+      <parentid>12925</parentid>
+      <timestamp>2009-12-16T09:42:47Z</timestamp>
+      <contributor>
+        <username>MALeupold</username>
+        <id>710</id>
+      </contributor>
+      <text xml:space="preserve" bytes="210">{{Babel-1|Schüler_Verfasser}}
+Die Handspanne ist ein [[Naturmaß]]. Sie ist bei jedem Mensch anders. Sie geht entweder vom Daumen bis zum kleinen Finger oder vom Daumen bis zum Zeigefinger.
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Handy</title>
+    <ns>0</ns>
+    <id>5008</id>
+    <revision>
+      <id>23709</id>
+      <parentid>21034</parentid>
+      <timestamp>2019-06-09T10:58:09Z</timestamp>
+      <contributor>
+        <username>MADacjan</username>
+        <id>10378</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1090">== Das Handy ==
+'''Das Handy ist ein Gerät, das z. b. Spiele, Wetter Apps usw. von einem Store z. b. App Store installieren kann.'''
+[[Datei:Mobile Phone Evolution 1992 - 2014.jpg|miniatur|Handy Entwicklung]]
+* Es ähnelt einem Tablet, ist aber kleiner und dünner
+* Es gibt Touch-Handys und Tasten-Handys
+* Wenn man WLAN hat und etwas im Internet nachsehen mag kommt man zu fast allen, nicht gesperrten Seiten
+* Das im Moment (2016/2017) neuste Handy ist das Samsung Galaxy S7; Es erschien am 11. März 2016
+* Der günstigste Preis dafür (12.16/1.17) beträgt 199,97 € (ohne Porto).  
+* Das erste Handy der Welt erschien 1926, heißt Simon und kostet nach der alten Geldweise 900 Dollar
+* Ab dem Jahr 2036 sagen Experten, wird das Handy eine Art Armband sein. Es gibt uns z.B. Beratung beim Klamotten kaufen, kann mit uns reden und nervt auch manchmal ein bisschen.
+* Jedes Handy braucht eine winzige Speicherkarte, die alles was auf dem Gerät gemacht wird, speichert (Es kann auch sein das dein Handy, eine Festplatte schon eigebaut ist)
+[[Datei:Gsm sim-karte.jpg|miniatur|Simkarte]]</text>
+      <sha1>ots66jzslhcuwcmz4r3bmfgwuf6gof9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hangburg</title>
+    <ns>0</ns>
+    <id>3246</id>
+    <revision>
+      <id>11818</id>
+      <parentid>11762</parentid>
+      <timestamp>2009-05-18T12:06:45Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>neue überschrift</comment>
+      <text xml:space="preserve" bytes="1027">{{Babel-1|Schüler_Verfasser}}
+
+Hangburgen sind Burgen,die am eines Berges liegen.Sie werden unterhalb des Gipfels erbaut.Sie hatten den Vorteil,dass sie nicht so tiefe Brunnen bauen mussten wie auf anderen Burgen.Die Nachteile der Hangburgen sind ,dass die Angreifer schneller die Burg erreichen können,weil sie unten am Berg liegen.In den deutschen Mittelgebirgen befanden sich zahlreiche Hangburgen,besonders an Bach -und Flusstälern.Sie  wurden oft als  Zollburgen errichtet und lagen an Handelswegen.Beispiele für eine Hangburg: Burg Katz,Burg Ehrenfels und die Rietburg.
+
+===Burg Katz===
+Eigentlich trug die Burg den Namen Neukatzelnbogen,das Volk hat diesen Namen auf Burg Katz verkürzt.Burg Katz war auch eine Hangburg und gehörte dem Graf von Hessen.1928 wurde die Burg versteigert.1936 wurde ein Schulungslager eingerichtet.Die Burg fällt durch ihre ungewönliche Grundfläche und dadurch Kompakte Bauweise auf.Zentrales Element der Befestigung war der Ursprüngliche 40 Meter hohe Haubtturm.
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hans im Glück</title>
+    <ns>0</ns>
+    <id>5109</id>
+    <revision>
+      <id>21302</id>
+      <parentid>21292</parentid>
+      <timestamp>2017-06-16T11:32:05Z</timestamp>
+      <contributor>
+        <username>MAStrootmann</username>
+        <id>10235</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1364">                                                                                                                   {{Babel-1|Schüler_Verfasser}} 
+Das Märchen Hans im Glück wurde von den Gebrüder Grimm geschrieben.
+Hans arbeitet sieben Jahre bei seinem Herren, nun will er seinen Lohn bekommen. Er bekommt einen Goldklumpen, der so groß wie Hans Kopf ist. Auf dem Heimweg trifft er einen Reiter, tauscht seinen Klumpen gegen das Pferd ein und reitet weiter. Nach einer Weile trifft er einen Bauern mit einer Kuh. Er tauscht er das Pferd gegen die Kuh und geht fröhlich weiter. Er hat Durst und will die Kuh melken, doch die gibt keine Milch, also tauscht er die Kuh beim Metzger gegen ein Schwein. Auf dem Weg trifft er einen Burschen mit einer Gans. Er überredet Hans, das Schwein gegen die Gans zu tauschen. Hans ist glücklich über den Tausch und geht weiter. Er kommt an einen Markt und trifft einen fröhlichen Scherenschleifer. Der Scherenschleifer erzählt ihm, wieviel Geld er mit seiner Arbeit macht. Hans ist begeistert und tauscht seine Gans gegen ein paar Steine, damit er auch Scherenschleifer werden kann. Die Steine werden ihm zu schwer und er macht eine Pause an einem Brunnen. Dabei fallen ihm die Steine in den Brunnen. Doch Hans ist Glücklich, weil er die Steine nun nicht mehr tragen muss. Er geht fröhlich nach Hause zu seiner Mutter.</text>
+      <sha1>98bgagrn2l5vmu8dcgvlngmpgo4ipho</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Harbour Bridge Sydney</title>
+    <ns>0</ns>
+    <id>4881</id>
+    <revision>
+      <id>20386</id>
+      <parentid>20383</parentid>
+      <timestamp>2016-07-12T06:49:37Z</timestamp>
+      <contributor>
+        <username>Wgsa25</username>
+        <id>10160</id>
+      </contributor>
+      <comment>/* Aussehen */</comment>
+      <text xml:space="preserve" bytes="699">== Aussehen ==
+
+[[Datei:Harbourbridge02.jpg|miniatur|rechts]]
+Die Harbour Bridge ist eine Bogenbrücke aus Stahl.
+Die Länge beträgt 1.149m und sie hat ein Gewicht von 
+52.800t.
+
+== Standort ==
+Sie steht in Australien, genauer gesagt in der
+größten Stadt Sydney,in der Nähe von dem weltberühmten
+Opernhaus.Sie verbindet Sydney-Nord und Sydney-Süd.
+
+== Baumeister ==
+Die Brücke wurde von John Bradfield erbaut. Die Bauzeit betrug 6 Jahre von 1926-1932.
+
+== Besonderheiten==
+
+Die Einwohner von Sydney nennen die Brücke „Kleiderbügel“. 
+Man kann über den Bogen der Brücke laufen.Ein Anstrich der Brücke dauert 10 Jahre.
+Wenn die Maler fertig sind, müssen sie wieder von vorne beginnen.</text>
+      <sha1>75k4zqj7jmdy53ajqqbf55klrbqj6im</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hardware</title>
+    <ns>0</ns>
+    <id>1766</id>
+    <revision>
+      <id>4038</id>
+      <parentid>4035</parentid>
+      <timestamp>2006-07-19T14:21:30Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="263">{{Babel-1|Schüler_Verfasser}}
+Die Hardware sind die Teile am Computer, die man anfassen kann. Wie z.B. der Bildschirm, die Maus usw. Die Teile des Computers, die man nicht anfassen kann, wie zum Beispiel das Malprogramm, heißen [[Software]].
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Harfe</title>
+    <ns>0</ns>
+    <id>4601</id>
+    <revision>
+      <id>21453</id>
+      <parentid>21400</parentid>
+      <timestamp>2017-07-06T06:18:11Z</timestamp>
+      <contributor>
+        <username>Wgsa10</username>
+        <id>10145</id>
+      </contributor>
+      <text xml:space="preserve" bytes="574">== Verwendung ==
+Die Harfe spielt man in Orchestern oder auch in der Volksmusik &lt;br /&gt;
+
+
+== Geschichte der Harfe ==
+Sie gehört zu den Zupfinstrumenten,die Harfe gehört zu dem ältesten Instrument. Bei Menschen in Irland ist die Harfe etwas besonderes.&lt;br /&gt;
+
+
+== Spielweise ==
+Sie wird mit zwei Händen gespielt, der Rahmen wird auf den Spieler zugekippt,auf die Schulter.Jede Saite hört sich anders an.&lt;br /&gt;
+
+
+== Aussehen der Harfe ==
+Die Harfe ist das größte Instrument.Sie hat 47 verschiedene Saiten, zwischen einem dreieckigen Rahmen sind die Saiten gespannt&lt;br /&gt;</text>
+      <sha1>83g314t9ov9xxjujw6snuwog81ww8a1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Harpyie</title>
+    <ns>0</ns>
+    <id>2461</id>
+    <revision>
+      <id>7235</id>
+      <parentid>7223</parentid>
+      <timestamp>2007-11-30T17:13:06Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>layout</comment>
+      <text xml:space="preserve" bytes="518">Die Harpyie
+Harpyien sind sehr große Greifvögel, nicht die größten aber die stärksten.&lt;br&gt;
+Sie fressen: Faultiere, Affen, kleine Nagetiere und andere Vögel.&lt;br&gt;
+Harpyien leben zum Beispiel im südamerikanischen Dschungel.&lt;br&gt;
+Dort nisten sie auf hohen, kahlen Bäumen.&lt;br&gt;
+Sie haben eine kleine Haube.&lt;br&gt;
+Manche Leute sagen, Harpyien sind fliegende Dämonen, die die Sehlen der Toten in den  Himmel bringen, um sie Gott zu geben, der sie wieder belebt, natürlich ist das nur eine Legende. 
+
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Harry Potter</title>
+    <ns>0</ns>
+    <id>4089</id>
+    <revision>
+      <id>19567</id>
+      <parentid>17246</parentid>
+      <timestamp>2016-03-09T07:48:48Z</timestamp>
+      <contributor>
+        <username>BMschüler2</username>
+        <id>10013</id>
+      </contributor>
+      <text xml:space="preserve" bytes="866">{{Babel-1|Schüler_Verfasser}}
+Harry Potter hat dunkelgrüne Augen und buschiges schwarzes Haar.Er muss die Socken seines Onkels tragen und die Anziehsachen seines Cousin Dudley,weil seine Verwanten &lt;u&gt;nicht&lt;/u&gt; bereit sind ihm neue eigene Sachen zu kaufen.Er hat eine Brille mit runden Gläsern.
+Die ist allerdings schon ziemlich kapput, weil er sehr oft mit Dudley rangeln muss. Seine Eltern wurden in einer dunklen Nacht umgebracht. Dieses Werk hat der böse Zauberer Lord Voldemort  vollbracht. Deswegen wohnt er bei seinem Onkel Vernon seiner Tante Petunia und bei seinem
+Cousin Dudley.Die übrigens &lt;u&gt;nicht&lt;/u&gt; besonders nett zu ihm sind. Er wusste bis zu seinem 11. Geburtstag garnicht das er ein Zauberer ist.Harry Potter geht auf die Schule Hogwarts für Hexerei und Zauberei mit dem Schulleiter Albus Perceval Wulfric Brian Dumbledore.
+
+
+{{Rücksprung|H}}</text>
+      <sha1>fcitkxsfemfr5jiuky8vhqelxkvuvfb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Harry Potter Geschichte</title>
+    <ns>0</ns>
+    <id>6181</id>
+    <revision>
+      <id>25500</id>
+      <parentid>25493</parentid>
+      <timestamp>2023-02-08T02:48:46Z</timestamp>
+      <contributor>
+        <username>FZrita3</username>
+        <id>10602</id>
+      </contributor>
+      <text xml:space="preserve" bytes="585">
+Harry Potter Geschichte
+Harry Potter ist eine Geschichte in Büchern und Filmen.
+Er ist ein Schüler in einer Zauberschule. Die schule heißt die Hogwarts Schule.
+Die Geschichte findet in Großbritannien statt.
+Er kämpft oft gegen Lord Voldemord.
+Es gibt 7 Bücher und 8 filme.
+8 Filme gibt es, weil das letzte Band zu lang war haben sie den Film halbiert.
+Quellenangaben (https://miniklexikon.zum.de/wiki/Harry_Potter)
+Quellenangabe(https://phantom-marca.unidadeditorial.es/f21a9f12a57a63c7ea4ee14e048aca9f/resize/1320/f/jpg/assets/multimedia/imagenes/2023/01/25/16746808818281.jpg)</text>
+      <sha1>46iqthiqd2853sx211payp52nopkd00</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hase</title>
+    <ns>0</ns>
+    <id>1577</id>
+    <revision>
+      <id>25330</id>
+      <parentid>12334</parentid>
+      <timestamp>2023-01-29T11:16:00Z</timestamp>
+      <contributor>
+        <username>MAGrillo</username>
+        <id>10536</id>
+      </contributor>
+      <comment>/* Interessante Internetseiten zum Thema Hase */</comment>
+      <text xml:space="preserve" bytes="1375">{{Babel-1|Schüler_Verfasser}}
+[[Bild:Hasenfutter.jpg|thumb|Das fressen meine Hasen am liebsten.]]                               
+Der Hase ist ein Lebewesen aus der Natur. Sie hüpfen meist und essen Karotten, Rukulasalat, Hasenfutter und sie trinken Wasser. Hasen haben einen Bommelschwanz und oft geflecktes Fell.
+Sie sind am ganzen Körper behaart.
+
+Du musst jeden Tag dein Tier füttern und das Wasser wechseln.
+Hasen fressen gerne Karotten und Salatblätter.
+Kaninchen richten oft große Schäden an.
+Auf den Höfen fressen die Hasen Heu, Karotten und Körner.
+Im Garten sollte man Kaninchen und Meerschweinchen laufen lassen.
+
+
+
+== Interessante Internetseiten zum Thema Hase ==
+
+[http://www.naturkundemuseum-kassel.de/ERLEBEN_NEU/tiere/feldhase.htm Seiten zum Hasen vom Naturkundemuseum Kassel]
+
+[http://www.medienwerkstatt-online.de/lws_wissen/vorlagen/showcard.php?id=174 Die Seite geht um Feldhasen]
+
+[http://www.naturkundemuseum-kassel.de/ERLEBEN_NEU/tiere/feldhase.htm Tigerenten-Club: der Feldhase.]
+
+
+
+
+{{Rücksprung|H}}
+Der Hase kann bis zu 8 Junge bekommen.
+Aber während der Schwangerschaft darf die Häsin (der weibliche Hase) nichts von der Marke Vitakraft.
+Meine Hasen fressen am liebsten Klee,Löwenzahn und Korn.
+An jeden heisen Tag muss man das Tringken öfters wechseln.
+Es gibt über 50 verschidene Hasenarten.
+Die Häsin baut ihr Nest aus ihrem Fell.</text>
+      <sha1>liiu9jhxscsi4ka4g3z6r6n3qzbaulp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Haselmaus</title>
+    <ns>0</ns>
+    <id>4569</id>
+    <revision>
+      <id>18838</id>
+      <parentid>18837</parentid>
+      <timestamp>2015-03-06T16:49:35Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="218">{{Babel-1|Schüler_Verfasser}}
+[[Bild:HaselmausR1.jpg|thumb]]
+Die Haselmaus ist ein Säugetier. Die Haselmaus lebt in Wäldern. Sie ist 3-5 cm lang und frisst Haselnüsse.
+Die HaselmausFrist knospen
+
+
+{{Rücksprung|H}}</text>
+      <sha1>9bw79mdrat9pbrpysik7128asj7cjsd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hauptseite</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>20915</id>
+      <parentid>19039</parentid>
+      <timestamp>2016-08-04T23:23:03Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1675">{{Kastendesign2|
+BORDER = #97BF87|
+BACKGROUND = #AADDAA|
+BREITE =100%|
+INHALT1=
+* Du bist Experte für Wüstenrennmäuse? 
+* Du kennst dich gut mit Flugzeugen aus?
+* Du weißt, warum sich Pinguine und Eisbären nie begegnen? (Die Antwort findet sich [[Pinguine und Eisbären|hier]]...)
+'''Dann bist du hier genau richtig!! Mach mit!!'''|
+BILD=Important.png|48px|
+ÜBERSCHRIFT=Willkommen im ZUM-Grundschulwiki!|
+INHALT2=
+Hier hast du die Möglichkeit, an (d)einem Kinderlexikon und an anderen Seiten mitzuarbeiten.
+
+* Klicke auf einen der Buchstaben unten und schreibe auch selbst eine Seite, setze eine der zur Zeit {{NUMBEROFARTICLES}} Seiten fort oder ändere sie um! Dafür musst du [[Hilfe:Hilfe für Eltern, Erzieher und Lehrer#Anmelden_beim_Grundschulwiki|angemeldet]] sein!
+* [[ZUM-Grundschul-Wiki:Hilfe|Klicke hier, wenn du Hilfe brauchst.]]|
+}}
+{|width=100%|
+|valign=top width=50%|
+{{Lexikonaufruf}}
+|valign=top width=50%|
+{{Kastendesign3|
+BORDER = #AE0000|
+BACKGROUND = #AE4C4B|
+BREITE =100%|
+BILD = Rettungsring.png|48px|
+ÜBERSCHRIFT =Wichtige Informationen - Hilfe|
+INHALT1=* [[Hilfe:Hilfe für Kinder|Hilfe für Kinder]]
+* [[Hilfe:Hilfe für Eltern, Erzieher und Lehrer|Hilfe für Eltern, Erzieher und Lehrer]]
+|INHALT2=
+* [[Hilfe:Regeln|Regeln]]
+* [[Hilfe:Fragenkiste|Fragenkiste]] für Kinder
+* [[Grußworte Prof. Aufenanger|Grußworte]]
+|INHALT3=
+* [[Interessante Links]]
+* [[:Kategorie:Exzellenter Artikel|Liste exzellenter Artikel]]
+|}}
+|}
+
+{|width=100%|
+|valign=top width=50%|
+{{NeueArtikel}}
+|valign=top width=50%|
+{{NeueProjekte}}
+|}
+{{Partner}}
+{{Zusatz}}
+{{Grundschule auf ZUM.de}}
+
+&lt;!--[[vikidia.fr:Vikidia:Accueil]]
+[[vikidia.es:Vikidia:Portada]]--&gt;</text>
+      <sha1>6u9myndz4cvetgxxjzsvr79xzunp0hg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hauptstädte der Welt</title>
+    <ns>0</ns>
+    <id>2169</id>
+    <revision>
+      <id>6361</id>
+      <parentid>5663</parentid>
+      <timestamp>2007-04-25T09:39:38Z</timestamp>
+      <contributor>
+        <username>Lauretia</username>
+        <id>215</id>
+      </contributor>
+      <comment>Verlinkung mit Artikel Berlin eingefügt</comment>
+      <text xml:space="preserve" bytes="624">Die Hauptstädte der Welt
+
+Die Hauptstadt von der Schweiz ist Bern.
+Die Hauptstadt von Österreich ist Wien.
+Die Hauptstadt von Deutschland ist [[Berlin]].
+Die Hauptstadt von Griechenland ist Athen.
+Die Hauptstadt von Spanien ist Madrid.
+Die Hauptstadt von Norwegen ist Oslo.
+Die Hauptstadt von Finnland ist Helsinki.
+Die Hauptstadt von Italien ist Rom.
+Die Hauptstadt von Rumänien ist Bukarest. 
+Die Hauptstadt von Portugal ist Lissabon.
+Die Hauptstadt von Irland ist Dublin.
+Die Hauptstadt von England ist London.
+Die Hauptstadt von Schweden ist Stockholm.
+Die Hauptstadt von Dänemark ist Kopenhagen.
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Haus</title>
+    <ns>0</ns>
+    <id>2426</id>
+    <revision>
+      <id>6970</id>
+      <parentid>6969</parentid>
+      <timestamp>2007-08-08T06:49:36Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="454">                        das     Haus
+
+
+Manche  Häuser  sind  groß  doch  manche  auch  kleiner.
+Es  gibt verschiedene  Häuser, Barackenwohnungen  und  Villen .
+Die  Barackenwohnungen  sind  nur  aus  Hölzern  zusammen genagelt.
+Es  gibt  in  den  Barackenwohnungen  auch  nur  1 oder  2 Zimmer.
+
+Doch in  den Villen  gibt  es zwischen  15 und  25  Zimmer .
+Und  es  gibt  in  den  meisten  Villen  auch  einen  rießigen  Garten.
+
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hauskatze</title>
+    <ns>0</ns>
+    <id>2641</id>
+    <revision>
+      <id>23626</id>
+      <parentid>13558</parentid>
+      <timestamp>2019-05-08T11:10:03Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <text xml:space="preserve" bytes="780">{{Babel-1|Schüler_Verfasser}}
+Die  Hauskatze  ist  das  einzige  [[Haustier]],  das  zur  großen  Familie  der  Katzen  gehört.  Mehr  dazu  siehe  bitte  &quot;[[Katze]]&quot;  Kapitel  &quot;Hauskatze&quot;.
+
+Katzen  sind kleine beliebte Haustiere.  Sie werden ungefähr 18 Jahre alt. Die Augen vertragen kein Licht ihre Augen werden dann kleiner. Katzen sind schon 5 Millionen Jahre alt, älter als die Menschen. Es gibt Großkatzen und  und  Kleinkatzen. Zu den Großkatzen gehören Panter, Tiger und Löwen. Zu den Kleinkatzen gehören die Hauskatzen, Wildkatzen und auch der Puma. Der Hauptunterschied bei Groß und Kleinkatzen ist der Stimmenunterschied, denn Großkatzen können brüllen und Kleinkatzen können nur fauchen, kratzen und knurren. 
+
+von Joshua und Samuele
+
+{{Rücksprung|H}}</text>
+      <sha1>pi0icx6kebf5nkq7gpw6esa7fiqm2dy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hausmeerschweinchen</title>
+    <ns>0</ns>
+    <id>2616</id>
+    <revision>
+      <id>7913</id>
+      <parentid>7910</parentid>
+      <timestamp>2008-02-04T16:41:57Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="180">{{Babel-1|Schüler_Verfasser}}
+Das  Hausmeerschweinchen  ist  ein  [[Haustier]].  Es  stammt  vom  Wildmeerschweinchen  ab.  Siehe  bitte  [[Meerschweinchen]].
+
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Haustier</title>
+    <ns>0</ns>
+    <id>2603</id>
+    <revision>
+      <id>9784</id>
+      <parentid>7852</parentid>
+      <timestamp>2008-11-19T18:34:28Z</timestamp>
+      <contributor>
+        <username>MALiliana</username>
+        <id>150</id>
+      </contributor>
+      <text xml:space="preserve" bytes="616">{{Babel-1|Schüler_Verfasser}}
+Alle  Haustiere  stammen  von  Wildtieren  ab.  zum  Beispiel  der  [[Hund]]  vom [[ Wolf]],  die  [[Katze]]  von  der [[ Falbkatze]].  Haustiere  hält  man  entweder  als  Arbeitstiere  oder  einfach  so,  weil  man  sie  mag.  früher  züchteten  die  Steinzeitmenschen  aus  zahm  gewordenen,  nützlichen  Wildtieren  alle  heutigen  Haustiere.  Daraus  entstanden  später  viele  verschiedene  Rassen.  Mischungen  aus  mehreren  Rassen  heißen  heute  [[Mischling]].  Haustiere  kosten  auch  Geld.  Man  muss  das  Futter  und  den  Tierartzt  bezahlen.
+
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Havanna</title>
+    <ns>0</ns>
+    <id>2706</id>
+    <revision>
+      <id>17208</id>
+      <parentid>8482</parentid>
+      <timestamp>2013-05-21T22:19:34Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="637">{{Babel-1|Schüler_Verfasser}}
+[[Bild:Havanna.JPG|thumb|&quot;LouLou&quot;, Foto: Beate Schwarz]]
+Die Katzenrasse Havanna wurde schon in den 50er Jahren gezüchtet. Die Havanna kann man gut
+erkennen an ihrem glatthaarigem Fell und ihrem langen Schwanz. Sie hat einen dünnen Nacken,
+ovale Pfoten, die Fußballen der Katze sind braun oder rosa. Ihr Kopf ist lang und keilförmig.
+Ihre Farben sind: Schwarz&amp; zartem Tabakbraun, sie haben einen geraden Nasenspiegel, schlanke
+Beine, die Augen sind mandelförmig und schräg. Die Augenfarbe ist ein blasses mittleres Grün.
+
+
+Hier gibt es nochmehr Informationen zum Thema [[Katze]].
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hecht</title>
+    <ns>0</ns>
+    <id>4666</id>
+    <revision>
+      <id>24512</id>
+      <parentid>24117</parentid>
+      <timestamp>2020-06-07T16:34:48Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rüclsprung</comment>
+      <text xml:space="preserve" bytes="2657">{{Babel-1|Schüler_Verfasser}}
+== Lateinischer ==
+Sein lateinischer Name heißt Esox lucius.
+
+== Daten und Fakten ==
+Seine Gestalt ist sehr schlank die Rückenflosse sitzt nah am den
+Schwanz, der Unterkiefer steht weit vor. Das große Maul ist bis unter die Augen gespaltet, ein wenig wie ein Entenschnabel geformt und hat sehr spitze Zähne. Seine  Hautfarbe ist weißlich und gelblich. Er lebt In Flüssen und Seen.Außerdem ist der Körperbau von Hechten auf das Jagen ausgelegt. Der Hecht gehört zu der Gattung der Fische. Außerdem hat der Hecht grau-grüne Schuppen. Sie werden zwischen 1,0 - 1,5 Meter groß. Unter anderem wiegt er bis zu 30 kg. Er kann zwischen 15 - 30 Jahre alt werden. Seitlich hat der Hecht helle, oft goldgelbe Flecken und Streifen. Er wird bis zu 1,50 m lang und 35 kg schwer.
+
+== Lebensraum ==
+Ihr Lebensraum sind Flüsse. Sie verstecken sich unter überhängenden Bäumen, Seerosenfeldern und Bootsstegen. Sie leben allein. Sie fressen Fische, Frösche, Säugetiere, kranke und schwache Wassertiere. Die Hechte sind aggressiv.Der Hecht lebt in fließenden Gewässern. Der Hecht frisst hauptsächlich Fisch, aber auch Krebstiere und kleine Amphibien. Sein Ernährungstyp ist überwiegend Fischfresser. Hechte gelten als recht aggressive Tiere, in der freien Wildbahn sind sie Einzelgänger, die ihr Revier gegen sämtliche Fischarten verteidigen. Um sein Gebiet zu schützen, scheut der Hecht dadurch auch keine Anwendung von Gewalt.Der Hecht lebt in allen nicht zu schnellen Gewässer Nord - und Mitteleuropas, Sibiriens und Nordamerikas, wie Seen und Teichen. Er ist standorttreu, das heißt er bleibt an seinem Wohnplatz.
+
+== Besonderheiten ==
+Die Fortpflanzung erfolg  indem das Männchen ein Weibchen sucht. Die Hechte stammen von Schwerthechten ab. Ihre Feinde sind Stichlinge und Aale. Der Hecht kann seinen Körper in die andere Richtung drehen und beißt zu. Wasserpflanzen und Stege sind sein Schutz.Der Hecht kann bis zu 40.000 Eier laichen. Die natürlichen Feinde des Hechtes sind insbesondere Artgenossen, Kannibalismus ist bei Hechten kein seltenes Phänomen. Sein Schlaf-Wach-Rhythmus ist tagaktiv beschreibt sich so am Tag ist er aktiv und in der Nacht schläft er dann. Die Geschlechtsreife erreicht der Hecht um das dritte Lebensjahr. Sie sind  Einzelgänger. Dazu ist er auch vom Aussterben bedroht. Seine Verbreitung fand über die Nordhalbkugel statt.Als Oberflächenfisch wartet er an Baumwurzeln, Wasserpflanzen oder Seerosenblätter in 1 -2 Meter tiefem Wasser. Pfeilschnell schießt er hervor und fängt fast alles was lebt und was er irgendwie bewältigen und verschlucken kann.
+
+
+{{Rücksprung|H}}</text>
+      <sha1>ackc57jcb9hmzcc8od3vx9acvnuquky</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hegnenbach</title>
+    <ns>0</ns>
+    <id>4111</id>
+    <revision>
+      <id>17206</id>
+      <parentid>17111</parentid>
+      <timestamp>2013-05-21T22:17:43Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>rücksprung, bild angepasst</comment>
+      <text xml:space="preserve" bytes="979">{{Babel-1|Schüler_Verfasser}}
+
+== Wappen==
+[[Bild:Gsaraphael001.jpg|thumb|Schild Hegnenbach]]
+Das Wappen von Hegnenbach ist rot und silber und hat ein Tatzenkreutz in der Mitte.&lt;br /&gt;
+
+Das Tatzenkreutz ist das Wahrzeichen von St. Georg.&lt;br /&gt; 
+
+Und die Farben Rot und Silber sind das Zeichen für Augsburg.&lt;br /&gt;
+
+== Entstehung==
+Hegnenbach ist 1130 entstanden.&lt;br /&gt;
+
+Früher hatte Hegnenbach drei Höfe.&lt;br /&gt;
+
+Da wohnten Köhlern und Ziegelbrenner.&lt;br /&gt;
+
+1492 wurde eine öffentliche Badestube eingerichtet.&lt;br /&gt;
+
+Ab 1590 gab es eine Schule.&lt;br /&gt;
+
+Seit 1. Mai 1978 gehört Hegnenbach zur Gemeinde Altenmünster, bis dahin war es eine selbständige Gemeinde.&lt;br /&gt;
+
+== Vereine,Gaststätte==
+In Hegnenbach gibt es 6 Vereine z.B Schützenverein.&lt;br /&gt;
+
+Es gibt auch Freiwilige Feuerwehr, Garten- und Blumenfreunde, Jagdgenossenschaft und Krieger und Soldatenverein.&lt;br /&gt;
+
+Im Ort Hegnenbach und Zusamzell gibt es noch ein gemeinsamen Fußballverein.&lt;br /&gt;
+
+
+{{Rücksprung|H}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Helene Fischer</title>
+    <ns>0</ns>
+    <id>5417</id>
+    <revision>
+      <id>23024</id>
+      <parentid>23013</parentid>
+      <timestamp>2018-06-22T10:05:28Z</timestamp>
+      <contributor>
+        <username>Wgsa24</username>
+        <id>10159</id>
+      </contributor>
+      <text xml:space="preserve" bytes="996">
+== Person ==
+[[Datei:Helene Fischer 1.jpg|miniatur|Helene Fischer]]
+Helene Fischer wurde 1984 geboren. &lt;br /&gt;
+Am 2. August hat sie Geburtstag. &lt;br /&gt;
+Helene Fischer wohnt in Deutschland, wurde aber in Russland geboren.  
+
+
+== Tournee ==
+Für die Tourneen Farbenspiele und Weihnachten wurden am meisten Karten verkauft.
+
+== Bekannte Lieder ==
+&quot;Atemlos durch die Nacht&quot; ist eines der bekanntesten Lieder. &lt;br /&gt;
+&quot;Achterbahn&quot; ist auch eines der bekanntesten Lieder, &quot;Herzbeben&quot; und &quot;Let it go&quot; und ein paar andere Lieder sind auch bekannt.
+
+== Besonderheiten ==
+Helene Fischer hat viele Sachen als Berufstätigkeit. Sie ist Schlagersängerin, Tänzerin, Unterhaltungsmoderatorin, Musicaldarstellerin, Fernsehmoderatorin und Schauspielerin. Helene Fischer und Florian Silbereisen sind seit 2008 liiert. &lt;br /&gt;
+Helene Fischer hat am 22.2.2018 die goldene Fernsehkamera bekommen.
+Helene Fischer tanzt und singt nicht nur auf der Bühne, sondern sie hat auch im Traumschiff eine Reiseleiterin gespielt.</text>
+      <sha1>dg2z1o5s38vqwng528w7wv3syzc4b7x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Helmbasilisk</title>
+    <ns>0</ns>
+    <id>4765</id>
+    <revision>
+      <id>19608</id>
+      <parentid>19589</parentid>
+      <timestamp>2016-04-01T06:49:28Z</timestamp>
+      <contributor>
+        <username>MAFilius</username>
+        <id>10123</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="383">{{Babel-1|Schüler_Verfasser}}
+Der Helmbasilisk gehört zu der Gattung Reptilien. Er wird über 80cm groß und kann über 10 Jahre alt werden. Er lebt in den tropischen Regenwäldern von Mittelamerika und Südamerika. Der Hornkamm auf seinem Kopf gab ihm den Namen. Seine Besonderheit ist dass er über Wasser laufen kann. Deshalb nennt man ihn auch &quot;Jesusechse&quot;.
+
+
+{{Rücksprung|H}}</text>
+      <sha1>n8d2lgft3jfx39j7kzjxzjbsqqqnxsb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hennef</title>
+    <ns>0</ns>
+    <id>3872</id>
+    <revision>
+      <id>23414</id>
+      <parentid>23413</parentid>
+      <timestamp>2018-09-04T15:00:25Z</timestamp>
+      <contributor>
+        <username>KSMehlem</username>
+        <id>753</id>
+      </contributor>
+      <text xml:space="preserve" bytes="50">* [[Blankenberg]]
+* [[Weldergoven]]
+* [[Uckerath]]</text>
+      <sha1>os54naf5jqfewdpwqgczzj4g9kmi02y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hennhofen</title>
+    <ns>0</ns>
+    <id>4106</id>
+    <revision>
+      <id>20843</id>
+      <parentid>20842</parentid>
+      <timestamp>2016-07-21T06:49:59Z</timestamp>
+      <contributor>
+        <username>Wgsa21</username>
+        <id>10156</id>
+      </contributor>
+      <comment>/* Firmen */</comment>
+      <text xml:space="preserve" bytes="1052">{{Babel-1|Schüler_Verfasser}}
+[[Bild:GSACarolin01.jpg|thumb|Kirche]]
+== Wappen==
+Hennhofen Hof des Hannes.&lt;br /&gt;
+Das Wappen zeigt einen Hof mit einer Henne.
+
+== Entstehung==
+Entstanden ist Hennhofen im 13. Jahrhundert.&lt;br /&gt;
+Hennhofen wurde vom Kloster Fultenbach gegründet.&lt;br /&gt;
+Am 29.01.1278 wurde Hennhofen das erste Mal in einer Urkunde genannt.&lt;br /&gt;
+
+== Vereine ==
+In Hennhofen gibt es 3 Vereine.&lt;br /&gt;
+Die Vereine sind die Freiwillige Feuerwehr, die Faschingsfreunde und die Jagdgenossenschaft.&lt;br /&gt;
+Die Feuerwehr setzt sich für das Patrozinium und den Maibaum ein.&lt;br /&gt;
+Die Faschingsfreunde bauen einen Faschingswagen und fahren danach auf den Faschingsumzug.&lt;br /&gt;
+
+== Firmen==
+In Hennhofen gibt es viele Firmen.&lt;br /&gt;
+Diese heisen Beck+Heun, Fahrschule Schönthier, Elektro Stuhlenmiller,Autohaus,Donau-Tranzportbeton
+
+== Besonderheiten==
+Eine Besonderheit ist zum Beispiel die Antonius Kapelle.&lt;br /&gt;
+Sie ist nach dem Hl. Antonius von Padua benannt.&lt;br /&gt;
+Sie wurde 1717 gebaut und 1733 fand die Weihe statt.&lt;br /&gt;  
+
+{{Rücksprung|H}}</text>
+      <sha1>rmvdnb0mhy7l9782l1o4s31rhgich6j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Herborner Buttermarkt</title>
+    <ns>0</ns>
+    <id>6007</id>
+    <revision>
+      <id>25178</id>
+      <timestamp>2022-06-12T18:45:57Z</timestamp>
+      <contributor>
+        <username>MACielanga</username>
+        <id>10505</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Herborner Buttermarkt == Auf dem Buttermarkt in Herborn wurden im Mittelalter Milchprodukte verkauft, wie zum Beispiel Kuhmilch, Käse und Butter. Deswegen …“</comment>
+      <text xml:space="preserve" bytes="377">== Herborner Buttermarkt ==
+Auf dem Buttermarkt in Herborn wurden im Mittelalter Milchprodukte verkauft, wie zum Beispiel Kuhmilch, Käse und Butter. Deswegen erhielt er den Namen Buttermarkt. 
+Auf dem heutigen Buttermarkt werden keine Milchprodukte mehr verkauft. Ab und zu steht eine Bühne und es werden Feste gefeiert. Um den Buttermarkt herum stehen Geschäfte und Cafés.</text>
+      <sha1>5t5wdf97wfqs1oz14700hwlmeldeigh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Herborner Dillturm</title>
+    <ns>0</ns>
+    <id>6004</id>
+    <revision>
+      <id>25181</id>
+      <parentid>25179</parentid>
+      <timestamp>2022-06-12T19:18:47Z</timestamp>
+      <contributor>
+        <username>MACielanga</username>
+        <id>10505</id>
+      </contributor>
+      <comment>/* Herborner Dillturm */</comment>
+      <text xml:space="preserve" bytes="431">== Herborner Dillturm ==
+Der Dillturm wurde im 13. Jahrhundert erbaut. Erneuert wurde er 1905. Der Turm steht heute leer und darf nicht betreten werden. Damals diente er dazu, Feinde von oben zu erkennen und die Burg und seine Einwohner zu verteidigen.
+
+[[Datei:WhatsApp Image 2022-06-12 at 21.10.02.jpeg|zentriert|miniatur|Dillturm Herborn]]
+
+== Ort ==
+Der Herborner Dillturm steht in Herborn, das ist eine kleine Stadt in Hessen.</text>
+      <sha1>i2k4xvaa4g7onv70ynj2vat85dy71a8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Herborner Fridhof</title>
+    <ns>0</ns>
+    <id>6003</id>
+    <revision>
+      <id>25174</id>
+      <parentid>25172</parentid>
+      <timestamp>2022-06-12T18:40:50Z</timestamp>
+      <contributor>
+        <username>MACielanga</username>
+        <id>10505</id>
+      </contributor>
+      <comment>/* Herborner Friedhof */</comment>
+      <text xml:space="preserve" bytes="594">== Herborner Friedhof ==
+Der Herborner Friedhof ist heute ein Stadtpark. Viele Grabsteine wurden abgerissen und auf den neuen Friedhof gebracht. Es stehen nur noch wenige Grabsteine wichtiger Menschen aus dem Mittelalter. Ansonsten befindet sich auf dem heutigen Stadtpark ein Spielplatz und Sitzbänke. Der Herborner Bürgermeister wollte den Stadtpark umgestalten, um Erwachsenen und Kindern die Möglichkeit eines Aufenthalts zu ermöglichen.
+
+== Ort ==
+Der Herborner &quot;alter Friedhof&quot;, welcher heute als Stadtpark bekannt ist, ist in der kleinen Stadt Herborn. Diese befindet sich in Hessen.</text>
+      <sha1>lj9z12r2o2cqjgogq1n06l8op88q321</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Herborner Hexenturm</title>
+    <ns>0</ns>
+    <id>6005</id>
+    <revision>
+      <id>25176</id>
+      <timestamp>2022-06-12T18:42:44Z</timestamp>
+      <contributor>
+        <username>MACielanga</username>
+        <id>10505</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Herborner Hexenturm == == Früher == Im Hexenturm wurden im Mittelalter Frauen eingesperrt, die sich gut mit Kräutern und Heilmitteln auskannten. Einige vo…“</comment>
+      <text xml:space="preserve" bytes="434">== Herborner Hexenturm ==
+== Früher ==
+Im Hexenturm wurden im Mittelalter Frauen eingesperrt, die sich gut mit Kräutern und Heilmitteln auskannten. Einige von ihnen hatten rote Haare. Rothaarige wurden Hexen genannt, weil rote Haare eine Seltenheit waren und immer noch sind. 
+== Heute ==
+Der Hexenturm steht neben einem Fotostudio. Der Hexenturm selbst kann nicht mehr betreten werden. Er befindet sich in der Herborner Innenstadt.</text>
+      <sha1>iq3weps5dibyja9k3j8l0658m7c1h90</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,32 @@
+{
+  "pageid": 3239,
+  "ns": 6,
+  "title": "Datei:Feuer klein.jpg",
+  "revisions": [
+    {
+      "revid": 11766,
+      "parentid": 11765,
+      "user": "MANaegel",
+      "timestamp": "2009-05-12T19:13:02Z",
+      "comment": "hat eine neue Version von „[[Bild:Feuer klein.jpg]]“ hochgeladen: Foto von: RaphaelS, vom: 9.5.2009",
+      "wikitext": "Foto von: RaphaelS, vom: 9.5.2009"
+    },
+    {
+      "revid": 11765,
+      "parentid": 11693,
+      "user": "RaphaelS",
+      "timestamp": "2009-05-12T17:37:17Z",
+      "comment": "hat eine neue Version von „[[Bild:Feuer klein.jpg]]“ hochgeladen",
+      "wikitext": "Foto von: RaphaelS, vom: 9.5.2009"
+    },
+    {
+      "revid": 11693,
+      "parentid": 0,
+      "user": "MANaegel",
+      "timestamp": "2009-05-10T09:01:06Z",
+      "comment": "Foto von: RaphaelS, vom: 9.5.2009",
+      "wikitext": "Foto von: RaphaelS, vom: 9.5.2009"
+    }
+  ],
+  "categories": []
+}

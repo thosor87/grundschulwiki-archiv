@@ -1,0 +1,24 @@
+{
+  "pageid": 4090,
+  "ns": 0,
+  "title": "Rapunzel, von Disney",
+  "revisions": [
+    {
+      "revid": 17261,
+      "parentid": 16549,
+      "user": "Leupold",
+      "timestamp": "2013-05-21T23:13:53Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n=='''Rapunzel'''==\nRapunzel ist ein Mätchen mit langen blonden haaren.Sie sind umgefähr 8m lang.Sie ist bekannt aus dem Film neu verfönt.\n\n\n{{Rücksprung|R}}"
+    },
+    {
+      "revid": 16549,
+      "parentid": 0,
+      "user": "MAZiegenfuss",
+      "timestamp": "2013-02-26T08:28:05Z",
+      "comment": "",
+      "wikitext": "=='''Rapunzel'''==\nRapunzel ist ein Mätchen mit langen blonden haaren.Sie sind umgefähr 8m lang.Sie ist bekannt aus dem Film neu verfönt."
+    }
+  ],
+  "categories": []
+}

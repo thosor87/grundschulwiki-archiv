@@ -1,0 +1,32 @@
+{
+  "pageid": 4915,
+  "ns": 6,
+  "title": "Datei:Löwe01.jpg",
+  "revisions": [
+    {
+      "revid": 20116,
+      "parentid": 20108,
+      "user": "Wgsa08",
+      "timestamp": "2016-07-07T07:19:58Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung =Löwe \n|Quelle =wikimedia \n|Urheber =Wikimedia.org \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 20108,
+      "parentid": 20104,
+      "user": "Wgsa08",
+      "timestamp": "2016-07-07T07:16:19Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung =Löwe \n|Quelle =wikimedia \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 20104,
+      "parentid": 0,
+      "user": "Wgsa08",
+      "timestamp": "2016-07-07T07:13:49Z",
+      "comment": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    }
+  ],
+  "categories": []
+}

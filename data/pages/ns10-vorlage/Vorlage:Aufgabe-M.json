@@ -1,0 +1,27 @@
+{
+  "pageid": 4320,
+  "ns": 10,
+  "title": "Vorlage:Aufgabe-M",
+  "revisions": [
+    {
+      "revid": 17675,
+      "parentid": 17674,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:46Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">&nbsp; [[Bild:Stift.gif|30px]] &nbsp; Aufgabe \n</div>\n{{{1}}}\n|}<noinclude>\n{{Quellcode}}\n<pre>{{Aufgabe-M|<Aufgabentext>}}</pre>\n[[Kategorie:Vorlage:Aufgabenbausteine|Aufgabe-M]]</noinclude>"
+    },
+    {
+      "revid": 17674,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2010-01-04T08:55:25Z",
+      "comment": "Orange (Aufgabenfarbe) sieht doch besser aus",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">&nbsp; [[Bild:Stift.gif|30px]] &nbsp; Aufgabe \n</div>\n{{{1}}}\n|}<noinclude>\n{{Quellcode}}\n<pre>{{Aufgabe-M|<Aufgabentext>}}</pre>\n[[Kategorie:Vorlage:Aufgabenbausteine|Aufgabe-M]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

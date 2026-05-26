@@ -1,0 +1,32 @@
+{
+  "pageid": 4087,
+  "ns": 0,
+  "title": "Schneewittchen, von Disney",
+  "revisions": [
+    {
+      "revid": 17263,
+      "parentid": 16546,
+      "user": "Leupold",
+      "timestamp": "2013-05-21T23:15:24Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Schneewittchen==\n\nSchneewitchen ist ein Mädchen.\nSie hat so schwarze Haare wie Ebenholz.\nihre Lippen sind so rot wie Blut.\n\n\n{{Rücksprung|S}}"
+    },
+    {
+      "revid": 16546,
+      "parentid": 16540,
+      "user": "MAZiegenfuss",
+      "timestamp": "2013-02-26T08:27:50Z",
+      "comment": "/* Schneewittchen */",
+      "wikitext": "== Schneewittchen==\n\nSchneewitchen ist ein Mädchen.\nSie hat so schwarze Haare wie Ebenholz.\n\n\nihre Lippen sind so rot wie Blut."
+    },
+    {
+      "revid": 16540,
+      "parentid": 0,
+      "user": "MAZiegenfuss",
+      "timestamp": "2013-02-26T08:18:47Z",
+      "comment": "Die Seite wurde neu angelegt: == Schneewittchen==",
+      "wikitext": "== Schneewittchen=="
+    }
+  ],
+  "categories": []
+}

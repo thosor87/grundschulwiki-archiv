@@ -1,0 +1,32 @@
+{
+  "pageid": 1702,
+  "ns": 10,
+  "title": "Vorlage:Rubriken",
+  "revisions": [
+    {
+      "revid": 18976,
+      "parentid": 7265,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T19:10:13Z",
+      "comment": "linkfix",
+      "wikitext": "* Bücher, die ich gelesen habe!\n* Was ich schon immer fragen wollte!\n\nWas haltet ihr davon?\n:Schreibt Eure Meinung hier gleich darunter (mit \":\" am Anfang der Zeile wird euer Beitrag zum leichteren Lesen eingerückt).\n\n::Ich habe für Euch eine Seite [[Hilfe:Fragenkiste|Fragenkiste]] erstellt. Da könnt Ihr, wenn Ihr wollt, Eure Fragen schreiben!"
+    },
+    {
+      "revid": 7265,
+      "parentid": 3508,
+      "user": "Leupold",
+      "timestamp": "2007-12-02T11:18:24Z",
+      "comment": "",
+      "wikitext": "* Bücher, die ich gelesen habe!\n* Was ich schon immer fragen wollte!\n\nWas haltet ihr davon?\n:Schreibt Eure Meinung hier gleich darunter (mit \":\" am Anfang der Zeile wird euer Beitrag zum leichteren Lesen eingerückt).\n\n::Ich habe für Euch eine Seite [[Fragenkiste]] erstellt. Da könnt Ihr, wenn Ihr wollt, Eure Fragen schreiben!"
+    },
+    {
+      "revid": 3508,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T15:39:39Z",
+      "comment": "",
+      "wikitext": "* Bücher, die ich gelesen habe!\n* Was ich schon immer fragen wollte!\n\nWas haltet ihr davon?\n:Schreibt Eure Meinung hier gleich darunter (mit : am Anfang der Zeile wird zum leichteren Lesen eingerückt).\n\n::Ich habe für Euch eine Seite [[Fragenkiste]] erstellt. Da könnt Ihr, wenn Ihr wollt, Eure Fragen schreiben!"
+    }
+  ],
+  "categories": []
+}

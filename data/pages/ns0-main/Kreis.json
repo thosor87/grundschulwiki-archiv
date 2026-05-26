@@ -1,0 +1,32 @@
+{
+  "pageid": 3808,
+  "ns": 0,
+  "title": "Kreis",
+  "revisions": [
+    {
+      "revid": 15164,
+      "parentid": 15162,
+      "user": "MALorenzo",
+      "timestamp": "2012-01-04T16:47:58Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Kreis ist eine geometrische Form ohne Ecken und Kanten und überall gleich rund. Alle Punkte sind gleich viel von der Mitte entfernt. Einen Kreis kann man mit einem Zirkel zeichnen.\n\n[[Bild:Kreis2.png|thumb|200px|rot=Radius, grün=Durchmesser, blau=Umfang]]\n\n== Fläche==\n\nDie Fläche ist die Fläche des Platzes innen drin.\nVom Radius kann man die Fläche berechnen indem man so rechnet: Radius*Radius*[[Pi]].\n\n== Radius==\n\nDer Radius ist der Abstand von einem beliebigem Punkt im Kreis zur Zentrum (Mitte).\nDie Hälfte vom Durchmesser ist der Radius.\n\n== Durchmesser==\n\nDer Durchmesser ist der längste Abstand zweier Punkte des Kreises.\nEs gibt zwei Möglichkeiten, den Durchmesser zu berechnen. Eine ist: Radius*2. Eine andere ist: Umfang/[[Pi]].\n\n== Umfang==\n\nDer Umfang ist die Länge rund um den Kreis herum.\nUm den Umfang zu berechnen wird so gerechnet: Durchmesser*[[Pi]].\n\n{{Rücksprung|K}}"
+    },
+    {
+      "revid": 15162,
+      "parentid": 15161,
+      "user": "MALorenzo",
+      "timestamp": "2012-01-04T16:26:51Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Kreis ist eine geometrische Form ohne Ecken und Kanten und überall gleich rund. Alle Punkte sind gleich viel von der Mitte entfernt. Einen Kreis kann man mit einem Zirkel zeichnen.\n\n== Fläche==\n\nDie Fläche ist die Fläche des Platzes innen drin.\nVom Radius kann man die Fläche berechnen indem man so rechnet: Radius*Radius*[[Pi]].\n\n== Radius==\n\nDer Radius ist der Abstand von einem belibigem Punkt im Kreis zur Zentrum (Mitte).\nDie Hälfte vom Durchmesser ist der Radius.\n\n== Durchmesser==\n\nDer Durchmesser ist der längste Abstand zweier Punkte des Kreises.\nEs gibt zwei Möglichkeiten den Durchmesser zu Berechnen. Eine ist: Radius*2. Eine andere ist: Umfang/[[Pi]]\n\n== Umfang==\n\nDer Umfang ist die Länge rund um den Kreis herum.\nUm den Umfang zu berechnen wird so gerechnet: Durchmesser*[[Pi]]"
+    },
+    {
+      "revid": 15161,
+      "parentid": 0,
+      "user": "MALorenzo",
+      "timestamp": "2012-01-04T15:33:28Z",
+      "comment": "Die Seite wurde neu angelegt: Ein Kreis ist eine geometrische Form ohne Ecken und Kanten und überall gleich rund. Alle Punkte sind gleich viel von der Mitte entfernt",
+      "wikitext": "Ein Kreis ist eine geometrische Form ohne Ecken und Kanten und überall gleich rund. Alle Punkte sind gleich viel von der Mitte entfernt"
+    }
+  ],
+  "categories": []
+}

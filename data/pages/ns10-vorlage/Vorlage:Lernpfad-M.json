@@ -1,0 +1,27 @@
+{
+  "pageid": 4335,
+  "ns": 10,
+  "title": "Vorlage:Lernpfad-M",
+  "revisions": [
+    {
+      "revid": 17705,
+      "parentid": 17704,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:52Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{{Kasten mit kleinem Bild links farbig| \nBORDER = lightgrey|\nBACKGROUND = #c6d745|\nBREITE =100%|\nINHALT = \n{{{1}}}|\nHINTERGRUND = #eeeeee|\nBILD = Mathematik-digital Pfeil-3d.png|\nÜBERSCHRIFT = Lernpfad|\n}}<includeonly>[[Kategorie:Lernpfad für Mathematik]]</includeonly><noinclude>\n\n{{Quellcode}}\n<pre>{{Lernpfad-M|<text>}}</pre>\n\n;Hinweise:\n# Mit dem Einfügen dieser Vorlage in einen Artikel wird dieser auch der [[:Kategorie:Lernpfad für Mathematik]] zugeordnet.\n# Wie [[Vorlage:Lernpfad-M float]], aber mit fester Breite.\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Lernpfad-M]]</noinclude>"
+    },
+    {
+      "revid": 17704,
+      "parentid": 0,
+      "user": "Maria Eirich",
+      "timestamp": "2011-01-08T21:42:47Z",
+      "comment": "grau heller",
+      "wikitext": "{{Kasten mit kleinem Bild links farbig| \nBORDER = lightgrey|\nBACKGROUND = #c6d745|\nBREITE =100%|\nINHALT = \n{{{1}}}|\nHINTERGRUND = #eeeeee|\nBILD = Mathematik-digital Pfeil-3d.png|\nÜBERSCHRIFT = Lernpfad|\n}}<includeonly>[[Kategorie:Lernpfad für Mathematik]]</includeonly><noinclude>\n\n{{Quellcode}}\n<pre>{{Lernpfad-M|<text>}}</pre>\n\n;Hinweise:\n# Mit dem Einfügen dieser Vorlage in einen Artikel wird dieser auch der [[:Kategorie:Lernpfad für Mathematik]] zugeordnet.\n# Wie [[Vorlage:Lernpfad-M float]], aber mit fester Breite.\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Lernpfad-M]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

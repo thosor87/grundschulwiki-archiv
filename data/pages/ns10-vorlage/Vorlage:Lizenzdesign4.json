@@ -1,0 +1,26 @@
+{
+  "pageid": 4300,
+  "ns": 10,
+  "title": "Vorlage:Lizenzdesign4",
+  "revisions": [
+    {
+      "revid": 17635,
+      "parentid": 17634,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:40Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "cellspacing=\"8\" cellpadding=\"0\" class=\"hintergrundfarbe1 rahmenfarbe2\" style=\"clear:both; margin:0.5em auto; background-color:#f9f9f9; border:3px solid #e9e9e9; position:relative;\" width=\"80%\"<noinclude>\n\n[[Kategorie:Vorlage:Formatierungshilfe|{{PAGENAME}}]]\n</noinclude>"
+    },
+    {
+      "revid": 17634,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:33Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "cellspacing=\"8\" cellpadding=\"0\" class=\"hintergrundfarbe1 rahmenfarbe2\" style=\"clear:both; margin:0.5em auto; background-color:#f9f9f9; border:3px solid #e9e9e9; position:relative;\" width=\"80%\"<noinclude>\n\n[[Kategorie:Vorlage:Formatierungshilfe|{{PAGENAME}}]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Formatierungshilfe"
+  ]
+}

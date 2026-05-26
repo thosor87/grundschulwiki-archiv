@@ -1,0 +1,1120 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Schaf1.jpg</title>
+    <ns>6</ns>
+    <id>3183</id>
+    <revision>
+      <id>11373</id>
+      <timestamp>2009-03-30T22:09:58Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Fotografiert von: Moritz F. , vom: 25.3.2009</comment>
+      <text xml:space="preserve" bytes="44">Fotografiert von: Moritz F. , vom: 25.3.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SchieferTurm.jpg</title>
+    <ns>6</ns>
+    <id>3820</id>
+    <revision>
+      <id>15196</id>
+      <timestamp>2012-01-07T17:22:35Z</timestamp>
+      <contributor>
+        <username>MALorenzo</username>
+        <id>916</id>
+      </contributor>
+      <comment>Der Schife Turm von Pisa. Das Foto hat meine Oma gemacht .</comment>
+      <text xml:space="preserve" bytes="58">Der Schife Turm von Pisa. Das Foto hat meine Oma gemacht .</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schiefertafel.jpg</title>
+    <ns>6</ns>
+    <id>3671</id>
+    <revision>
+      <id>14407</id>
+      <timestamp>2011-02-15T20:26:41Z</timestamp>
+      <contributor>
+        <username>MAstockhausen</username>
+        <id>871</id>
+      </contributor>
+      <comment>Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;: Eine Scheifertafel mit Griffel und Schwämm</comment>
+      <text xml:space="preserve" bytes="260">Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;: Eine Scheifertafel mit Griffel und Schwämmchen.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schimmel.jpg</title>
+    <ns>6</ns>
+    <id>2128</id>
+    <revision>
+      <id>5338</id>
+      <timestamp>2007-03-07T08:36:21Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schimpanse01.jpg</title>
+    <ns>6</ns>
+    <id>4921</id>
+    <revision>
+      <id>20134</id>
+      <parentid>20129</parentid>
+      <timestamp>2016-07-07T07:58:41Z</timestamp>
+      <contributor>
+        <username>Wgsa01</username>
+        <id>10136</id>
+      </contributor>
+      <text xml:space="preserve" bytes="156">{{Information ohne UploadWizard
+|Beschreibung =schimpanse 
+|Quelle =wikimedia 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ho673ax5thsnnbiqf59jqe5wj6xtfwq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schlange.gif</title>
+    <ns>6</ns>
+    <id>5040</id>
+    <revision>
+      <id>21116</id>
+      <timestamp>2017-03-17T09:20:02Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schlkrebs.jpg</title>
+    <ns>6</ns>
+    <id>3272</id>
+    <revision>
+      <id>11905</id>
+      <timestamp>2009-06-01T10:18:49Z</timestamp>
+      <contributor>
+        <username>JLJohanne</username>
+        <id>540</id>
+      </contributor>
+      <comment>Schlickkrebs (gezeichnet von Johanne)</comment>
+      <text xml:space="preserve" bytes="37">Schlickkrebs (gezeichnet von Johanne)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schloss Herborn.jpeg</title>
+    <ns>6</ns>
+    <id>6009</id>
+    <revision>
+      <id>25192</id>
+      <parentid>25182</parentid>
+      <timestamp>2022-06-14T09:22:44Z</timestamp>
+      <contributor>
+        <username>MACielanga</username>
+        <id>10505</id>
+      </contributor>
+      <text xml:space="preserve" bytes="211">{{Information ohne UploadWizard
+|Beschreibung = Herborner Schloss
+|Quelle = Selbstfotografiert am iPhone
+|Urheber = Klasse 3, Herborn
+|Datum = 01.06.2022
+|Genehmigung = Ja
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>pc4yanp09ygwl5df0txl6bnubyauoen</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schlosskr.JPG</title>
+    <ns>6</ns>
+    <id>3138</id>
+    <revision>
+      <id>11168</id>
+      <timestamp>2009-03-18T16:59:41Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto</comment>
+      <text xml:space="preserve" bytes="11">Kinderphoto</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schluchsee3.jpg</title>
+    <ns>6</ns>
+    <id>3176</id>
+    <revision>
+      <id>11348</id>
+      <timestamp>2009-03-30T16:10:06Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Lukas S. und Moritz F., vom: 24.03.2009</comment>
+      <text xml:space="preserve" bytes="49">Bild von: Lukas S. und Moritz F., vom: 24.03.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schmetterling.jpg</title>
+    <ns>6</ns>
+    <id>2720</id>
+    <revision>
+      <id>8540</id>
+      <timestamp>2008-06-27T13:07:42Z</timestamp>
+      <contributor>
+        <username>MABenke</username>
+        <id>424</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schmuckblatt.pdf</title>
+    <ns>6</ns>
+    <id>4181</id>
+    <revision>
+      <id>17288</id>
+      <parentid>17287</parentid>
+      <timestamp>2013-08-11T09:11:45Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Schmuckblatt.pdf]]“ hochgeladen</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schnecke.JPG</title>
+    <ns>6</ns>
+    <id>3259</id>
+    <revision>
+      <id>11839</id>
+      <timestamp>2009-05-21T05:52:49Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Bild von einer Schnecke, Aufgenommen von M. Leupold, frei verwendbar, Upload am 21.05.2009</comment>
+      <text xml:space="preserve" bytes="90">Bild von einer Schnecke, Aufgenommen von M. Leupold, frei verwendbar, Upload am 21.05.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schneeleopar01.jpg</title>
+    <ns>6</ns>
+    <id>4920</id>
+    <revision>
+      <id>20130</id>
+      <parentid>20128</parentid>
+      <timestamp>2016-07-07T07:58:39Z</timestamp>
+      <contributor>
+        <username>Wgsa17</username>
+        <id>10152</id>
+      </contributor>
+      <text xml:space="preserve" bytes="159">{{Information ohne UploadWizard
+|Beschreibung =schneeleopard 
+|Quelle = wikimedia
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>fmo36civgcsotcumdu8531m3x22iz3k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schneeleopard1.jpg</title>
+    <ns>6</ns>
+    <id>3162</id>
+    <revision>
+      <id>11250</id>
+      <timestamp>2009-03-23T11:57:17Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schneemann1.JPG</title>
+    <ns>6</ns>
+    <id>2964</id>
+    <revision>
+      <id>9881</id>
+      <timestamp>2008-12-14T10:57:51Z</timestamp>
+      <contributor>
+        <username>MAAlina</username>
+        <id>409</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schneeweißchen.jpeg</title>
+    <ns>6</ns>
+    <id>5193</id>
+    <revision>
+      <id>21732</id>
+      <timestamp>2017-09-03T17:01:21Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schneewittchen.jpg</title>
+    <ns>6</ns>
+    <id>2051</id>
+    <revision>
+      <id>5020</id>
+      <timestamp>2007-01-29T16:10:39Z</timestamp>
+      <contributor>
+        <username>MABauer</username>
+        <id>127</id>
+      </contributor>
+      <comment>Schneewittchen, gemalt von einem Kind aus der 3.Klasse</comment>
+      <text xml:space="preserve" bytes="54">Schneewittchen, gemalt von einem Kind aus der 3.Klasse</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schneiderlein.jpeg</title>
+    <ns>6</ns>
+    <id>5208</id>
+    <revision>
+      <id>21754</id>
+      <timestamp>2017-09-03T17:33:51Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schnupfenfrosch.jpg</title>
+    <ns>6</ns>
+    <id>5552</id>
+    <revision>
+      <id>23462</id>
+      <timestamp>2018-09-12T13:43:38Z</timestamp>
+      <contributor>
+        <username>Wiki10</username>
+        <id>10362</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="144">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>k7gmmm90qjus8t0hxrrfce8q42ahssd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schreibfeder.jpg</title>
+    <ns>6</ns>
+    <id>3672</id>
+    <revision>
+      <id>14408</id>
+      <timestamp>2011-02-15T20:27:13Z</timestamp>
+      <contributor>
+        <username>MAstockhausen</username>
+        <id>871</id>
+      </contributor>
+      <comment>Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;: Eine Gänsefeder zum Schreiben.</comment>
+      <text xml:space="preserve" bytes="243">Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;: Eine Gänsefeder zum Schreiben.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schriftarten .svg</title>
+    <ns>6</ns>
+    <id>3387</id>
+    <revision>
+      <id>12874</id>
+      <timestamp>2009-12-11T14:24:10Z</timestamp>
+      <contributor>
+        <username>Konstantin</username>
+        <id>345</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schultasche.jpg</title>
+    <ns>6</ns>
+    <id>3673</id>
+    <revision>
+      <id>14409</id>
+      <timestamp>2011-02-15T20:27:51Z</timestamp>
+      <contributor>
+        <username>MAstockhausen</username>
+        <id>871</id>
+      </contributor>
+      <comment>Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;: Eine Schultasche und eine (kleinere) Brotta</comment>
+      <text xml:space="preserve" bytes="260">Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;: Eine Schultasche und eine (kleinere) Brottasche.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schulzimmer-alt.jpg</title>
+    <ns>6</ns>
+    <id>3674</id>
+    <revision>
+      <id>14411</id>
+      <timestamp>2011-02-15T20:35:30Z</timestamp>
+      <contributor>
+        <username>MAstockhausen</username>
+        <id>871</id>
+      </contributor>
+      <comment>Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;.</comment>
+      <text xml:space="preserve" bytes="211">Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SchwarzesLoch1.jpg</title>
+    <ns>6</ns>
+    <id>3401</id>
+    <revision>
+      <id>12964</id>
+      <timestamp>2009-12-16T22:33:51Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schwarzes Loch.jpg</title>
+    <ns>6</ns>
+    <id>2082</id>
+    <revision>
+      <id>5120</id>
+      <parentid>5105</parentid>
+      <timestamp>2007-02-14T11:06:43Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="76">[[Bild:Schwarzes_Loch.jpg|thumb|Dieses Bild wurde von Vivien selbst gemalt]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schwarzes loch.jpg</title>
+    <ns>6</ns>
+    <id>2064</id>
+    <revision>
+      <id>5067</id>
+      <timestamp>2007-02-09T19:11:42Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schwebender Ball.jpeg</title>
+    <ns>6</ns>
+    <id>5494</id>
+    <revision>
+      <id>23315</id>
+      <timestamp>2018-07-06T16:01:59Z</timestamp>
+      <contributor>
+        <username>MASturm</username>
+        <id>10271</id>
+      </contributor>
+      <comment>{{Der &quot;schwebende Ball&quot; im Mathematikum
+}}</comment>
+      <text xml:space="preserve" bytes="42">{{Der &quot;schwebende Ball&quot; im Mathematikum
+}}</text>
+      <sha1>n6jr85bj3gn0yu4qmooe1h4qcx2qask</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SchwikiLogo.png</title>
+    <ns>6</ns>
+    <id>1682</id>
+    <revision>
+      <id>3300</id>
+      <timestamp>2006-03-10T10:46:39Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Aus dem Schülerwiki http://www.schwiki.de</comment>
+      <text xml:space="preserve" bytes="42">Aus dem Schülerwiki http://www.schwiki.de</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schäferhund.JPG</title>
+    <ns>6</ns>
+    <id>2692</id>
+    <revision>
+      <id>8401</id>
+      <timestamp>2008-06-14T14:14:02Z</timestamp>
+      <contributor>
+        <username>Jasmin.PPS</username>
+        <id>451</id>
+      </contributor>
+      <comment>http://de.wikipedia.org/w/index.php?title=Bild:12Jahre.JPG&amp;filetimestamp=20080530074626
+GNU-Rechte</comment>
+      <text xml:space="preserve" bytes="98">http://de.wikipedia.org/w/index.php?title=Bild:12Jahre.JPG&amp;filetimestamp=20080530074626
+GNU-Rechte</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schöne Waffen.jpg</title>
+    <ns>6</ns>
+    <id>2505</id>
+    <revision>
+      <id>7336</id>
+      <timestamp>2007-12-22T08:18:37Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Ich habe es selber gezeichnet</comment>
+      <text xml:space="preserve" bytes="29">Ich habe es selber gezeichnet</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schüler.jpg</title>
+    <ns>6</ns>
+    <id>1501</id>
+    <revision>
+      <id>2672</id>
+      <timestamp>2006-01-22T21:16:51Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Aus Microsoft Clipart Sammlung für &quot;Logik&quot;</comment>
+      <text xml:space="preserve" bytes="43">Aus Microsoft Clipart Sammlung für &quot;Logik&quot;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Seeadler07.jpg</title>
+    <ns>6</ns>
+    <id>4913</id>
+    <revision>
+      <id>20114</id>
+      <parentid>20107</parentid>
+      <timestamp>2016-07-07T07:19:56Z</timestamp>
+      <contributor>
+        <username>Wgsa15</username>
+        <id>10150</id>
+      </contributor>
+      <text xml:space="preserve" bytes="238">{{Information ohne UploadWizard
+|Beschreibung =Seeadler beim fliegen 
+|Quelle = wikimedia
+|Urheber = http://naturschutzbund.at/auen/auen/auenbewohner/articles/seeadler.html
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>da5ikaynk2zkcggjr2pcroc45i5xwuk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Seestern.png</title>
+    <ns>6</ns>
+    <id>5610</id>
+    <revision>
+      <id>23738</id>
+      <timestamp>2019-06-26T11:23:36Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Seestern unter Wasser.
+|Quelle = selbst erstellt
+|Urheber = Nika
+|Datum = 26.06.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="188">{{Information ohne UploadWizard
+|Beschreibung = Seestern unter Wasser.
+|Quelle = selbst erstellt
+|Urheber = Nika
+|Datum = 26.06.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>j4t7hdtv1u4ar91jjdfkag643up73od</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Seitenstark.jpg</title>
+    <ns>6</ns>
+    <id>3904</id>
+    <revision>
+      <id>15560</id>
+      <timestamp>2012-03-31T07:36:10Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Seitenstarkfuenfjahre.JPG</title>
+    <ns>6</ns>
+    <id>2657</id>
+    <revision>
+      <id>8203</id>
+      <timestamp>2008-05-04T11:08:50Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Bild von der Seitenstark-Feier, Rechte bei Völkner, Seitenstark</comment>
+      <text xml:space="preserve" bytes="64">Bild von der Seitenstark-Feier, Rechte bei Völkner, Seitenstark</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Seitenstarkfuenfjahre2.JPG</title>
+    <ns>6</ns>
+    <id>2659</id>
+    <revision>
+      <id>8205</id>
+      <timestamp>2008-05-04T11:10:35Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Bild von der Geburtstagsfeier von Seitenstark, Rechte bei Völkner, Seitenstark</comment>
+      <text xml:space="preserve" bytes="79">Bild von der Geburtstagsfeier von Seitenstark, Rechte bei Völkner, Seitenstark</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Senegal-Pos.png</title>
+    <ns>6</ns>
+    <id>1716</id>
+    <revision>
+      <id>3724</id>
+      <parentid>3723</parentid>
+      <timestamp>2006-04-01T15:57:14Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="52">Karte Afrikas, Senegal hervorgehoben
+
+{{GNU-Lizenz}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Services.png</title>
+    <ns>6</ns>
+    <id>1679</id>
+    <revision>
+      <id>3286</id>
+      <timestamp>2006-03-09T22:48:06Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="210">http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Seufzerbrücke02.jpg</title>
+    <ns>6</ns>
+    <id>4928</id>
+    <revision>
+      <id>20155</id>
+      <parentid>20150</parentid>
+      <timestamp>2016-07-07T09:21:49Z</timestamp>
+      <contributor>
+        <username>Wgsa26</username>
+        <id>10161</id>
+      </contributor>
+      <text xml:space="preserve" bytes="213">{{Information ohne UploadWizard
+|Beschreibung = Brücke am Tag
+|Quelle = Wikimedia
+|Urheber = von G. dallorto (Self-published work by G. dallorto) 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>f5oke41hab51ykp9p1a6kfe2qyrximb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Shawn Mendes.jpg</title>
+    <ns>6</ns>
+    <id>5448</id>
+    <revision>
+      <id>22967</id>
+      <timestamp>2018-06-22T07:25:54Z</timestamp>
+      <contributor>
+        <username>Wgsa09</username>
+        <id>10144</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Shawn Mendes 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="154">{{Information ohne UploadWizard
+|Beschreibung = Shawn Mendes 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>kt4lciyrtfpoot4a0ip9zt07u89nrev</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Siebenschläfer in Deutschland.jpg</title>
+    <ns>6</ns>
+    <id>2028</id>
+    <revision>
+      <id>4972</id>
+      <parentid>4939</parentid>
+      <timestamp>2007-01-22T18:02:22Z</timestamp>
+      <contributor>
+        <username>BADolde</username>
+        <id>181</id>
+      </contributor>
+      <text xml:space="preserve" bytes="158">Dies ist ein eigenes Bild der Schülerin, aufgenommen im Garten ihrer Großtante
+[[Bild:Siebenschläfer_in_Deutschland.jpg|thumb|Dieses Bild gehört Carolin]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Siegergold1.jpg</title>
+    <ns>6</ns>
+    <id>3188</id>
+    <revision>
+      <id>11434</id>
+      <timestamp>2009-04-13T10:47:55Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Sieger beim Schreibwettbewerb im ZUM-Grundschulwiki, Aufnahme von M. Leupold, hochgeladen am 13.04.2009</comment>
+      <text xml:space="preserve" bytes="103">Sieger beim Schreibwettbewerb im ZUM-Grundschulwiki, Aufnahme von M. Leupold, hochgeladen am 13.04.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Silvester-in-dubai-burj-khalifa-1.jpg</title>
+    <ns>6</ns>
+    <id>6168</id>
+    <revision>
+      <id>25448</id>
+      <parentid>25447</parentid>
+      <timestamp>2023-02-04T01:15:15Z</timestamp>
+      <contributor>
+        <username>FZJordi</username>
+        <id>10538</id>
+      </contributor>
+      <comment>FZJordi lud eine neue Version von „[[Datei:Silvester-in-dubai-burj-khalifa-1.jpg]]“ hoch: Zurückgesetzt auf die Version vom 4. Februar 2023, 00:34 Uhr</comment>
+      <text xml:space="preserve" bytes="225">{{Information ohne UploadWizard
+|Beschreibung = Burj Khalifa bei Nacht
+|Quelle = https://www.dubai-erfahrungen.de/silvester-in-dubai|Urheber = 
+|Datum = 04.02.2023
+|Genehmigung = 0815
+|Andere Versionen = 1
+|Anmerkungen = 1
+}}</text>
+      <sha1>gtpra6jw26l6frppomo2hvb6or1u2xz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sitzen.jpg</title>
+    <ns>6</ns>
+    <id>3666</id>
+    <revision>
+      <id>14410</id>
+      <parentid>14401</parentid>
+      <timestamp>2011-02-15T20:31:14Z</timestamp>
+      <contributor>
+        <username>MAstockhausen</username>
+        <id>871</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Sitzen.jpg]]“ hochgeladen: Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzi</comment>
+      <text xml:space="preserve" bytes="86">Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sk2.jpg</title>
+    <ns>6</ns>
+    <id>3922</id>
+    <revision>
+      <id>15620</id>
+      <timestamp>2012-06-03T21:03:02Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>Die Skip-Bo Karte</comment>
+      <text xml:space="preserve" bytes="17">Die Skip-Bo Karte</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sketchup.jpg</title>
+    <ns>6</ns>
+    <id>1982</id>
+    <revision>
+      <id>4644</id>
+      <timestamp>2006-09-27T20:01:05Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie D</comment>
+      <text xml:space="preserve" bytes="501">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sketchup2.jpg</title>
+    <ns>6</ns>
+    <id>1983</id>
+    <revision>
+      <id>4646</id>
+      <timestamp>2006-09-27T20:09:42Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie D</comment>
+      <text xml:space="preserve" bytes="501">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Skisprung.jpg</title>
+    <ns>6</ns>
+    <id>3207</id>
+    <revision>
+      <id>11518</id>
+      <parentid>11516</parentid>
+      <timestamp>2009-04-27T10:56:45Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Skisprung.jpg]]“ hochgeladen</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Skizze.png</title>
+    <ns>6</ns>
+    <id>5587</id>
+    <revision>
+      <id>23610</id>
+      <timestamp>2019-04-22T15:50:59Z</timestamp>
+      <contributor>
+        <username>MADacjan</username>
+        <id>10378</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Der Desktop vom meinen PC
+|Quelle = Eigenes Bild
+|Urheber = MADacjan
+|Datum = 22.04.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="192">{{Information ohne UploadWizard
+|Beschreibung = Der Desktop vom meinen PC
+|Quelle = Eigenes Bild
+|Urheber = MADacjan
+|Datum = 22.04.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>t5olgtour6gj3f0f4qde81im1ryukaq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

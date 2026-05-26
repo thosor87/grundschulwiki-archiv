@@ -1,0 +1,58 @@
+{
+  "pageid": 4011,
+  "ns": 14,
+  "title": "Kategorie:Y",
+  "revisions": [
+    {
+      "revid": 16309,
+      "parentid": 16301,
+      "user": "Karl Kirst",
+      "timestamp": "2012-12-01T15:26:38Z",
+      "comment": "- Yakari",
+      "wikitext": "{{Vorlage:Lexikonaufruf}}\n[[Kategorie:Lexikonaufruf]]"
+    },
+    {
+      "revid": 16301,
+      "parentid": 16300,
+      "user": "MAKohler",
+      "timestamp": "2012-11-30T15:11:43Z",
+      "comment": "",
+      "wikitext": "{{Vorlage:Lexikonaufruf}}\n[[Kategorie:Lexikonaufruf]]\n[[Yakari]]"
+    },
+    {
+      "revid": 16300,
+      "parentid": 16299,
+      "user": "MAKohler",
+      "timestamp": "2012-11-30T15:07:06Z",
+      "comment": "",
+      "wikitext": "{{Vorlage:Lexikonaufruf}}\n[[Kategorie:Lexikonaufruf]]"
+    },
+    {
+      "revid": 16299,
+      "parentid": 16263,
+      "user": "MAKohler",
+      "timestamp": "2012-11-30T15:06:01Z",
+      "comment": "Yakari",
+      "wikitext": "{{Vorlage:Lexikonaufruf}}\n[[Kategorie:Lexikonaufruf]]\nYakari\n\nAutor: André Jobin"
+    },
+    {
+      "revid": 16263,
+      "parentid": 16258,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-24T15:31:12Z",
+      "comment": "Vorlage:Lexikonaufruf",
+      "wikitext": "{{Vorlage:Lexikonaufruf}}\n[[Kategorie:Lexikonaufruf]]"
+    },
+    {
+      "revid": 16258,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-24T15:00:16Z",
+      "comment": "Die Seite wurde neu angelegt: [[Kategorie:Lexikonaufruf]]",
+      "wikitext": "[[Kategorie:Lexikonaufruf]]"
+    }
+  ],
+  "categories": [
+    "Kategorie:Lexikonaufruf"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "pageid": 1493,
+  "ns": 0,
+  "title": "Logik",
+  "revisions": [
+    {
+      "revid": 3688,
+      "parentid": 3635,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-23T10:32:50Z",
+      "comment": "/* Fortsetzung:[[Logik 2]] */",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nDer Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier nach und nach erläutern.\n\n== Einführung in den Begriff Logik==\n{| border='0' width='95%' cellpadding='10'\n|width=500px|Nehmen wir einmal eine Klasse mit Schülerinnen und Schülern. Nehmen wir an, diese sitzen getrennt in der linken und rechten Reihe, dann ist das vereinfacht, so wie in dem Bild rechts.\n|[[Bild:Klasse.gif]] \n|-\n|Jetzt sollen aber die beiden Gruppen anders gebildet werden, es sollen links, diejenigen mit blonden Haaren und rechts weiterhin die Buben bleiben.\nStimmt das Bild rechts?\n|[[Bild:Klasse2.gif]] \n|-\n|Antwort: Wohl kaum! Wo stellen sich die Buben mit blonden Haaren auf? \n\nEs bleibt nur die Möglichkeit unsere Zeichnung zu verändern. Es gibt einen gemeinsamen Bereich, da stehen die blonden Buben!\n|[[Bild:Klasse3.gif]]\n|-\n|Wir verändern die Fragestellung. In deiner Klasse gibt es auch Brillenträger, Schülerinnen und Schüler. Wie wird das Diagramm aussehen? Es ist jetzt wichtig, welche Mitglieder der Klasse in die Bereiche A, B, C und D kommen.\n\nKleine Hilfestellung: In A kommen die Schüler(Mädchen und Knaben) hinein, die keine Brille tragen.\n|[[Bild:Klasse4.gif]]\n|-\n|'''Antwort:''' In A sind die Schüler (das wissen wir schon), die keine Brille haben, in B sind Schüler, die auch eine Brille haben, in C sind die Schüler, die eine Brille tragen und in D gibt es keine Schüler! In D müsste gelten, dass es keine Schüler sind und auch keine Brille tragen. Das ist in der Klasse unmöglich.  \n|Und wo gehört dieser Typ dazu? [[Bild:Schüler.jpg|right]]\n|-\n|'''Antwort:''' Natürlich in den Bereich B.\n\nUnd jetzt noch die Frage: Was könnte jemand mit dem Diagramm rechts gemeint haben?\n|[[Bild:Klasse5.gif]]\n|}\n\n== Fortsetzung:[[Logik 2]]==\n\n\n{{Rücksprung|L}}"
+    },
+    {
+      "revid": 3635,
+      "parentid": 2763,
+      "user": "Leupold",
+      "timestamp": "2006-03-21T18:30:50Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nDer Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier nach und nach erläutern.\n\n== Einführung in den Begriff Logik==\n{| border='0' width='95%' cellpadding='10'\n|width=500px|Nehmen wir einmal eine Klasse mit Schülerinnen und Schülern. Nehmen wir an, diese sitzen getrennt in der linken und rechten Reihe, dann ist das vereinfacht, so wie in dem Bild rechts.\n|[[Bild:Klasse.gif]] \n|-\n|Jetzt sollen aber die beiden Gruppen anders gebildet werden, es sollen links, diejenigen mit blonden Haaren und rechts weiterhin die Buben bleiben.\nStimmt das Bild rechts?\n|[[Bild:Klasse2.gif]] \n|-\n|Antwort: Wohl kaum! Wo stellen sich die Buben mit blonden Haaren auf? \n\nEs bleibt nur die Möglichkeit unsere Zeichnung zu verändern. Es gibt einen gemeinsamen Bereich, da stehen die blonden Buben!\n|[[Bild:Klasse3.gif]]\n|-\n|Wir verändern die Fragestellung. In deiner Klasse gibt es auch Brillenträger, Schülerinnen und Schüler. Wie wird das Diagramm aussehen? Es ist jetzt wichtig, welche Mitglieder der Klasse in die Bereiche A, B, C und D kommen.\n\nKleine Hilfestellung: In A kommen die Schüler(Mädchen und Knaben) hinein, die keine Brille tragen.\n|[[Bild:Klasse4.gif]]\n|-\n|'''Antwort:''' In A sind die Schüler (das wissen wir schon), die keine Brille haben, in B sind Schüler, die auch eine Brille haben, in C sind die Schüler, die eine Brille tragen und in D gibt es keine Schüler! In D müsste gelten, dass es keine Schüler sind und auch keine Brille tragen. Das ist in der Klasse unmöglich.  \n|Und wo gehört dieser Typ dazu? [[Bild:Schüler.jpg|right]]\n|-\n|'''Antwort:''' Natürlich in den Bereich B.\n\nUnd jetzt noch die Frage: Was könnte jemand mit dem Diagramm rechts gemeint haben?\n|[[Bild:Klasse5.gif]]\n|}\n\n== Fortsetzung:[[Logik 2]]==\n\n\n\n\nHier geht es zurück zur [[L|Lexikonseite L]]!"
+    },
+    {
+      "revid": 2763,
+      "parentid": 2756,
+      "user": "Leupold",
+      "timestamp": "2006-01-26T13:49:39Z",
+      "comment": "/* Fortsetzung:[[Logik 2]] */",
+      "wikitext": "Der Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier nach und nach erläutern.\n\n== Einführung in den Begriff Logik==\n{| border='0' width='95%' cellpadding='10'\n|width=500px|Nehmen wir einmal eine Klasse mit Schülerinnen und Schülern. Nehmen wir an, diese sitzen getrennt in der linken und rechten Reihe, dann ist das vereinfacht, so wie in dem Bild rechts.\n|[[Bild:Klasse.gif]] \n|-\n|Jetzt sollen aber die beiden Gruppen anders gebildet werden, es sollen links, diejenigen mit blonden Haaren und rechts weiterhin die Buben bleiben.\nStimmt das Bild rechts?\n|[[Bild:Klasse2.gif]] \n|-\n|Antwort: Wohl kaum! Wo stellen sich die Buben mit blonden Haaren auf? \n\nEs bleibt nur die Möglichkeit unsere Zeichnung zu verändern. Es gibt einen gemeinsamen Bereich, da stehen die blonden Buben!\n|[[Bild:Klasse3.gif]]\n|-\n|Wir verändern die Fragestellung. In deiner Klasse gibt es auch Brillenträger, Schülerinnen und Schüler. Wie wird das Diagramm aussehen? Es ist jetzt wichtig, welche Mitglieder der Klasse in die Bereiche A, B, C und D kommen.\n\nKleine Hilfestellung: In A kommen die Schüler(Mädchen und Knaben) hinein, die keine Brille tragen.\n|[[Bild:Klasse4.gif]]\n|-\n|'''Antwort:''' In A sind die Schüler (das wissen wir schon), die keine Brille haben, in B sind Schüler, die auch eine Brille haben, in C sind die Schüler, die eine Brille tragen und in D gibt es keine Schüler! In D müsste gelten, dass es keine Schüler sind und auch keine Brille tragen. Das ist in der Klasse unmöglich.  \n|Und wo gehört dieser Typ dazu? [[Bild:Schüler.jpg|right]]\n|-\n|'''Antwort:''' Natürlich in den Bereich B.\n\nUnd jetzt noch die Frage: Was könnte jemand mit dem Diagramm rechts gemeint haben?\n|[[Bild:Klasse5.gif]]\n|}\n\n== Fortsetzung:[[Logik 2]]==\n\n\n\n\nHier geht es zurück zur [[L|Lexikonseite L]]!"
+    },
+    {
+      "revid": 2756,
+      "parentid": 2673,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-25T13:34:08Z",
+      "comment": "eine Aufgabe war falsch beantwortet!",
+      "wikitext": "Der Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier nach und nach erläutern.\n\n== Einführung in den Begriff Logik==\n{| border='0' width='95%' cellpadding='10'\n|width=500px|Nehmen wir einmal eine Klasse mit Schülerinnen und Schülern. Nehmen wir an, diese sitzen getrennt in der linken und rechten Reihe, dann ist das vereinfacht, so wie in dem Bild rechts.\n|[[Bild:Klasse.gif]] \n|-\n|Jetzt sollen aber die beiden Gruppen anders gebildet werden, es sollen links, diejenigen mit blonden Haaren und rechts weiterhin die Buben bleiben.\nStimmt das Bild rechts?\n|[[Bild:Klasse2.gif]] \n|-\n|Antwort: Wohl kaum! Wo stellen sich die Buben mit blonden Haaren auf? \n\nEs bleibt nur die Möglichkeit unsere Zeichnung zu verändern. Es gibt einen gemeinsamen Bereich, da stehen die blonden Buben!\n|[[Bild:Klasse3.gif]]\n|-\n|Wir verändern die Fragestellung. In deiner Klasse gibt es auch Brillenträger, Schülerinnen und Schüler. Wie wird das Diagramm aussehen? Es ist jetzt wichtig, welche Mitglieder der Klasse in die Bereiche A, B, C und D kommen.\n\nKleine Hilfestellung: In A kommen die Schüler(Mädchen und Knaben) hinein, die keine Brille tragen.\n|[[Bild:Klasse4.gif]]\n|-\n|'''Antwort:''' In A sind die Schüler (das wissen wir schon), die keine Brille haben, in B sind Schüler, die auch eine Brille haben, in C sind die Schüler, die eine Brille tragen und in D gibt es keine Schüler! In D müsste gelten, dass es keine Schüler sind und auch keine Brille tragen. Das ist in der Klasse unmöglich.  \n|Und wo gehört dieser Typ dazu? [[Bild:Schüler.jpg|right]]\n|-\n|'''Antwort:''' Natürlich in den Bereich B.\n\nUnd jetzt noch die Frage: Was könnte jemand mit dem Diagramm rechts gemeint haben?\n|[[Bild:Klasse5.gif]]\n|}\n\n== Fortsetzung:[[Logik 2]]=="
+    },
+    {
+      "revid": 2673,
+      "parentid": 2671,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-22T21:18:26Z",
+      "comment": "/* Einführung in den Begriff Logik */",
+      "wikitext": "Der Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier nach und nach erläutern.\n\n== Einführung in den Begriff Logik==\n{| border='0' width='95%' cellpadding='10'\n|width=500px|Nehmen wir einmal eine Klasse mit Schülerinnen und Schülern. Nehmen wir an, diese sitzen getrennt in der linken und rechten Reihe, dann ist das vereinfacht, so wie in dem Bild rechts.\n|[[Bild:Klasse.gif]] \n|-\n|Jetzt sollen aber die beiden Gruppen anders gebildet werden, es sollen links, diejenigen mit blonden Haaren und rechts weiterhin die Buben bleiben.\nStimmt das Bild rechts?\n|[[Bild:Klasse2.gif]] \n|-\n|Antwort: Wohl kaum! Wo stellen sich die Buben mit blonden Haaren auf? \n\nEs bleibt nur die Möglichkeit unsere Zeichnung zu verändern. Es gibt einen gemeinsamen Bereich, da stehen die blonden Buben!\n|[[Bild:Klasse3.gif]]\n|-\n|Wir verändern die Fragestellung. In deiner Klasse gibt es auch Brillenträger, Schülerinnen und Schüler. Wie wird das Diagramm aussehen? Es ist jetzt wichtig, welche Mitglieder der Klasse in die Bereiche A, B, C und D kommen.\n|[[Bild:Klasse4.gif]]\n|-\n|'''Antwort:''' In A sind die Mädchen, die keine Brille haben, in B sind Mädchen, die auch eine Brille haben, in C sind die Buben, die eine Brille tragen und in D sind die Buben, die keine Brille tragen.\n|Und wo gehört dieser Typ dazu? [[Bild:Schüler.jpg]]\n|-\n|Und jetzt noch die Frage: Was könnte jemand mit dem Diagramm rechts gemeint haben?\n|[[Bild:Klasse5.gif]]\n|}\n\n== Fortsetzung:[[Logik 2]]=="
+    },
+    {
+      "revid": 2671,
+      "parentid": 2670,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-22T21:10:25Z",
+      "comment": "",
+      "wikitext": "Der Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier nach und nach erläutern.\n\n== Einführung in den Begriff Logik==\n{| border='0' width='95%' cellpadding='10'\n|width=500px|Nehmen wir einmal eine Klasse mit Schülerinnen und Schülern. Nehmen wir an, diese sitzen getrennt in der linken und rechten Reihe, dann ist das vereinfacht, so wie in dem Bild rechts.\n|[[Bild:Klasse.gif]] \n|-\n|Jetzt sollen aber die beiden Gruppen anders gebildet werden, es sollen links, diejenigen mit blonden Haaren und rechts weiterhin die Buben bleiben.\nStimmt das Bild rechts?\n|[[Bild:Klasse2.gif]] \n|-\n|Antwort: Wohl kaum! Wo stellen sich die Buben mit blonden Haaren auf? \n\nEs bleibt nur die Möglichkeit unsere Zeichnung zu verändern. Es gibt einen gemeinsamen Bereich, da stehen die blonden Buben!\n|[[Bild:Klasse3.gif]]\n|-\n|Wir verändern die Fragestellung. In deiner Klasse gibt es auch Brillenträger, Schülerinnen und Schüler. Wie wird das Diagramm aussehen? Es ist jetzt wichtig, welche Mitglieder der Klasse in die Bereiche A, B, C und D kommen.\n|[[Bild:Klasse4.gif]]\n|-\n|'''Antwort:''' In A sind die Mädchen, die keine Brille haben, in B sind Mädchen, die auch eine Brille haben, in C sind die Buben, die eine Brille tragen und in D sind die Buben, die keine Brille tragen.\n|\n|-\n|Und jetzt noch die Frage: Was könnte jemand mit dem Diagramm rechts gemeint haben?\n|[[Bild:Klasse5.gif]]\n|}\n\n== Fortsetzung:[[Logik 2]]=="
+    },
+    {
+      "revid": 2670,
+      "parentid": 2666,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-22T21:05:46Z",
+      "comment": "",
+      "wikitext": "Der Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier nach und nach erläutern.\n\n{| border='0' width='95%' cellpadding='10'\n|width=500px|Nehmen wir einmal eine Klasse mit Schülerinnen und Schülern. Nehmen wir an, diese sitzen getrennt in der linken und rechten Reihe, dann ist das vereinfacht, so wie in dem Bild rechts.\n|[[Bild:Klasse.gif]] \n|-\n|Jetzt sollen aber die beiden Gruppen anders gebildet werden, es sollen links, diejenigen mit blonden Haaren und rechts weiterhin die Buben bleiben.\nStimmt das Bild rechts?\n|[[Bild:Klasse2.gif]] \n|-\n|Antwort: Wohl kaum! Wo stellen sich die Buben mit blonden Haaren auf? \n\nEs bleibt nur die Möglichkeit unsere Zeichnung zu verändern. Es gibt einen gemeinsamen Bereich, da stehen die blonden Buben!\n|[[Bild:Klasse3.gif]]\n|-\n|Wir verändern die Fragestellung. In deiner Klasse gibt es Ausländer und Schüler. Wie wird das Diagramm aussehen? Es ist jetzt wichtig, welche Mitglieder der Klasse in die Bereich A, B, C und D kommen.\n|[[Bild:Klasse4.gif]]\n|-\n|Antwort:'''Fetter Text''' In A sind die Mädchen, die keine Brillenträger sind, in B sind Mädchen, die auch eine Brille haben, in C sind die Buben, die eine Brille tragen und in D sind die Buben, die keine Brille tragen.\n|\n|-\n|Und jetzt noch die Frage: Was könnte jemand mit dem Diagramm rechts gemeint haben?\n|[[Bild:Klasse5.gif]]\n|}\n\nFortsetzung:[[Logik 2]]"
+    },
+    {
+      "revid": 2666,
+      "parentid": 2662,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-22T16:11:37Z",
+      "comment": "Erste Schritte",
+      "wikitext": "Der Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier nach und nach erläutern.\n\n{| border='0' width='95%' cellpadding='10'\n|width=500px|Nehmen wir einmal eine Klasse mit Schülerinnen und Schülern. Nehmen wir an, diese sitzen getrennt in der linken und rechten Reihe, dann ist das vereinfacht, so wie in dem Bild rechts.\n|[[Bild:Klasse.gif]] \n|-\n|Jetzt sollen aber die beiden Gruppen anders gebildet werden, es sollen links, diejenigen mit blonden Haaren und rechts weiterhin die Buben bleiben.\nStimmt das Bild rechts?\n|[[Bild:Klasse2.gif]] \n|-\n|Antwort: Wohl kaum! Wo stellen sich die Buben mit blonden Haaren auf? \n\nEs bleibt nur die Möglichkeit unsere Zeichnung zu verändern. Es gibt einen gemeinsamen Bereich, da stehen die blonden Buben!\n|[[Bild:Klasse3.gif]]\n|}"
+    },
+    {
+      "revid": 2662,
+      "parentid": 2651,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-22T15:48:55Z",
+      "comment": "",
+      "wikitext": "Der Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier nach und nach erläutern.\n\n{| border='0' width='95%' cellpadding='10'\n|width=300px|Nehmen wir einmal eine Klasse mit Schülerinnen und Schülern. Nebenan rechts wird dies dargestellt.\n|[[Bild:Beispiel.jpg]] \n|-\n|Zeile 2\n| ...\n|-\n|Zeile 3\n| ...\n|}"
+    },
+    {
+      "revid": 2651,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-21T18:27:52Z",
+      "comment": "",
+      "wikitext": "Der Begriff Logik wird heute von vielen Leuten gebraucht. \"''Das ist doch logisch''\", damit meint man, dass aus dem einen Satz etwas anderes (logisch) folgt.\n\n[[Bild:In arbeit.png]]\n\nDies will ich hier (demnächst) erläutern."
+    }
+  ],
+  "categories": []
+}

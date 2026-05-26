@@ -1,0 +1,48 @@
+{
+  "pageid": 2049,
+  "ns": 6,
+  "title": "Datei:Zauberdose.JPG",
+  "revisions": [
+    {
+      "revid": 5058,
+      "parentid": 5015,
+      "user": "BAKehrer",
+      "timestamp": "2007-01-31T17:58:24Z",
+      "comment": "",
+      "wikitext": "[[Bild:Zauberdose.jpg|thumb|Gemalt von einem Grundschüler]]\n((Rücksprung|Z)\n(Löschen) (Aktuell) 16:40, 28. Jan 2007 . . BAKehrer (Diskussion) . . 300 x 280 (29996 Byte) (Gemalt von einem Grundschüler)\n(Löschen) = lösche diese alte Version,"
+    },
+    {
+      "revid": 5015,
+      "parentid": 5014,
+      "user": "BAKehrer",
+      "timestamp": "2007-01-28T17:08:38Z",
+      "comment": "",
+      "wikitext": "[[Bild:Zauberdose.jpg|thumb|Gemalt von einem Grundschüler]]\n((Rücksprung|Z)\n(Löschen) (Aktuell) 16:40, 28. Jan 2007 . . BAKehrer (Diskussion) . . 300 x 280 (29996 Byte) (Gemalt von einem Grundschüler)"
+    },
+    {
+      "revid": 5014,
+      "parentid": 5013,
+      "user": "BAKehrer",
+      "timestamp": "2007-01-28T16:48:20Z",
+      "comment": "",
+      "wikitext": "\n[[Bild:Zauberdose.jpg|thumb|Gemalt von einem Grundschüler]]\n((Rücksprung|Z)"
+    },
+    {
+      "revid": 5013,
+      "parentid": 5012,
+      "user": "BAKehrer",
+      "timestamp": "2007-01-28T16:42:30Z",
+      "comment": "",
+      "wikitext": "Gemalt von einem Grundschüler\nZauberdose.JPG"
+    },
+    {
+      "revid": 5012,
+      "parentid": 0,
+      "user": "BAKehrer",
+      "timestamp": "2007-01-28T16:40:40Z",
+      "comment": "Gemalt von einem Grundschüler",
+      "wikitext": "Gemalt von einem Grundschüler"
+    }
+  ],
+  "categories": []
+}

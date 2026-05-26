@@ -1,0 +1,26 @@
+{
+  "pageid": 4309,
+  "ns": 10,
+  "title": "Vorlage:Schutzlandprinzip",
+  "revisions": [
+    {
+      "revid": 17653,
+      "parentid": 17652,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:43Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Schutzlandprinzip\">\n{| {{Lizenzdesign4}}\n| Diese Datei ist im Entstehungsland wahrscheinlich urheberrechtlich geschützt.\n\nNach den Bildrechte-Regeln der deutschsprachigen Wikipedia (insbesondere {{wpde|Schutzlandprinzip}}) kann die Datei jedoch in der Wikipedia und dementsprechend auch im {{SITENAME}} verbleiben.\n|}\n</div>\n{{NoCommons}}\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Schutzlandprinzip|{{PAGENAME}}]] }}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]</noinclude>"
+    },
+    {
+      "revid": 17652,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-08T18:59:42Z",
+      "comment": "auch hier",
+      "wikitext": "<div id=\"Vorlage_Schutzlandprinzip\">\n{| {{Lizenzdesign4}}\n| Diese Datei ist im Entstehungsland wahrscheinlich urheberrechtlich geschützt.\n\nNach den Bildrechte-Regeln der deutschsprachigen Wikipedia (insbesondere {{wpde|Schutzlandprinzip}}) kann die Datei jedoch in der Wikipedia und dementsprechend auch im {{SITENAME}} verbleiben.\n|}\n</div>\n{{NoCommons}}\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Schutzlandprinzip|{{PAGENAME}}]] }}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Hinweis für Bilder"
+  ]
+}

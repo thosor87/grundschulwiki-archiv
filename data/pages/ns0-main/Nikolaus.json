@@ -1,0 +1,40 @@
+{
+  "pageid": 4551,
+  "ns": 0,
+  "title": "Nikolaus",
+  "revisions": [
+    {
+      "revid": 18863,
+      "parentid": 18862,
+      "user": "Leupold",
+      "timestamp": "2015-04-13T19:17:10Z",
+      "comment": "Änderung 18862 von [[Special:Contributions/MALeupold|MALeupold]] ([[User talk:MALeupold|Diskussion]]) rückgängig gemacht.",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Der Nikolaus ==\nDer Nikolaus kommt am 6. Dezember.\nEr bringt Süßigkeiten und kleine Geschenke. Diese steckt er in Stiefel, aber sie müssen sauber sein.\n(als Tipp große Stiefel hinstellen)\n\n{{Rücksprung|N}}"
+    },
+    {
+      "revid": 18862,
+      "parentid": 18660,
+      "user": "MALeupold",
+      "timestamp": "2015-04-11T12:14:41Z",
+      "comment": "Der Seiteninhalt wurde durch einen anderen Text ersetzt: „{“",
+      "wikitext": "{"
+    },
+    {
+      "revid": 18660,
+      "parentid": 18656,
+      "user": "Leupold",
+      "timestamp": "2014-12-21T04:22:50Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Der Nikolaus ==\nDer Nikolaus kommt am 6. Dezember.\nEr bringt Süßigkeiten und kleine Geschenke. Diese steckt er in Stiefel, aber sie müssen sauber sein.\n(als Tipp große Stiefel hinstellen)\n\n{{Rücksprung|N}}"
+    },
+    {
+      "revid": 18656,
+      "parentid": 0,
+      "user": "MABuchner",
+      "timestamp": "2014-12-05T18:46:11Z",
+      "comment": "Die Seite wurde neu angelegt: „== Der Nikolaus == Der Nikolaus kommt am 6. Dezember. Er bringt Süßigkeiten und kleine Geschenke. Diese steckt er in Stiefel, aber sie müssen sauber sein. (…“",
+      "wikitext": "== Der Nikolaus ==\nDer Nikolaus kommt am 6. Dezember.\nEr bringt Süßigkeiten und kleine Geschenke. Diese steckt er in Stiefel, aber sie müssen sauber sein.\n(als Tipp große Stiefel hinstellen)"
+    }
+  ],
+  "categories": []
+}

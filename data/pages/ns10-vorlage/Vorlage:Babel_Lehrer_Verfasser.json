@@ -1,0 +1,48 @@
+{
+  "pageid": 1709,
+  "ns": 10,
+  "title": "Vorlage:Babel Lehrer Verfasser",
+  "revisions": [
+    {
+      "revid": 3682,
+      "parentid": 3681,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-23T08:50:53Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\n BORDER_COLOR=red|\n BG_COLOR=khaki|\n BG_IMAGE_COLOR=white|\n IMAGE=[[Bild:Kdict.png|40px|center|Lehrer]]|\n TEXT_SIZE=8pt|\n TEXT=Der Verfasser ist '''Lehrer''' bzw. '''Lehrerin'''.|\n}}"
+    },
+    {
+      "revid": 3681,
+      "parentid": 3609,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-23T08:49:42Z",
+      "comment": "Änderung der Hintergrundfarbe auf burlywood",
+      "wikitext": "{{BabelVorlage|\n BORDER_COLOR=burlywood|\n BG_COLOR=red|\n BG_IMAGE_COLOR=white|\n IMAGE=[[Bild:Kdict.png|40px|center|Lehrer]]|\n TEXT_SIZE=8pt|\n TEXT=Der Verfasser ist '''Lehrer''' bzw. '''Lehrerin'''.|\n}}"
+    },
+    {
+      "revid": 3609,
+      "parentid": 3608,
+      "user": "Leupold",
+      "timestamp": "2006-03-20T13:30:14Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\n BORDER_COLOR=red|\n BG_COLOR=red|\n BG_IMAGE_COLOR=white|\n IMAGE=[[Bild:Kdict.png|40px|center|Lehrer]]|\n TEXT_SIZE=8pt|\n TEXT=Der Verfasser ist '''Lehrer''' bzw. '''Lehrerin'''.|\n}}"
+    },
+    {
+      "revid": 3608,
+      "parentid": 3607,
+      "user": "Leupold",
+      "timestamp": "2006-03-20T13:29:58Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\n BORDER_COLOR=red|\n BG_COLOR=light red|\n BG_IMAGE_COLOR=white|\n IMAGE=[[Bild:Kdict.png|40px|center|Lehrer]]|\n TEXT_SIZE=8pt|\n TEXT=Der Verfasser ist '''Lehrer''' bzw. '''Lehrerin'''.|\n}}"
+    },
+    {
+      "revid": 3607,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2006-03-20T13:29:29Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\n BORDER_COLOR=red|\n BG_COLOR=light red|\n BG_IMAGE_COLOR=white|\n IMAGE=[[Bild:Kdict.png|40px|\n           center|Lehrer]]|\n TEXT_SIZE=8pt|\n TEXT=Der Verfasser ist '''Lehrer''' \n bzw. '''Lehrerin'''.|\n}}"
+    }
+  ],
+  "categories": []
+}

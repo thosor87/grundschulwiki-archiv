@@ -1,0 +1,74 @@
+{
+  "pageid": 1591,
+  "ns": 10,
+  "title": "Vorlage:Kastendesign1",
+  "revisions": [
+    {
+      "revid": 18931,
+      "parentid": 18929,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T22:11:09Z",
+      "comment": "aktuelle Version aus dem ZUM-Wiki (ohne feste Schriftgröße)",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}<noinclude>\n\n----\n\n;Parameter (mit Erklärung nach dem Doppelpunkt), Verwendung z.B.'''''ÜBERSCHRIFT=Titel der Überschrift'''''\nÜBERSCHRIFT: Überschriftzeile<br>\nBILD: Bildname, das Bild wird auf 48px verkleinert<br>\nINHALT: Inhalt des Kastens<br>\n'''''optional:'''''<br>\nBREITE: Breite der Vorlage in % oder Pixel<br>\nBORDER: Borderfarbe (Hexadezimal #FFFFFF oder Name)<br>\nBACKGROUND: Farbe (Hexadezimal #FFFFFF oder Name)\n</noinclude><noinclude>[[Kategorie:Vorlage:Kastendesign-Bausteine]]</noinclude>"
+    },
+    {
+      "revid": 18929,
+      "parentid": 18928,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T22:10:51Z",
+      "comment": "Karl Kirst verschob Seite [[Vorlage:Kastendesign]] nach [[Vorlage:Kastendesign1]]: wei im ZUM-Wiki",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18928,
+      "parentid": 18927,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T22:09:23Z",
+      "comment": "Änderung 18927 von [[Special:Contributions/Karl Kirst|Karl Kirst]] ([[User talk:Karl Kirst|Diskussion]]) rückgängig gemacht.",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18927,
+      "parentid": 18632,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T22:07:44Z",
+      "comment": "Weiterleitung nach [[Vorlage:Kastendesign2]] erstellt",
+      "wikitext": "#WEITERLEITUNG [[Vorlage:Kastendesign2]]"
+    },
+    {
+      "revid": 18632,
+      "parentid": 18626,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:08:34Z",
+      "comment": "",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18626,
+      "parentid": 18625,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:04:19Z",
+      "comment": "Änderungen von [[Special:Contributions/Leupold|Leupold]] ([[User talk:Leupold|Diskussion]]) wurden auf die letzte Version von [[User:A.Burgermeister|A.Burgermeister]] zurückgesetzt",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 18625,
+      "parentid": 3151,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:03:29Z",
+      "comment": "",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3151,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-08T17:48:09Z",
+      "comment": "",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|48px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Kastendesign-Bausteine"
+  ]
+}

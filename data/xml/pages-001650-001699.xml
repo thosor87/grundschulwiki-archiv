@@ -1,0 +1,1160 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Arukone01.jpg</title>
+    <ns>6</ns>
+    <id>3442</id>
+    <revision>
+      <id>13170</id>
+      <timestamp>2010-02-15T20:51:54Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</comment>
+      <text xml:space="preserve" bytes="65">Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone02.jpg</title>
+    <ns>6</ns>
+    <id>3443</id>
+    <revision>
+      <id>13171</id>
+      <timestamp>2010-02-15T20:52:22Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</comment>
+      <text xml:space="preserve" bytes="65">Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone03.jpg</title>
+    <ns>6</ns>
+    <id>3444</id>
+    <revision>
+      <id>13172</id>
+      <timestamp>2010-02-15T20:52:48Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</comment>
+      <text xml:space="preserve" bytes="65">Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone04.jpg</title>
+    <ns>6</ns>
+    <id>3445</id>
+    <revision>
+      <id>13173</id>
+      <timestamp>2010-02-15T20:53:15Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</comment>
+      <text xml:space="preserve" bytes="65">Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone05.jpg</title>
+    <ns>6</ns>
+    <id>3446</id>
+    <revision>
+      <id>13174</id>
+      <timestamp>2010-02-15T20:53:44Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</comment>
+      <text xml:space="preserve" bytes="65">Selbst erstellt, nach einem Beispiel von janko.at. Dort CC-Lizenz</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone8x8 01.jpg</title>
+    <ns>6</ns>
+    <id>3448</id>
+    <revision>
+      <id>13183</id>
+      <timestamp>2010-02-21T05:31:02Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt nach janko.at</comment>
+      <text xml:space="preserve" bytes="29">Selbst erstellt nach janko.at</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone8x8 02.jpg</title>
+    <ns>6</ns>
+    <id>3449</id>
+    <revision>
+      <id>13184</id>
+      <timestamp>2010-02-21T05:31:23Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt nach janko.at</comment>
+      <text xml:space="preserve" bytes="29">Selbst erstellt nach janko.at</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone8x8 03.jpg</title>
+    <ns>6</ns>
+    <id>3450</id>
+    <revision>
+      <id>13185</id>
+      <timestamp>2010-02-21T05:31:50Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt nach janko.at</comment>
+      <text xml:space="preserve" bytes="29">Selbst erstellt nach janko.at</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone8x8 04.jpg</title>
+    <ns>6</ns>
+    <id>3451</id>
+    <revision>
+      <id>13186</id>
+      <timestamp>2010-02-21T05:32:12Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt nach janko.at</comment>
+      <text xml:space="preserve" bytes="29">Selbst erstellt nach janko.at</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone8x8 05.jpg</title>
+    <ns>6</ns>
+    <id>3452</id>
+    <revision>
+      <id>13187</id>
+      <timestamp>2010-02-21T05:32:31Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt nach janko.at</comment>
+      <text xml:space="preserve" bytes="29">Selbst erstellt nach janko.at</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone8x8 06.jpg</title>
+    <ns>6</ns>
+    <id>3453</id>
+    <revision>
+      <id>13188</id>
+      <timestamp>2010-02-21T05:32:51Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt nach janko.at</comment>
+      <text xml:space="preserve" bytes="29">Selbst erstellt nach janko.at</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone8x8 07.jpg</title>
+    <ns>6</ns>
+    <id>3454</id>
+    <revision>
+      <id>13189</id>
+      <timestamp>2010-02-21T05:33:13Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt nach janko.at</comment>
+      <text xml:space="preserve" bytes="29">Selbst erstellt nach janko.at</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Arukone8x8 08.jpg</title>
+    <ns>6</ns>
+    <id>3455</id>
+    <revision>
+      <id>13190</id>
+      <timestamp>2010-02-21T05:33:35Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt nach janko.at</comment>
+      <text xml:space="preserve" bytes="29">Selbst erstellt nach janko.at</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Aschenputtel.jpg</title>
+    <ns>6</ns>
+    <id>2053</id>
+    <revision>
+      <id>5022</id>
+      <timestamp>2007-01-29T16:12:24Z</timestamp>
+      <contributor>
+        <username>MABauer</username>
+        <id>127</id>
+      </contributor>
+      <comment>Aschenputtel heiratet den Prinzen, gemalt von einem Kind aus der 3.Klasse</comment>
+      <text xml:space="preserve" bytes="73">Aschenputtel heiratet den Prinzen, gemalt von einem Kind aus der 3.Klasse</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Aschenputtel 1.jpeg</title>
+    <ns>6</ns>
+    <id>5187</id>
+    <revision>
+      <id>21723</id>
+      <timestamp>2017-09-03T16:46:28Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Atlantik.png</title>
+    <ns>6</ns>
+    <id>1617</id>
+    <revision>
+      <id>3219</id>
+      <timestamp>2006-03-09T21:30:35Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Atom.png</title>
+    <ns>6</ns>
+    <id>1321</id>
+    <revision>
+      <id>1543</id>
+      <parentid>1542</parentid>
+      <timestamp>2005-12-29T10:04:20Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="588">Stark vereinfachende Darstellung eines Helium-Atoms: Zwei Elektronen umkreisen einen Kern aus zwei Protonen und zwei Neutronen. (Bild von der deutschprachigen Wikipedia.)
+
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Audioeinfuegen1.jpg</title>
+    <ns>6</ns>
+    <id>2990</id>
+    <revision>
+      <id>10038</id>
+      <timestamp>2008-12-19T13:25:15Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Selbsterstelltes Bild vom Vorgang des Audiodateieinfügens.</comment>
+      <text xml:space="preserve" bytes="59">Selbsterstelltes Bild vom Vorgang des Audiodateieinfügens.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Aufbau Auge.jpg</title>
+    <ns>6</ns>
+    <id>3220</id>
+    <revision>
+      <id>11558</id>
+      <timestamp>2009-05-04T10:40:01Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Aufenanger 05 p.jpg</title>
+    <ns>6</ns>
+    <id>2434</id>
+    <revision>
+      <id>6966</id>
+      <parentid>6965</parentid>
+      <timestamp>2007-08-05T14:53:38Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="76">Prof. Dr. Stefan Aufenanger, Eigenaufnahme von Aufenanger, Upload 05.08.2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Aufzaehlung.jpg</title>
+    <ns>6</ns>
+    <id>3015</id>
+    <revision>
+      <id>10246</id>
+      <timestamp>2009-01-24T17:29:37Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Abbild des Aufzählbuttons.</comment>
+      <text xml:space="preserve" bytes="27">Abbild des Aufzählbuttons.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Auge.jpg</title>
+    <ns>6</ns>
+    <id>2648</id>
+    <revision>
+      <id>8159</id>
+      <timestamp>2008-04-27T11:14:47Z</timestamp>
+      <contributor>
+        <username>MAKatja</username>
+        <id>343</id>
+      </contributor>
+      <comment>selbst gemalt</comment>
+      <text xml:space="preserve" bytes="13">selbst gemalt</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Aurora.jpg</title>
+    <ns>6</ns>
+    <id>5331</id>
+    <revision>
+      <id>22090</id>
+      <parentid>22077</parentid>
+      <timestamp>2018-05-09T06:53:11Z</timestamp>
+      <contributor>
+        <username>Wgsad62</username>
+        <id>10331</id>
+      </contributor>
+      <text xml:space="preserve" bytes="173">{{Information ohne UploadWizard
+|Beschreibung = Nordlicht
+|Quelle = www.pixabay.de
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>fw5hcjb95wqgpab2knthmienwcvjbrf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Ausloggen.jpg</title>
+    <ns>6</ns>
+    <id>1471</id>
+    <revision>
+      <id>2513</id>
+      <timestamp>2006-01-07T18:37:46Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Autumn-1836913 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5329</id>
+    <revision>
+      <id>22089</id>
+      <parentid>22074</parentid>
+      <timestamp>2018-05-09T06:53:11Z</timestamp>
+      <contributor>
+        <username>Wgsad53</username>
+        <id>10321</id>
+      </contributor>
+      <text xml:space="preserve" bytes="170">{{Information ohne UploadWizard
+|Beschreibung = Qelle
+|Quelle = www.pixabay.de
+|Urheber = freier Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>mk55dhi8z4te19x04ld8mku0eotghe8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Azores-2580225 960 720-1-.jpg</title>
+    <ns>6</ns>
+    <id>5363</id>
+    <revision>
+      <id>22330</id>
+      <timestamp>2018-05-14T09:10:01Z</timestamp>
+      <contributor>
+        <username>Wgsad07</username>
+        <id>10278</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung =Jungel in Portugal 
+|Quelle = Pyxabay 
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="176">{{Information ohne UploadWizard
+|Beschreibung =Jungel in Portugal 
+|Quelle = Pyxabay 
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>tjc1s1z16f6scro8sz7nn7zgo6vtimm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:BAVER KARA UND ARBIAS HAJDARI 2012.ogg</title>
+    <ns>6</ns>
+    <id>4047</id>
+    <revision>
+      <id>16368</id>
+      <timestamp>2012-12-13T10:36:03Z</timestamp>
+      <contributor>
+        <username>MAKohler</username>
+        <id>981</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:BE35B131-5A49-43C0-9422-503FF6B4BAFE.jpeg</title>
+    <ns>6</ns>
+    <id>5394</id>
+    <revision>
+      <id>22591</id>
+      <parentid>22590</parentid>
+      <timestamp>2018-06-14T20:11:22Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <text xml:space="preserve" bytes="161">{{Information ohne UploadWizard
+|Beschreibung = Kaninchen
+|Quelle = 
+|Urheber = Lisa 
+|Datum = 13.06.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>60swugypu5os175t92p0sovzvdpoode</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:BILD1807.JPG</title>
+    <ns>6</ns>
+    <id>3124</id>
+    <revision>
+      <id>11145</id>
+      <timestamp>2009-03-18T15:05:37Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Modehaus Mandel. Eigenes Photo vom März 2009.</comment>
+      <text xml:space="preserve" bytes="46">Modehaus Mandel. Eigenes Photo vom März 2009.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:BVB09.png</title>
+    <ns>6</ns>
+    <id>5608</id>
+    <revision>
+      <id>23734</id>
+      <timestamp>2019-06-26T11:19:30Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Wappen BVB
+|Quelle = selbst erstellt
+|Urheber = Konstantin und Michel
+|Datum = 26.6.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="192">{{Information ohne UploadWizard
+|Beschreibung = Wappen BVB
+|Quelle = selbst erstellt
+|Urheber = Konstantin und Michel
+|Datum = 26.6.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>gjg2jhip76ae2pt639k8sgmv069js1i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:BabyOrangutan.jpg</title>
+    <ns>6</ns>
+    <id>4906</id>
+    <revision>
+      <id>20088</id>
+      <parentid>20079</parentid>
+      <timestamp>2016-07-07T06:27:58Z</timestamp>
+      <contributor>
+        <username>Wgsa16</username>
+        <id>10151</id>
+      </contributor>
+      <text xml:space="preserve" bytes="240">{{Information ohne UploadWizard
+|Beschreibung =Baby Orangutan mit Mutter 
+|Quelle =Wikimedia 
+|Urheber =von Tony Hisgett from Birmingham, UK (Baby Orang Utan Uploaded by tm) 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>opx7az2anc471e7m11c3jaa15x83pgi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:BackZuordnungskarten.jpg</title>
+    <ns>6</ns>
+    <id>3232</id>
+    <revision>
+      <id>11655</id>
+      <timestamp>2009-05-07T13:01:08Z</timestamp>
+      <contributor>
+        <username>MAtest</username>
+        <id>190</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Background.png</title>
+    <ns>6</ns>
+    <id>1618</id>
+    <revision>
+      <id>3220</id>
+      <timestamp>2006-03-09T21:30:51Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Baden-Württemberg Wappen.png</title>
+    <ns>6</ns>
+    <id>5491</id>
+    <revision>
+      <id>23299</id>
+      <timestamp>2018-07-06T08:08:04Z</timestamp>
+      <contributor>
+        <username>Wgsad71</username>
+        <id>10340</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Baden Württemberg Wappen
+|Quelle = Pixabay
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="182">{{Information ohne UploadWizard
+|Beschreibung = Baden Württemberg Wappen
+|Quelle = Pixabay
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>2dbt85ij5ffxipdyr50m2umyd54ermj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Baden Württemberg Wappen.png</title>
+    <ns>6</ns>
+    <id>5499</id>
+    <revision>
+      <id>23333</id>
+      <timestamp>2018-07-07T17:54:21Z</timestamp>
+      <contributor>
+        <username>Wgsad71</username>
+        <id>10340</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = pixabay
+|Quelle = freie Nutzung
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="157">{{Information ohne UploadWizard
+|Beschreibung = pixabay
+|Quelle = freie Nutzung
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>gi4aatsulonbndig1eommeq9a65radd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Badeschwamm.JPG</title>
+    <ns>6</ns>
+    <id>1545</id>
+    <revision>
+      <id>2925</id>
+      <timestamp>2006-02-11T14:27:18Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Bild eines Badeschwammes, Aufgenommen von: MArtin Leupold, 09.02.2006</comment>
+      <text xml:space="preserve" bytes="69">Bild eines Badeschwammes, Aufgenommen von: MArtin Leupold, 09.02.2006</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Banane.jpg</title>
+    <ns>6</ns>
+    <id>1326</id>
+    <revision>
+      <id>1618</id>
+      <parentid>1614</parentid>
+      <timestamp>2005-12-29T13:58:43Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="472">Reife Banane, Bild von der deutschsprachigen Wikipedia
+
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Banjo.png</title>
+    <ns>6</ns>
+    <id>2453</id>
+    <revision>
+      <id>7078</id>
+      <timestamp>2007-10-21T09:57:51Z</timestamp>
+      <contributor>
+        <username>MASchicktanz</username>
+        <id>369</id>
+      </contributor>
+      <comment>http://countrywebzine.ifrance.com/cliparts/musique/html/banjo.jpg</comment>
+      <text xml:space="preserve" bytes="65">http://countrywebzine.ifrance.com/cliparts/musique/html/banjo.jpg</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Banner-2025681 340.png</title>
+    <ns>6</ns>
+    <id>5353</id>
+    <revision>
+      <id>22258</id>
+      <timestamp>2018-05-12T08:30:43Z</timestamp>
+      <contributor>
+        <username>Wgsad66</username>
+        <id>10335</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Flagge Estland
+|Quelle = pixabay
+|Urheber = open clipart
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="170">{{Information ohne UploadWizard
+|Beschreibung = Flagge Estland
+|Quelle = pixabay
+|Urheber = open clipart
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>aca635be7e9u8mhloltsb2kj0sdc86n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Barde.png</title>
+    <ns>6</ns>
+    <id>5052</id>
+    <revision>
+      <id>21156</id>
+      <timestamp>2017-04-05T08:15:37Z</timestamp>
+      <contributor>
+        <username>Burgschule5</username>
+        <id>10231</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="144">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>k7gmmm90qjus8t0hxrrfce8q42ahssd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Bartagame.jpg</title>
+    <ns>6</ns>
+    <id>3286</id>
+    <revision>
+      <id>12025</id>
+      <parentid>12024</parentid>
+      <timestamp>2009-06-16T14:58:04Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Bartagame.jpg]]“ hochgeladen: Foto von: Jenny B. vom: 17.6.2009</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Baum.jpg</title>
+    <ns>6</ns>
+    <id>5508</id>
+    <revision>
+      <id>23388</id>
+      <parentid>23385</parentid>
+      <timestamp>2018-07-11T06:14:00Z</timestamp>
+      <contributor>
+        <username>Wgse09</username>
+        <id>10184</id>
+      </contributor>
+      <comment>Wgse09 lud eine neue Version von „[[Datei:Baum.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Baum
+|Quelle = Karolin Hinle
+|Urheber = Karolin Hinle
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="156">{{Information ohne UploadWizard
+|Beschreibung =Baum 
+|Quelle = eigenes Bild
+|Urheber = Wir
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lko8njunyx8hy6r0w4l4x2b0kcpzqp9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Bavarian-flag-5885 1920.jpg</title>
+    <ns>6</ns>
+    <id>5500</id>
+    <revision>
+      <id>23338</id>
+      <timestamp>2018-07-08T10:46:59Z</timestamp>
+      <contributor>
+        <username>Wgsad69</username>
+        <id>10338</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Flagge Bayern
+|Quelle = Pixabay
+|Urheber = unbekannt
+|Datum = 
+|Genehmigung = freie Nutzung
+|Andere Versionen = unbekannt 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="189">{{Information ohne UploadWizard
+|Beschreibung = Flagge Bayern
+|Quelle = Pixabay
+|Urheber = unbekannt
+|Datum = 
+|Genehmigung = freie Nutzung
+|Andere Versionen = unbekannt 
+|Anmerkungen = 
+}}</text>
+      <sha1>ilbhkeaodit0iku5zlu0zi1w32mfw61</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Beach-2179183 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5543</id>
+    <revision>
+      <id>23461</id>
+      <parentid>23453</parentid>
+      <timestamp>2018-09-12T13:40:10Z</timestamp>
+      <contributor>
+        <username>Wiki11</username>
+        <id>10363</id>
+      </contributor>
+      <comment>Wiki11 lud eine neue Version von „[[Datei:Beach-2179183 960 720.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Beispiel.jpg</title>
+    <ns>6</ns>
+    <id>2470</id>
+    <revision>
+      <id>7178</id>
+      <timestamp>2007-11-23T20:38:31Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Bell.png</title>
+    <ns>6</ns>
+    <id>1619</id>
+    <revision>
+      <id>3221</id>
+      <timestamp>2006-03-09T21:31:17Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Benutzerprofil1.jpg</title>
+    <ns>6</ns>
+    <id>1463</id>
+    <revision>
+      <id>2460</id>
+      <timestamp>2006-01-06T15:33:15Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Benutzerprofil2.jpg</title>
+    <ns>6</ns>
+    <id>1464</id>
+    <revision>
+      <id>2461</id>
+      <timestamp>2006-01-06T15:33:30Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Benutzerprofil3.jpg</title>
+    <ns>6</ns>
+    <id>1465</id>
+    <revision>
+      <id>2462</id>
+      <timestamp>2006-01-06T15:33:40Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Berg.jpg</title>
+    <ns>6</ns>
+    <id>2703</id>
+    <revision>
+      <id>8467</id>
+      <timestamp>2008-06-19T09:29:15Z</timestamp>
+      <contributor>
+        <username>LPRo</username>
+        <id>448</id>
+      </contributor>
+      <comment>Der Berg</comment>
+      <text xml:space="preserve" bytes="8">Der Berg</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

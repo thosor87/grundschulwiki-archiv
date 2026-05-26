@@ -1,0 +1,26 @@
+{
+  "pageid": 4336,
+  "ns": 10,
+  "title": "Vorlage:Lernpfad2",
+  "revisions": [
+    {
+      "revid": 17707,
+      "parentid": 17706,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:53Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{{Kasten mit kleinem Bild links| \nBORDER = cornflowerblue|\nBACKGROUND = cornflowerblue|\nBREITE =100%|\nINHALT = ''{{{1}}}''|\nBILD = Crystal 128 forward.png|\nÜBERSCHRIFT = Lernpfad: Wiederholen und Vertiefen|\n}}<noinclude>\n;Syntax:<nowiki>{{Lernpfad2|<text>}}</nowiki>\n</noinclude><noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|.]]</noinclude>"
+    },
+    {
+      "revid": 17706,
+      "parentid": 0,
+      "user": "Ludwig-Dern-Schule",
+      "timestamp": "2008-10-02T07:59:09Z",
+      "comment": "",
+      "wikitext": "{{Kasten mit kleinem Bild links| \nBORDER = cornflowerblue|\nBACKGROUND = cornflowerblue|\nBREITE =100%|\nINHALT = ''{{{1}}}''|\nBILD = Crystal 128 forward.png|\nÜBERSCHRIFT = Lernpfad: Wiederholen und Vertiefen|\n}}<noinclude>\n;Syntax:<nowiki>{{Lernpfad2|<text>}}</nowiki>\n</noinclude><noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|.]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

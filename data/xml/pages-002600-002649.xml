@@ -1,0 +1,1149 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Skorpion1.jpg</title>
+    <ns>6</ns>
+    <id>2507</id>
+    <revision>
+      <id>7340</id>
+      <timestamp>2007-12-22T08:35:34Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Ich habe es selber gezeichnet</comment>
+      <text xml:space="preserve" bytes="29">Ich habe es selber gezeichnet</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sky-3149114 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5330</id>
+    <revision>
+      <id>22092</id>
+      <parentid>22075</parentid>
+      <timestamp>2018-05-09T06:53:29Z</timestamp>
+      <contributor>
+        <username>Wgsad60</username>
+        <id>10329</id>
+      </contributor>
+      <text xml:space="preserve" bytes="169">{{Information ohne UploadWizard
+|Beschreibung = Matterhorn
+|Quelle = www.pixabay.de
+|Urheber = Marisa04
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>jfttcn93oep1rcvtat82r3c32tsx5ne</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Solar-system-11111 1280 (1).jpg</title>
+    <ns>6</ns>
+    <id>5823</id>
+    <revision>
+      <id>24716</id>
+      <timestamp>2020-06-22T14:18:47Z</timestamp>
+      <contributor>
+        <username>OESBen-Max</username>
+        <id>10414</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Sonnensystem
+|Quelle = pixabay.com
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="160">{{Information ohne UploadWizard
+|Beschreibung = Sonnensystem
+|Quelle = pixabay.com
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>mmfy9464le0pd0nnv3zv4w3grhbltir</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Somerights20.gif</title>
+    <ns>6</ns>
+    <id>1438</id>
+    <revision>
+      <id>2398</id>
+      <timestamp>2006-01-05T11:13:01Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sommerblume.jpg</title>
+    <ns>6</ns>
+    <id>5553</id>
+    <revision>
+      <id>23464</id>
+      <timestamp>2018-09-12T13:45:18Z</timestamp>
+      <contributor>
+        <username>Wiki06</username>
+        <id>10358</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Pixabay
+|Urheber = 
+|Datum =12.09.2018 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="154">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Pixabay
+|Urheber = 
+|Datum =12.09.2018 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>fozbh3z139ksdzm5vqkuar4i0i0y00g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sonne.Alina.jpg</title>
+    <ns>6</ns>
+    <id>3372</id>
+    <revision>
+      <id>12737</id>
+      <parentid>12732</parentid>
+      <timestamp>2009-12-09T11:59:42Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Sonne.Alina.jpg]]“ hochgeladen: Sonne gemalt von Alina</comment>
+      <text xml:space="preserve" bytes="26">Die Sonne gemalt von Alina</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sonne.Neu.gif</title>
+    <ns>6</ns>
+    <id>1583</id>
+    <revision>
+      <id>3110</id>
+      <timestamp>2006-03-07T14:25:13Z</timestamp>
+      <contributor>
+        <username>MAelena</username>
+        <id>35</id>
+      </contributor>
+      <comment>Auf dem Bild ist eine Sonne.Von der Internetseite:http://www.sonne-roefingen.de/assets/
+Vom:7.3.2006</comment>
+      <text xml:space="preserve" bytes="100">Auf dem Bild ist eine Sonne.Von der Internetseite:http://www.sonne-roefingen.de/assets/
+Vom:7.3.2006</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sonnenfinsternis.Ula.jpg</title>
+    <ns>6</ns>
+    <id>3375</id>
+    <revision>
+      <id>12739</id>
+      <timestamp>2009-12-09T12:01:33Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <comment>Sonnenfinsternis von Ula</comment>
+      <text xml:space="preserve" bytes="24">Sonnenfinsternis von Ula</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sonnenfinsternis1.jpg</title>
+    <ns>6</ns>
+    <id>3402</id>
+    <revision>
+      <id>12965</id>
+      <timestamp>2009-12-16T22:34:16Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Spanienflagge-2681322 340.jpg</title>
+    <ns>6</ns>
+    <id>5354</id>
+    <revision>
+      <id>22265</id>
+      <timestamp>2018-05-12T14:58:55Z</timestamp>
+      <contributor>
+        <username>Wgsad65</username>
+        <id>10334</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Spanienflagge
+|Quelle = Pixabay
+|Urheber = RonnyK
+|Datum = 12.05.18
+|Genehmigung = kostenlos
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung = Spanienflagge
+|Quelle = Pixabay
+|Urheber = RonnyK
+|Datum = 12.05.18
+|Genehmigung = kostenlos
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>pqhjzcb6jq37cv1qvcezhvanfgih12s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Spider-1646340 1920.jpg</title>
+    <ns>6</ns>
+    <id>5822</id>
+    <revision>
+      <id>24708</id>
+      <timestamp>2020-06-22T09:50:28Z</timestamp>
+      <contributor>
+        <username>OESDerya-Sofia</username>
+        <id>10423</id>
+      </contributor>
+      <comment>{{Information 
+|Beschreibung = Kreuzspinne
+|Quelle =  pixbay.com
+|Urheber = 
+|Datum = 
+|Andere Versionen = 
+|Anmerkungen =</comment>
+      <text xml:space="preserve" bytes="122">{{Information 
+|Beschreibung = Kreuzspinne
+|Quelle =  pixbay.com
+|Urheber = 
+|Datum = 
+|Andere Versionen = 
+|Anmerkungen =</text>
+      <sha1>7sw2n0gj8drivf07l7is52ebnlbub04</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Spielfeld.jpg</title>
+    <ns>6</ns>
+    <id>3978</id>
+    <revision>
+      <id>16023</id>
+      <timestamp>2012-07-12T21:19:12Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>Das Spielfeld</comment>
+      <text xml:space="preserve" bytes="13">Das Spielfeld</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Spinne.jpeg</title>
+    <ns>6</ns>
+    <id>5988</id>
+    <revision>
+      <id>25144</id>
+      <timestamp>2022-05-17T10:37:38Z</timestamp>
+      <contributor>
+        <username>KOIGSRO32</username>
+        <id>10496</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Pixabay
+|Urheber = Lichtpünktchen
+|Datum = Mo 16.5.22
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="177">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Pixabay
+|Urheber = Lichtpünktchen
+|Datum = Mo 16.5.22
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>74nie5bjprvoi3n6s3zg5xbpaga1jan</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Spring.jpg</title>
+    <ns>6</ns>
+    <id>5545</id>
+    <revision>
+      <id>23451</id>
+      <timestamp>2018-09-12T13:26:49Z</timestamp>
+      <contributor>
+        <username>Wiki01</username>
+        <id>10353</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay.com
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="148">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay.com
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>sjbx4e0b2mmud2a1rhdzfo3kazogey8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Starwarslogo.jpg</title>
+    <ns>6</ns>
+    <id>3764</id>
+    <revision>
+      <id>14938</id>
+      <timestamp>2011-06-06T18:14:35Z</timestamp>
+      <contributor>
+        <username>MAReimer</username>
+        <id>909</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Stegosaurus Struct.jpg</title>
+    <ns>6</ns>
+    <id>1485</id>
+    <revision>
+      <id>2563</id>
+      <timestamp>2006-01-10T16:53:56Z</timestamp>
+      <contributor>
+        <username>BUKilian</username>
+        <id>8</id>
+      </contributor>
+      <comment>Aus Wikipedia.de</comment>
+      <text xml:space="preserve" bytes="16">Aus Wikipedia.de</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Stegozaur1.png</title>
+    <ns>6</ns>
+    <id>1486</id>
+    <revision>
+      <id>2568</id>
+      <timestamp>2006-01-10T17:11:50Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Aus Wikipedia.de</comment>
+      <text xml:space="preserve" bytes="16">Aus Wikipedia.de</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Steinzeitmensch.jpg</title>
+    <ns>6</ns>
+    <id>2257</id>
+    <revision>
+      <id>6135</id>
+      <timestamp>2007-04-18T19:44:01Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Melany G., vom: 18.04.2007</comment>
+      <text xml:space="preserve" bytes="36">Bild von: Melany G., vom: 18.04.2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Stiftkappe taucht bei Druck unter1.jpg</title>
+    <ns>6</ns>
+    <id>3586</id>
+    <revision>
+      <id>13977</id>
+      <parentid>13976</parentid>
+      <timestamp>2010-10-28T13:28:36Z</timestamp>
+      <contributor>
+        <username>MAKurzka</username>
+        <id>819</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="47">Stiftkappe taucht bei Druck unter, erstes Bild.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Stiftkappe taucht bei Druck unter2.jpg</title>
+    <ns>6</ns>
+    <id>3587</id>
+    <revision>
+      <id>13978</id>
+      <timestamp>2010-10-28T13:29:15Z</timestamp>
+      <contributor>
+        <username>MAKurzka</username>
+        <id>819</id>
+      </contributor>
+      <comment>Stiftkappe taucht bei Druck unter, 2. Bild.</comment>
+      <text xml:space="preserve" bytes="43">Stiftkappe taucht bei Druck unter, 2. Bild.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Stiftkappe taucht bei Druck unter3.jpg</title>
+    <ns>6</ns>
+    <id>3588</id>
+    <revision>
+      <id>13979</id>
+      <timestamp>2010-10-28T13:29:57Z</timestamp>
+      <contributor>
+        <username>MAKurzka</username>
+        <id>819</id>
+      </contributor>
+      <comment>Stiftkappe taucht bei Druck unter, 3. Bild.</comment>
+      <text xml:space="preserve" bytes="43">Stiftkappe taucht bei Druck unter, 3. Bild.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Stock-photo-classic-view-of-the-famous-old-town-of-luxembourg-city-reflecting-in-idyllic-alzette-river-on-a-627850940.jpg</title>
+    <ns>6</ns>
+    <id>5349</id>
+    <revision>
+      <id>22233</id>
+      <timestamp>2018-05-11T06:17:52Z</timestamp>
+      <contributor>
+        <username>Wgsad81</username>
+        <id>10343</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Brücke und Wasser in Luxemburg
+|Quelle = www.pixabai.de
+|Urheber =freie Nutzung 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="195">{{Information ohne UploadWizard
+|Beschreibung = Brücke und Wasser in Luxemburg
+|Quelle = www.pixabai.de
+|Urheber =freie Nutzung 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>seeh0y0uflx3brsutp77yp4548bc40o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Stock-photo-pirate-ship-sailing-near-famous-rock-arch-on-cavo-greko-peninsula-cyprus-island-639152443.jpg</title>
+    <ns>6</ns>
+    <id>5362</id>
+    <revision>
+      <id>22324</id>
+      <parentid>22321</parentid>
+      <timestamp>2018-05-14T08:59:12Z</timestamp>
+      <contributor>
+        <username>Wgsad08</username>
+        <id>10279</id>
+      </contributor>
+      <comment>Wgsad08 lud eine neue Version von „[[Datei:Stock-photo-pirate-ship-sailing-near-famous-rock-arch-on-cavo-greko-peninsula-cyprus-island-639152443.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Piratenboot in Zypern
+|Quelle = Pixabay
+|Urhe</comment>
+      <text xml:space="preserve" bytes="178">{{Information ohne UploadWizard
+|Beschreibung =Piratenboot in Zypern 
+|Quelle = Pixabay
+|Urheber = Freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>hr2nr1i48e4bbkpm040evfuvyjelb33</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Stock-vector-united-kingdom-flag-91811021.jpg</title>
+    <ns>6</ns>
+    <id>5359</id>
+    <revision>
+      <id>22293</id>
+      <timestamp>2018-05-14T06:04:59Z</timestamp>
+      <contributor>
+        <username>Wgsad71</username>
+        <id>10340</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Flagge Großbritannien
+|Quelle = www.pixabay.de
+|Urheber = freie nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="186">{{Information ohne UploadWizard
+|Beschreibung = Flagge Großbritannien
+|Quelle = www.pixabay.de
+|Urheber = freie nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>9mp5cd2at5ga881k1zxl8npgqmmkjc6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:StrnbLeo.jpg</title>
+    <ns>6</ns>
+    <id>3046</id>
+    <revision>
+      <id>10613</id>
+      <parentid>10609</parentid>
+      <timestamp>2009-03-02T11:28:10Z</timestamp>
+      <contributor>
+        <username>JLAlina</username>
+        <id>531</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:StrnbLeo.jpg]]“ hochgeladen: Sternbild Löwe (Klaus)</comment>
+      <text xml:space="preserve" bytes="37">Zeichnung Sternbild Löwe (von Klaus)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:StrnbStier.jpg</title>
+    <ns>6</ns>
+    <id>3047</id>
+    <revision>
+      <id>10610</id>
+      <timestamp>2009-03-02T05:13:33Z</timestamp>
+      <contributor>
+        <username>J.Leupold</username>
+        <id>9</id>
+      </contributor>
+      <comment>Zeichnung Sternbild Stier (von Klaus)</comment>
+      <text xml:space="preserve" bytes="37">Zeichnung Sternbild Stier (von Klaus)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Strom01.jpg</title>
+    <ns>6</ns>
+    <id>3060</id>
+    <revision>
+      <id>10754</id>
+      <timestamp>2009-03-05T19:00:39Z</timestamp>
+      <contributor>
+        <username>JLAileen</username>
+        <id>535</id>
+      </contributor>
+      <comment>Stromfluss im Kabel</comment>
+      <text xml:space="preserve" bytes="19">Stromfluss im Kabel</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudok1.jpg</title>
+    <ns>6</ns>
+    <id>1393</id>
+    <revision>
+      <id>1848</id>
+      <timestamp>2006-01-02T17:04:03Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Erläuterung für Kinder SoDoku</comment>
+      <text xml:space="preserve" bytes="31">Erläuterung für Kinder SoDoku</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudok2.jpg</title>
+    <ns>6</ns>
+    <id>1395</id>
+    <revision>
+      <id>1868</id>
+      <timestamp>2006-01-02T17:57:01Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>1. Lösungsansatz</comment>
+      <text xml:space="preserve" bytes="17">1. Lösungsansatz</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudok3.jpg</title>
+    <ns>6</ns>
+    <id>1397</id>
+    <revision>
+      <id>1875</id>
+      <timestamp>2006-01-02T18:08:50Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>2. Lösungsansatz</comment>
+      <text xml:space="preserve" bytes="17">2. Lösungsansatz</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudok3a.jpg</title>
+    <ns>6</ns>
+    <id>1401</id>
+    <revision>
+      <id>1930</id>
+      <timestamp>2006-01-02T19:38:45Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>2. Lösung näher erläutert</comment>
+      <text xml:space="preserve" bytes="28">2. Lösung näher erläutert</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudok4.jpg</title>
+    <ns>6</ns>
+    <id>1400</id>
+    <revision>
+      <id>1929</id>
+      <timestamp>2006-01-02T19:25:18Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>3. Lösung</comment>
+      <text xml:space="preserve" bytes="10">3. Lösung</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudoku-kids-easy.jpg</title>
+    <ns>6</ns>
+    <id>1475</id>
+    <revision>
+      <id>2542</id>
+      <timestamp>2006-01-09T15:12:44Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Einfachstes SoDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen de</comment>
+      <text xml:space="preserve" bytes="526">Einfachstes SoDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudoku-kids-easy1.jpg</title>
+    <ns>6</ns>
+    <id>1478</id>
+    <revision>
+      <id>2547</id>
+      <timestamp>2006-01-09T15:37:21Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung 1
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Liz</comment>
+      <text xml:space="preserve" bytes="517">Lösung 1
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudoku-kids-easy2.jpg</title>
+    <ns>6</ns>
+    <id>1479</id>
+    <revision>
+      <id>2548</id>
+      <timestamp>2006-01-09T15:37:36Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung 2
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Liz</comment>
+      <text xml:space="preserve" bytes="517">Lösung 2
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudoku-kids-easy3.jpg</title>
+    <ns>6</ns>
+    <id>1480</id>
+    <revision>
+      <id>2549</id>
+      <timestamp>2006-01-09T15:37:52Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung 3
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Liz</comment>
+      <text xml:space="preserve" bytes="517">Lösung 3
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudoku-kids-easy4.jpg</title>
+    <ns>6</ns>
+    <id>1481</id>
+    <revision>
+      <id>2550</id>
+      <timestamp>2006-01-09T15:38:13Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung 4
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Liz</comment>
+      <text xml:space="preserve" bytes="517">Lösung 4
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudoku-kids-lsg klein.jpg</title>
+    <ns>6</ns>
+    <id>1391</id>
+    <revision>
+      <id>1842</id>
+      <timestamp>2006-01-01T23:00:40Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>6x6 Sudoku für Kinder (Lösung)</comment>
+      <text xml:space="preserve" bytes="32">6x6 Sudoku für Kinder (Lösung)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudoku-kids.jpg</title>
+    <ns>6</ns>
+    <id>1392</id>
+    <revision>
+      <id>1844</id>
+      <timestamp>2006-01-02T09:50:36Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Sudoku-Original</comment>
+      <text xml:space="preserve" bytes="15">Sudoku-Original</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sudoku-kids klein.jpg</title>
+    <ns>6</ns>
+    <id>1390</id>
+    <revision>
+      <id>1840</id>
+      <timestamp>2006-01-01T22:57:55Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>6x6 Sudoku für Kinder</comment>
+      <text xml:space="preserve" bytes="22">6x6 Sudoku für Kinder</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sulzburg7.jpg</title>
+    <ns>6</ns>
+    <id>4146</id>
+    <revision>
+      <id>16982</id>
+      <timestamp>2013-05-06T10:20:15Z</timestamp>
+      <contributor>
+        <username>Sulzburg</username>
+        <id>998</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sulzburg 1.jpg</title>
+    <ns>6</ns>
+    <id>4140</id>
+    <revision>
+      <id>17101</id>
+      <parentid>16976</parentid>
+      <timestamp>2013-05-10T11:41:32Z</timestamp>
+      <contributor>
+        <username>Sulzburg</username>
+        <id>998</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Sulzburg 1.jpg]]“ hochgeladen</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sulzburg 2.jpg</title>
+    <ns>6</ns>
+    <id>4141</id>
+    <revision>
+      <id>16977</id>
+      <timestamp>2013-05-06T10:17:39Z</timestamp>
+      <contributor>
+        <username>Sulzburg</username>
+        <id>998</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sulzburg 3.jpg</title>
+    <ns>6</ns>
+    <id>4142</id>
+    <revision>
+      <id>16978</id>
+      <timestamp>2013-05-06T10:18:34Z</timestamp>
+      <contributor>
+        <username>Sulzburg</username>
+        <id>998</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sulzburg 4.jpg</title>
+    <ns>6</ns>
+    <id>4143</id>
+    <revision>
+      <id>16979</id>
+      <timestamp>2013-05-06T10:19:02Z</timestamp>
+      <contributor>
+        <username>Sulzburg</username>
+        <id>998</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sulzburg 5.jpg</title>
+    <ns>6</ns>
+    <id>4144</id>
+    <revision>
+      <id>17104</id>
+      <parentid>17102</parentid>
+      <timestamp>2013-05-10T11:48:03Z</timestamp>
+      <contributor>
+        <username>Sulzburg</username>
+        <id>998</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Sulzburg 5.jpg]]“ hochgeladen</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sulzburg 6.jpg</title>
+    <ns>6</ns>
+    <id>4145</id>
+    <revision>
+      <id>17103</id>
+      <parentid>16981</parentid>
+      <timestamp>2013-05-10T11:42:19Z</timestamp>
+      <contributor>
+        <username>Sulzburg</username>
+        <id>998</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Sulzburg 6.jpg]]“ hochgeladen</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SumatraTiger.jpg</title>
+    <ns>6</ns>
+    <id>4907</id>
+    <revision>
+      <id>20085</id>
+      <parentid>20078</parentid>
+      <timestamp>2016-07-07T06:27:56Z</timestamp>
+      <contributor>
+        <username>Wgsa11</username>
+        <id>10146</id>
+      </contributor>
+      <text xml:space="preserve" bytes="200">{{Information ohne UploadWizard
+|Beschreibung = Sumatra Tiger im Wald.
+|Quelle = Wikimedia
+|Urheber = Von Vilbelerin  ( Eigenes Werk )
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>932yh9i2h6phyez11vunpg0z72gwy5n</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sumatra Nashorn.jpg</title>
+    <ns>6</ns>
+    <id>4904</id>
+    <revision>
+      <id>20080</id>
+      <parentid>20071</parentid>
+      <timestamp>2016-07-07T06:21:57Z</timestamp>
+      <contributor>
+        <username>Wgsa02</username>
+        <id>10137</id>
+      </contributor>
+      <text xml:space="preserve" bytes="182">{{Information ohne UploadWizard
+|Beschreibung = Sumatra Nashorn bei der Futter suche
+|Quelle = wikimedia
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>q251ftpln4e8ogqvqnjiz5bwrgesfje</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Syrienflaggenbild.jpg</title>
+    <ns>6</ns>
+    <id>2369</id>
+    <revision>
+      <id>6678</id>
+      <timestamp>2007-05-29T13:39:11Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Gemalt von MAantonios am 29.05.2007</comment>
+      <text xml:space="preserve" bytes="35">Gemalt von MAantonios am 29.05.2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

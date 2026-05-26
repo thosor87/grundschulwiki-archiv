@@ -1,0 +1,26 @@
+{
+  "pageid": 4368,
+  "ns": 10,
+  "title": "Vorlage:Übung",
+  "revisions": [
+    {
+      "revid": 17771,
+      "parentid": 17770,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:11:22Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#8E8CF2}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}};background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Hand.gif|30px]] &nbsp; Übung \n</div>\n{{{1}}}\n|}<noinclude>\n\n{{Quellcode}}<pre>{{Übung|<Text der Übung>}}</pre>\n\n;Hinweis: Diese Vorlage beansprucht immer die volle Seitenbreite. - Eine flexible Breite hat die [[Vorlage:Übung float]].\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Übung]]</noinclude>"
+    },
+    {
+      "revid": 17770,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-06-25T18:57:23Z",
+      "comment": "-> float",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#8E8CF2}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}};background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Hand.gif|30px]] &nbsp; Übung \n</div>\n{{{1}}}\n|}<noinclude>\n\n{{Quellcode}}<pre>{{Übung|<Text der Übung>}}</pre>\n\n;Hinweis: Diese Vorlage beansprucht immer die volle Seitenbreite. - Eine flexible Breite hat die [[Vorlage:Übung float]].\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Übung]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

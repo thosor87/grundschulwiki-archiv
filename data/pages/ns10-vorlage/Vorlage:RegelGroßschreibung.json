@@ -1,0 +1,32 @@
+{
+  "pageid": 3007,
+  "ns": 10,
+  "title": "Vorlage:RegelGroßschreibung",
+  "revisions": [
+    {
+      "revid": 10171,
+      "parentid": 10170,
+      "user": "Leupold",
+      "timestamp": "2009-01-13T16:49:27Z",
+      "comment": "schriftgröße",
+      "wikitext": "<br style=\"clear:both;\"/>\n<div style=\"float:left; border:solid 4px blue; margin:1px; width:100%\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:100%; background-color:white\"\n| style=\"width:20%; height:50px; background-color: white; text-align:center\"|\n[[Bild:Rufzeichen.gif]]\n| style=\"width:60%; font-size:12px; padding:0.47em; line-height:1.25em; text-align: center\"| Regel für Namenwörter/Nomen:\n\nEin Namenwort, auch Nomen genannt, wird immer groß geschrieben. Wenn Du Dir nicht sicher bist, ob das Wort, das Du schreiben willst, ein Nomen ist, dann prüfe es so:\n\n* Kannst Du einen Begleiter davor setzen? (Haus - ''das'' Haus)\n* Kannst Du das Wort auch in der Mehrzahl sagen? (das Haus - ''die Häuser'')\n| style=\"width:20%; height:50px; background-color: white; text-align:center\"|\n[[Bild:Rufzeichen.gif]]\n|\n|}\n</div>"
+    },
+    {
+      "revid": 10170,
+      "parentid": 10168,
+      "user": "Leupold",
+      "timestamp": "2009-01-13T16:49:00Z",
+      "comment": "Layout",
+      "wikitext": "<br style=\"clear:both;\"/>\n<div style=\"float:left; border:solid 4px blue; margin:1px; width:100%\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:100%; background-color:white\"\n| style=\"width:20%; height:50px; background-color: white; text-align:center\"|\n[[Bild:Rufzeichen.gif]]\n| style=\"width:60%; font-size:18px; padding:0.47em; line-height:1.25em; text-align: center\"| Regel für Namenwörter/Nomen:\n\nEin Namenwort, auch Nomen genannt, wird immer groß geschrieben. Wenn Du Dir nicht sicher bist, ob das Wort, das Du schreiben willst, ein Nomen ist, dann prüfe es so:\n\n* Kannst Du einen Begleiter davor setzen? (Haus - ''das'' Haus)\n* Kannst Du das Wort auch in der Mehrzahl sagen? (das Haus - ''die Häuser'')\n| style=\"width:20%; height:50px; background-color: white; text-align:center\"|\n[[Bild:Rufzeichen.gif]]\n|\n|}\n</div>"
+    },
+    {
+      "revid": 10168,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2009-01-13T16:42:55Z",
+      "comment": "angelegt",
+      "wikitext": "Regel für Namenwörter/Nomen:\n\nEin Namenwort, auch Nomen genannt, wird immer groß geschrieben. Wenn Du Dir nicht sicher bist, ob das Wort, das Du schreiben willst, ein Nomen ist, dann prüfe es so:\n\n* Kannst Du einen Begleiter davor setzen? (Haus - ''das'' Haus)\n* Kannst Du das Wort auch in der Mehrzahl sagen? (das Haus - ''die Häuser'')"
+    }
+  ],
+  "categories": []
+}

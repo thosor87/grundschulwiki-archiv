@@ -1,0 +1,32 @@
+{
+  "pageid": 2546,
+  "ns": 0,
+  "title": "Tuning",
+  "revisions": [
+    {
+      "revid": 7605,
+      "parentid": 7584,
+      "user": "F.Leupold",
+      "timestamp": "2008-01-12T18:45:05Z",
+      "comment": "Babel und Rücksprung eingefügt",
+      "wikitext": "== Tuning==\n{{Babel-1|Schüler_Verfasser}}\n[[Bild:Tuning.jpg|thumb|So schaut ein aufgemotztes Auto aus.]]\nDie Autos haben Reifen, eine Karosserie, Spoiler und ein Lenkrad. Das Besondere in einem Tuningauto ist, dass es meistens ganz genau so ist, wie es der Besitzer möchte. Es wird auf allen Seiten tiefer gestellt. Es werden dicke Auspuffe und bessere Felgen angebracht. Es wird Nitro eingebaut. Es werden Boxen eingebaut, die ungefähr 500 Watt haben.\n{{Rücksprung|T}}"
+    },
+    {
+      "revid": 7584,
+      "parentid": 7582,
+      "user": "MAPichler",
+      "timestamp": "2008-01-12T10:40:02Z",
+      "comment": "/* Tuning */",
+      "wikitext": "\n== Tuning==\n[[Bild:Tuning.jpg|thumb|So schaut ein aufgemotztes Auto aus.]]\nDie Autos haben Reifen, eine Karosserie, Spoiler und ein Lenkrad. Das Besondere in einem Tuningauto ist, dass es meistens ganz genau so ist, wie es der Besitzer möchte. Es wird auf allen Seiten tiefer gestellt. Es werden dicke Auspuffe und bessere Felgen angebracht. Es wird Nitro einbebaut. Es werden Boxen eingebaut, die ungefähr 500 Watt haben."
+    },
+    {
+      "revid": 7582,
+      "parentid": 0,
+      "user": "MAPichler",
+      "timestamp": "2008-01-12T10:34:19Z",
+      "comment": "",
+      "wikitext": "\n== Tuning==\nDie Autos haben Reifen, eine Karosserie, Spoiler und ein Lenkrad. Das Besondere in einem Tuningauto ist, dass es meistens ganz genau so ist, wie es der Besitzer möchte. Es wird auf allen Seiten tiefer gestellt. Es werden dicke Auspuffe und bessere Felgen angebracht. Es wird Nitro einbebaut. Es werden Boxen eingebaut, die ungefähr 500 Watt haben."
+    }
+  ],
+  "categories": []
+}

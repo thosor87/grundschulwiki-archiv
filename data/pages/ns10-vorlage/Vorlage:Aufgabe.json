@@ -1,0 +1,27 @@
+{
+  "pageid": 4319,
+  "ns": 10,
+  "title": "Vorlage:Aufgabe",
+  "revisions": [
+    {
+      "revid": 17673,
+      "parentid": 17672,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:46Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Stift.gif|30px]] &nbsp; '''{{#switch: {{{lang|{{SUBPAGENAME}}}}}\n | de = Aufgabe\n | en = Task\n | Aufgabe\n}}'''\n</div>\n{{{1}}}\n|}<noinclude>\n;Syntax: <pre>{{Aufgabe|<Text der Aufgabe>}}</pre>\n\n;Alternative: Die [[Vorlage:Aufgabe float]] hat eine variable Seitenbreite.\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Aufgabe]]</noinclude>"
+    },
+    {
+      "revid": 17672,
+      "parentid": 0,
+      "user": "Abrafix",
+      "timestamp": "2013-04-10T05:15:47Z",
+      "comment": "Englischer Titel hinzugefügt",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Stift.gif|30px]] &nbsp; '''{{#switch: {{{lang|{{SUBPAGENAME}}}}}\n | de = Aufgabe\n | en = Task\n | Aufgabe\n}}'''\n</div>\n{{{1}}}\n|}<noinclude>\n;Syntax: <pre>{{Aufgabe|<Text der Aufgabe>}}</pre>\n\n;Alternative: Die [[Vorlage:Aufgabe float]] hat eine variable Seitenbreite.\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Aufgabe]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

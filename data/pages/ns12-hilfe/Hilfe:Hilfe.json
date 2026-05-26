@@ -1,0 +1,40 @@
+{
+  "pageid": 3905,
+  "ns": 12,
+  "title": "Hilfe:Hilfe",
+  "revisions": [
+    {
+      "revid": 15569,
+      "parentid": 15568,
+      "user": "Leupold",
+      "timestamp": "2012-04-07T05:22:26Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign2|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Rettungsring.png|48px|\nÜBERSCHRIFT =Hilfe|\nINHALT1=* [[Hilfe für Kinder]]|\nINHALT2=* [[Hilfe für Eltern, Erzieher und Lehrer]]|}}"
+    },
+    {
+      "revid": 15568,
+      "parentid": 15567,
+      "user": "Leupold",
+      "timestamp": "2012-04-07T05:22:11Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign2|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Rettungsring.png|48px|\nÜBERSCHRIFT =Wichtige Informationen - Hilfe|\nINHALT1=* [[Hilfe für Kinder]]|\nINHALT2=* [[Hilfe für Eltern, Erzieher und Lehrer]]|}}"
+    },
+    {
+      "revid": 15567,
+      "parentid": 15566,
+      "user": "Leupold",
+      "timestamp": "2012-04-07T05:21:31Z",
+      "comment": "angelegt",
+      "wikitext": "BORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Rettungsring.png|48px|\nÜBERSCHRIFT =Wichtige Informationen - Hilfe|\nINHALT1=* [[Hilfe für Kinder]]|\nINHALT2=* [[Hilfe für Eltern, Erzieher und Lehrer]]|}}"
+    },
+    {
+      "revid": 15566,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2012-04-07T05:20:10Z",
+      "comment": "angelegt",
+      "wikitext": "#redirect [[ZUM-Grundschul-Wiki:Über_ZUM-Grundschul-Wiki]]"
+    }
+  ],
+  "categories": []
+}

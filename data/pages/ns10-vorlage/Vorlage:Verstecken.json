@@ -1,0 +1,56 @@
+{
+  "pageid": 2625,
+  "ns": 10,
+  "title": "Vorlage:Versteckt",
+  "revisions": [
+    {
+      "revid": 8004,
+      "parentid": 8001,
+      "user": "Leupold",
+      "timestamp": "2008-02-28T09:50:13Z",
+      "comment": "zweite Klammer eingefügt",
+      "wikitext": "<includeonly><span class=\"_togglegroup _toggle_initshow _toggle _toggler toggle-visible\" style=\"display:none;\">[Anzeigen]</span><span class=\"_toggle_inithide _toggle _toggler toggle-hidden\" style=\"display:none;\">[Verstecken]</span>\n<div class=\"_toggle_inithide _toggle toggle-hidden\">\n{{{1}}}</div></includeonly><noinclude>\n==Anwendung==\n<nowiki>{{Versteckt|Text zum Verstecken}}</nowiki> \n\noder <nowiki>{{Versteckt|1=Text zum Verstecken}}</nowiki>. \n\nDie zweite Schreibweise braucht man, wenn der \"Text zum Verstecken\" ein Gleichheitszeichen enthält.\n</noinclude>"
+    },
+    {
+      "revid": 8001,
+      "parentid": 7999,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-02-27T22:34:34Z",
+      "comment": "",
+      "wikitext": "<includeonly><span class=\"_togglegroup _toggle_initshow _toggle _toggler toggle-visible\" style=\"display:none;\">[Anzeigen]</span><span class=\"_toggle_inithide _toggle _toggler toggle-hidden\" style=\"display:none;\">[Verstecken]</span>\n<div class=\"_toggle_inithide _toggle toggle-hidden\">\n{{{1}}}</div></includeonly><noinclude>\n==Anwendung==\n<nowiki>{Versteckt|Text zum Verstecken}}</nowiki> \n\noder <nowiki>{{Versteckt|1=Text zum Verstecken}}</nowiki>. \n\nDie zweite Schreibweise braucht man, wenn der \"Text zum Verstecken\" ein Gleichheitszeichen enthält.\n</noinclude>"
+    },
+    {
+      "revid": 7999,
+      "parentid": 7997,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-02-27T22:30:22Z",
+      "comment": "",
+      "wikitext": "<includeonly><span class=\"_togglegroup _toggle_initshow _toggle _toggler toggle-visible\" style=\"display:none;\">[Anzeigen]</span><span class=\"_toggle_inithide _toggle _toggler toggle-hidden\" style=\"display:none;\">[Verstecken]</span>\n<div class=\"_toggle_inithide _toggle toggle-hidden\">\n{{{1}}}</div></includeonly><noinclude>\n==Anwendung==\n<nowiki>{{versteckt|Text zum Verstecken}}</nowiki> \n\noder <nowiki>{{versteckt|1=Text zum Verstecken}}</nowiki>. \n\nDie zweite Schreibweise braucht man, wenn der \"Text zum Verstecken\" ein Gleichheitszeichen enthält.\n</noinclude>"
+    },
+    {
+      "revid": 7997,
+      "parentid": 7992,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-02-27T22:29:02Z",
+      "comment": "Vorlage:Verstecken wurde nach Vorlage:Versteckt verschoben: Vereinheitlichung mit ZUM-Wiki",
+      "wikitext": "<includeonly><span class=\"_togglegroup _toggle_initshow _toggle _toggler toggle-visible\" style=\"display:none;\">[Lösung anzeigen]</span><span class=\"_toggle_inithide _toggle _toggler toggle-hidden\" style=\"display:none;\">[Lösung ausblenden]</span>\n<div class=\"_toggle_inithide _toggle toggle-hidden\"><div style=\"border: 1px solid #97BF87;\">\n{{{1}}}</div></div></includeonly><noinclude>\n==Anwendung==\n<nowiki>{{Verstecken|Text zum Verstecken}}</nowiki> \n\noder <nowiki>{{Verstecken|1=Text zum Verstecken}}</nowiki>. \n\nDie zweite Schreibweise braucht man, wenn der \"Text zum Verstecken\" ein Gleichheitszeichen enthält.\n</noinclude>"
+    },
+    {
+      "revid": 7992,
+      "parentid": 7991,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-02-27T18:00:57Z",
+      "comment": "->typo",
+      "wikitext": "<includeonly><span class=\"_togglegroup _toggle_initshow _toggle _toggler toggle-visible\" style=\"display:none;\">[Lösung anzeigen]</span><span class=\"_toggle_inithide _toggle _toggler toggle-hidden\" style=\"display:none;\">[Lösung ausblenden]</span>\n<div class=\"_toggle_inithide _toggle toggle-hidden\"><div style=\"border: 1px solid #97BF87;\">\n{{{1}}}</div></div></includeonly><noinclude>\n==Anwendung==\n<nowiki>{{Verstecken|Text zum Verstecken}}</nowiki> \n\noder <nowiki>{{Verstecken|1=Text zum Verstecken}}</nowiki>. \n\nDie zweite Schreibweise braucht man, wenn der \"Text zum Verstecken\" ein Gleichheitszeichen enthält.\n</noinclude>"
+    },
+    {
+      "revid": 7991,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-02-27T17:59:56Z",
+      "comment": "-> Vorlage:Verstecken von Lösungen",
+      "wikitext": "<includeonly><span class=\"_togglegroup _toggle_initshow _toggle _toggler toggle-visible\" style=\"display:none;\">[Lösung anzeigen]</span><span class=\"_toggle_inithide _toggle _toggler toggle-hidden\" style=\"display:none;\">[Lösung ausblenden]</span>\n<div class=\"_toggle_inithide _toggle toggle-hidden\"><div style=\"border: 1px solid #97BF87;\">\n{{{1}}}</div></div></includeonly><noinclude>\n==Anwendung==\n<nowiki>{{Lösung versteckt mit Rand|Text zum Verstecken}}</nowiki> \n\noder <nowiki>{{Lösung versteckt mit Rand|1=Text zum Verstecken}}</nowiki>. \n\nDie zweite Schreibweise braucht man, wenn der \"Text zum Verstecken\" ein Gleichheitszeichen enthält.\n</noinclude>"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,216 @@
+{
+  "pageid": 3347,
+  "ns": 0,
+  "title": "Spielwiese10",
+  "revisions": [
+    {
+      "revid": 21219,
+      "parentid": 21166,
+      "user": "MATom-Tove",
+      "timestamp": "2017-04-30T15:08:57Z",
+      "comment": "",
+      "wikitext": "== Die Burgschule ==\nDie Burgschule liegt im märchenhaften Bad Godesberg, oberhalb der malerischen Godesburg. \n[[Datei:Fliegenpilz.png|miniatur]]\n=== Die Burgfräuleins und der Knappe ===\n* das Schreckgespenst Reinhilde\n[[Datei:Gespenst.png|miniatur]]\n* die Edle Sabine \n[[Datei:Prinzessin.jpg|miniatur]]\n* die neun fleißigen Mägde\n* der Barde \n[[Datei:Barde.png|miniatur]]\n\n=== Aufzählung ===\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatz so aus!\n Das eignet sich für einen kurzen einzeiligen Text.\n oder man muss wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' '', außerdem gibt es noch <u>unterstrichen</u>, <sup>hochgestellt</sup> und <sub>tiefergestellt</sub>.\nDie verschiedenen Varianten können auch kombiniert werden (außer Hoch- und Tiefgestellt): <u>'''Unterstrichen & Fett'''</u>\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit ,,<nowiki><br/></nowiki>\" oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <span style=\"color: blue\">blauer Text</span>.\n\nFolgende Farben gibt es auch noch:\n* <span style=\"color: blue\">blau</span>\n* <span style=\"color: green\">grün</span>\n* <span style=\"color: lime\">hellgrün</span>\n* <span style=\"color: purple\">lila</span>\n* <span style=\"color: yellow\">gelb</span>\n\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis.\n* Verlinkungen zu anderen Seiten auf Grundschulwiki: [[Hauptseite]] - dabei verlässt du deine Seite!\n* Verlinkung auf Externe Seiten sehen so aus [https://de.wikipedia.org/wiki/Wikipedia:Hauptseite Wikipedia] - es wird dabei ein neues Fenster geöffnet."
+    },
+    {
+      "revid": 21166,
+      "parentid": 21165,
+      "user": "Burgschule5",
+      "timestamp": "2017-04-05T08:36:48Z",
+      "comment": "/* Die Burgschule */",
+      "wikitext": "== Die Burgschule ==\nDie Burgschule liegt im märchenhaften Bad Godesberg, oberhalb der malerischen Godesburg. \n[[Datei:Fliegenpilz.png|miniatur]]\n=== Die Burgfräuleins und der Knappe ===\n* das Schreckgespenst Reinhilde\n[[Datei:Gespenst.png|miniatur]]\n* die Edle Sabine \n[[Datei:Prinzessin.jpg|miniatur]]\n* die neun fleißigen Mägde\n* der Barde \n[[Datei:Barde.png|miniatur]]\n\n=== Aufzählung ===\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatz so aus!\n Das eignet sich für einen kurzen einzeiligen Text.\n oder man muss wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' '', außerdem gibt es noch <u>unterstrichen</u>, <sup>hochgestellt</sup> und <sub>tiefergestellt</sub>.\nDie verschiedenen Varianten können auch kombiniert werden (außer Hoch- und Tiefgestellt): <u>'''Unterstrichen & Fett'''</u>\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <span style=\"color: blue\">blauer Text</span>.\n\nFolgende Farben gibt es auch noch:\n* <span style=\"color: blue\">blau</span>\n* <span style=\"color: green\">grün</span>\n* <span style=\"color: lime\">hellgrün</span>\n* <span style=\"color: purple\">lila</span>\n* <span style=\"color: yellow\">gelb</span>\n\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis.\n* Verlinkungen zu anderen Seiten auf Grundschulwiki: [[Hauptseite]] - dabei verlässt du deine Seite!\n* Verlinkung auf Externe Seiten sehen so aus [https://de.wikipedia.org/wiki/Wikipedia:Hauptseite Wikipedia] - es wird dabei ein neues Fenster geöffnet."
+    },
+    {
+      "revid": 21165,
+      "parentid": 21163,
+      "user": "Burgschule5",
+      "timestamp": "2017-04-05T08:36:01Z",
+      "comment": "/* Die Burgfräuleins und der Knappe */",
+      "wikitext": "== Die Burgschule ==\nDie Burgschule liegt im märchenhaften Bad Godesberg, oberhalb der malerischen Godesburg\n=== Die Burgfräuleins und der Knappe ===\n* das Schreckgespenst Reinhilde\n[[Datei:Gespenst.png|miniatur]]\n* die Edle Sabine \n[[Datei:Prinzessin.jpg|miniatur]]\n* die neun fleißigen Mägde\n* der Barde \n[[Datei:Barde.png|miniatur]]\n\n=== Aufzählung ===\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatz so aus!\n Das eignet sich für einen kurzen einzeiligen Text.\n oder man muss wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' '', außerdem gibt es noch <u>unterstrichen</u>, <sup>hochgestellt</sup> und <sub>tiefergestellt</sub>.\nDie verschiedenen Varianten können auch kombiniert werden (außer Hoch- und Tiefgestellt): <u>'''Unterstrichen & Fett'''</u>\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <span style=\"color: blue\">blauer Text</span>.\n\nFolgende Farben gibt es auch noch:\n* <span style=\"color: blue\">blau</span>\n* <span style=\"color: green\">grün</span>\n* <span style=\"color: lime\">hellgrün</span>\n* <span style=\"color: purple\">lila</span>\n* <span style=\"color: yellow\">gelb</span>\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis.\n* Verlinkungen zu anderen Seiten auf Grundschulwiki: [[Hauptseite]] - dabei verlässt du deine Seite!\n* Verlinkung auf Externe Seiten sehen so aus [https://de.wikipedia.org/wiki/Wikipedia:Hauptseite Wikipedia] - es wird dabei ein neues Fenster geöffnet."
+    },
+    {
+      "revid": 21163,
+      "parentid": 21161,
+      "user": "Burgschule5",
+      "timestamp": "2017-04-05T08:34:11Z",
+      "comment": "/* Die Burgfräuleins und der Knappe */",
+      "wikitext": "== Die Burgschule ==\nDie Burgschule liegt im märchenhaften Bad Godesberg, oberhalb der malerischen Godesburg\n=== Die Burgfräuleins und der Knappe ===\n* das Schreckgespenst Reinhilde\n* die Edle Sabine \n[[Datei:Prinzessin.jpg|miniatur]]\n* die neun fleißigen Mägde\n* der Barde \n[[Datei:Barde.png|miniatur]]\n\n=== Aufzählung ===\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatz so aus!\n Das eignet sich für einen kurzen einzeiligen Text.\n oder man muss wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' '', außerdem gibt es noch <u>unterstrichen</u>, <sup>hochgestellt</sup> und <sub>tiefergestellt</sub>.\nDie verschiedenen Varianten können auch kombiniert werden (außer Hoch- und Tiefgestellt): <u>'''Unterstrichen & Fett'''</u>\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <span style=\"color: blue\">blauer Text</span>.\n\nFolgende Farben gibt es auch noch:\n* <span style=\"color: blue\">blau</span>\n* <span style=\"color: green\">grün</span>\n* <span style=\"color: lime\">hellgrün</span>\n* <span style=\"color: purple\">lila</span>\n* <span style=\"color: yellow\">gelb</span>\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis.\n* Verlinkungen zu anderen Seiten auf Grundschulwiki: [[Hauptseite]] - dabei verlässt du deine Seite!\n* Verlinkung auf Externe Seiten sehen so aus [https://de.wikipedia.org/wiki/Wikipedia:Hauptseite Wikipedia] - es wird dabei ein neues Fenster geöffnet."
+    },
+    {
+      "revid": 21161,
+      "parentid": 21004,
+      "user": "Burgschule5",
+      "timestamp": "2017-04-05T08:32:13Z",
+      "comment": "",
+      "wikitext": "== Die Burgschule ==\nDie Burgschule liegt im märchenhaften Bad Godesberg, oberhalb der malerischen Godesburg\n=== Die Burgfräuleins und der Knappe ===\n* das Schreckgespenst Reinhilde\n* die Edle Sabine \n[[Datei:Prinzessin.jpg|miniatur]]\n* hat am Beginn der Zeile ein *\n=== Aufzählung ===\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatz so aus!\n Das eignet sich für einen kurzen einzeiligen Text.\n oder man muss wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' '', außerdem gibt es noch <u>unterstrichen</u>, <sup>hochgestellt</sup> und <sub>tiefergestellt</sub>.\nDie verschiedenen Varianten können auch kombiniert werden (außer Hoch- und Tiefgestellt): <u>'''Unterstrichen & Fett'''</u>\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <span style=\"color: blue\">blauer Text</span>.\n\nFolgende Farben gibt es auch noch:\n* <span style=\"color: blue\">blau</span>\n* <span style=\"color: green\">grün</span>\n* <span style=\"color: lime\">hellgrün</span>\n* <span style=\"color: purple\">lila</span>\n* <span style=\"color: yellow\">gelb</span>\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis.\n* Verlinkungen zu anderen Seiten auf Grundschulwiki: [[Hauptseite]] - dabei verlässt du deine Seite!\n* Verlinkung auf Externe Seiten sehen so aus [https://de.wikipedia.org/wiki/Wikipedia:Hauptseite Wikipedia] - es wird dabei ein neues Fenster geöffnet."
+    },
+    {
+      "revid": 21004,
+      "parentid": 21003,
+      "user": "MAPeters2",
+      "timestamp": "2017-01-30T12:51:00Z",
+      "comment": "",
+      "wikitext": "== Der Test (Ebene 2)==\nEin Test dient der Übung. Dies ist eine Kurzanleitung.<br />\nDringend bitte am Anfang der Arbeit einmal alles speichern, <br />\ndazu unten auf '''Vorschau anzeigen''' und dann wieder unten auf '''Speichern'''\n=== Ebene 3 ===\n* Eine Aufzählung\n* mit Punkten\n* hat am Beginn der Zeile ein *\n=== Aufzählung ===\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatz so aus!\n Das eignet sich für einen kurzen einzeiligen Text.\n oder man muss wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' '', außerdem gibt es noch <u>unterstrichen</u>, <sup>hochgestellt</sup> und <sub>tiefergestellt</sub>.\nDie verschiedenen Varianten können auch kombiniert werden (außer Hoch- und Tiefgestellt): <u>'''Unterstrichen & Fett'''</u>\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <span style=\"color: blue\">blauer Text</span>.\n\nFolgende Farben gibt es auch noch:\n* <span style=\"color: blue\">blau</span>\n* <span style=\"color: green\">grün</span>\n* <span style=\"color: lime\">hellgrün</span>\n* <span style=\"color: purple\">lila</span>\n* <span style=\"color: yellow\">gelb</span>\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis.\n* Verlinkungen zu anderen Seiten auf Grundschulwiki: [[Hauptseite]] - dabei verlässt du deine Seite!\n* Verlinkung auf Externe Seiten sehen so aus [https://de.wikipedia.org/wiki/Wikipedia:Hauptseite Wikipedia] - es wird dabei ein neues Fenster geöffnet."
+    },
+    {
+      "revid": 21003,
+      "parentid": 21002,
+      "user": "MAPeters2",
+      "timestamp": "2017-01-30T12:45:55Z",
+      "comment": "",
+      "wikitext": "== Der Test (Ebene 2)==\nEin Test dient der Übung. Dies ist eine Kurzanleitung.\nDringend bitte am Anfang der Arbeit einmal alles speichern, dazu unten auf '''Vorschau anzeigen''' und dann wieder unten auf '''Speichern'''\n=== Ebene 3 ===\n* Eine Aufzählung\n* mit Punkten\n* hat am Beginn der Zeile ein *\n=== Aufzählung ===\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatz so aus!\n Das eignet sich für einen kurzen einzeiligen Text.\n oder man muss wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' '', außerdem gibt es noch <u>unterstrichen</u>, <sup>hochgestellt</sup> und <sub>tiefergestellt</sub>.\nDie verschiedenen Varianten können auch kombiniert werden (außer Hoch- und Tiefgestellt): <u>'''Unterstrichen & Fett'''</u>\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <span style=\"color: blue\">blauer Text</span>.\n\nFolgende Farben gibt es auch noch:\n* <span style=\"color: blue\">blau</span>\n* <span style=\"color: green\">grün</span>\n* <span style=\"color: lime\">hellgrün</span>\n* <span style=\"color: purple\">lila</span>\n* <span style=\"color: yellow\">gelb</span>\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis.\n* Verlinkungen zu anderen Seiten auf Grundschulwiki: [[Hauptseite]] - dabei verlässt du deine Seite!\n* Verlinkung auf Externe Seiten sehen so aus [https://de.wikipedia.org/wiki/Wikipedia:Hauptseite Wikipedia] - es wird dabei ein neues Fenster geöffnet."
+    },
+    {
+      "revid": 21002,
+      "parentid": 21001,
+      "user": "MAPeters2",
+      "timestamp": "2017-01-30T12:44:01Z",
+      "comment": "",
+      "wikitext": "== Der Test (Ebene 2)==\nEin Test dient der Übung. Dies ist eine Kurzanleitung.\nDringend bitte am Anfang der Arbeit einmal alles speichern, dazu unten auf '''Vorschau anzeigen''' und dann wieder unten auf '''Speichern'''\n=== Ebene 3 ===\n* Eine Aufzählung\n* mit Punkten\n* hat am Beginn der Zeile ein *\n=== Aufzählung ===\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatz so aus!\n Das eignet sich für einen kurzen einzeiligen Text.\n oder man muss wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' '', außerdem gibt es noch <u>unterstrichen</u>, <sup>hochgestellt</sup> und <sub>tiefergestellt</sub>.\nDie verschiedenen Varianten können auch kombiniert werden (außer Hoch- und Tiefgestellt): <u>'''Unterstrichen & Fett'''</u>\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <span style=\"color: blue\">blauer Text</span>.\n\nFolgende Farben gibt es auch noch:\n* <span style=\"color: blue\">blau</span>\n* <span style=\"color: green\">grün</span>\n* <span style=\"color: lime\">hellgrün</span>\n* <span style=\"color: purple\">lila</span>\n* <span style=\"color: yellow\">gelb</span>\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis.\nVerlinkungen zu anderen Seiten auf Grundschulwiki: [[Hauptseite]]\nVerlinkung auf Externe Seiten sehen so aus [https://de.wikipedia.org/wiki/Wikipedia:Hauptseite Wikipedia]"
+    },
+    {
+      "revid": 21001,
+      "parentid": 21000,
+      "user": "MAPeters2",
+      "timestamp": "2017-01-30T12:14:36Z",
+      "comment": "",
+      "wikitext": "== Der Test (Ebene 2)==\nEin Test dient der Übung. Dies ist eine Kurzanleitung.\nDringend bitte am Anfang der Arbeit einmal alles speichern, dazu unten auf '''Vorschau anzeigen''' und dann wieder unten auf '''Speichern'''\n=== Ebene 3 ===\n* Eine Aufzählung\n* mit Punkten\n* hat am Beginn der Zeile ein *\n=== Aufzählung ===\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatz so aus!\n Das eignet sich aber nur für einen kurzen einzeiligen Text.\n Ansonsten muss man wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' '', außerdem gibt es noch <u>unterstrichen</u>, <sup>hochgestellt</sup> und <sub>tiefergestellt</sub>.\nDie verschiedenen Varianten können auch kombiniert werden (außer Hoch- und Tiefgestellt): <u>'''Unterstrichen & Fett'''</u>\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <span style=\"color: blue\">blauer Text</span>.\n\nFolgende Farben gibt es auch noch:\n* <span style=\"color: blue\">blau</span>\n* <span style=\"color: green\">grün</span>\n* <span style=\"color: lime\">hellgrün</span>\n* <span style=\"color: purple\">lila</span>\n* <span style=\"color: yellow\">gelb</span>\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis.\nVerlinkungen zu anderen Seiten auf Grundschulwiki: [[Hauptseite]]"
+    },
+    {
+      "revid": 21000,
+      "parentid": 20998,
+      "user": "MAPeters2",
+      "timestamp": "2017-01-30T11:48:05Z",
+      "comment": "",
+      "wikitext": "== Der Test (Ebene 2)==\nEin Test dient der Übung. Dies ist eine Kurzanleitung.\nDringend bitte am Anfang der Arbeit einmal alles speichern, dazu unten auf '''Vorschau anzeigen''' und dann wieder unten auf '''Speichern'''\n=== Ebene 3 ===\n* Eine Aufzählung\n* mit Punkten\n* hat am Beginn der Zeile ein *\n\n\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatzt so aus!\n Das eignet sich aber nur für einen kurzen einzeiligen Text.\n Ansonsten muß man wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' ''\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n{{Kasten blau|Mit den zwei geschweiften Klammern  und \"Kasten blau\" und einem senkrechtem Strich wird der Text mit einem blauen Rahmen hinterlegt. Das funktioniert auch mit gelb und grün! }}\nAuch die Textfarbe kann geändert werden: <u><span style=\"color: blue\">blauer Text</span>\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis."
+    },
+    {
+      "revid": 20998,
+      "parentid": 20924,
+      "user": "MAPeters2",
+      "timestamp": "2017-01-30T11:29:39Z",
+      "comment": "",
+      "wikitext": "== Der Test (Ebene 2)==\nEin Test dient der Übung. Dies ist eine Kurzanleitung.\nDringend bitte am Anfang der Arbeit einmal alles speichern, dazu unten auf '''Vorschau anzeigen''' und dann wieder unten auf '''Speichern'''\n=== Ebene 3 ===\n* Eine Aufzählung\n* mit Punkten\n* hat am Beginn der Zeile ein *\n\n\n# Eine Aufzählung\n# mit Zahlen\n# hat am Beginn der Zeile eine #\n==== Ebene 4 ====\n Ein Leerzeichen zu Beginn der Zeile dann schaut der Absatzt so aus!\n Das eignet sich aber nur für einen kurzen einzeiligen Text.\n Ansonsten muß man wie jetzt jede Zeile mit einem Leerzeichen beginnen.\nMan kann den Text formatieren in '''fett''' oder ''kursiv'' oder  '' ''' Fett und kursiv''' ''\n===== Ebene 5 =====\neinen Absatz kann man auf zwei verschiedene Arten herstellen, <br />\nmit \"br /\" in <> oder mit zwei Leerzeilen, \n\ndann ist der Abstand zwischen den Zeilen etwas größer.\n\n== Inhalt ==\nSobald man zweimal die Ebene 2 in seinem Text formatiert hat, erscheint am Anfang des Dokumentes ein Inhaltsverzeichnis."
+    },
+    {
+      "revid": 20924,
+      "parentid": 20923,
+      "user": "MAKamo",
+      "timestamp": "2016-09-15T09:00:55Z",
+      "comment": "",
+      "wikitext": "Hier steht nix. Leider, leider, '''leider'''."
+    },
+    {
+      "revid": 20923,
+      "parentid": 15364,
+      "user": "MAKamo",
+      "timestamp": "2016-09-15T08:58:36Z",
+      "comment": "",
+      "wikitext": "Hallo, das ist ein Text.\n\nIch lebe auf einer Insel. Sie ist sehr schön. Ich klettere gerne auf Baobab-Bäume."
+    },
+    {
+      "revid": 15364,
+      "parentid": 15363,
+      "user": "GS01",
+      "timestamp": "2012-01-31T19:55:20Z",
+      "comment": "Die Seite wurde geleert.",
+      "wikitext": ""
+    },
+    {
+      "revid": 15363,
+      "parentid": 15361,
+      "user": "GS01",
+      "timestamp": "2012-01-31T19:54:57Z",
+      "comment": "",
+      "wikitext": "[[Bild:Baum20120131.jpg]]"
+    },
+    {
+      "revid": 15361,
+      "parentid": 15360,
+      "user": "GS01",
+      "timestamp": "2012-01-31T19:50:41Z",
+      "comment": "",
+      "wikitext": "{{Zitat|Text|Autor (optional)|Quelle (optional)}}"
+    },
+    {
+      "revid": 15360,
+      "parentid": 15359,
+      "user": "GS01",
+      "timestamp": "2012-01-31T19:49:49Z",
+      "comment": "",
+      "wikitext": "[[Bild:Beispiel.jpg]]"
+    },
+    {
+      "revid": 15359,
+      "parentid": 15358,
+      "user": "GS01",
+      "timestamp": "2012-01-31T19:49:22Z",
+      "comment": "",
+      "wikitext": "[[Bmeise]]"
+    },
+    {
+      "revid": 15358,
+      "parentid": 15357,
+      "user": "GS01",
+      "timestamp": "2012-01-31T19:48:59Z",
+      "comment": "",
+      "wikitext": "[[Ameise]]"
+    },
+    {
+      "revid": 15357,
+      "parentid": 15356,
+      "user": "GS01",
+      "timestamp": "2012-01-31T19:47:32Z",
+      "comment": "",
+      "wikitext": "[Ameise]"
+    },
+    {
+      "revid": 15356,
+      "parentid": 12641,
+      "user": "GS01",
+      "timestamp": "2012-01-31T19:47:15Z",
+      "comment": "",
+      "wikitext": "AmeiSe"
+    },
+    {
+      "revid": 12641,
+      "parentid": 12547,
+      "user": "MARaschke",
+      "timestamp": "2009-12-04T12:30:41Z",
+      "comment": "Die Seite wurde geleert.",
+      "wikitext": ""
+    },
+    {
+      "revid": 12547,
+      "parentid": 12541,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:49:33Z",
+      "comment": "",
+      "wikitext": " \n----\n== Der Mars== \n\nDer Mars ist rot und rund.\nDer Mars ist rot weil er <u>Eisen</u> enthelt.\nDer Mars hat einen großen Durschmesser.\nDer Mars ist der vierte <u>Bekleiter der Sonne.</u>"
+    },
+    {
+      "revid": 12541,
+      "parentid": 12535,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:46:23Z",
+      "comment": "",
+      "wikitext": " \n----\n== Der Mars== \n\nDer Mars ist rot und rund.\nDer Mars ist rot weil er <u>Eisen</u> enthelt.\nDer Mars hat einen großen Durschmesser.\nDer Mars ist der vierte Bekleiter der Sonne."
+    },
+    {
+      "revid": 12535,
+      "parentid": 12530,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:42:39Z",
+      "comment": "",
+      "wikitext": " \n----\n== Der Mars== \n\nDer Mars ist rot und rund.\nDer Mars ist rot weil er <u>Eisen</u> enthelt.\nDer Mars hat einen großen Durschmesser"
+    },
+    {
+      "revid": 12530,
+      "parentid": 0,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:34:39Z",
+      "comment": "Die Seite wurde neu angelegt:   ---- == Der Mars==   Der Mars ist rot und rund.",
+      "wikitext": " \n----\n== Der Mars== \n\nDer Mars ist rot und rund."
+    }
+  ],
+  "categories": []
+}

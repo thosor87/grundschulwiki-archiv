@@ -1,0 +1,1200 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Säbelzahntiger.jpg</title>
+    <ns>6</ns>
+    <id>2256</id>
+    <revision>
+      <id>6134</id>
+      <timestamp>2007-04-18T19:43:20Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Melany G., vom 18.04.2007</comment>
+      <text xml:space="preserve" bytes="35">Bild von: Melany G., vom 18.04.2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:TOTENKOPFÄFFCHEN.jpg</title>
+    <ns>6</ns>
+    <id>3882</id>
+    <revision>
+      <id>15489</id>
+      <timestamp>2012-02-29T09:19:42Z</timestamp>
+      <contributor>
+        <username>MAWagner</username>
+        <id>921</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tablet.png</title>
+    <ns>6</ns>
+    <id>1673</id>
+    <revision>
+      <id>3280</id>
+      <timestamp>2006-03-09T22:46:15Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="210">http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Takeshi.jpg</title>
+    <ns>6</ns>
+    <id>3398</id>
+    <revision>
+      <id>12938</id>
+      <timestamp>2009-12-15T15:57:01Z</timestamp>
+      <contributor>
+        <username>MABorchert</username>
+        <id>707</id>
+      </contributor>
+      <comment>Eigens Foto.</comment>
+      <text xml:space="preserve" bytes="12">Eigens Foto.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Teichrohrsänger.gif</title>
+    <ns>6</ns>
+    <id>5041</id>
+    <revision>
+      <id>21118</id>
+      <timestamp>2017-03-17T09:21:06Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Test.ogg</title>
+    <ns>6</ns>
+    <id>2988</id>
+    <revision>
+      <id>10025</id>
+      <parentid>10024</parentid>
+      <timestamp>2008-12-19T11:01:10Z</timestamp>
+      <contributor>
+        <username>Rodebraun</username>
+        <id>539</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Test.ogg]]“ hochgeladen: Zurückgesetzt auf die Version vom 19. Dezember 2008, 09:36 Uhr</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Testbildwiki.jpg</title>
+    <ns>6</ns>
+    <id>3955</id>
+    <revision>
+      <id>15814</id>
+      <timestamp>2012-06-22T07:07:57Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Testbildwiki1.jpg</title>
+    <ns>6</ns>
+    <id>3966</id>
+    <revision>
+      <id>15861</id>
+      <timestamp>2012-06-22T09:07:04Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tetsuya Miyamoto.jpg</title>
+    <ns>6</ns>
+    <id>3434</id>
+    <revision>
+      <id>13133</id>
+      <parentid>13126</parentid>
+      <timestamp>2010-02-01T14:28:05Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Tetsuya Miyamoto.jpg]]“ hochgeladen: Bild von Tetsuya Miyamoto
+
+Bereitgestellt durch Mail vom 1.2.2010 von Frau Wehse an A.Burgermeister</comment>
+      <text xml:space="preserve" bytes="216">von http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/games_and_puzzles/article3599704.ece
+
+Stellt den Lehrer Tetsuya Miyamoto vor.
+
+hochgeladen von Achim Burgermeister am 30.1.10
+
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Teufel.jpeg</title>
+    <ns>6</ns>
+    <id>5206</id>
+    <revision>
+      <id>21751</id>
+      <timestamp>2017-09-03T17:30:40Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreiben1.jpg</title>
+    <ns>6</ns>
+    <id>1324</id>
+    <revision>
+      <id>1665</id>
+      <parentid>1604</parentid>
+      <timestamp>2005-12-29T16:59:26Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreiben2.jpg</title>
+    <ns>6</ns>
+    <id>1330</id>
+    <revision>
+      <id>1666</id>
+      <parentid>1622</parentid>
+      <timestamp>2005-12-29T16:59:42Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreiben3.jpg</title>
+    <ns>6</ns>
+    <id>1331</id>
+    <revision>
+      <id>1667</id>
+      <parentid>1623</parentid>
+      <timestamp>2005-12-29T16:59:54Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreiben4.jpg</title>
+    <ns>6</ns>
+    <id>1332</id>
+    <revision>
+      <id>1668</id>
+      <parentid>1624</parentid>
+      <timestamp>2005-12-29T17:00:09Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreiben5.jpg</title>
+    <ns>6</ns>
+    <id>1333</id>
+    <revision>
+      <id>1669</id>
+      <parentid>1625</parentid>
+      <timestamp>2005-12-29T17:00:21Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreiben6.jpg</title>
+    <ns>6</ns>
+    <id>1334</id>
+    <revision>
+      <id>1670</id>
+      <parentid>1626</parentid>
+      <timestamp>2005-12-29T17:00:34Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreibenminibild.jpg</title>
+    <ns>6</ns>
+    <id>1335</id>
+    <revision>
+      <id>1676</id>
+      <parentid>1627</parentid>
+      <timestamp>2005-12-29T17:02:07Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreibenminiexternerlink.jpg</title>
+    <ns>6</ns>
+    <id>1336</id>
+    <revision>
+      <id>1674</id>
+      <parentid>1628</parentid>
+      <timestamp>2005-12-29T17:01:46Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreibenminifett.jpg</title>
+    <ns>6</ns>
+    <id>1337</id>
+    <revision>
+      <id>1672</id>
+      <parentid>1629</parentid>
+      <timestamp>2005-12-29T17:01:11Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreibenminiinternerlink.jpg</title>
+    <ns>6</ns>
+    <id>1338</id>
+    <revision>
+      <id>1671</id>
+      <parentid>1630</parentid>
+      <timestamp>2005-12-29T17:00:52Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreibenminikursiv.jpg</title>
+    <ns>6</ns>
+    <id>1339</id>
+    <revision>
+      <id>1673</id>
+      <parentid>1631</parentid>
+      <timestamp>2005-12-29T17:01:21Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreibenminilinie.jpg</title>
+    <ns>6</ns>
+    <id>1340</id>
+    <revision>
+      <id>1675</id>
+      <parentid>1632</parentid>
+      <timestamp>2005-12-29T17:01:56Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Textschreibenminiueberschrift.jpg</title>
+    <ns>6</ns>
+    <id>1341</id>
+    <revision>
+      <id>1664</id>
+      <parentid>1633</parentid>
+      <timestamp>2005-12-29T16:58:58Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="416">Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:The-oresund-bridge-1151154 1280.jpg</title>
+    <ns>6</ns>
+    <id>5150</id>
+    <revision>
+      <id>21577</id>
+      <parentid>21571</parentid>
+      <timestamp>2017-07-10T06:27:13Z</timestamp>
+      <contributor>
+        <username>Wgsa27</username>
+        <id>10162</id>
+      </contributor>
+      <text xml:space="preserve" bytes="170">{{Information ohne UploadWizard
+|Beschreibung = Öresundbrücke
+|Quelle = pixabey
+|Urheber = freies Bild
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>91tu97vmfgxk79tt9mndpbiu0avfqpm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Theresa HQ.jpg</title>
+    <ns>6</ns>
+    <id>6037</id>
+    <revision>
+      <id>25237</id>
+      <timestamp>2023-01-11T18:05:09Z</timestamp>
+      <contributor>
+        <username>MAMontuori</username>
+        <id>10509</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Leiter aufbauen&lt;br /&gt;
+aufbauen und abbauen&lt;br /&gt;
+man kann hoch hüpfen&lt;br /&gt;
+'''''(Theresa)'''''
+|Quelle = eigene Darstellung
+|Urheber = Theresa
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen…</comment>
+      <text xml:space="preserve" bytes="258">{{Information ohne UploadWizard
+|Beschreibung = Leiter aufbauen&lt;br /&gt;
+aufbauen und abbauen&lt;br /&gt;
+man kann hoch hüpfen&lt;br /&gt;
+'''''(Theresa)'''''
+|Quelle = eigene Darstellung
+|Urheber = Theresa
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>1nlskic6m8lsc0c3eflpkf10i0dsd9h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tim HQ.jpg</title>
+    <ns>6</ns>
+    <id>6038</id>
+    <revision>
+      <id>25238</id>
+      <timestamp>2023-01-11T19:01:11Z</timestamp>
+      <contributor>
+        <username>MAMontuori</username>
+        <id>10509</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Zwei Menschen küssen&lt;br /&gt;
+​Auf einem Hochzeitsschiffchen&lt;br /&gt;
+Ein Mann ist verknallt&lt;br /&gt;
+'''''(Tim H.)'''''
+|Quelle = eigene Darstellung
+|Urheber = Tim
+|Datum = 
+|Genehmigung = 
+|Andere Versionen =…</comment>
+      <text xml:space="preserve" bytes="272">{{Information ohne UploadWizard
+|Beschreibung = Zwei Menschen küssen&lt;br /&gt;
+​Auf einem Hochzeitsschiffchen&lt;br /&gt;
+Ein Mann ist verknallt&lt;br /&gt;
+'''''(Tim H.)'''''
+|Quelle = eigene Darstellung
+|Urheber = Tim
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>6jkur3671or1va3q299dsnszwz0zjdv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tischlein.jpeg</title>
+    <ns>6</ns>
+    <id>5216</id>
+    <revision>
+      <id>21766</id>
+      <timestamp>2017-09-03T19:29:15Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Titisee.jpg</title>
+    <ns>6</ns>
+    <id>3179</id>
+    <revision>
+      <id>11367</id>
+      <timestamp>2009-03-30T21:30:12Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Melanie B. , vom: 24.3.2009</comment>
+      <text xml:space="preserve" bytes="37">Bild von: Melanie B. , vom: 24.3.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Toffen.Bild.bei.Nacht.svg</title>
+    <ns>6</ns>
+    <id>3607</id>
+    <revision>
+      <id>14062</id>
+      <timestamp>2010-11-11T19:21:25Z</timestamp>
+      <contributor>
+        <username>MALukas</username>
+        <id>837</id>
+      </contributor>
+      <comment>Toffen bei Nacht</comment>
+      <text xml:space="preserve" bytes="16">Toffen bei Nacht</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Topf1.jpg</title>
+    <ns>6</ns>
+    <id>3190</id>
+    <revision>
+      <id>11451</id>
+      <timestamp>2009-04-18T20:55:36Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Yvonne M., vom: 31.3.2009</comment>
+      <text xml:space="preserve" bytes="35">Bild von: Yvonne M., vom: 31.3.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Topf2.jpg</title>
+    <ns>6</ns>
+    <id>3191</id>
+    <revision>
+      <id>11452</id>
+      <timestamp>2009-04-18T20:55:53Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Yvonne M., vom: 31.3.2009</comment>
+      <text xml:space="preserve" bytes="35">Bild von: Yvonne M., vom: 31.3.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Torball.jpg</title>
+    <ns>6</ns>
+    <id>5554</id>
+    <revision>
+      <id>23465</id>
+      <timestamp>2018-09-12T13:56:18Z</timestamp>
+      <contributor>
+        <username>Wiki12</username>
+        <id>10364</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="144">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>k7gmmm90qjus8t0hxrrfce8q42ahssd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tote hosen.jpg</title>
+    <ns>6</ns>
+    <id>5447</id>
+    <revision>
+      <id>22966</id>
+      <timestamp>2018-06-22T07:24:28Z</timestamp>
+      <contributor>
+        <username>Wgsa15</username>
+        <id>10150</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = tote hosen
+|Quelle = ??
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="151">{{Information ohne UploadWizard
+|Beschreibung = tote hosen
+|Quelle = ??
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>mb0gep8v5pgvx0vnes7tcp1jxr4h3xa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tower-bridge-980961 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5174</id>
+    <revision>
+      <id>21690</id>
+      <parentid>21684</parentid>
+      <timestamp>2017-07-20T06:08:20Z</timestamp>
+      <contributor>
+        <username>Wgsa31</username>
+        <id>10166</id>
+      </contributor>
+      <text xml:space="preserve" bytes="179">{{Information ohne UploadWizard
+|Beschreibung = Brücke öffnet sich 
+|Quelle = Pixabay  
+|Urheber = Richard Lay 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>qawrhnuyips6xie4ds5imm5h8oskv3z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Traktor.jpg</title>
+    <ns>6</ns>
+    <id>2221</id>
+    <revision>
+      <id>5961</id>
+      <timestamp>2007-03-29T10:35:08Z</timestamp>
+      <contributor>
+        <username>EliasS</username>
+        <id>223</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Traktor Claas Xerion.jpg</title>
+    <ns>6</ns>
+    <id>5239</id>
+    <revision>
+      <id>21812</id>
+      <timestamp>2018-04-09T11:09:21Z</timestamp>
+      <contributor>
+        <username>MAKnist</username>
+        <id>10269</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = vergrößerte Aufnahme des Claas Xerion
+|Quelle = https://commons.wikimedia.org/wiki/File%3AClaas_Xerion_3300_TRAC.jpg
+|Urheber = Malte
+|Datum = 9.04.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen…</comment>
+      <text xml:space="preserve" bytes="258">{{Information ohne UploadWizard
+|Beschreibung = vergrößerte Aufnahme des Claas Xerion
+|Quelle = https://commons.wikimedia.org/wiki/File%3AClaas_Xerion_3300_TRAC.jpg
+|Urheber = Malte
+|Datum = 9.04.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>cmdqq2bhxxbhmbs6sppvsdhe8rcelry</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Trombone-25686 960 720.png</title>
+    <ns>6</ns>
+    <id>5169</id>
+    <revision>
+      <id>21659</id>
+      <timestamp>2017-07-13T06:01:58Z</timestamp>
+      <contributor>
+        <username>Wgsa13</username>
+        <id>10148</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Horn
+|Quelle = Pixabay
+|Urheber = Kein nachweis nötig
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="168">{{Information ohne UploadWizard
+|Beschreibung = Horn
+|Quelle = Pixabay
+|Urheber = Kein nachweis nötig
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>j8kirs8e6mvi1335q0gyt54gpc7vu7g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Trompete v. Finn2.jpg</title>
+    <ns>6</ns>
+    <id>5167</id>
+    <revision>
+      <id>21631</id>
+      <parentid>21624</parentid>
+      <timestamp>2017-07-10T07:52:27Z</timestamp>
+      <contributor>
+        <username>Wgsa07</username>
+        <id>10142</id>
+      </contributor>
+      <text xml:space="preserve" bytes="158">{{Information ohne UploadWizard
+|Beschreibung =Trompete v.finn 
+|Quelle = Goggle
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>gcipv1pbebp8olztkdpkzmg4bkzn6vq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tropfsteine2008.jpg</title>
+    <ns>6</ns>
+    <id>2921</id>
+    <revision>
+      <id>9656</id>
+      <timestamp>2008-11-03T19:26:20Z</timestamp>
+      <contributor>
+        <username>MAAlina</username>
+        <id>409</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tuba.jpg</title>
+    <ns>6</ns>
+    <id>5161</id>
+    <revision>
+      <id>21627</id>
+      <parentid>21618</parentid>
+      <timestamp>2017-07-10T07:52:23Z</timestamp>
+      <contributor>
+        <username>Wgsa11</username>
+        <id>10146</id>
+      </contributor>
+      <text xml:space="preserve" bytes="182">{{Information ohne UploadWizard
+|Beschreibung = Ventile einer Tuba
+|Quelle = Pixabay
+|Urheber = Kein Nachweis nötig
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>4gzso2yeltdteioqtx3c1m3i4q79jxo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tuba 34245.jpg</title>
+    <ns>6</ns>
+    <id>5168</id>
+    <revision>
+      <id>21639</id>
+      <timestamp>2017-07-10T11:35:24Z</timestamp>
+      <contributor>
+        <username>Wgsa11</username>
+        <id>10146</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Tuba
+|Quelle = Pixabay
+|Urheber = Kein Nachweis nötig
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="168">{{Information ohne UploadWizard
+|Beschreibung = Tuba
+|Quelle = Pixabay
+|Urheber = Kein Nachweis nötig
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>nn842ehs8ea6yvwvd05otpx7jefaza1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tukan.png</title>
+    <ns>6</ns>
+    <id>3569</id>
+    <revision>
+      <id>13860</id>
+      <timestamp>2010-09-26T13:11:06Z</timestamp>
+      <contributor>
+        <username>MAWalz</username>
+        <id>820</id>
+      </contributor>
+      <comment>Dies ist ein Tukan - aus Openclipart</comment>
+      <text xml:space="preserve" bytes="36">Dies ist ein Tukan - aus Openclipart</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tukan2.png</title>
+    <ns>6</ns>
+    <id>3570</id>
+    <revision>
+      <id>13861</id>
+      <timestamp>2010-09-26T13:13:29Z</timestamp>
+      <contributor>
+        <username>MAWalz</username>
+        <id>820</id>
+      </contributor>
+      <comment>Ist dies ein Tukan?
+Aus Openclipart</comment>
+      <text xml:space="preserve" bytes="35">Ist dies ein Tukan?
+Aus Openclipart</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tuning.jpg</title>
+    <ns>6</ns>
+    <id>2547</id>
+    <revision>
+      <id>7583</id>
+      <timestamp>2008-01-12T10:38:35Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Wir haben das Bild selber gezeichnet.</comment>
+      <text xml:space="preserve" bytes="37">Wir haben das Bild selber gezeichnet.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Turnerin.png</title>
+    <ns>6</ns>
+    <id>5611</id>
+    <revision>
+      <id>23740</id>
+      <timestamp>2019-06-26T11:26:14Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Turnerin auf einem Balken
+|Quelle = selbst erstellt
+|Urheber = Anouk
+|Datum = 26.06.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="192">{{Information ohne UploadWizard
+|Beschreibung = Turnerin auf einem Balken
+|Quelle = selbst erstellt
+|Urheber = Anouk
+|Datum = 26.06.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>s5l8qzcfoprin2zcucj3rdzbp4legkd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tutanchamun01.jpg</title>
+    <ns>6</ns>
+    <id>3051</id>
+    <revision>
+      <id>10679</id>
+      <timestamp>2009-03-04T16:47:56Z</timestamp>
+      <contributor>
+        <username>J.Leupold</username>
+        <id>9</id>
+      </contributor>
+      <comment>Tutanchamun (gemalt von Klaus)</comment>
+      <text xml:space="preserve" bytes="30">Tutanchamun (gemalt von Klaus)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Tv1.png</title>
+    <ns>6</ns>
+    <id>1674</id>
+    <revision>
+      <id>3281</id>
+      <timestamp>2006-03-09T22:46:51Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="210">http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:UFOausPapptellern.JPG</title>
+    <ns>6</ns>
+    <id>2966</id>
+    <revision>
+      <id>9890</id>
+      <timestamp>2008-12-14T11:08:25Z</timestamp>
+      <contributor>
+        <username>MAAlina</username>
+        <id>409</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:UNADJUSTEDNONRAW thumb 8a.jpg</title>
+    <ns>6</ns>
+    <id>5570</id>
+    <revision>
+      <id>23560</id>
+      <parentid>23559</parentid>
+      <timestamp>2019-01-15T11:55:28Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <text xml:space="preserve" bytes="174">{{Information ohne UploadWizard
+|Beschreibung = neugierige Farbmaus
+|Quelle = JA
+|Urheber = Kind
+|Datum = 15.01.2019
+|Genehmigung = ja
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>76j4lcuhw0y222tiia157pzwt1vmcz4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:UNADJUSTEDNONRAW thumb 8c.jpg</title>
+    <ns>6</ns>
+    <id>5576</id>
+    <revision>
+      <id>23575</id>
+      <timestamp>2019-01-15T19:37:31Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <comment>User created page with UploadWizard</comment>
+      <text xml:space="preserve" bytes="289">=={{int:filedesc}}==
+{{Information
+|description={{de|1=Farbmaus 2}}
+|date=2019-01-15 20:35:31
+|source={{own}}
+|author=[[User:MASchmitz2|MASchmitz2]]
+|permission=
+|other_versions=
+|other_fields=
+}}
+
+=={{int:license-header}}==
+{{self|cc-by-sa-3.0}}
+
+
+[[Kategorie:Uploaded with UploadWizard]]</text>
+      <sha1>ebpq4undwxl1lb9mx8gjc9sl9lmr3eh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

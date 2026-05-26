@@ -1,0 +1,40 @@
+{
+  "pageid": 3429,
+  "ns": 10,
+  "title": "Vorlage:Zitat float",
+  "revisions": [
+    {
+      "revid": 13115,
+      "parentid": 13114,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-01-30T15:44:51Z",
+      "comment": "Schützte „[[Vorlage:Zitat float]]“: soll nicht geändert werden [edit=sysop:move=sysop]",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; <!--width: {{{Breite|100%}}}; -->background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|{{{1}}}\n----\n[[Bild:Cquote2.svg|12px]] <tt>{{{2}}}</tt> [[Bild:Cquote2.svg|12px]]\n|}<noinclude>\n\nDas schreibt man:\n\n<pre>\n{{Zitat|<Text>|<Quelle>}}\n</pre>\n\n;Achtung: Diese Vorlage passt sich in der Seitenbreite z.B. einem rechts stehenden Bild an. Wenn eine feste Breite gewünscht ist, verwende [[Vorlage:Zitat]].\n\n<!--Nach ZUM-Wiki, verändert mit Bildchen aus Commons, A.Burgermeister -->\n</noinclude>"
+    },
+    {
+      "revid": 13114,
+      "parentid": 13110,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-01-30T15:44:18Z",
+      "comment": "",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; <!--width: {{{Breite|100%}}}; -->background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|{{{1}}}\n----\n[[Bild:Cquote2.svg|12px]] <tt>{{{2}}}</tt> [[Bild:Cquote2.svg|12px]]\n|}<noinclude>\n\nDas schreibt man:\n\n<pre>\n{{Zitat|<Text>|<Quelle>}}\n</pre>\n\n;Achtung: Diese Vorlage passt sich in der Seitenbreite z.B. einem rechts stehenden Bild an. Wenn eine feste Breite gewünscht ist, verwende [[Vorlage:Zitat]].\n\n<!--Nach ZUM-Wiki, verändert mit Bildchen aus Commons, A.Burgermeister -->\n</noinclude>"
+    },
+    {
+      "revid": 13110,
+      "parentid": 13109,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-01-30T14:41:47Z",
+      "comment": "1 Version",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; <!--width: {{{Breite|100%}}}; -->background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<!--[[Bild:ZitatAnfang.gif|12px]]-->{{{1}}}<!--[[Bild:ZitatEnde.gif|12px]]-->\n----\n<small>{{{2}}}</small>\n|}<noinclude>\n\n{{Quellcode}}\n\n<pre>\n{{Zitat|<Text>|<Quelle>}}\n</pre>\n\n;Achtung: Diese Vorlage passt sich in der Seitenbreite z.B. einem rechts stehenden Bild an. Wenn eine feste Breite gewünscht ist, verwende [[Vorlage:Zitat]].\n\n\nWeitere Hinweise zur Handhabung dieser Vorlage stehen unter:\n* [[ZUM-Wiki:Vorlagen/Zitat]]\nBeachte bitte auch die Regeln zum richtigen Zitieren unter:\n* [[Zitieren]]\n\n[[Kategorie:Vorlage:Zitatbausteine|Zitat float]]\n\n</noinclude>"
+    },
+    {
+      "revid": 13109,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-04-22T10:50:22Z",
+      "comment": "Die Seite wurde neu angelegt: „{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; ...“",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; <!--width: {{{Breite|100%}}}; -->background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<!--[[Bild:ZitatAnfang.gif|12px]]-->{{{1}}}<!--[[Bild:ZitatEnde.gif|12px]]-->\n----\n<small>{{{2}}}</small>\n|}<noinclude>\n\n{{Quellcode}}\n\n<pre>\n{{Zitat|<Text>|<Quelle>}}\n</pre>\n\n;Achtung: Diese Vorlage passt sich in der Seitenbreite z.B. einem rechts stehenden Bild an. Wenn eine feste Breite gewünscht ist, verwende [[Vorlage:Zitat]].\n\n\nWeitere Hinweise zur Handhabung dieser Vorlage stehen unter:\n* [[ZUM-Wiki:Vorlagen/Zitat]]\nBeachte bitte auch die Regeln zum richtigen Zitieren unter:\n* [[Zitieren]]\n\n[[Kategorie:Vorlage:Zitatbausteine|Zitat float]]\n\n</noinclude>"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,72 @@
+{
+  "pageid": 1977,
+  "ns": 0,
+  "title": "Musik",
+  "revisions": [
+    {
+      "revid": 4979,
+      "parentid": 4652,
+      "user": "Leupold",
+      "timestamp": "2007-01-22T18:13:06Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\n== Noten lesen ==\n(IN ARBEIT)\n\n<music>\n\t\\relative c' { \n\t\te16-.->a(b gis)a-.->c(d b)c-.->e(f dis)e-.->a(b a)\n\t\tgis(b e)e,(gis b)b,(e gis)gis,(b e)e,(gis? b e)\n\t}\n</music>\n\nHier kannst du mal hören, wie die obige Zeile klingt, indem du auf ''listen'' drückst.\n\nDiese Noten heißen der Reihe nach: c d e f g a h c. Die Noten stellen Viertelnoten dar, das soll heißen in einem Takt (bis zum senkrechten Strich) sind 4 solcher Viertelnoten.\n\n<music>\n\t\\relative c' { \n\t\tc d e f g a b c\n\t}\n</music>\n\nHier \"hörst\" du a f f e.\n\n<music>\n\t\\relative c' { \n                a f f' e\n        }\n</music>\n\n\n{{Rücksprung|M}}"
+    },
+    {
+      "revid": 4652,
+      "parentid": 4651,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-09-28T17:37:32Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\n== Noten lesen ==\n(IN ARBEIT)\n\n<music>\n\t\\relative c' { \n\t\te16-.->a(b gis)a-.->c(d b)c-.->e(f dis)e-.->a(b a)\n\t\tgis(b e)e,(gis b)b,(e gis)gis,(b e)e,(gis? b e)\n\t}\n</music>\n\nHier kannst du mal hören, wie die obige Zeile klingt, indem du auf ''listen'' drückst.\n\nDiese Noten heißen der Reihe nach: c d e f g a h c. Die Noten stellen Viertelnoten dar, das soll heißen in einem Takt (bis zum senkrechten Strich) sind 4 solcher Viertelnoten.\n\n<music>\n\t\\relative c' { \n\t\tc d e f g a b c\n\t}\n</music>\n\nHier \"hörst\" du a f f e.\n\n<music>\n\t\\relative c' { \n                a f f' e\n        }\n</music>"
+    },
+    {
+      "revid": 4651,
+      "parentid": 4650,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-09-28T17:35:28Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\n== Noten lesen ==\n(IN ARBEIT)\n\n<music>\n\t\\relative c' { \n\t\te16-.->a(b gis)a-.->c(d b)c-.->e(f dis)e-.->a(b a)\n\t\tgis(b e)e,(gis b)b,(e gis)gis,(b e)e,(gis? b e)\n\t}\n</music>\n\nHier kannst du mal hören, wie die obige Zeile klingt, indem du auf ''listen'' drückst.\n\n<music>\n\t\\relative c' { \n\t\tc d e f g a b c\n\t}\n</music>\n<music>\n\t\\relative c' { \n                a f f' e\n        }\n</music>\nDiese Noten heißen der Reihe nach: c d e f g a h c. Die Noten stellen Viertelnoten dar, das soll heißen in einem Takt (bis zum senkrechten Strich) sind 4 solcher Viertelnoten."
+    },
+    {
+      "revid": 4650,
+      "parentid": 4623,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-09-28T17:33:58Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\n== Noten lesen ==\n(IN ARBEIT)\n\n<music>\n\t\\relative c' { \n\t\te16-.->a(b gis)a-.->c(d b)c-.->e(f dis)e-.->a(b a)\n\t\tgis(b e)e,(gis b)b,(e gis)gis,(b e)e,(gis? b e)\n\t}\n</music>\n\nHier kannst du mal hören, wie die obige Zeile klingt, indem du auf ''listen'' drückst.\n\n<music>\n\t\\relative c' { \n\t\tc d e f g a b c\n\t}\n</music>\n<music>\n\t\\relative c' { \n                a f f' e\n</music>\nDiese Noten heißen der Reihe nach: c d e f g a h c. Die Noten stellen Viertelnoten dar, das soll heißen in einem Takt (bis zum senkrechten Strich) sind 4 solcher Viertelnoten."
+    },
+    {
+      "revid": 4623,
+      "parentid": 4622,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-08-12T12:46:18Z",
+      "comment": "/* Noten lesen */",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\n== Noten lesen ==\n(IN ARBEIT)\n\n<music>\n\t\\relative c' { \n\t\te16-.->a(b gis)a-.->c(d b)c-.->e(f dis)e-.->a(b a)\n\t\tgis(b e)e,(gis b)b,(e gis)gis,(b e)e,(gis? b e)\n\t}\n</music>\n\nHier kannst du mal hören, wie die obige Zeile klingt, indem du auf ''listen'' drückst.\n\n<music>\n\t\\relative c' { \n\t\tc d e f g a b c\n\t}\n</music>\n\nDiese Noten heißen der Reihe nach: c d e f g a h c. Die Noten stellen Viertelnoten dar, das soll heißen in einem Takt (bis zum senkrechten Strich) sind 4 solcher Viertelnoten."
+    },
+    {
+      "revid": 4622,
+      "parentid": 4621,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-08-12T10:32:54Z",
+      "comment": "/* Noten lesen */",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\n== Noten lesen ==\n(IN ARBEIT)\n\n<music>\n\t\\relative c' { \n\t\te16-.->a(b gis)a-.->c(d b)c-.->e(f dis)e-.->a(b a)\n\t\tgis(b e)e,(gis b)b,(e gis)gis,(b e)e,(gis? b e)\n\t}\n</music>\n\nHier kannst du mal hören, wie die obige Zeile klingt, indem du auf ''listen'' drückst."
+    },
+    {
+      "revid": 4621,
+      "parentid": 4620,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-08-12T10:31:28Z",
+      "comment": "/* Noten lesen */",
+      "wikitext": "== Noten lesen ==\n(IN ARBEIT)\n\n<music>\n\t\\relative c' { \n\t\te16-.->a(b gis)a-.->c(d b)c-.->e(f dis)e-.->a(b a)\n\t\tgis(b e)e,(gis b)b,(e gis)gis,(b e)e,(gis? b e)\n\t}\n</music>\n\nHier kannst du mal hören, wie die obige Zeile klingt, indem du auf ''listen'' drückst."
+    },
+    {
+      "revid": 4620,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-08-12T10:26:17Z",
+      "comment": "",
+      "wikitext": "== Noten lesen ==\n(IN ARBEIT)\n<music>\n\t\\relative c' { \n\t\te16-.->a(b gis)a-.->c(d b)c-.->e(f dis)e-.->a(b a)\n\t\tgis(b e)e,(gis b)b,(e gis)gis,(b e)e,(gis? b e)\n\t}\n</music>"
+    }
+  ],
+  "categories": []
+}

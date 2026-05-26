@@ -1,0 +1,26 @@
+{
+  "pageid": 4370,
+  "ns": 10,
+  "title": "Vorlage:Colon",
+  "revisions": [
+    {
+      "revid": 17775,
+      "parentid": 17774,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:11:24Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<noinclude>This shows an example of the localized colon<span style=\"background:yellow\"></noinclude>{{#switch:{{LangSwitch\n  | lang = {{#if: {{{lang|}}} | {{{lang|}}} | {{int:lang}} }}\n  | default = Zinh-Po-space\n  | am = Ethi\n  | br = Zinh-nbsp-Po-space\n  | co = Zinh-nbsp-Po-space\n  | ca = Zinh-nbsp-Po-space\n  | es = Zinh-nbsp-Po-space\n  | fr = Zinh-nbsp-Po-space\n  | gl = Zinh-nbsp-Po-space\n  | he = Hebr\n  | hi = Deva\n  | ii = Yiii\n  | ja = Jpan\n  | km = Khmr\n  | ko = Hang\n  | oc = Zinh-nbsp-Po-space\n  | pt = Zinh-nbsp-Po-space\n  | pt-br = Zinh-nbsp-Po-space\n  | ro = Zinh-nbsp-Po-space\n  | ti = Ethi\n  | yi = Hebr\n  | yue = Hant\n  | zh = Hans\n  | zh-hans = Hans\n  | zh-hant = Hant\n  }}\n\n|Ethi = &#x1365;&#32;<!-- Ethiopic punctuation sign colon -->\n\n|Bpmf|Phpa|Tale|Talu|Yiii<!-- Indo-Sinitic scripts used along with Chinese -->\n|Hani|Hans|Hant|Jpan = &#xFF1A;<!-- CJK punctuation double-width colon (rotated if vertical layout) -->\n\n|Deva<!-- avoids confusion with U+0903 Devanagari combining sign Visarga -->\n|Hebr<!-- avoids confusion with U+05C3 Hebrew punctuation sign Sof Pasuk -->\n|Khmr<!-- avoids confusion with U+17C8 Khmer combining sign Yukaleakpintu -->\n|Hang\n|Zinh-nbsp-Po-space = <span style=\"font-size:50%\">&nbsp;</span>&#x3A;&#32;\n\n|Zinh-Po-space|#default = &#x3A;&#32;\n}}<noinclude></span>text immediately after it...\n{{documentation}}\n[[Category:Internationalization templates using LangSwitch]]\n</noinclude>"
+    },
+    {
+      "revid": 17774,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T20:58:40Z",
+      "comment": "1 Version: UploadWizardp",
+      "wikitext": "<noinclude>This shows an example of the localized colon<span style=\"background:yellow\"></noinclude>{{#switch:{{LangSwitch\n  | lang = {{#if: {{{lang|}}} | {{{lang|}}} | {{int:lang}} }}\n  | default = Zinh-Po-space\n  | am = Ethi\n  | br = Zinh-nbsp-Po-space\n  | co = Zinh-nbsp-Po-space\n  | ca = Zinh-nbsp-Po-space\n  | es = Zinh-nbsp-Po-space\n  | fr = Zinh-nbsp-Po-space\n  | gl = Zinh-nbsp-Po-space\n  | he = Hebr\n  | hi = Deva\n  | ii = Yiii\n  | ja = Jpan\n  | km = Khmr\n  | ko = Hang\n  | oc = Zinh-nbsp-Po-space\n  | pt = Zinh-nbsp-Po-space\n  | pt-br = Zinh-nbsp-Po-space\n  | ro = Zinh-nbsp-Po-space\n  | ti = Ethi\n  | yi = Hebr\n  | yue = Hant\n  | zh = Hans\n  | zh-hans = Hans\n  | zh-hant = Hant\n  }}\n\n|Ethi = &#x1365;&#32;<!-- Ethiopic punctuation sign colon -->\n\n|Bpmf|Phpa|Tale|Talu|Yiii<!-- Indo-Sinitic scripts used along with Chinese -->\n|Hani|Hans|Hant|Jpan = &#xFF1A;<!-- CJK punctuation double-width colon (rotated if vertical layout) -->\n\n|Deva<!-- avoids confusion with U+0903 Devanagari combining sign Visarga -->\n|Hebr<!-- avoids confusion with U+05C3 Hebrew punctuation sign Sof Pasuk -->\n|Khmr<!-- avoids confusion with U+17C8 Khmer combining sign Yukaleakpintu -->\n|Hang\n|Zinh-nbsp-Po-space = <span style=\"font-size:50%\">&nbsp;</span>&#x3A;&#32;\n\n|Zinh-Po-space|#default = &#x3A;&#32;\n}}<noinclude></span>text immediately after it...\n{{documentation}}\n[[Category:Internationalization templates using LangSwitch]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Internationalization templates using LangSwitch"
+  ]
+}

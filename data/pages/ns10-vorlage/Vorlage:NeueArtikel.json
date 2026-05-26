@@ -1,0 +1,408 @@
+{
+  "pageid": 2556,
+  "ns": 10,
+  "title": "Vorlage:NeueArtikel",
+  "revisions": [
+    {
+      "revid": 24500,
+      "parentid": 19606,
+      "user": "Leupold",
+      "timestamp": "2020-06-07T09:49:08Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Freiwillige Feuerwehr Unterschöneberg]], die\n* [[Freiwillige Feuerwehr Neumünster]], die\n* [[Freiwillige Feuerwehr Eppishofen]], die\n* [[Frau Holle (Märchen)]]|\nINHALT2=* [[Flusskrebs]], der\n* [[Fliege]], die\n* [[Flamingo]], der\n* [[Leichtathletik]]|\nINHALT3=* [[Elefant]], der\n* [[Eisvogel]], der\n* [[Einhorn]], das\n* [[Die weiße Schlange (Märchen)]]\n}}"
+    },
+    {
+      "revid": 19606,
+      "parentid": 19552,
+      "user": "Leupold",
+      "timestamp": "2016-03-10T04:43:29Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Grundschule Barnten]]\n* [[Wikinger]]\n* [[Queen]]\n* [[Helmbasilisk]], der|\nINHALT2=* [[Violetta]]\n* [[Fraggles]], die\n* [[Kaktus]], der\n* [[Geschlechtsorgan]], das|\nINHALT3=* [[Tischtennis]]\n* [[Sing it loud]]\n* [[Crew]] (Computerspiel)\n* [[Barnten]]\n}}"
+    },
+    {
+      "revid": 19552,
+      "parentid": 19536,
+      "user": "Leupold",
+      "timestamp": "2016-02-29T18:38:05Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Norwegen]]\n* [[Wikinger]]\n* [[Robbe]], die\n* [[Neandertaler]], der|\nINHALT2=* [[Meeresschildkröte]], die\n* [[Angorakatze]], die\n* [[Pinguin]], der\n* [[Fußballspieler]], der|\nINHALT3=* [[Landkreis Eichstätt]]\n* [[Großmehring]]\n* [[Grundschule Großmehring]]\n* [[Erdmännchen]], das\n}}"
+    },
+    {
+      "revid": 19536,
+      "parentid": 18870,
+      "user": "Leupold",
+      "timestamp": "2016-01-28T10:50:02Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Sinfonieorchester]], das\n* [[Rosapelikan]], der\n* [[Robbe]], die\n* [[Neandertaler]], der|\nINHALT2=* [[Meeresschildkröte]], die\n* [[Angorakatze]], die\n* [[Pinguin]], der\n* [[Fußballspieler]], der|\nINHALT3=* [[Landkreis Eichstätt]]\n* [[Großmehring]]\n* [[Grundschule Großmehring]]\n* [[Laubfrosch]], der\n}}"
+    },
+    {
+      "revid": 18870,
+      "parentid": 18840,
+      "user": "Leupold",
+      "timestamp": "2015-04-20T19:10:23Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Sinfonieorchester]], das\n* [[Rosapelikan]], der\n* [[Pause]], die\n* [[Cavill, Henry]]|\nINHALT2=* [[Müller, Thomas]]\n* [[Ronaldo, Cristiano]]\n* [[Dachs]], der\n* [[Feldhase]], der|\nINHALT3=* [[Wildkaninchen]], das\n* [[Igel]], der\n* [[Haselmaus]], die\n* [[Laubfrosch]], der\n}}"
+    },
+    {
+      "revid": 18840,
+      "parentid": 18830,
+      "user": "Leupold",
+      "timestamp": "2015-03-06T16:57:56Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Sinfonieorchester]], das\n* [[Nikolaus]], der\n* [[Pause]], die\n* [[Cavill, Henry]]|\nINHALT2=* [[Müller, Thomas]]\n* [[Ronaldo, Cristiano]]\n* [[Dachs]], der\n* [[Feldhase]], der|\nINHALT3=* [[Wildkaninchen]], das\n* [[Igel]], der\n* [[Haselmaus]], die\n* [[Laubfrosch]], der\n}}"
+    },
+    {
+      "revid": 18830,
+      "parentid": 18686,
+      "user": "Leupold",
+      "timestamp": "2015-02-20T19:27:47Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Pine, Chris]]\n* [[Nikolaus]], der\n* [[Pause]], die\n* [[Cavill, Henry]]|\nINHALT2=* [[Müller, Thomas]]\n* [[Ronaldo, Cristiano]]\n* [[Dachs]], der\n* [[Feldhase]], der|\nINHALT3=* [[Wildkaninchen]], das\n* [[Igel]], der\n* [[Haselmaus]], die\n* [[Laubfrosch]], der\n}}"
+    },
+    {
+      "revid": 18686,
+      "parentid": 18685,
+      "user": "Leupold",
+      "timestamp": "2015-01-11T20:23:08Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Pine, Chris]]\n* [[Nikolaus]], der\n* [[Pause]], die\n* [[Cavill, Henry]]|\nINHALT2=* [[Müller, Thomas]]\n* [[Ronaldo, Cristiano]]\n* [[Swift, Taylor]]\n* [[Papagei]], der|\nINHALT3=* [[Urkrebs]], der\n* [[Atomkraft]], die\n* [[Schwingen]], das\n* [[Biene]], die\n}}"
+    },
+    {
+      "revid": 18685,
+      "parentid": 18669,
+      "user": "Leupold",
+      "timestamp": "2015-01-11T20:22:57Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Pine, Chris]]\n* [[Nikolaus]], der\n* [[Pause]], die\n* [[Cavill, Henry]]|\nINHALT2=* [[Müller, Thomas]]\n* [[Ronaldo, Christiano]]\n* [[Swift, Taylor]]\n* [[Papagei]], der|\nINHALT3=* [[Urkrebs]], der\n* [[Atomkraft]], die\n* [[Schwingen]], das\n* [[Biene]], die\n}}"
+    },
+    {
+      "revid": 18669,
+      "parentid": 18622,
+      "user": "Leupold",
+      "timestamp": "2014-12-21T04:32:47Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Pine, Chris]]\n* [[Nikolaus]], der\n* [[Pause]], die\n* [[Cavill, Henry]]|\nINHALT2=* [[Jupiter]], der\n* [[Saturn]], der\n* [[Neptun]], der\n* [[Papagei]], der|\nINHALT3=* [[Urkrebs]], der\n* [[Atomkraft]], die\n* [[Schwingen]], das\n* [[Biene]], die\n}}"
+    },
+    {
+      "revid": 18622,
+      "parentid": 18050,
+      "user": "Leupold",
+      "timestamp": "2014-10-17T10:16:05Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Maya-Zahl]], die\n* [[Diplodocus]], der\n* [[Liopleurodon]],der \n* [[Mars]], der|\nINHALT2=* [[Jupiter]], der\n* [[Saturn]], der\n* [[Neptun]], der\n* [[Papagei]], der|\nINHALT3=* [[Urkrebs]], der\n* [[Atomkraft]], die\n* [[Schwingen]], das\n* [[Biene]], die\n}}"
+    },
+    {
+      "revid": 18050,
+      "parentid": 17991,
+      "user": "Leupold",
+      "timestamp": "2014-05-07T19:07:43Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Maya-Zahl]], die\n* [[Diplodocus]], der\n* [[Liopleurodon]],der \n* [[Mars]], der|\nINHALT2=* [[Jupiter]], der\n* [[Saturn]], der\n* [[Neptun]], der\n* [[Papagei]], der|\nINHALT3=* [[Urkrebs]], der\n* [[Atomkraft]], die\n* [[Schwingen]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17991,
+      "parentid": 17989,
+      "user": "Leupold",
+      "timestamp": "2014-03-28T11:27:03Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Maya-Zahl]], die\n* [[Diplodocus]], der\n* [[Liopleurodon]],der \n* [[Mars]], der|\nINHALT2=* [[Jupiter]], der\n* [[Saturn]], der\n* [[Neptun]], der\n* [[Papagei]], der|\nINHALT3=* [[Urkrebs]], der\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17989,
+      "parentid": 17979,
+      "user": "Leupold",
+      "timestamp": "2014-03-28T11:24:15Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Maya-Zahl]], die\n* [[Diplodocus]], der\n* [[Liopleurodon]],der \n* [[Mars]], der|\nINHALT2=* [[Jupiter]], der\n* [[Saturn]], der\n* [[Neptun]], der\n* [[Papagei]], der|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17979,
+      "parentid": 17978,
+      "user": "Leupold",
+      "timestamp": "2014-03-23T20:11:34Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Maya-Zahl]], die\n* [[Diplodocus]], der\n* [[Liopleurodon]],der \n* [[Mars]], der|\nINHALT2=* [[Jupiter]], der\n* [[Saturn]], der\n* [[Neptun]], der\n* [[Flasche]], die|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17978,
+      "parentid": 17933,
+      "user": "Leupold",
+      "timestamp": "2014-03-23T20:07:53Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Maya-Zahl]], die\n* [[Diplodocus]], der\n* [[Liopleurodon]],der \n* [[Mars]], der|\nINHALT2=* [[Jupiter]], der\n* [[Saturn]], der\n* [[Thomas Müller]]\n* [[Flasche]], die|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17933,
+      "parentid": 17932,
+      "user": "Leupold",
+      "timestamp": "2014-03-14T11:35:25Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Maya-Zahl]], die\n* [[Diplodocus]], der\n* [[Liopleurodon]],der \n* [[NTI AG]], die|\nINHALT2=* [[Eddie Angsthorn]]\n* [[Kid Icarus]]\n* [[Thomas Müller]]\n* [[Flasche]], die|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17932,
+      "parentid": 17895,
+      "user": "Leupold",
+      "timestamp": "2014-03-14T11:34:29Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Maya-Zahl]], die\n* [[Diplodocus]], der\n* [[Lego Strategie]]\n* [[NTI AG]], die|\nINHALT2=* [[Eddie Angsthorn]]\n* [[Kid Icarus]]\n* [[Thomas Müller]]\n* [[Flasche]], die|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17895,
+      "parentid": 17440,
+      "user": "Leupold",
+      "timestamp": "2014-03-11T16:46:45Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Maya-Zahl]], die\n* [[Grundschulwiki]], das\n* [[Lego Strategie]]\n* [[NTI AG]], die|\nINHALT2=* [[Eddie Angsthorn]]\n* [[Kid Icarus]]\n* [[Thomas Müller]]\n* [[Flasche]], die|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17440,
+      "parentid": 17418,
+      "user": "Leupold",
+      "timestamp": "2013-12-19T20:27:16Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Feuerpfote]]\n* [[Grundschulwiki]], das\n* [[Lego Strategie]]\n* [[NTI AG]], die|\nINHALT2=* [[Eddie Angsthorn]]\n* [[Kid Icarus]]\n* [[Thomas Müller]]\n* [[Flasche]], die|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17418,
+      "parentid": 17401,
+      "user": "Leupold",
+      "timestamp": "2013-11-06T20:14:23Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Spinne]], die\n* [[Grundschulwiki]], das\n* [[Lego Strategie]]\n* [[NTI AG]], die|\nINHALT2=* [[Eddie Angsthorn]]\n* [[Kid Icarus]]\n* [[Thomas Müller]]\n* [[Flasche]], die|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17401,
+      "parentid": 17400,
+      "user": "Leupold",
+      "timestamp": "2013-10-20T14:15:32Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Cool]]\n* [[Grundschulwiki]], das\n* [[Lego Strategie]]\n* [[NTI AG]], die|\nINHALT2=* [[Eddie Angsthorn]]\n* [[Kid Icarus]]\n* [[Thomas Müller]]\n* [[Flasche]], die|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n* [[Shaqiri, Xherdan]]\n}}"
+    },
+    {
+      "revid": 17400,
+      "parentid": 17266,
+      "user": "Leupold",
+      "timestamp": "2013-10-20T14:14:15Z",
+      "comment": "NA#",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Cool]]\n* [[Grundschulwiki]], das\n* [[Lego Strategie]]|\nINHALT2=* [[Eddie Angsthorn]]\n* [[Kid Icarus]]\n* [[Thomas Müller]]|\nINHALT3=* [[Berni]] (Maskottchen)\n* [[Cheat]], der\n* [[Mii]], das\n}}"
+    },
+    {
+      "revid": 17266,
+      "parentid": 16563,
+      "user": "Leupold",
+      "timestamp": "2013-05-21T23:28:22Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Simba‎]]\n* [[Rosebud‎]]\n* [[Kleiner Donner‎]]|\nINHALT2=* [[Eppishofen]]\n* [[Blutegel‎]], der\n* [[Internetsicherheit]], die|\nINHALT3=* [[Nintendo‎]]\n* [[Nordendorf]]\n* [[Gemeinde Hegnenbach‎]]\n}}"
+    },
+    {
+      "revid": 16563,
+      "parentid": 16460,
+      "user": "Leupold",
+      "timestamp": "2013-02-26T20:30:38Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Karate]]\n* [[Jessie J]]\n* [[Minaj, Nicki]]|\nINHALT2=* [[DJ Antoine]]\n* [[Big Ben]], der\n* [[Zack und Cody an Bord]]|\nINHALT3=* [[Yakari]]\n* [[Berner Sennenhund]], der\n* [[Muttertag]], der\n}}"
+    },
+    {
+      "revid": 16460,
+      "parentid": 16459,
+      "user": "Leupold",
+      "timestamp": "2012-12-29T14:47:26Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Rihanna]]\n* [[Jessie J]]\n* [[Minaj, Nicki]]|\nINHALT2=* [[DJ Antoine]]\n* [[Big Ben]], der\n* [[Zack und Cody an Bord]]|\nINHALT3=* [[Yakari]]\n* [[Berner Sennenhund]], der\n* [[Muttertag]], der\n}}"
+    },
+    {
+      "revid": 16459,
+      "parentid": 16251,
+      "user": "Leupold",
+      "timestamp": "2012-12-29T14:47:16Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Rihanna]]\n* [[Jessie J]]\n* [[Minaj, Nicki]]|\nINHALT2=* [[DJ Antoine]]\n* [[Bin Ben]], der\n* [[Zack und Cody an Bord]]|\nINHALT3=* [[Yakari]]\n* [[Berner Sennenhund]], der\n* [[Muttertag]], der\n}}"
+    },
+    {
+      "revid": 16251,
+      "parentid": 16150,
+      "user": "Leupold",
+      "timestamp": "2012-11-22T20:51:50Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Wolfsrudel]], das\n* [[FC Basel]]\n* [[MineCraft]]|\nINHALT2=* [[Känguru]], das\n* [[Walhai]], der\n* [[Rotfuchs]], der|\nINHALT3=* [[Wüstenfuchs]], der\n* [[Reitlehrer]], der\n* [[KFZ-Mechatroniker]], der\n}}"
+    },
+    {
+      "revid": 16150,
+      "parentid": 16134,
+      "user": "Leupold",
+      "timestamp": "2012-11-12T21:24:56Z",
+      "comment": "artikel angefügt",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Beruf]], der\n* [[Bauer]], der\n* [[Erzieher]], der|\nINHALT2=* [[Zahnarzt]], der\n* [[Schreiner]], der\n* [[Förster]], der|\nINHALT3=* [[Bankkaufmann]], der\n* [[Reitlehrer]], der\n* [[KFZ-Mechatroniker]], der\n}}"
+    },
+    {
+      "revid": 16134,
+      "parentid": 15551,
+      "user": "Leupold",
+      "timestamp": "2012-11-12T21:14:01Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Beruf]]\n* [[Bauer]], der\n* [[Erzieher]], der|\nINHALT2=* [[Zahnarzt]], der\n* [[Schreiner]], der\n* [[Förster]], der|\nINHALT3=* [[Bankkaufmann]], der\n* [[Reitlehrer]], der\n* [[KFZ-Mechatroniker]], der\n}}"
+    },
+    {
+      "revid": 15551,
+      "parentid": 15545,
+      "user": "Leupold",
+      "timestamp": "2012-03-21T21:46:39Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Die Prinzen]]\n* [[Rechteck]], das\n* [[Goldener Schnitt]], der|\nINHALT2=* [[Quersumme]], die\n* [[Querdifferenz]], die\n* [[Zahl|Gerade und ungerade Zahlen]], die|\nINHALT3=* [[Fibonaccizahlen]], die\n* [[Pendel]], das\n* [[Magnet]], der\n}}"
+    },
+    {
+      "revid": 15545,
+      "parentid": 15519,
+      "user": "Leupold",
+      "timestamp": "2012-03-17T20:16:03Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Die Prinzen]]\n* [[Rechteck]], das\n* [[Goldener Schnitt]], der|\nINHALT2=* [[Quersumme]], die\n* [[Querdifferenz]], die\n* [[Zahl|Gerade und ungerade Zahlen]], die|\nINHALT3=* [[Fibonaccizahlen]], die\n* [[Die Ärzte]]\n* [[Lindenberg, Udo]]\n}}"
+    },
+    {
+      "revid": 15519,
+      "parentid": 15518,
+      "user": "Leupold",
+      "timestamp": "2012-03-12T20:49:07Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Die Prinzen]]\n* [[Rechteck]], das\n* [[Goldener Schnitt]], der|\nINHALT2=* [[Quersumme]], die\n* [[Querdifferenz]], die\n* [[Zahl|Gerade und ungerade Zahlen]], die|\nINHALT3=* [[Raab, Stefan]]\n* [[Die Ärzte]]\n* [[Lindenberg, Udo]]\n}}"
+    },
+    {
+      "revid": 15518,
+      "parentid": 15504,
+      "user": "Leupold",
+      "timestamp": "2012-03-12T20:48:33Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Die Prinzen]]\n* [[Rechteck]], das\n* [[Goldener Schnitt]], der|\nINHALT2=* [[Quersumme]], die\n* [[Querdifferenz]], die\n* [[Zahl]], die|\nINHALT3=* [[Raab, Stefan]]\n* [[Die Ärzte]]\n* [[Lindenberg, Udo]]\n}}"
+    },
+    {
+      "revid": 15504,
+      "parentid": 15484,
+      "user": "Leupold",
+      "timestamp": "2012-03-10T17:54:10Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Die Prinzen]]\n* [[Rechteck]], das\n* [[Goldener Schnitt]], der|\nINHALT2=* [[Riesenschwalbenschwanz]], der\n* [[Wombat]], das\n* [[Culcha Candela]]|\nINHALT3=* [[Raab, Stefan]]\n* [[Die Ärzte]]\n* [[Lindenberg, Udo]]\n}}"
+    },
+    {
+      "revid": 15484,
+      "parentid": 15463,
+      "user": "Leupold",
+      "timestamp": "2012-02-16T10:31:23Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Die Prinzen]]\n* [[Binäre Zahl]], die\n* [[Totenkopfäffchen]], das|\nINHALT2=* [[Riesenschwalbenschwanz]], der\n* [[Wombat]], das\n* [[Culcha Candela]]|\nINHALT3=* [[Raab, Stefan]]\n* [[Die Ärzte]]\n* [[Lindenberg, Udo]]\n}}"
+    },
+    {
+      "revid": 15463,
+      "parentid": 15391,
+      "user": "Leupold",
+      "timestamp": "2012-02-11T17:25:06Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Windhöhle]], die\n* [[Binäre Zahl]], die\n* [[Totenkopfäffchen]], das|\nINHALT2=* [[Riesenschwalbenschwanz]], der\n* [[Wombat]], das\n* [[Culcha Candela]]|\nINHALT3=* [[Raab, Stefan]]\n* [[Die Ärzte]]\n* [[Lindenberg, Udo]]\n}}"
+    },
+    {
+      "revid": 15391,
+      "parentid": 15384,
+      "user": "Leupold",
+      "timestamp": "2012-02-02T10:30:36Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Windhöhle]], die\n* [[Binäre Zahl]], die\n* [[Totenkopfäffchen]], das|\nINHALT2=* [[Riesenschwalbenschwanz]], der\n* [[Wombat]], das\n* [[Culcha Candela]]|\nINHALT3=* [[Raab, Stefan]]\n* [[Die Ärzte]]\n* [[Pelzflatterer]], der|\n}}"
+    },
+    {
+      "revid": 15384,
+      "parentid": 15369,
+      "user": "Leupold",
+      "timestamp": "2012-02-02T10:12:57Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Windhöhle]], die\n* [[Binäre Zahl]], die\n* [[Totenkopfäffchen]], das|\nINHALT2=* [[Riesenschwalbenschwanz]], der\n* [[Wombat]], das\n* [[Culcha Candela]]|\nINHALT3=* [[Raab, Stefan]]\n* [[Beutelmull]], der\n* [[Pelzflatterer]], der|\n}}"
+    },
+    {
+      "revid": 15369,
+      "parentid": 15353,
+      "user": "Leupold",
+      "timestamp": "2012-02-01T07:48:01Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Windhöhle]], die\n* [[Binäre Zahl]], die\n* [[Totenkopfäffchen]], das|\nINHALT2=* [[Riesenschwalbenschwanz]], der\n* [[Wombat]], das\n* [[Culcha Candela]]|\nINHALT3=* [[Bücherskorpion]], der\n* [[Beutelmull]], der\n* [[Pelzflatterer]], der|\n}}"
+    },
+    {
+      "revid": 15353,
+      "parentid": 15335,
+      "user": "Leupold",
+      "timestamp": "2012-01-25T11:33:54Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Windhöhle]], die\n* [[Binäre Zahl]], die\n* [[Totenkopfäffchen]], das|\nINHALT2=* [[Riesenschwalbenschwanz]], der\n* [[Wombat]], das\n* [[Prozessionsspinner]], der|\nINHALT3=* [[Bücherskorpion]], der\n* [[Beutelmull]], der\n* [[Pelzflatterer]], der|\n}}"
+    },
+    {
+      "revid": 15335,
+      "parentid": 15332,
+      "user": "Leupold",
+      "timestamp": "2012-01-23T19:54:06Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Windhöhle]], die\n* [[Binäre Zahl]], die\n* [[Flugdrache]], der|\nINHALT2=* [[Viperfisch]], der\n* [[Portugiesische Galeere]], die\n* [[Prozessionsspinner]], der|\nINHALT3=* [[Bücherskorpion]], der\n* [[Beutelmull]], der\n* [[Pelzflatterer]], der|\n}}"
+    },
+    {
+      "revid": 15332,
+      "parentid": 15330,
+      "user": "Leupold",
+      "timestamp": "2012-01-22T14:43:56Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Windhöhle]], die\n* [[Blauringkrake]], der\n* [[Flugdrache]], der|\nINHALT2=* [[Viperfisch]], der\n* [[Portugiesische Galeere]], die\n* [[Prozessionsspinner]], der|\nINHALT3=* [[Bücherskorpion]], der\n* [[Beutelmull]], der\n* [[Pelzflatterer]], der|\n}}"
+    },
+    {
+      "revid": 15330,
+      "parentid": 15157,
+      "user": "Leupold",
+      "timestamp": "2012-01-22T14:42:08Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Schiefer Turm von Pisa]], der\n* [[Blauringkrake]], der\n* [[Flugdrache]], der|\nINHALT2=* [[Viperfisch]], der\n* [[Portugiesische Galeere]], die\n* [[Prozessionsspinner]], der|\nINHALT3=* [[Bücherskorpion]], der\n* [[Beutelmull]], der\n* [[Pelzflatterer]], der|\n}}"
+    },
+    {
+      "revid": 15157,
+      "parentid": 15144,
+      "user": "Leupold",
+      "timestamp": "2011-12-21T19:09:07Z",
+      "comment": "na",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Hermelin]], der\n* [[Floh]], der\n* [[Saftkugler]], der|\nINHALT2=* [[Nordkorea]]\n* [[Spitzmaulnashorn]], das\n* [[Schloss]], das|\nINHALT3=* [[Hessen]]\n* [[Jack-Russel-Terrier]], der\n* [[Orientierung]], die|\n}}"
+    },
+    {
+      "revid": 15144,
+      "parentid": 15139,
+      "user": "Leupold",
+      "timestamp": "2011-12-16T14:46:10Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Hermelin]], der\n* [[Lehmann, Jens]]\n* [[Kalabrien]]|\nINHALT2=* [[Nordkorea]]\n* [[Spitzmaulnashorn]], das\n* [[Schloss]], das|\nINHALT3=* [[Hessen]]\n* [[Jack-Russel-Terrier]], der\n* [[Orientierung]], die|\n}}"
+    },
+    {
+      "revid": 15139,
+      "parentid": 15130,
+      "user": "Leupold",
+      "timestamp": "2011-12-15T19:10:38Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Sturm Graz]]\n* [[Lehmann, Jens]]\n* [[Kalabrien]]|\nINHALT2=* [[Nordkorea]]\n* [[Spitzmaulnashorn]], das\n* [[Schloss]], das|\nINHALT3=* [[Hessen]]\n* [[Jack-Russel-Terrier]], der\n* [[Orientierung]], die|\n}}"
+    },
+    {
+      "revid": 15130,
+      "parentid": 15129,
+      "user": "Leupold",
+      "timestamp": "2011-12-13T19:48:59Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Sturm Graz]]\n* [[Lehmann, Jens]]\n* [[Kalabrien]]|\nINHALT2=* [[Nordkorea]]\n* [[Spitzmaulnashorn]], das\n* [[Schloss]], das|\nINHALT3=* [[Hessen]]\n* [[Jack-Russel-Terrier]], der\n* [[Junge]], der|\n}}"
+    },
+    {
+      "revid": 15129,
+      "parentid": 15128,
+      "user": "Leupold",
+      "timestamp": "2011-12-13T19:48:36Z",
+      "comment": "tippfehler",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Sturm Graz]]\n* [[Polygon]], das\n* [[Kalabrien]]|\nINHALT2=* [[Nordkorea]]\n* [[Spitzmaulnashorn]], das\n* [[Schloss]], das|\nINHALT3=* [[Hessen]]\n* [[Jack-Russel-Terrier]], der\n* [[Junge]], der|\n}}"
+    },
+    {
+      "revid": 15128,
+      "parentid": 15053,
+      "user": "Leupold",
+      "timestamp": "2011-12-13T19:48:25Z",
+      "comment": "NA",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Artikel| \nINHALT1=* [[Sturm Graz]]\n* [[Polygon]], das\n* [[Kalabrien]]|\nINHALT2=* [[Norkorea]]\n* [[Spitzmaulnashorn]], das\n* [[Schloss]], das|\nINHALT3=* [[Hessen]]\n* [[Jack-Russel-Terrier]], der\n* [[Junge]], der|\n}}"
+    }
+  ],
+  "categories": []
+}

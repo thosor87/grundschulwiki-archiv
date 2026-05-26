@@ -1,0 +1,26 @@
+{
+  "pageid": 4292,
+  "ns": 10,
+  "title": "Vorlage:Bild-by",
+  "revisions": [
+    {
+      "revid": 17619,
+      "parentid": 17618,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:35Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-by\">\n{| {{Lizenzdesign1}}\n| [[Datei:Green copyright.svg|link=|alt=|55px]]\n| Diese Datei ist '''urheberrechtlich geschützt'''. Der Urheberrechtsinhaber gestattet {{wpde|Linux-Klausel|jedermann}} (auch außerhalb und völlig unabhängig vom {{SITENAME}} oder von der Wikipedia) jegliche Nutzung, so weitreichend, wie dies gesetzlich möglich ist (u.&nbsp;a. Verwendung für jeden Zweck, Aufführung, Weiterverbreitung, kommerzielle Nutzung, Bearbeitung) weltweit und zeitlich unbeschränkt unter der Bedingung der '''angemessenen Nennung seiner Urheberschaft''' (z.&nbsp;B. in der Bildunterschrift).\n|}</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:By|{{PAGENAME}}]]\n}}</includeonly><noinclude>\n[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\n{{Commons|Template:Attribution}}\n{{Bild-by/Meta}}\n</noinclude>"
+    },
+    {
+      "revid": 17618,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-03T23:51:30Z",
+      "comment": "wpde-Link; Sitename",
+      "wikitext": "<div id=\"Vorlage_Bild-by\">\n{| {{Lizenzdesign1}}\n| [[Datei:Green copyright.svg|link=|alt=|55px]]\n| Diese Datei ist '''urheberrechtlich geschützt'''. Der Urheberrechtsinhaber gestattet {{wpde|Linux-Klausel|jedermann}} (auch außerhalb und völlig unabhängig vom {{SITENAME}} oder von der Wikipedia) jegliche Nutzung, so weitreichend, wie dies gesetzlich möglich ist (u.&nbsp;a. Verwendung für jeden Zweck, Aufführung, Weiterverbreitung, kommerzielle Nutzung, Bearbeitung) weltweit und zeitlich unbeschränkt unter der Bedingung der '''angemessenen Nennung seiner Urheberschaft''' (z.&nbsp;B. in der Bildunterschrift).\n|}</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:By|{{PAGENAME}}]]\n}}</includeonly><noinclude>\n[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\n{{Commons|Template:Attribution}}\n{{Bild-by/Meta}}\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

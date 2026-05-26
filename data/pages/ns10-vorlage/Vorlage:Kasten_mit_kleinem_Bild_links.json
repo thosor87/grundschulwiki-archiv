@@ -1,0 +1,24 @@
+{
+  "pageid": 4329,
+  "ns": 10,
+  "title": "Vorlage:Kasten mit kleinem Bild links",
+  "revisions": [
+    {
+      "revid": 17693,
+      "parentid": 17692,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:49Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:left; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|18px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div> \n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 17692,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2007-02-18T09:20:51Z",
+      "comment": "20 -> 18 px (zweiter Test)",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color: #FFFFFF\" |\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:left; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|18px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div> \n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    }
+  ],
+  "categories": []
+}

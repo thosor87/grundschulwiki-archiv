@@ -1,0 +1,32 @@
+{
+  "pageid": 2371,
+  "ns": 0,
+  "title": "Modellbau",
+  "revisions": [
+    {
+      "revid": 6688,
+      "parentid": 6687,
+      "user": "Leupold",
+      "timestamp": "2007-06-01T15:07:48Z",
+      "comment": "Modellbau ,der wurde nach Modellbau verschoben: Ohne Artikel",
+      "wikitext": "== Modellbau ==\n\nFlugzeuge, Schiffe, Autos, Hubschrauber, Häuser... alles gibt`s in Modellen.\nUnd meistens in 5 Schwierigkeitsgraden.\n\n\n\n{{Rücksprung|M}}"
+    },
+    {
+      "revid": 6687,
+      "parentid": 6683,
+      "user": "Leupold",
+      "timestamp": "2007-06-01T15:06:33Z",
+      "comment": "{{Rücksprung|M}}",
+      "wikitext": "== Modellbau ==\n\nFlugzeuge, Schiffe, Autos, Hubschrauber, Häuser... alles gibt`s in Modellen.\nUnd meistens in 5 Schwierigkeitsgraden.\n\n\n\n{{Rücksprung|M}}"
+    },
+    {
+      "revid": 6683,
+      "parentid": 0,
+      "user": "FredR",
+      "timestamp": "2007-06-01T14:17:41Z",
+      "comment": "",
+      "wikitext": "\n== Modellbau ==\n\nFlugzeuge,Schiffe,Autos,Hubschrauber,Häuser...alles gibt`s in Modellen.\nUnd meißtens in 5 Schwierigkeitsgraten."
+    }
+  ],
+  "categories": []
+}

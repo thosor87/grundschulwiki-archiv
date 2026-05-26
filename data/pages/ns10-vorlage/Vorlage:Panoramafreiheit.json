@@ -1,0 +1,26 @@
+{
+  "pageid": 4306,
+  "ns": 10,
+  "title": "Vorlage:Panoramafreiheit",
+  "revisions": [
+    {
+      "revid": 17647,
+      "parentid": 17646,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:42Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Panoramafreiheit\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen wahrscheinlich ein urheberrechtlich geschütztes Werk dar, welches sich bleibend an öffentlichen Wegen, Straßen oder Plätzen befindet (vgl. {{wpde|Panoramafreiheit}}).\n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div>\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Panoramafreiheit|{{PAGENAME}}]] }}</includeonly>\n<noinclude>Diese Vorlage sortiert Dateien automatisch in [[:Kategorie:Datei:Panoramafreiheit]] ein.[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]\n{{Commons|Template:FOP}}\n</noinclude>"
+    },
+    {
+      "revid": 17646,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-08T17:41:35Z",
+      "comment": "wpde-Links",
+      "wikitext": "<div id=\"Vorlage_Panoramafreiheit\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen wahrscheinlich ein urheberrechtlich geschütztes Werk dar, welches sich bleibend an öffentlichen Wegen, Straßen oder Plätzen befindet (vgl. {{wpde|Panoramafreiheit}}).\n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div>\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Panoramafreiheit|{{PAGENAME}}]] }}</includeonly>\n<noinclude>Diese Vorlage sortiert Dateien automatisch in [[:Kategorie:Datei:Panoramafreiheit]] ein.[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]\n{{Commons|Template:FOP}}\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Hinweis für Bilder"
+  ]
+}

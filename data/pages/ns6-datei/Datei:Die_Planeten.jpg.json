@@ -1,0 +1,32 @@
+{
+  "pageid": 2080,
+  "ns": 6,
+  "title": "Datei:Die Planeten.jpg",
+  "revisions": [
+    {
+      "revid": 5128,
+      "parentid": 5123,
+      "user": "BASchiemann",
+      "timestamp": "2007-02-14T11:12:19Z",
+      "comment": "",
+      "wikitext": "[[Bild:Die_Planeten.jpg|thumb|Dieses Bild wurde von Florian selbst gemalt]]"
+    },
+    {
+      "revid": 5123,
+      "parentid": 5103,
+      "user": "BASchiemann",
+      "timestamp": "2007-02-14T11:06:54Z",
+      "comment": "",
+      "wikitext": "[[Bild:Die_Planeten.jpg|thumb|Dieses Bild wurde von Florian selbst gemalt"
+    },
+    {
+      "revid": 5103,
+      "parentid": 0,
+      "user": "BASchiemann",
+      "timestamp": "2007-02-14T10:46:49Z",
+      "comment": "",
+      "wikitext": ""
+    }
+  ],
+  "categories": []
+}

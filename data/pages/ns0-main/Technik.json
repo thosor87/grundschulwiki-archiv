@@ -1,0 +1,96 @@
+{
+  "pageid": 1607,
+  "ns": 4,
+  "title": "ZUM-Grundschul-Wiki:Technik",
+  "revisions": [
+    {
+      "revid": 18956,
+      "parentid": 10076,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T23:24:09Z",
+      "comment": "Karl Kirst verschob Seite [[Technik]] nach [[ZUM-Grundschul-Wiki:Technik]]: Projektseite",
+      "wikitext": "== GraphViz==\nGestaltung von Diagrammen ''(installiert am 13.10.06)'':\n\n<graphviz>\ndigraph G {\n\nHallo -> Welt;\nHallo -> Benutzer;\nHallo -> Grundschulwiki;\n}\n</graphviz>\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\n1 -> 2;\n2 -> 3;\n3 -> 4;\n}\n</graphviz>\n\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\nÄ -> Ö;\nÖ -> Ü;\nÜ -> ß;\n}\n</graphviz>\nBeschreibung folgt.\n\n== Version von Mediawiki==\nVersion 1.6.8 am 20.7.06 Bu\n\n== Icons ==\nHinweis: [[Nuvola-Icons]]\n\n== Bildergalerien ==\n\nFrei verwendbare Bilder findet man unter: [http://www.Pixelquelle.de www.Pixelquelle.de]\n\n== Ogg-Dateien==\nOgg-Dateien (Audio Dateien= hörbare) sind komprimierte Dateien. Um ogg-Dateien abzuspielen, muss Java installiert sein. (installiert Dez.08)"
+    },
+    {
+      "revid": 10076,
+      "parentid": 10075,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-12-21T18:36:12Z",
+      "comment": "/* Ogg-Dateien */",
+      "wikitext": "== GraphViz==\nGestaltung von Diagrammen ''(installiert am 13.10.06)'':\n\n<graphviz>\ndigraph G {\n\nHallo -> Welt;\nHallo -> Benutzer;\nHallo -> Grundschulwiki;\n}\n</graphviz>\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\n1 -> 2;\n2 -> 3;\n3 -> 4;\n}\n</graphviz>\n\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\nÄ -> Ö;\nÖ -> Ü;\nÜ -> ß;\n}\n</graphviz>\nBeschreibung folgt.\n\n== Version von Mediawiki==\nVersion 1.6.8 am 20.7.06 Bu\n\n== Icons ==\nHinweis: [[Nuvola-Icons]]\n\n== Bildergalerien ==\n\nFrei verwendbare Bilder findet man unter: [http://www.Pixelquelle.de www.Pixelquelle.de]\n\n== Ogg-Dateien==\nOgg-Dateien (Audio Dateien= hörbare) sind komprimierte Dateien. Um ogg-Dateien abzuspielen, muss Java installiert sein. (installiert Dez.08)"
+    },
+    {
+      "revid": 10075,
+      "parentid": 5457,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-12-21T18:35:36Z",
+      "comment": "",
+      "wikitext": "== GraphViz==\nGestaltung von Diagrammen ''(installiert am 13.10.06)'':\n\n<graphviz>\ndigraph G {\n\nHallo -> Welt;\nHallo -> Benutzer;\nHallo -> Grundschulwiki;\n}\n</graphviz>\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\n1 -> 2;\n2 -> 3;\n3 -> 4;\n}\n</graphviz>\n\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\nÄ -> Ö;\nÖ -> Ü;\nÜ -> ß;\n}\n</graphviz>\nBeschreibung folgt.\n\n== Version von Mediawiki==\nVersion 1.6.8 am 20.7.06 Bu\n\n== Icons ==\nHinweis: [[Nuvola-Icons]]\n\n== Bildergalerien ==\n\nFrei verwendbare Bilder findet man unter: [http://www.Pixelquelle.de www.Pixelquelle.de]\n\n== Ogg-Dateien==\nOgg-Dateien (Audio Dateien= hörbare) sind komprimierte Dateien. Um ogg-Dateien abzuspielen, muss Java installiert sein."
+    },
+    {
+      "revid": 5457,
+      "parentid": 4770,
+      "user": "Leupold",
+      "timestamp": "2007-03-14T17:56:08Z",
+      "comment": "/* Babel */",
+      "wikitext": "== GraphViz==\nGestaltung von Diagrammen ''(installiert am 13.10.06)'':\n\n<graphviz>\ndigraph G {\n\nHallo -> Welt;\nHallo -> Benutzer;\nHallo -> Grundschulwiki;\n}\n</graphviz>\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\n1 -> 2;\n2 -> 3;\n3 -> 4;\n}\n</graphviz>\n\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\nÄ -> Ö;\nÖ -> Ü;\nÜ -> ß;\n}\n</graphviz>\nBeschreibung folgt.\n\n== Version von Mediawiki==\nVersion 1.6.8 am 20.7.06 Bu\n\n== Icons ==\nHinweis: [[Nuvola-Icons]]\n\n== Bildergalerien ==\n\nFrei verwendbare Bilder findet man unter: [http://www.Pixelquelle.de www.Pixelquelle.de]"
+    },
+    {
+      "revid": 4770,
+      "parentid": 4749,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-11-13T14:18:00Z",
+      "comment": "/* GraphViz */",
+      "wikitext": "== GraphViz==\nGestaltung von Diagrammen ''(installiert am 13.10.06)'':\n\n<graphviz>\ndigraph G {\n\nHallo -> Welt;\nHallo -> Benutzer;\nHallo -> Grundschulwiki;\n}\n</graphviz>\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\n1 -> 2;\n2 -> 3;\n3 -> 4;\n}\n</graphviz>\n\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\nÄ -> Ö;\nÖ -> Ü;\nÜ -> ß;\n}\n</graphviz>\nBeschreibung folgt.\n\n== Version von Mediawiki==\nVersion 1.6.8 am 20.7.06 Bu\n\n== Icons ==\nHinweis: [[Nuvola-Icons]]\n\n==Babel ==\nKurzinformationen zu den Benutzern."
+    },
+    {
+      "revid": 4749,
+      "parentid": 4734,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-10-14T11:53:45Z",
+      "comment": "/* GraphViz */",
+      "wikitext": "== GraphViz==\nGestaltung von Diagrammen ''(installiert am 13.10.06)'':\n\n<graphviz>\ndigraph G {\n\nHallo -> Welt;\nHallo -> Benutzer;\nHallo -> Grundschulwiki;\n}\n</graphviz>\n<graphviz>\ndigraph G {\nnode [shape=circle style=filled, color=blue, fontcolor=white];\nbgcolor=\"transparent\";\nrankdir=\"LR\";\n1 -> 2;\n2 -> 3;\n3 -> 4;\n}\n</graphviz>\n\nBeschreibung folgt.\n\n== Version von Mediawiki==\nVersion 1.6.8 am 20.7.06 Bu\n\n== Icons ==\nHinweis: [[Nuvola-Icons]]\n\n==Babel ==\nKurzinformationen zu den Benutzern."
+    },
+    {
+      "revid": 4734,
+      "parentid": 4518,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-10-13T10:10:24Z",
+      "comment": "/* Version von Mediawiki */",
+      "wikitext": "== GraphViz==\nGestaltung von Diagrammen ''(installiert am 13.10.06)'':\n\n<graphviz>\ndigraph G {\nHallo -> Welt;\nHallo -> Benutzer;\nHallo -> Grundschulwiki;\n}\n</graphviz>\n\n== Version von Mediawiki==\nVersion 1.6.8 am 20.7.06 Bu\n\n== Icons ==\nHinweis: [[Nuvola-Icons]]\n\n==Babel ==\nKurzinformationen zu den Benutzern."
+    },
+    {
+      "revid": 4518,
+      "parentid": 3338,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-07-20T12:20:40Z",
+      "comment": "",
+      "wikitext": "== Version von Mediawiki==\nVersion 1.6.8 am 20.7.06 Bu\n\n== Icons ==\nHinweis: [[Nuvola-Icons]]\n\n==Babel ==\nKurzinformationen zu den Benutzern."
+    },
+    {
+      "revid": 3338,
+      "parentid": 3180,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T12:46:48Z",
+      "comment": "",
+      "wikitext": "== Icons ==\nHinweis: [[Nuvola-Icons]]\n\n==Babel ==\nKurzinformationen zu den Benutzern."
+    },
+    {
+      "revid": 3180,
+      "parentid": 3179,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T08:41:40Z",
+      "comment": "",
+      "wikitext": "== Icons ==\nHinweis: [[Nuvola-Icons]]"
+    },
+    {
+      "revid": 3179,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T08:41:30Z",
+      "comment": "",
+      "wikitext": "== Icon ==\nHinweis: [[Nuvola-Icons]]"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,32 @@
+{
+  "pageid": 3890,
+  "ns": 0,
+  "title": "Quersumme",
+  "revisions": [
+    {
+      "revid": 15513,
+      "parentid": 15512,
+      "user": "Leupold",
+      "timestamp": "2012-03-12T20:40:48Z",
+      "comment": "hat „[[Quersumme und Querdifferenz]]“ nach „[[Quersumme]]“ verschoben: artikel voneinander getrennt, begriffsschärfe",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Quersumme==\n\nDie Quersumme einer Zahl berechnet man in dem man alle Ziffern addiert. Zwei Beispiele für die Quersumme: Die Quersumme von 135 ist 1+3+5=9 und die Quersumme von 1.356 ist 1+3+5+6=15. Wenn man die Quersumme einer Zahl [[Mod|mod]] 9 nimmt, dann ist das Ergebnis das gleiche wie die Zahl mod 9. Deshalb ist, wenn die Quersumme durch 9 teilbar ist, auch die Zahl durch 9 teilbar.\n\n\n{{Rücksprung|Q}}"
+    },
+    {
+      "revid": 15512,
+      "parentid": 15507,
+      "user": "Leupold",
+      "timestamp": "2012-03-12T20:40:24Z",
+      "comment": "artikel getrennt",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Quersumme==\n\nDie Quersumme einer Zahl berechnet man in dem man alle Ziffern addiert. Zwei Beispiele für die Quersumme: Die Quersumme von 135 ist 1+3+5=9 und die Quersumme von 1.356 ist 1+3+5+6=15. Wenn man die Quersumme einer Zahl [[Mod|mod]] 9 nimmt, dann ist das Ergebnis das gleiche wie die Zahl mod 9. Deshalb ist, wenn die Quersumme durch 9 teilbar ist, auch die Zahl durch 9 teilbar.\n\n\n{{Rücksprung|Q}}"
+    },
+    {
+      "revid": 15507,
+      "parentid": 0,
+      "user": "MALorenzo",
+      "timestamp": "2012-03-11T10:10:28Z",
+      "comment": "Die Seite wurde neu angelegt: {{Babel-1|Schüler_Verfasser}} == Quersumme==  Die Quersumme einer Zahl berechnet man in dem man alle Ziffern addiert. Zwei Beispiele für die Quersumme: Die Quersumme ...",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Quersumme==\n\nDie Quersumme einer Zahl berechnet man in dem man alle Ziffern addiert. Zwei Beispiele für die Quersumme: Die Quersumme von 135 ist 1+3+5=9 und die Quersumme von 1.356 ist 1+3+5+6=15. Wenn man die Quersumme einer Zahl [[Mod|mod]] 9 nimmt, dann ist das Ergebnis das gleiche wie die Zahl mod 9. Deshalb ist, wenn die Quersumme durch 9 teilbar ist, auch die Zahl durch 9 teilbar.\n\n== Querdifferenz==\n\nEs gibt auch die Querdifferenz. Dabei werden Ziffern, die in den [[Gerade und Ungerade Zahlen |geraden]] Stellen stehen, subtrahiert also die Zehner, Tausender, Hunderttausender, Zehnmillionener, ... und die Ziffern, die in den  [[Gerade und Ungerade Zahlen |ungeraden]] Stellen stehen, werden addiert, also die Einer, Hunderter, Zehntausender, Millioner, und so weiter. Ein Beispiel für die Querdifferenz: Die Querdifferenz von 135 ist 1-3+5=3 und die Querdifferenz von 1.356 ist 0-1+3-5+6=3.\n\n{{Rücksprung|Q}}"
+    }
+  ],
+  "categories": []
+}

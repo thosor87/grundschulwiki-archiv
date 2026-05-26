@@ -1,0 +1,26 @@
+{
+  "pageid": 4308,
+  "ns": 10,
+  "title": "Vorlage:Recht am eigenen Bild",
+  "revisions": [
+    {
+      "revid": 17651,
+      "parentid": 17650,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:42Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Recht_am_eigenen_Bild\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen ein Bildnis einer oder mehrerer lebenden oder seit weniger als 10 Jahren toten Person(en) dar. \n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div>\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Recht am eigenen Bild|{{PAGENAME}}]] }}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]\n{{Commons|Template:Personality rights}}\n{{InterProjekt|commons=Template:Personality rights}}</noinclude>"
+    },
+    {
+      "revid": 17650,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-08T18:49:40Z",
+      "comment": "aktuelle Version aus der deutschen Wikipedia; angepasst an das ZUM-Wiki",
+      "wikitext": "<div id=\"Vorlage_Recht_am_eigenen_Bild\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen ein Bildnis einer oder mehrerer lebenden oder seit weniger als 10 Jahren toten Person(en) dar. \n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div>\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Recht am eigenen Bild|{{PAGENAME}}]] }}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]\n{{Commons|Template:Personality rights}}\n{{InterProjekt|commons=Template:Personality rights}}</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Hinweis für Bilder"
+  ]
+}

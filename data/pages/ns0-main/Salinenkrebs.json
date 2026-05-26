@@ -1,0 +1,40 @@
+{
+  "pageid": 2586,
+  "ns": 0,
+  "title": "Salinenkrebs",
+  "revisions": [
+    {
+      "revid": 7804,
+      "parentid": 7803,
+      "user": "Leupold",
+      "timestamp": "2008-01-19T14:50:21Z",
+      "comment": "babel, rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nSalinenkrebschen  oder  auch  Salinenkrebs  ist  ein  anderes  Wort  für [[Salzkrebs]].\n\n\n{{Rücksprung|S}}"
+    },
+    {
+      "revid": 7803,
+      "parentid": 7801,
+      "user": "Leupold",
+      "timestamp": "2008-01-19T14:49:23Z",
+      "comment": "angepasst an verschobenen artikel",
+      "wikitext": "Salinenkrebschen  oder  auch  Salinenkrebs  ist  ein  anderes  Wort  für [[Salzkrebs]]."
+    },
+    {
+      "revid": 7801,
+      "parentid": 7768,
+      "user": "Leupold",
+      "timestamp": "2008-01-19T14:48:38Z",
+      "comment": "Salinenkrebschen wurde nach Salinenkrebs verschoben: verniedlichung, autor: MALiliana",
+      "wikitext": "Salinenkrebschen  oder  auch  Salinenkrebs  ist  ein  anderes  Wort  für [[ Salzkrebschen]]."
+    },
+    {
+      "revid": 7768,
+      "parentid": 0,
+      "user": "MALiliana",
+      "timestamp": "2008-01-18T17:25:13Z",
+      "comment": "",
+      "wikitext": "Salinenkrebschen  oder  auch  Salinenkrebs  ist  ein  anderes  Wort  für [[ Salzkrebschen]]."
+    }
+  ],
+  "categories": []
+}

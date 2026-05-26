@@ -1,0 +1,26 @@
+{
+  "pageid": 4355,
+  "ns": 10,
+  "title": "Vorlage:Stundenverlauf/Form",
+  "revisions": [
+    {
+      "revid": 17745,
+      "parentid": 17744,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:10:09Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<onlyinclude>{{#switch: {{{1}}} | Plenum = [[Datei:Farm-Fresh plenum.png|50px|verweis=]] | | Alle = [[Datei:Farm-Fresh all.png|49px|verweis=]] | Gruppe5 = [[Datei:Farm-Fresh_gruppe5.png|40px|verweis=]] | Gruppe4 = [[Datei:Farm-Fresh_gruppe4.png|40px|verweis=]] | Gruppe3 = [[Datei:Farm-Fresh_gruppe3.png|40px|verweis=]] | Tandem = [[Datei:Farm-Fresh_tandem.png|verweis=]] | Einzel = [[Datei:Farm-Fresh_user.png|verweis=]] | {{{1|}}} }} </onlyinclude><noinclude>\n\n\nDiese Vorlage ist ein Baustein von [[:Vorlage:Stundenverlauf]] und sollte nicht unabhängig davon eingesetzt werden.\n\nDiese Vorlage ersetzt die Schlüsselworte in der Variablen (form) durch Piktogramme. Die Schlüsselworte sind:\n{| class=\"wikitable sortable\" \n|-\n!Schlüsselwort !! Piktogramm !! Bedeutung\n|-\n|Plenum || [[Datei:Farm-Fresh plenum.png|50px|verweis=]] || Frontalunterricht\n|-\n|Alle || [[Datei:Farm-Fresh_all.png|49px|verweis=]] || Alle gemeinsam\n|-\n|Gruppe5 || [[Datei:Farm-Fresh gruppe5.png|40px|verweis=]] || 5er-Gruppen\n|-\n|Gruppe4 || [[Datei:Farm-Fresh gruppe4.png|40px|verweis=]] || 4er-Gruppen\n|-\n|Gruppe3 || [[Datei:Farm-Fresh gruppe3.png|40px|verweis=]] || 3er-Gruppen\n|-\n|Tandem || [[Datei:Farm-Fresh tandem.png|verweis=]] || Partnerarbeit\n|-\n|Einzel || [[Datei:Farm-Fresh_user.png|verweis=]] || Einzelarbeit\n|}\n\nEs ist dabei darauf zu achten, dass pro Zeile nur exakt ein Schlüsselbegriff stehen darf. Stehen mehrere Schlüsselbegriffe da, kann das Wiki das leider nicht erkennen. (Wer das durch ergänzen eines regulären Ausdrucks ändern kann ist dazu herzlich eingeladen - allerdings fürchte ich, dass das Wiki das derzeit noch nicht kann).<br />\n\n[[Kategorie:Vorlage:Stundenverlauf|Sozialform]]\n\n\n</noinclude>"
+    },
+    {
+      "revid": 17744,
+      "parentid": 0,
+      "user": "Konstantin Kowalski",
+      "timestamp": "2012-06-12T15:52:05Z",
+      "comment": "",
+      "wikitext": "<onlyinclude>{{#switch: {{{1}}} | Plenum = [[Datei:Farm-Fresh plenum.png|50px|verweis=]] | | Alle = [[Datei:Farm-Fresh all.png|49px|verweis=]] | Gruppe5 = [[Datei:Farm-Fresh_gruppe5.png|40px|verweis=]] | Gruppe4 = [[Datei:Farm-Fresh_gruppe4.png|40px|verweis=]] | Gruppe3 = [[Datei:Farm-Fresh_gruppe3.png|40px|verweis=]] | Tandem = [[Datei:Farm-Fresh_tandem.png|verweis=]] | Einzel = [[Datei:Farm-Fresh_user.png|verweis=]] | {{{1|}}} }} </onlyinclude><noinclude>\n\n\nDiese Vorlage ist ein Baustein von [[:Vorlage:Stundenverlauf]] und sollte nicht unabhängig davon eingesetzt werden.\n\nDiese Vorlage ersetzt die Schlüsselworte in der Variablen (form) durch Piktogramme. Die Schlüsselworte sind:\n{| class=\"wikitable sortable\" \n|-\n!Schlüsselwort !! Piktogramm !! Bedeutung\n|-\n|Plenum || [[Datei:Farm-Fresh plenum.png|50px|verweis=]] || Frontalunterricht\n|-\n|Alle || [[Datei:Farm-Fresh_all.png|49px|verweis=]] || Alle gemeinsam\n|-\n|Gruppe5 || [[Datei:Farm-Fresh gruppe5.png|40px|verweis=]] || 5er-Gruppen\n|-\n|Gruppe4 || [[Datei:Farm-Fresh gruppe4.png|40px|verweis=]] || 4er-Gruppen\n|-\n|Gruppe3 || [[Datei:Farm-Fresh gruppe3.png|40px|verweis=]] || 3er-Gruppen\n|-\n|Tandem || [[Datei:Farm-Fresh tandem.png|verweis=]] || Partnerarbeit\n|-\n|Einzel || [[Datei:Farm-Fresh_user.png|verweis=]] || Einzelarbeit\n|}\n\nEs ist dabei darauf zu achten, dass pro Zeile nur exakt ein Schlüsselbegriff stehen darf. Stehen mehrere Schlüsselbegriffe da, kann das Wiki das leider nicht erkennen. (Wer das durch ergänzen eines regulären Ausdrucks ändern kann ist dazu herzlich eingeladen - allerdings fürchte ich, dass das Wiki das derzeit noch nicht kann).<br />\n\n[[Kategorie:Vorlage:Stundenverlauf|Sozialform]]\n\n\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Stundenverlauf"
+  ]
+}

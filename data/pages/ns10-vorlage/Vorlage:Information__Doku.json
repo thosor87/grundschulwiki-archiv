@@ -1,0 +1,24 @@
+{
+  "pageid": 4230,
+  "ns": 10,
+  "title": "Vorlage:Information/Doku",
+  "revisions": [
+    {
+      "revid": 17471,
+      "parentid": 17470,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:58Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<noinclude>{{Dokumentation/Dokuseite}}</noinclude>\nDiese [[Hilfe:Vorlagen|Vorlage]] wird auf Bildbeschreibungsseiten verwendet, um ihnen ein einheitliches Layout zugeben, außerdem ist durch diese Vorlage eine eindeutige Zuordnung der Informationen zu den einzelnen Stichpunkten gegeben. Außerdem ist beim Hochladen einer Datei sichergestellt, das alle relevanten Informationen genannt werden, da diese Vorlage als \"Checkliste\" dienen kann.\n\nEin weiterer Vorteil dieser Vorlage ist, dass eine automatische Auswertung der Informationen – beispielsweise durch [[WP:BOT|Bots]] – möglich ist.\n\n== Verwendung ==\n{{Information/Verwendung}}"
+    },
+    {
+      "revid": 17470,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2011-12-03T23:32:34Z",
+      "comment": "typo",
+      "wikitext": "<noinclude>{{Dokumentation/Dokuseite}}</noinclude>\nDiese [[Hilfe:Vorlagen|Vorlage]] wird auf Bildbeschreibungsseiten verwendet, um ihnen ein einheitliches Layout zugeben, außerdem ist durch diese Vorlage eine eindeutige Zuordnung der Informationen zu den einzelnen Stichpunkten gegeben. Außerdem ist beim Hochladen einer Datei sichergestellt, das alle relevanten Informationen genannt werden, da diese Vorlage als \"Checkliste\" dienen kann.\n\nEin weiterer Vorteil dieser Vorlage ist, dass eine automatische Auswertung der Informationen – beispielsweise durch [[WP:BOT|Bots]] – möglich ist.\n\n== Verwendung ==\n{{Information/Verwendung}}"
+    }
+  ],
+  "categories": []
+}

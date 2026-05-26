@@ -1,0 +1,27 @@
+{
+  "pageid": 4332,
+  "ns": 10,
+  "title": "Vorlage:Kurzinfo Tutorial",
+  "revisions": [
+    {
+      "revid": 17699,
+      "parentid": 17698,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:50Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{{Kurzinfodesign | ZUM-Wiki-Logo.png | 2=\n<br>Diese Seite enthält ein '''[[:Kategorie:Hilfe:Tutorial|Tutorial]]'''.<br><small><div align=\"right\">''[[:Kategorie:Hilfe:Tutorial|... mehr Tutorials]]''</div></small> }}<noinclude>\n[[Kategorie:Vorlage:Artikelbausteine|Kurzinfo Tutorial]]</noinclude><includeonly>\n[[Kategorie:Hilfe:Tutorial]]</includeonly>"
+    },
+    {
+      "revid": 17698,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-02-27T20:08:16Z",
+      "comment": "Die Seite wurde neu angelegt: „{{Kurzinfodesign | ZUM-Wiki-Logo.png | 2= <br>Diese Seite enthält ein '''[[:Kategorie:Hilfe:Tutorial|Tutorial]]'''.<br><small><div align=\"right\">''[[:Kategorie:H…“",
+      "wikitext": "{{Kurzinfodesign | ZUM-Wiki-Logo.png | 2=\n<br>Diese Seite enthält ein '''[[:Kategorie:Hilfe:Tutorial|Tutorial]]'''.<br><small><div align=\"right\">''[[:Kategorie:Hilfe:Tutorial|... mehr Tutorials]]''</div></small> }}<noinclude>\n[[Kategorie:Vorlage:Artikelbausteine|Kurzinfo Tutorial]]</noinclude><includeonly>\n[[Kategorie:Hilfe:Tutorial]]</includeonly>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Artikelbausteine"
+  ]
+}

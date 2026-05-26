@@ -1,0 +1,32 @@
+{
+  "pageid": 5043,
+  "ns": 6,
+  "title": "Datei:Hund400.jpg",
+  "revisions": [
+    {
+      "revid": 21131,
+      "parentid": 21130,
+      "user": "KSMehlem",
+      "timestamp": "2017-03-18T17:31:49Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = Hund\n|Quelle = Mehlem\n|Urheber = A. Mehlem\n|Datum = 18.03.2017\n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 21130,
+      "parentid": 21129,
+      "user": "KSMehlem",
+      "timestamp": "2017-03-18T17:30:28Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = Hund\n|Quelle = \n|Urheber = Mehlem\n|Datum = 18.03.2017\n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 21129,
+      "parentid": 0,
+      "user": "KSMehlem",
+      "timestamp": "2017-03-18T17:29:54Z",
+      "comment": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    }
+  ],
+  "categories": []
+}

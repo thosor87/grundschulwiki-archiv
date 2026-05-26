@@ -1,0 +1,32 @@
+{
+  "pageid": 5657,
+  "ns": 6,
+  "title": "Datei:Bild42.jpg",
+  "revisions": [
+    {
+      "revid": 24136,
+      "parentid": 23977,
+      "user": "Wgsa13",
+      "timestamp": "2019-07-18T06:24:26Z",
+      "comment": "Wgsa13 lud eine neue Version von „[[Datei:Bild42.jpg]]“ hoch: {{Information ohne UploadWizard\n|Beschreibung = Grasfrosch schwimmt im Teich\n|Quelle = Wgsa13\n|Urheber = Eigenes Bild\n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = Der Grasfrosch\n|Quelle = ich selber\n|Urheber = Wgea13\n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 23977,
+      "parentid": 23976,
+      "user": "Wgsa13",
+      "timestamp": "2019-07-15T06:06:37Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = Der Grasfrosch\n|Quelle = ich selber\n|Urheber = Wgea13\n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 23976,
+      "parentid": 0,
+      "user": "Wgsa13",
+      "timestamp": "2019-07-15T06:04:59Z",
+      "comment": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,26 @@
+{
+  "pageid": 4249,
+  "ns": 10,
+  "title": "Vorlage:Documentation subpage",
+  "revisions": [
+    {
+      "revid": 17515,
+      "parentid": 17514,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-20T22:31:41Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<includeonly><!--\n-->{{#ifeq:{{SUBPAGENAME}}|{{#ifeq:{{{1|}}}|override|{{SUBPAGENAME}}|doc}}|</includeonly><!-- show on doc pages only\n  -->{{Documentation subpage/{{Fallback|Documentation subpage}}}}<!--\n  -->{{{category|[[Category:Template documentation|<noinclude> </noinclude><includeonly>{{PAGENAME}}</includeonly>]]}}}<!--\n--><includeonly>}}</includeonly><!--  show on doc pages only\n--><noinclude>{{documentation}}</noinclude>"
+    },
+    {
+      "revid": 17514,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-17T20:05:48Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<includeonly><!--\n-->{{#ifeq:{{SUBPAGENAME}}|{{#ifeq:{{{1|}}}|override|{{SUBPAGENAME}}|doc}}|</includeonly><!-- show on doc pages only\n  -->{{Documentation subpage/{{Fallback|Documentation subpage}}}}<!--\n  -->{{{category|[[Category:Template documentation|<noinclude> </noinclude><includeonly>{{PAGENAME}}</includeonly>]]}}}<!--\n--><includeonly>}}</includeonly><!--  show on doc pages only\n--><noinclude>{{documentation}}</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Template documentation"
+  ]
+}

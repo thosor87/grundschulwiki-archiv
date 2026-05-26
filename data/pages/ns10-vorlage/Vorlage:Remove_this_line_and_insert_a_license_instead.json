@@ -1,0 +1,26 @@
+{
+  "pageid": 4268,
+  "ns": 10,
+  "title": "Vorlage:Uwlsubst",
+  "revisions": [
+    {
+      "revid": 17569,
+      "parentid": 17568,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:09Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<noinclude><!--{{protected template}}-->\n\n== Appearance ==\n<!--\n\nYOU'RE EDITING THE WRONG THING!\n\nPlease go back and edit the file page (click \"edit\" at the top of that page), not this template.\n\n--></noinclude>{{autotranslate|base=Uwlsubst|1={{{year|}}}|2={{{month|}}}|3={{{day|}}}}}\n<includeonly>{{Nuke|No license since {{{year|}}}-{{{month|}}}-{{{day|}}}. Please read the intro of [[COM:L]], about [[Commons:Essential information|essential information]] and about [[COM:CB#Internet_images|Internet images]].}}{{{category|[[Category:{{ParmAnd3|1={{{day|}}}|2={{{month|}}}|3={{{year|}}}|4=Media uploaded without a license {{#ifexist: Category:Media uploaded without a license as of {{{year}}}-{{{month}}}|as of {{{year}}}-{{{month}}}|}}|5=Media uploaded without a license as of unknown date}}|{{#expr:100- {{padleft:{{{day|}}}|2|0}}}}-{{#expr:10^16-{{REVISIONTIMESTAMP}}}}]]}}}<!-- in case the year or month are given incorrectly --></includeonly><noinclude>\n\n<!--{{documentation}}-->\n\n[[Category:Problem tags]]\n</noinclude>"
+    },
+    {
+      "revid": 17568,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T20:58:37Z",
+      "comment": "1 Version: UploadWizardp",
+      "wikitext": "<noinclude><!--{{protected template}}-->\n\n== Appearance ==\n<!--\n\nYOU'RE EDITING THE WRONG THING!\n\nPlease go back and edit the file page (click \"edit\" at the top of that page), not this template.\n\n--></noinclude>{{autotranslate|base=Uwlsubst|1={{{year|}}}|2={{{month|}}}|3={{{day|}}}}}\n<includeonly>{{Nuke|No license since {{{year|}}}-{{{month|}}}-{{{day|}}}. Please read the intro of [[COM:L]], about [[Commons:Essential information|essential information]] and about [[COM:CB#Internet_images|Internet images]].}}{{{category|[[Category:{{ParmAnd3|1={{{day|}}}|2={{{month|}}}|3={{{year|}}}|4=Media uploaded without a license {{#ifexist: Category:Media uploaded without a license as of {{{year}}}-{{{month}}}|as of {{{year}}}-{{{month}}}|}}|5=Media uploaded without a license as of unknown date}}|{{#expr:100- {{padleft:{{{day|}}}|2|0}}}}-{{#expr:10^16-{{REVISIONTIMESTAMP}}}}]]}}}<!-- in case the year or month are given incorrectly --></includeonly><noinclude>\n\n<!--{{documentation}}-->\n\n[[Category:Problem tags]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Problem tags"
+  ]
+}

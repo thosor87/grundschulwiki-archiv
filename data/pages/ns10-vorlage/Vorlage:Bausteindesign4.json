@@ -1,0 +1,18 @@
+{
+  "pageid": 4620,
+  "ns": 10,
+  "title": "Vorlage:Bausteindesign4",
+  "revisions": [
+    {
+      "revid": 19031,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T22:56:47Z",
+      "comment": "Kopie aus dem ZUM-Wiki",
+      "wikitext": "cellspacing=\"4\" cellpadding=\"4\" class=\"hintergrundfarbe1 rahmenfarbe3\" style=\"width: 100%; font-size: 100%; border-style: solid; border-width: 2px; clear: both; position:relative;\"<noinclude>\n\n[[Kategorie:Vorlage:Formatierungshilfe|Bausteindesign4]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Formatierungshilfe"
+  ]
+}

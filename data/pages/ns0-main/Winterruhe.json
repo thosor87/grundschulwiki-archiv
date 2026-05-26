@@ -1,0 +1,32 @@
+{
+  "pageid": 2147,
+  "ns": 0,
+  "title": "Winterruhe",
+  "revisions": [
+    {
+      "revid": 5727,
+      "parentid": 5721,
+      "user": "MANaegel",
+      "timestamp": "2007-03-21T17:32:51Z",
+      "comment": "",
+      "wikitext": "Das Eichhörnchen und der Dachs halten Winterruhe.Sie verschlafen die meiste Zeit des Winters. Nur wenn sie Hunger haben, wachen sie \nauf. Dann plündern sie ihre Wintervorräte, die sie im Herbst gesammelt haben.\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 5721,
+      "parentid": 5532,
+      "user": "Leupold",
+      "timestamp": "2007-03-21T17:11:32Z",
+      "comment": "Rücksprung",
+      "wikitext": "Das Eichhörnchen und der Dachs halten Winterruhe.\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 5532,
+      "parentid": 0,
+      "user": "MANaegel",
+      "timestamp": "2007-03-21T10:54:27Z",
+      "comment": "",
+      "wikitext": "Das Eichhörnchen und der Dachs halten Winterruhe."
+    }
+  ],
+  "categories": []
+}

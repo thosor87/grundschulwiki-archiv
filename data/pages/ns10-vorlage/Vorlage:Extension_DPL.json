@@ -1,0 +1,32 @@
+{
+  "pageid": 4214,
+  "ns": 10,
+  "title": "Vorlage:Extension DPL",
+  "revisions": [
+    {
+      "revid": 17563,
+      "parentid": 17428,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:09Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<noinclude>This page was automatically created. It serves as an anchor page for all '''[[Special:WhatLinksHere/Template:Extension_DPL|invocations]]''' of [http://mediawiki.org/wiki/Extension:DynamicPageList Extension:DynamicPageList (DPL)].</noinclude>"
+    },
+    {
+      "revid": 17428,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-11-30T18:29:32Z",
+      "comment": "Vorlage:Extension DPL",
+      "wikitext": "<noinclude>This page was automatically created. It serves as an anchor page for all '''[[Special:WhatLinksHere/Template:Extension_DPL|invocations]]''' of [http://mediawiki.org/wiki/Extension:DynamicPageList Extension:DynamicPageList (DPL)].</noinclude>"
+    },
+    {
+      "revid": 17562,
+      "parentid": 17428,
+      "user": "Janboehme",
+      "timestamp": "2013-11-30T14:52:25Z",
+      "comment": "Vorlage:Extension DPL",
+      "wikitext": "<noinclude>This page was automatically created. It serves as an anchor page for all '''[[Special:WhatLinksHere/Template:Extension_DPL|invocations]]''' of [http://mediawiki.org/wiki/Extension:DynamicPageList Extension:DynamicPageList (DPL)].</noinclude>"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,26 @@
+{
+  "pageid": 4228,
+  "ns": 10,
+  "title": "Vorlage:Bausteindesign11",
+  "revisions": [
+    {
+      "revid": 17467,
+      "parentid": 17466,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:58Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<code><onlyinclude>cellspacing=\"8\" cellpadding=\"0\" class=\"hintergrundfarbe1 rahmenfarbe2\" style=\"clear:both; margin:0.5em auto; background-color:#eeeeee; border:4px solid #dedede; position:relative;\"</onlyinclude></code>\n\n{{Dokumentation}}"
+    },
+    {
+      "revid": 17466,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:43Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "<code><onlyinclude>cellspacing=\"8\" cellpadding=\"0\" class=\"hintergrundfarbe1 rahmenfarbe2\" style=\"clear:both; margin:0.5em auto; background-color:#eeeeee; border:4px solid #dedede; position:relative;\"</onlyinclude></code>\n\n{{Dokumentation}}"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:nicht dokumentiert"
+  ]
+}

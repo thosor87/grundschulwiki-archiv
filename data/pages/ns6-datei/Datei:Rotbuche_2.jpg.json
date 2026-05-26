@@ -1,0 +1,32 @@
+{
+  "pageid": 2019,
+  "ns": 6,
+  "title": "Datei:Rotbuche 2.jpg",
+  "revisions": [
+    {
+      "revid": 4879,
+      "parentid": 4875,
+      "user": "MAEckle",
+      "timestamp": "2006-12-15T13:35:44Z",
+      "comment": "",
+      "wikitext": "Stamm und Blätter der Rotbuche. Bild ist von einem Schüler, aufgenommen im Oktober 2006."
+    },
+    {
+      "revid": 4875,
+      "parentid": 4869,
+      "user": "MAEckle",
+      "timestamp": "2006-12-15T13:32:12Z",
+      "comment": "",
+      "wikitext": "Stamm und Blätter der Rotbuche. Aufgenommen im Oktober 2006 von einem Schüler."
+    },
+    {
+      "revid": 4869,
+      "parentid": 0,
+      "user": "MAEckle",
+      "timestamp": "2006-12-13T18:33:55Z",
+      "comment": "Rotbuche",
+      "wikitext": "Rotbuche"
+    }
+  ],
+  "categories": []
+}

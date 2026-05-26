@@ -1,0 +1,16 @@
+{
+  "pageid": 1698,
+  "ns": 10,
+  "title": "Vorlage:Babel-6",
+  "revisions": [
+    {
+      "revid": 3396,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:42:41Z",
+      "comment": "",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{Babel {{{1}}}}}\n|-\n| {{Babel {{{2}}}}}\n|-\n| {{Babel {{{3}}}}}\n|-\n| {{Babel {{{4}}}}}\n|-\n| {{Babel {{{5}}}}}\n|-\n| {{Babel {{{6}}}}}\n|}"
+    }
+  ],
+  "categories": []
+}

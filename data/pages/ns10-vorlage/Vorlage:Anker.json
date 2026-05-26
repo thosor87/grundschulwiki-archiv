@@ -1,0 +1,26 @@
+{
+  "pageid": 4222,
+  "ns": 10,
+  "title": "Vorlage:Anker",
+  "revisions": [
+    {
+      "revid": 17455,
+      "parentid": 17454,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:56Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "{{#if: {{{1|}}} | {{Anker/code|{{{1|}}}}}{{#if: {{{2|}}} | {{Anker/code|{{{2|}}}}}{{#if: {{{3|}}} | {{Anker/code|{{{3|}}}}}{{#if: {{{4|}}} | {{Anker/code|{{{4|}}}}} {{#if: {{{5|}}} | {{Anker/code|{{{5|}}}}}{{#if: {{{6|}}} | {{Anker/code|{{{6|}}}}} }} }}}} }} }} }}<noinclude>\n{{Dokumentation}}</noinclude>"
+    },
+    {
+      "revid": 17454,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:33Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "{{#if: {{{1|}}} | {{Anker/code|{{{1|}}}}}{{#if: {{{2|}}} | {{Anker/code|{{{2|}}}}}{{#if: {{{3|}}} | {{Anker/code|{{{3|}}}}}{{#if: {{{4|}}} | {{Anker/code|{{{4|}}}}} {{#if: {{{5|}}} | {{Anker/code|{{{5|}}}}}{{#if: {{{6|}}} | {{Anker/code|{{{6|}}}}} }} }}}} }} }} }}<noinclude>\n{{Dokumentation}}</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:nicht dokumentiert"
+  ]
+}

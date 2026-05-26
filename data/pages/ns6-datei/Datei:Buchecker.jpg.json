@@ -1,0 +1,32 @@
+{
+  "pageid": 2017,
+  "ns": 6,
+  "title": "Datei:Buchecker.jpg",
+  "revisions": [
+    {
+      "revid": 4877,
+      "parentid": 4876,
+      "user": "MAEckle",
+      "timestamp": "2006-12-15T13:34:13Z",
+      "comment": "",
+      "wikitext": "Die  Frucht - Buchecker. Bild von S. Eckle-Schaal, aufgenommen im Oktober 2006."
+    },
+    {
+      "revid": 4876,
+      "parentid": 4867,
+      "user": "MAEckle",
+      "timestamp": "2006-12-15T13:33:32Z",
+      "comment": "",
+      "wikitext": "Die  Frucht - Buchecker. Aufgenommen im Oktober von S. Eckle-Schaal."
+    },
+    {
+      "revid": 4867,
+      "parentid": 0,
+      "user": "MAEckle",
+      "timestamp": "2006-12-13T18:20:39Z",
+      "comment": "Buchecker",
+      "wikitext": "Buchecker"
+    }
+  ],
+  "categories": []
+}

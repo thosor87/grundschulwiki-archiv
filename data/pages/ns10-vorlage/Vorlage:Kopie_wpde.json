@@ -1,0 +1,26 @@
+{
+  "pageid": 4296,
+  "ns": 10,
+  "title": "Vorlage:Kopie wpde",
+  "revisions": [
+    {
+      "revid": 17627,
+      "parentid": 17626,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:39Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div style=\"border: 1px solid #D1E5FA; background-color:#ffffff; padding:7px;\">\nDiese Seite enthält Ausschnitte des Artikels '''[[wikipedia:de:{{{1}}}|{{{1}}}]]''' aus der freien Enzyklopädie {{wpd|Wikipedia}} vom {{{2}}}. Der Inhalt unterliegt der [[ZUM-Wiki:GNU-Lizenz für freie Dokumentation|GNU-Lizenz für freie Dokumentation]] und/oder der {{wpde|Wikipedia:Lizenzbestimmungen Commons Attribution-ShareAlike 3.0 Unported|CC-BY-SA 3.0 Unported}}. In der Wikipedia ist eine <span class=\"plainlinks\">[{{fullurl:wikipediade:{{{1}}}|action=history}} Liste der Autoren verfügbar].</span><br>Im ZUM-Wiki gilt - soweit dies möglich ist - die CC-BY-SA-Lizenz.</div><noinclude>\n\n;Das schreibt man: <pre>{{Kopie wpde|<Artikelname>|<Datum>>}}</pre>\n\n== Beispiel ==\n<pre>{{Kopie wpde|Beispiel-Artikel|03.06.2009}}</pre> wird zu:\n\n{{Kopie wpde|Beispiel-Artikel|03.06.2009}}\n\n== Siehe auch ==\n* [[Vorlage:Zitat wpde]]\n\n[[Kategorie:Vorlage:Lizenz|Kopie wpde]]</noinclude>"
+    },
+    {
+      "revid": 17626,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-03-10T10:34:14Z",
+      "comment": "katfix",
+      "wikitext": "<div style=\"border: 1px solid #D1E5FA; background-color:#ffffff; padding:7px;\">\nDiese Seite enthält Ausschnitte des Artikels '''[[wikipedia:de:{{{1}}}|{{{1}}}]]''' aus der freien Enzyklopädie {{wpd|Wikipedia}} vom {{{2}}}. Der Inhalt unterliegt der [[ZUM-Wiki:GNU-Lizenz für freie Dokumentation|GNU-Lizenz für freie Dokumentation]] und/oder der {{wpde|Wikipedia:Lizenzbestimmungen Commons Attribution-ShareAlike 3.0 Unported|CC-BY-SA 3.0 Unported}}. In der Wikipedia ist eine <span class=\"plainlinks\">[{{fullurl:wikipediade:{{{1}}}|action=history}} Liste der Autoren verfügbar].</span><br>Im ZUM-Wiki gilt - soweit dies möglich ist - die CC-BY-SA-Lizenz.</div><noinclude>\n\n;Das schreibt man: <pre>{{Kopie wpde|<Artikelname>|<Datum>>}}</pre>\n\n== Beispiel ==\n<pre>{{Kopie wpde|Beispiel-Artikel|03.06.2009}}</pre> wird zu:\n\n{{Kopie wpde|Beispiel-Artikel|03.06.2009}}\n\n== Siehe auch ==\n* [[Vorlage:Zitat wpde]]\n\n[[Kategorie:Vorlage:Lizenz|Kopie wpde]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz"
+  ]
+}

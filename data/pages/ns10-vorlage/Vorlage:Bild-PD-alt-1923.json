@@ -1,0 +1,26 @@
+{
+  "pageid": 4288,
+  "ns": 10,
+  "title": "Vorlage:Bild-PD-alt-1923",
+  "revisions": [
+    {
+      "revid": 17611,
+      "parentid": 17610,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:30Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-alt-1923\">\n{| {{Lizenzdesign2}}\n| valign=\"top\" | [[Datei:PDmaybe-icon.svg|alt=|link=|55px]]\n| Die {{wpd|Regelschutzfrist|Schutzdauer}} für das von dieser Datei gezeigte Werk ist vermutlich nach den Maßstäben des deutschen Urheberrechts abgelaufen. Es ist daher vermutlich '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.\n|-\n| valign=\"middle\" | [[Datei:Nuvola apps important.svg|alt=|link=|55px]]\n| <small>Achtung: Diese Annahme entspricht nicht exakt der gesetzlichen, sondern einer {{wpd|Wikipedia:Bildrechte#Pragmatische Regelung bei Bildern, die vor 1923 veröffentlicht wurden|pragmatischen Regelung}}. Die Wahrscheinlichkeit für eine Verfolgung durch einen Rechtsinhaber ist jedoch so gering, dass die deutschsprachige Wikipedia trotz eines möglichen Schutzes die Datei duldet. Die Verantwortung trägt der Uploader.</small>\n|-\n| valign=\"middle\" |\n|Liegt eine triviale Wiedergabe vor, so erreicht diese weder die für einen urheberrechtlichen Schutz als {{wpd|Lichtbildwerk}} nötige {{wpd|Schöpfungshöhe}}, noch weist sie ein „Mindestmaß an persönlicher Leistung“ (<small>vgl. BGH GRUR 90, 669 - Bibelreproduktion</small>) auf, um Leistungsschutz als {{wpd|Lichtbild}} genießen zu können.\n----\nDamit diese Datei in der Wikipedia bleiben kann, muss nachgewiesen sein, dass\n* das Bild vor 1923 '''veröffentlicht''' wurde und\n* das Todesdatum des Urhebers auch nach gründlicher Recherche in Suchmaschinen, Datenbanken und biographischen Nachschlagewerken nicht herausgefunden werden kann.\n{{#if: {{{1|}}} |Eine Diskussion zu dieser Datei hat [{{{1}}} hier] stattgefunden.}}\n|}\n</div>\n{{NoCommons}}\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n{{#if: {{{1|}}} | [[Kategorie:Public-Domain-Bild (1923)|{{PAGENAME}}]] | [[Kategorie:Wikipedia:Dateiüberprüfung/1923/Ohne Diskussion|{{PAGENAME}}]]}}\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]</noinclude>"
+    },
+    {
+      "revid": 17610,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-03T14:17:13Z",
+      "comment": "wpd-Links",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-alt-1923\">\n{| {{Lizenzdesign2}}\n| valign=\"top\" | [[Datei:PDmaybe-icon.svg|alt=|link=|55px]]\n| Die {{wpd|Regelschutzfrist|Schutzdauer}} für das von dieser Datei gezeigte Werk ist vermutlich nach den Maßstäben des deutschen Urheberrechts abgelaufen. Es ist daher vermutlich '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.\n|-\n| valign=\"middle\" | [[Datei:Nuvola apps important.svg|alt=|link=|55px]]\n| <small>Achtung: Diese Annahme entspricht nicht exakt der gesetzlichen, sondern einer {{wpd|Wikipedia:Bildrechte#Pragmatische Regelung bei Bildern, die vor 1923 veröffentlicht wurden|pragmatischen Regelung}}. Die Wahrscheinlichkeit für eine Verfolgung durch einen Rechtsinhaber ist jedoch so gering, dass die deutschsprachige Wikipedia trotz eines möglichen Schutzes die Datei duldet. Die Verantwortung trägt der Uploader.</small>\n|-\n| valign=\"middle\" |\n|Liegt eine triviale Wiedergabe vor, so erreicht diese weder die für einen urheberrechtlichen Schutz als {{wpd|Lichtbildwerk}} nötige {{wpd|Schöpfungshöhe}}, noch weist sie ein „Mindestmaß an persönlicher Leistung“ (<small>vgl. BGH GRUR 90, 669 - Bibelreproduktion</small>) auf, um Leistungsschutz als {{wpd|Lichtbild}} genießen zu können.\n----\nDamit diese Datei in der Wikipedia bleiben kann, muss nachgewiesen sein, dass\n* das Bild vor 1923 '''veröffentlicht''' wurde und\n* das Todesdatum des Urhebers auch nach gründlicher Recherche in Suchmaschinen, Datenbanken und biographischen Nachschlagewerken nicht herausgefunden werden kann.\n{{#if: {{{1|}}} |Eine Diskussion zu dieser Datei hat [{{{1}}} hier] stattgefunden.}}\n|}\n</div>\n{{NoCommons}}\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n{{#if: {{{1|}}} | [[Kategorie:Public-Domain-Bild (1923)|{{PAGENAME}}]] | [[Kategorie:Wikipedia:Dateiüberprüfung/1923/Ohne Diskussion|{{PAGENAME}}]]}}\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

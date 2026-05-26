@@ -1,0 +1,288 @@
+{
+  "pageid": 1606,
+  "ns": 10,
+  "title": "Vorlage:Zusatz",
+  "revisions": [
+    {
+      "revid": 19457,
+      "parentid": 19456,
+      "user": "Karl Kirst",
+      "timestamp": "2015-11-30T20:34:36Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{{Achtung|Ab dem 1. Januar 2015 gilt im ZUM-Grundschulwiki generell nur noch die Lizenzierung \"[http://creativecommons.org/licenses/by-sa/3.0/de/ Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)]\", soweit nicht im Einzelfall eine andere Lizenz angegeben ist. Dies entspricht den [[:family:Wiki-Family:Über_Wiki-Family#Lizenzbestimmungen|Lizenzbedingungen, wie sie in der gesamten ZUM-Wiki-Family gültig sind]].\n\nWenn ein eigener Beitrag nicht unter der CC BY-SA 3.0 DE veröffentlicht bleiben soll, sende bitte einen kurzen Hinweis darauf an [[Spezial:E-Mail_senden/Karl_Kirst|diese Adresse]].}} \n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n<!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]-->\n* [[ZUM-Grundschul-Wiki:Blog|Blog]]\n* [[Hilfe:Vorlagen|Vorlagen, Bilder und Töne]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n<!--* [[ZUM-Grundschul-Wiki:Technik|Technik]]-->\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 19456,
+      "parentid": 18991,
+      "user": "Karl Kirst",
+      "timestamp": "2015-11-30T20:29:20Z",
+      "comment": "http://wikis.zum.de/family/Wiki-Family:Über_Wiki-Family#Lizenzbestimmungen",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{{Achtung|Ab dem 1. Januar 2015 gilt im ZUM-Grundschulwiki generell nur noch die Lizenzierung \"[http://creativecommons.org/licenses/by-sa/3.0/de/ Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)]\", soweit nicht im Einzelfall eine andere Lizenz angegeben ist. Dies entspricht den [[:family:Wiki-Family:Über_Wiki-Family#Lizenzbestimmungen|Lizenzbedingungen, wie sie in der gesamten ZUM-Wiki-Family gültig sind]].}} \n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n<!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]-->\n* [[ZUM-Grundschul-Wiki:Blog|Blog]]\n* [[Hilfe:Vorlagen|Vorlagen, Bilder und Töne]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n<!--* [[ZUM-Grundschul-Wiki:Technik|Technik]]-->\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18991,
+      "parentid": 18990,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T19:48:09Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n<!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]-->\n* [[ZUM-Grundschul-Wiki:Blog|Blog]]\n* [[Hilfe:Vorlagen|Vorlagen, Bilder und Töne]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n<!--* [[ZUM-Grundschul-Wiki:Technik|Technik]]-->\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18990,
+      "parentid": 18989,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T19:47:50Z",
+      "comment": "linkfix",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n<!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]-->\n* [[ZUM-Grundschul-Wiki:Blog|Blog]]</div>\n* [[Hilfe:Vorlagen|Vorlagen, Bilder und Töne]]\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n<!--* [[ZUM-Grundschul-Wiki:Technik|Technik]]-->\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18989,
+      "parentid": 18985,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T19:46:52Z",
+      "comment": "- font-size:10pt;",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n<!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]-->\n* [[ZUM-Grundschul-Wiki:Blog|Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n<!--* [[ZUM-Grundschul-Wiki:Technik|Technik]]-->\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18985,
+      "parentid": 18958,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T19:41:32Z",
+      "comment": "- todo",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n<!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]-->\n* [[ZUM-Grundschul-Wiki:Blog|Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n<!--* [[ZUM-Grundschul-Wiki:Technik|Technik]]-->\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18958,
+      "parentid": 18955,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T23:25:17Z",
+      "comment": "ZUM-Grundschul-Wiki:Technik -> ausgeklammert",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n* [[ZUM-Grundschul-Wiki:Todo|To do]] \n<!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]-->\n* [[ZUM-Grundschul-Wiki:Blog|Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n<!--* [[ZUM-Grundschul-Wiki:Technik|Technik]]-->\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18955,
+      "parentid": 18952,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T23:23:28Z",
+      "comment": "ZUM-Grundschul-Wiki:Blog",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n* [[ZUM-Grundschul-Wiki:Todo|To do]] \n<!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]-->\n* [[ZUM-Grundschul-Wiki:Blog|Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18952,
+      "parentid": 18939,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T23:22:07Z",
+      "comment": "Editierhilfe ausgeklammert",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n* [[ZUM-Grundschul-Wiki:Todo|To do]] \n<!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]-->\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18939,
+      "parentid": 18641,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T22:25:20Z",
+      "comment": "Schriftgrößen entfernt oder angepasst: 9 -> 10pt; 18 -> 22pt",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-size:10pt; font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18641,
+      "parentid": 18640,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:22:59Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-size:9pt; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-size:9pt; font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 18640,
+      "parentid": 15579,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:22:17Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px; font-size:9px; font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px; font-size:9px; font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 15579,
+      "parentid": 15054,
+      "user": "Leupold",
+      "timestamp": "2012-04-29T18:34:56Z",
+      "comment": "adminlink angepasst",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 15054,
+      "parentid": 14374,
+      "user": "Leupold",
+      "timestamp": "2011-11-12T19:06:19Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Grundschul-Wiki:Hilfe|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 14374,
+      "parentid": 14227,
+      "user": "Leupold",
+      "timestamp": "2011-01-23T19:11:45Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 14227,
+      "parentid": 10034,
+      "user": "Leupold",
+      "timestamp": "2010-11-28T12:34:39Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]\n* [[:Kategorie:Exzellenter Artikel|Liste Exzellenter Artikel]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 10034,
+      "parentid": 9931,
+      "user": "Leupold",
+      "timestamp": "2008-12-19T13:02:05Z",
+      "comment": "Töne eingefügt",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen|Vorlagen, Bilder und Töne]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 9931,
+      "parentid": 9929,
+      "user": "Leupold",
+      "timestamp": "2008-12-17T13:41:57Z",
+      "comment": "name angepasst",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen|Vorlagen und Bilder]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 9929,
+      "parentid": 9642,
+      "user": "Leupold",
+      "timestamp": "2008-12-17T13:39:55Z",
+      "comment": "titel angepasst",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen|Vorlagen und Bilder]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 9642,
+      "parentid": 7047,
+      "user": "Leupold",
+      "timestamp": "2008-10-30T15:39:39Z",
+      "comment": "angepasst",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7047,
+      "parentid": 6900,
+      "user": "Leupold",
+      "timestamp": "2007-10-02T16:05:01Z",
+      "comment": "Link Editierhilfe angepasst",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 6900,
+      "parentid": 5408,
+      "user": "Leupold",
+      "timestamp": "2007-07-14T06:47:00Z",
+      "comment": "Neuer Artikel Wikis in anderen Ländern",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 5408,
+      "parentid": 5406,
+      "user": "Leupold",
+      "timestamp": "2007-03-08T19:30:31Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 5406,
+      "parentid": 5253,
+      "user": "Leupold",
+      "timestamp": "2007-03-08T19:20:59Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nAdministration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 5253,
+      "parentid": 5241,
+      "user": "Leupold",
+      "timestamp": "2007-03-01T17:53:32Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nAdministration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 5241,
+      "parentid": 5236,
+      "user": "Leupold",
+      "timestamp": "2007-03-01T14:45:33Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nAdministration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Übungsseite]] für alle Neulinge im Grundschulwiki\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 5236,
+      "parentid": 5234,
+      "user": "Leupold",
+      "timestamp": "2007-02-25T09:24:47Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nAdministration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Übungsseite]] für Neulinge im Grundschulwiki (gedacht für Lehrer, Erzieher, Eltern, Kinder)\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 5234,
+      "parentid": 5074,
+      "user": "Leupold",
+      "timestamp": "2007-02-24T13:28:09Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nAdministration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Übungsseite]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 5074,
+      "parentid": 5071,
+      "user": "A.Burgermeister",
+      "timestamp": "2007-02-12T21:50:30Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nAdministration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 5071,
+      "parentid": 5001,
+      "user": "A.Burgermeister",
+      "timestamp": "2007-02-12T11:17:15Z",
+      "comment": "Rechtschreibung korrigiert",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nAdministration ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 5001,
+      "parentid": 3182,
+      "user": "A.Burgermeister",
+      "timestamp": "2007-01-27T20:04:33Z",
+      "comment": "Fonthöhe angeglichen",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nAdministration ZUM - Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 3182,
+      "parentid": 3181,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T09:04:49Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n\n<div style=\"background-color:#B0C4DE; height:12px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nAdministration ZUM - Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 3181,
+      "parentid": 3178,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T08:48:05Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"background-color:#B0C4DE; height:12px; border-bottom:1px solid #8898BF;\">\n<div style=\"font-family:Verdana; font-size:12px; color:darkblue\"><b>&nbsp;&nbsp;Administration ZUM - Grundschul-WIKI</b></div></div>\n{| width=\"99%\" style=\"background-color:#FFFFFF; align:left; padding:0.3em;\"\n| valign=\"top\" |\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]\n| width=\"50%\" valign=\"top\" |\n* [[Vorlagen]]\n* [[Technik]]\n|}\n|}"
+    },
+    {
+      "revid": 3178,
+      "parentid": 3175,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T08:38:53Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"background-color:#B0C4DE; font-size:1px; height:12px; border-bottom:1px solid #8898BF;\">\n<div style=\"font-size:12px;font-color=blue\">&nbsp;&nbsp;Administration ZUM - Grundschul-WIKI</div></div>\n{| width=\"99%\" style=\"background-color:#FFFFFF; align:left; padding:0.3em;\"\n| valign=\"top\" |\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [http://www.zum.de/wiki/helfer.htm Editierhilfe]\n| width=\"50%\" valign=\"top\" |\n* [[Vorlagen]]\n* [[Technik]]\n|}\n|}"
+    },
+    {
+      "revid": 3175,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T08:27:00Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"background-color:#B0C4DE; font-size:1px; height:8px; border-bottom:1px solid #8898BF;\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\"></div>\n\n<div style=\"font-size:30px\">\n'''&nbsp;''' '''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n|}"
+    }
+  ],
+  "categories": []
+}

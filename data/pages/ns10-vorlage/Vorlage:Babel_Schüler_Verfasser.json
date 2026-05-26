@@ -1,0 +1,40 @@
+{
+  "pageid": 1704,
+  "ns": 10,
+  "title": "Vorlage:Babel Schüler Verfasser",
+  "revisions": [
+    {
+      "revid": 24813,
+      "parentid": 24812,
+      "user": "Leupold",
+      "timestamp": "2021-01-16T07:01:02Z",
+      "comment": "Schützte „[[Vorlage:Babel Schüler Verfasser]]“ ([Bearbeiten=Nur Administratoren erlauben] (unbeschränkt) [Verschieben=Nur Administratoren erlauben] (unbeschränkt))",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=green|\nBG_COLOR=khaki|\nBG_IMAGE_COLOR=white|\nIMAGE=[[Bild:Kid.png|40px|center|Schüler]]|\nTEXT_SIZE=8pt|\nTEXT=Der Verfasser ist '''Grundschüler''' bzw. '''Grundschülerin'''.|\n}}"
+    },
+    {
+      "revid": 24812,
+      "parentid": 24746,
+      "user": "Leupold",
+      "timestamp": "2021-01-16T06:59:59Z",
+      "comment": "Änderung 24746 von [[Special:Contributions/MADana|MADana]] ([[User talk:MADana|Diskussion]]) rückgängig gemacht.",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=green|\nBG_COLOR=khaki|\nBG_IMAGE_COLOR=white|\nIMAGE=[[Bild:Kid.png|40px|center|Schüler]]|\nTEXT_SIZE=8pt|\nTEXT=Der Verfasser ist '''Grundschüler''' bzw. '''Grundschülerin'''.|\n}}"
+    },
+    {
+      "revid": 24746,
+      "parentid": 3522,
+      "user": "MADana",
+      "timestamp": "2020-07-20T12:21:19Z",
+      "comment": "Die Seite wurde geleert.",
+      "wikitext": ""
+    },
+    {
+      "revid": 3522,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-13T20:53:22Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=green|\nBG_COLOR=khaki|\nBG_IMAGE_COLOR=white|\nIMAGE=[[Bild:Kid.png|40px|center|Schüler]]|\nTEXT_SIZE=8pt|\nTEXT=Der Verfasser ist '''Grundschüler''' bzw. '''Grundschülerin'''.|\n}}"
+    }
+  ],
+  "categories": []
+}

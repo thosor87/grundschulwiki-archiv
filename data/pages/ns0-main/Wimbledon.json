@@ -1,0 +1,24 @@
+{
+  "pageid": 3662,
+  "ns": 0,
+  "title": "Wimbledon",
+  "revisions": [
+    {
+      "revid": 14369,
+      "parentid": 14368,
+      "user": "Leupold",
+      "timestamp": "2011-01-23T19:04:50Z",
+      "comment": "angelegt, babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nWimbledon ist ein Londoner Stadtteil.\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 14368,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2011-01-23T19:02:43Z",
+      "comment": "hat „[[Wimbledon]]“ nach „[[Wimbledon Championships]]“ verschoben: verwechslung mit dem ort",
+      "wikitext": "#REDIRECT [[Wimbledon Championships]]"
+    }
+  ],
+  "categories": []
+}

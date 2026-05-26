@@ -1,0 +1,42 @@
+{
+  "pageid": 4235,
+  "ns": 10,
+  "title": "Vorlage:Erweiterungen",
+  "revisions": [
+    {
+      "revid": 17499,
+      "parentid": 17498,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-09T21:05:21Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<div style=\"float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em\">\n<div style=\"font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;\">\n[[Datei:ZUM-Logo.png|right|25px]]'''[[Hilfe:Erweiterungen|Seiten bearbeiten:<br>Erweiterungen]]'''\n</div>\n<div style=\"background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;\">\n\n* [[Hilfe:CategoryTree|CategoryTree (Kategorienbaum)]]\n* [[Hilfe:GeoGebra|GeoGebra]]\n* [[Hilfe:Graphviz|Graphviz]]\n* [[Hilfe:ImageMap|ImageMap]]\n* [[Hilfe:LaTeX|LaTeX]]\n* [[Hilfe:Notensatz|Notensatz]]\n* [[Hilfe:Quiz|Quiz]]\n* [[Hilfe:Schach|Schach]]\n* [[Hilfe:Timeline|Timeline]]\n* [[Hilfe:Widgets|Widgets]]\n** [[Hilfe:SlideShare|SlideShare]]\n** [[Hilfe:Twitter|Twitter]]\n: ''[[Hilfe:Erweiterungen|... mehr]]''\n</div>\n<div style=\"font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;\">\n* [[Hilfe:MediaWiki|Handbuch zur Software]]\n</div></div><noinclude>[[Kategorie:Vorlage:Navigationsblöcke|.]]</noinclude>"
+    },
+    {
+      "revid": 17498,
+      "parentid": 17481,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T19:43:55Z",
+      "comment": "Reihenfolge geändert",
+      "wikitext": "<div style=\"float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em\">\n<div style=\"font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;\">\n[[Datei:ZUM-Logo.png|right|25px]]'''[[Hilfe:Erweiterungen|Seiten bearbeiten:<br>Erweiterungen]]'''\n</div>\n<div style=\"background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;\">\n\n* [[Hilfe:CategoryTree|CategoryTree (Kategorienbaum)]]\n* [[Hilfe:GeoGebra|GeoGebra]]\n* [[Hilfe:Graphviz|Graphviz]]\n* [[Hilfe:ImageMap|ImageMap]]\n* [[Hilfe:LaTeX|LaTeX]]\n* [[Hilfe:Notensatz|Notensatz]]\n* [[Hilfe:Quiz|Quiz]]\n* [[Hilfe:Schach|Schach]]\n* [[Hilfe:Timeline|Timeline]]\n* [[Hilfe:Widgets|Widgets]]\n** [[Hilfe:SlideShare|SlideShare]]\n** [[Hilfe:Twitter|Twitter]]\n: ''[[Hilfe:Erweiterungen|... mehr]]''\n</div>\n<div style=\"font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;\">\n* [[Hilfe:MediaWiki|Handbuch zur Software]]\n</div></div><noinclude>[[Kategorie:Vorlage:Navigationsblöcke|.]]</noinclude>"
+    },
+    {
+      "revid": 17481,
+      "parentid": 17480,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:34:01Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<div style=\"float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em\">\n<div style=\"font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;\">\n[[Datei:ZUM-Logo.png|right|25px]]'''[[Hilfe:Erweiterungen|Seiten bearbeiten:<br>Erweiterungen]]'''\n</div>\n<div style=\"background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;\">\n\n* [[Hilfe:CategoryTree|CategoryTree (Kategorienbaum)]]\n* [[Hilfe:GeoGebra|GeoGebra]]\n* [[Hilfe:Graphviz|Graphviz]]\n* [[Hilfe:ImageMap|ImageMap]]\n* [[Hilfe:LaTeX|LaTeX]]\n* [[Hilfe:Notensatz|Notensatz]]\n* [[Hilfe:Quiz|Quiz]]\n* [[Hilfe:Schach|Schach]]\n* [[Hilfe:Timeline|Timeline]]\n* [[Hilfe:Twitter|Twitter]]\n* [[Hilfe:Widgets|Widgets]]\n** [[Hilfe:SlideShare|SlideShare]]\n: ''[[Hilfe:Erweiterungen|... mehr]]''\n</div>\n<div style=\"font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;\">\n* [[Hilfe:MediaWiki|Handbuch zur Software]]\n</div></div><noinclude>[[Kategorie:Vorlage:Navigationsblöcke|.]]</noinclude>"
+    },
+    {
+      "revid": 17480,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-07T19:58:02Z",
+      "comment": "Widgets",
+      "wikitext": "<div style=\"float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em\">\n<div style=\"font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;\">\n[[Datei:ZUM-Logo.png|right|25px]]'''[[Hilfe:Erweiterungen|Seiten bearbeiten:<br>Erweiterungen]]'''\n</div>\n<div style=\"background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;\">\n\n* [[Hilfe:CategoryTree|CategoryTree (Kategorienbaum)]]\n* [[Hilfe:GeoGebra|GeoGebra]]\n* [[Hilfe:Graphviz|Graphviz]]\n* [[Hilfe:ImageMap|ImageMap]]\n* [[Hilfe:LaTeX|LaTeX]]\n* [[Hilfe:Notensatz|Notensatz]]\n* [[Hilfe:Quiz|Quiz]]\n* [[Hilfe:Schach|Schach]]\n* [[Hilfe:Timeline|Timeline]]\n* [[Hilfe:Twitter|Twitter]]\n* [[Hilfe:Widgets|Widgets]]\n** [[Hilfe:SlideShare|SlideShare]]\n: ''[[Hilfe:Erweiterungen|... mehr]]''\n</div>\n<div style=\"font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;\">\n* [[Hilfe:MediaWiki|Handbuch zur Software]]\n</div></div><noinclude>[[Kategorie:Vorlage:Navigationsblöcke|.]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Navigationsblöcke"
+  ]
+}

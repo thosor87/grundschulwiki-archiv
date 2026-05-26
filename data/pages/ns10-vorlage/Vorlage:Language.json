@@ -1,0 +1,24 @@
+{
+  "pageid": 4253,
+  "ns": 10,
+  "title": "Vorlage:Language",
+  "revisions": [
+    {
+      "revid": 17523,
+      "parentid": 17522,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-20T22:31:42Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "{{#language: {{{1|}}} | {{#if: {{{2|}}} | {{{2|}}} | {{int:lang}} }} }}<noinclude>\n{{documentation}}\n</noinclude>"
+    },
+    {
+      "revid": 17522,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-17T20:05:49Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "{{#language: {{{1|}}} | {{#if: {{{2|}}} | {{{2|}}} | {{int:lang}} }} }}<noinclude>\n{{documentation}}\n</noinclude>"
+    }
+  ],
+  "categories": []
+}

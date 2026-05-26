@@ -1,0 +1,26 @@
+{
+  "pageid": 4284,
+  "ns": 10,
+  "title": "Vorlage:Bild-PD-Schöpfungshöhe",
+  "revisions": [
+    {
+      "revid": 17603,
+      "parentid": 17602,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:24Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-Schöpfungshöhe\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|link=|55px]]\n| Diese Datei erreicht nicht die für einen urheberrechtlichen Schutz nötige {{wpd|Schöpfungshöhe}}.\n\nLiegt eine einfache Wiedergabe vor, so erreicht sie ebenfalls nicht das „Mindestmaß an persönlicher Leistung“ (<small>vgl. BGH GRUR 90, 669 - Bibelreproduktion</small>), um den Leistungsschutz als Lichtbild genießen zu können.\n\nDie Befugnis zur Nutzung der Datei richtet sich daher nach Befugnis zur Nutzung des Originals. Die Datei ist folglich '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.\n|}\n</div>\n{{NoCommons}}\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Public-Domain-Bild (Schöpfungshöhe)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]</noinclude>"
+    },
+    {
+      "revid": 17602,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-03T14:19:51Z",
+      "comment": "wpd-Link",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-Schöpfungshöhe\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|link=|55px]]\n| Diese Datei erreicht nicht die für einen urheberrechtlichen Schutz nötige {{wpd|Schöpfungshöhe}}.\n\nLiegt eine einfache Wiedergabe vor, so erreicht sie ebenfalls nicht das „Mindestmaß an persönlicher Leistung“ (<small>vgl. BGH GRUR 90, 669 - Bibelreproduktion</small>), um den Leistungsschutz als Lichtbild genießen zu können.\n\nDie Befugnis zur Nutzung der Datei richtet sich daher nach Befugnis zur Nutzung des Originals. Die Datei ist folglich '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.\n|}\n</div>\n{{NoCommons}}\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Public-Domain-Bild (Schöpfungshöhe)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pageid": 4232,
+  "ns": 10,
+  "title": "Vorlage:Information/Verwendung",
+  "revisions": [
+    {
+      "revid": 17475,
+      "parentid": 17474,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:59Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<noinclude>{{Dokumentation/Dokuseite}}</noinclude>\n{| {{Bausteindesign11}}\n|-\n| width=\"20%\" |\n<small><pre><nowiki>\n{{Information\n|Beschreibung     = \n|Quelle           = \n|Urheber          = \n|Datum            = \n|Genehmigung      = \n|Andere Versionen = \n|Anmerkungen      = \n}}</nowiki></pre></small>\n| width=\"80%\" |\n* '''Beschreibung''': Was stellt die Datei dar? (Was ist auf dem Foto zu sehen und wo wurde es aufgenommen?)\n* '''Quelle''': Woher stammt die Datei, bzw. das was die Datei zeigt?<ref>Anm. zur Quelle: Werden Bilder mit einem Graphikprogramm ab- oder nachgezeichnet, so muss auch die Quelle des Ursrpungsbildes angegeben werden.</ref> (z. B. eine URL oder „selbst fotografiert“)\n* '''Urheber''': Wer hat sie erstellt, bzw. wer hat den Inhalt angefertigt?<ref>Anm. zum Urheber: Bitte beachte, dass man durch Abzeichnen oder Fotografieren eines urheberrechtlich geschützten Gegenstandes in der Regel kein Urheberrecht erwirbt. Daher ist in einem solchen Fall die Genehmigung desjenigen einzuholen, der das Urheberrecht an dem Ursprungsgegenstand besitzt. Dazu bitte die Seite [[Wikipedia:Bildrechte|Bildrechte]] lesen.</ref> (wenn du Urheber bist, deinen Benutzernamen eintragen oder mit <nowiki>~~~</nowiki> signieren)\n* '''Datum''': Wann ist die Datei entstanden und falls zutreffend wann wurde sie erstveröffentlicht?\n* '''Genehmigung''' ''(nur ausfüllen, wenn du nicht der Urheber bist, ansonsten frei lassen)'': Woher weißt du, dass du die Datei überhaupt benutzen darfst? Hat es dir der Urheber explizit erlaubt? Leite die Erlaubnis unbedingt zusätzlich an [mailto:permissions-de@wikimedia.org?subject=Upload-Formular permissions-de@wikimedia.org] weiter und vergiss dabei bitte nicht, den Dateinamen zu nennen!\n* '''Andere Versionen''' ''(nur ausfüllen, wenn andere Versionen hochgeladen wurden, ansonsten frei lassen)'': Wie lautet der Name für eine andere Version dieser Datei?\n* '''Anmerkungen''' ''(nur ausfüllen, wenn du etwas anmerken willst, ansonsten frei lassen)'': Sonstige Anmerkungen\n|}\n<references />"
+    },
+    {
+      "revid": 17474,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:44Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "<noinclude>{{Dokumentation/Dokuseite}}</noinclude>\n{| {{Bausteindesign11}}\n|-\n| width=\"20%\" |\n<small><pre><nowiki>\n{{Information\n|Beschreibung     = \n|Quelle           = \n|Urheber          = \n|Datum            = \n|Genehmigung      = \n|Andere Versionen = \n|Anmerkungen      = \n}}</nowiki></pre></small>\n| width=\"80%\" |\n* '''Beschreibung''': Was stellt die Datei dar? (Was ist auf dem Foto zu sehen und wo wurde es aufgenommen?)\n* '''Quelle''': Woher stammt die Datei, bzw. das was die Datei zeigt?<ref>Anm. zur Quelle: Werden Bilder mit einem Graphikprogramm ab- oder nachgezeichnet, so muss auch die Quelle des Ursrpungsbildes angegeben werden.</ref> (z. B. eine URL oder „selbst fotografiert“)\n* '''Urheber''': Wer hat sie erstellt, bzw. wer hat den Inhalt angefertigt?<ref>Anm. zum Urheber: Bitte beachte, dass man durch Abzeichnen oder Fotografieren eines urheberrechtlich geschützten Gegenstandes in der Regel kein Urheberrecht erwirbt. Daher ist in einem solchen Fall die Genehmigung desjenigen einzuholen, der das Urheberrecht an dem Ursprungsgegenstand besitzt. Dazu bitte die Seite [[Wikipedia:Bildrechte|Bildrechte]] lesen.</ref> (wenn du Urheber bist, deinen Benutzernamen eintragen oder mit <nowiki>~~~</nowiki> signieren)\n* '''Datum''': Wann ist die Datei entstanden und falls zutreffend wann wurde sie erstveröffentlicht?\n* '''Genehmigung''' ''(nur ausfüllen, wenn du nicht der Urheber bist, ansonsten frei lassen)'': Woher weißt du, dass du die Datei überhaupt benutzen darfst? Hat es dir der Urheber explizit erlaubt? Leite die Erlaubnis unbedingt zusätzlich an [mailto:permissions-de@wikimedia.org?subject=Upload-Formular permissions-de@wikimedia.org] weiter und vergiss dabei bitte nicht, den Dateinamen zu nennen!\n* '''Andere Versionen''' ''(nur ausfüllen, wenn andere Versionen hochgeladen wurden, ansonsten frei lassen)'': Wie lautet der Name für eine andere Version dieser Datei?\n* '''Anmerkungen''' ''(nur ausfüllen, wenn du etwas anmerken willst, ansonsten frei lassen)'': Sonstige Anmerkungen\n|}\n<references />"
+    }
+  ],
+  "categories": []
+}

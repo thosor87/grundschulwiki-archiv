@@ -1,0 +1,152 @@
+{
+  "pageid": 3229,
+  "ns": 0,
+  "title": "Spielwiese4",
+  "revisions": [
+    {
+      "revid": 21240,
+      "parentid": 18653,
+      "user": "KSMehlem",
+      "timestamp": "2017-05-30T15:04:21Z",
+      "comment": "",
+      "wikitext": "'''Die ganze Familie''' guckt sich ''ein Buch'' oder macht etwas '''am Computer'''.\n[[Bild:wiki.jpg]]\n\n[[Bild:garten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese1 Spielwiese 1]"
+    },
+    {
+      "revid": 18653,
+      "parentid": 18651,
+      "user": "MABuchner",
+      "timestamp": "2014-12-05T09:39:19Z",
+      "comment": "",
+      "wikitext": "'''Die ganze Familie''' guckt sich ''ein Buch'' oder macht etwas '''am Computer'''.\n[[Bild:wiki.jpg]]\n\n[[Bild:garten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]"
+    },
+    {
+      "revid": 18651,
+      "parentid": 15581,
+      "user": "MABuchner",
+      "timestamp": "2014-12-05T09:32:14Z",
+      "comment": "",
+      "wikitext": "Die ganze Familie guckt sich ein Buch oder macht etwas am Computer.\n[[Bild:wiki.jpg]]\n\n[[Bild:garten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]"
+    },
+    {
+      "revid": 15581,
+      "parentid": 12638,
+      "user": "MAWiedemann",
+      "timestamp": "2012-05-04T18:33:02Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:garten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]"
+    },
+    {
+      "revid": 12638,
+      "parentid": 12636,
+      "user": "MARaschke",
+      "timestamp": "2009-12-04T12:29:25Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]"
+    },
+    {
+      "revid": 12636,
+      "parentid": 12553,
+      "user": "MARaschke",
+      "timestamp": "2009-12-04T08:18:05Z",
+      "comment": "/* Die Katze */",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]\n\n\n\n== Die Katze==\n\nDie KAtze ist ein schönes '''Tier''', ich mag sieKAT\nDie\n\n== == Die Raumstation ISS==\nDie Raumstation ISS ist die größte internationale Raumstation im All.\nSeit 1998 ist die ISS im Bau.\nDie ISS Wird warscheinlich 2010  mit dem Bau fertig sein."
+    },
+    {
+      "revid": 12553,
+      "parentid": 12551,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:53:45Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]\n\n\n\n== Die Katze==\n\nDie KAtze ist ein schönes '''Tier''', ich mag sie.\n\n\n\n\n\nDie sonnenfinsternis\n\n\n\n\n== == Die Raumstation ISS==\nDie Raumstation ISS ist die größte internationale Raumstation im All.\nSeit 1998 ist die ISS im Bau.\nDie ISS Wird warscheinlich 2010  mit dem Bau fertig sein."
+    },
+    {
+      "revid": 12551,
+      "parentid": 12533,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:53:10Z",
+      "comment": "/* Die Raumstation */",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]\n\n\n\n== Die Katze==\n\nDie KAtze ist ein schönes '''Tier''', ich mag sie.\n\n\n\n\n\nDie sonnenfinsternis\n\n\n\n\n== Die Raumstation== \nDie Raumstation ISS ist die größte internationale Raumstation im All.\nSeit 1998 ist die ISS im Bau.\nDie ISS Wird warscheinlich 2010  mit dem Bau fertig sein."
+    },
+    {
+      "revid": 12533,
+      "parentid": 12531,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:41:50Z",
+      "comment": "/* Die Raumstation */",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]\n\n\n\n== Die Katze==\n\nDie KAtze ist ein schönes '''Tier''', ich mag sie.\n\n\n\n\n\nDie sonnenfinsternis\n\n\n\n\n== Die Raumstation== \nDie Raumstation ISS ist die größte internationale Raumstation.\nIm All."
+    },
+    {
+      "revid": 12531,
+      "parentid": 12506,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:40:34Z",
+      "comment": "/* Die Katze */",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]\n\n\n\n== Die Katze==\n\nDie KAtze ist ein schönes '''Tier''', ich mag sie.\n\n\n\n\n\nDie sonnenfinsternis\n\n\n\n\n== Die Raumstation== \nDie Raumstation ISS ist die größte internationale Raumstation."
+    },
+    {
+      "revid": 12506,
+      "parentid": 12505,
+      "user": "MARaschke",
+      "timestamp": "2009-11-26T10:03:54Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]\n\n\n\n== Die Katze==\n\nDie KAtze ist ein schönes '''Tier''', ich mag sie.\n\n\n\n\n\nDie sonnenfinsternis"
+    },
+    {
+      "revid": 12505,
+      "parentid": 12504,
+      "user": "MARaschke",
+      "timestamp": "2009-11-26T10:03:49Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese \n\n\n\n\n== Das schwarze loch==\nDas [['''schwarze loch''']] ist ein explodirter Komet."
+    },
+    {
+      "revid": 12504,
+      "parentid": 12200,
+      "user": "MARaschke",
+      "timestamp": "2009-11-26T09:37:06Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]\n\n\n\n== Die Katze==\n\nDie KAtze ist ein schönes '''Tier''', ich mag sie."
+    },
+    {
+      "revid": 12200,
+      "parentid": 11912,
+      "user": "KSFabritius",
+      "timestamp": "2009-06-23T10:04:39Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]\n\n[http://grundschulwiki.zum.de/index.php/Spielwiese3 Spielwiese 2]"
+    },
+    {
+      "revid": 11912,
+      "parentid": 11891,
+      "user": "MALechtenboehmer",
+      "timestamp": "2009-06-09T13:56:08Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]\n\n[[Bild:\ngarten.jpg]]"
+    },
+    {
+      "revid": 11891,
+      "parentid": 11890,
+      "user": "MAtest",
+      "timestamp": "2009-05-28T13:00:22Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!\n[[Bild:wiki.jpg]]"
+    },
+    {
+      "revid": 11890,
+      "parentid": 11639,
+      "user": "MAtest",
+      "timestamp": "2009-05-28T12:58:19Z",
+      "comment": "",
+      "wikitext": "Der Herr Apfelbaum wird gerade geerntet von Herrn Doktor!"
+    },
+    {
+      "revid": 11639,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2009-05-06T14:58:57Z",
+      "comment": "Die Seite wurde neu angelegt: testseite",
+      "wikitext": "testseite"
+    }
+  ],
+  "categories": []
+}

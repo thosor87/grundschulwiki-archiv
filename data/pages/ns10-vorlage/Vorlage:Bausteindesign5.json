@@ -1,0 +1,26 @@
+{
+  "pageid": 4229,
+  "ns": 10,
+  "title": "Vorlage:Bausteindesign5",
+  "revisions": [
+    {
+      "revid": 17469,
+      "parentid": 17468,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:58Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<code><onlyinclude>cellspacing=\"8\" cellpadding=\"0\" class=\"hintergrundfarbe1 rahmenfarbe2\" style=\"width: 100%; font-size: 100%; border-style: solid; border-width: 3px; margin: auto; margin-top: 3px; margin-bottom: 3px; clear: both; position:relative;\"</onlyinclude></code>\n\n{{Dokumentation}}"
+    },
+    {
+      "revid": 17468,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:33Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "<code><onlyinclude>cellspacing=\"8\" cellpadding=\"0\" class=\"hintergrundfarbe1 rahmenfarbe2\" style=\"width: 100%; font-size: 100%; border-style: solid; border-width: 3px; margin: auto; margin-top: 3px; margin-bottom: 3px; clear: both; position:relative;\"</onlyinclude></code>\n\n{{Dokumentation}}"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:nicht dokumentiert"
+  ]
+}

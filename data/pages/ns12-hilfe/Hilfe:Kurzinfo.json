@@ -1,0 +1,24 @@
+{
+  "pageid": 4378,
+  "ns": 12,
+  "title": "Hilfe:Kurzinfo",
+  "revisions": [
+    {
+      "revid": 17791,
+      "parentid": 17790,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:37:43Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "Diese Seite hier ist aus dem [[:zum-wiki:|ZUM-Wiki]] eingebunden, und zwar mit dem folgenden Quellcode:\n\n<pre>{{:zum-wiki:Hilfe:Kurzinfo}}</pre>\n\nDie aktuelle Lösung ist vorläufig und noch unbefriedigend, da die Seite noch soweit angepasst werden müsste, dass sie (einschließlich der eingebundenen Grafiken) sowohl im ZUM-Wiki wie auch hier sinnvoll, also mit passenden Verlinkungen angezeigt wird.\n\n----\n\n{{:zum-wiki:Hilfe:Kurzinfo}}"
+    },
+    {
+      "revid": 17790,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T15:44:45Z",
+      "comment": "- kat",
+      "wikitext": "Diese Seite hier ist aus dem [[:zum-wiki:|ZUM-Wiki]] eingebunden, und zwar mit dem folgenden Quellcode:\n\n<pre>{{:zum-wiki:Hilfe:Kurzinfo}}</pre>\n\nDie aktuelle Lösung ist vorläufig und noch unbefriedigend, da die Seite noch soweit angepasst werden müsste, dass sie (einschließlich der eingebundenen Grafiken) sowohl im ZUM-Wiki wie auch hier sinnvoll, also mit passenden Verlinkungen angezeigt wird.\n\n----\n\n{{:zum-wiki:Hilfe:Kurzinfo}}"
+    }
+  ],
+  "categories": []
+}

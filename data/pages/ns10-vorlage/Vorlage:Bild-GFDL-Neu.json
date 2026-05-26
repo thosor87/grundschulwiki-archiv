@@ -1,0 +1,26 @@
+{
+  "pageid": 4280,
+  "ns": 10,
+  "title": "Vorlage:Bild-GFDL-Neu",
+  "revisions": [
+    {
+      "revid": 17595,
+      "parentid": 17594,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:21Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-GFDL-Neu\">\n{| {{Lizenzdesign1}}\n| [[Datei:Heckert GNU white.svg|alt=|link=|55px]]\n| Diese Datei wurde unter der '''{{wpde|GNU-Lizenz für freie Dokumentation}}''' veröffentlicht.\n\nEs ist erlaubt, die Datei unter den {{wpde|Wikipedia:GNU Free Documentation License|Bedingungen der GNU-Lizenz für freie Dokumentation}}, Version 1.2 oder einer späteren Version, veröffentlicht von der {{wpde|Free Software Foundation}}, zu kopieren, zu verbreiten und/oder zu modifizieren. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:GFDL|{{PAGENAME}}]]\n}}</includeonly><noinclude>\n\n== Siehe auch ==\n* [[Vorlage:Bild-GFDL]]\n* [[Vorlage:Bild-GFDL/1.3]]\n\n[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\n\n</noinclude>"
+    },
+    {
+      "revid": 17594,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-03T23:43:55Z",
+      "comment": "wpde-Links; - Sprachversionen",
+      "wikitext": "<div id=\"Vorlage_Bild-GFDL-Neu\">\n{| {{Lizenzdesign1}}\n| [[Datei:Heckert GNU white.svg|alt=|link=|55px]]\n| Diese Datei wurde unter der '''{{wpde|GNU-Lizenz für freie Dokumentation}}''' veröffentlicht.\n\nEs ist erlaubt, die Datei unter den {{wpde|Wikipedia:GNU Free Documentation License|Bedingungen der GNU-Lizenz für freie Dokumentation}}, Version 1.2 oder einer späteren Version, veröffentlicht von der {{wpde|Free Software Foundation}}, zu kopieren, zu verbreiten und/oder zu modifizieren. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:GFDL|{{PAGENAME}}]]\n}}</includeonly><noinclude>\n\n== Siehe auch ==\n* [[Vorlage:Bild-GFDL]]\n* [[Vorlage:Bild-GFDL/1.3]]\n\n[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\n\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

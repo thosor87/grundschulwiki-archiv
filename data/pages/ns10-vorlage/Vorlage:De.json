@@ -1,0 +1,26 @@
+{
+  "pageid": 4245,
+  "ns": 10,
+  "title": "Vorlage:De",
+  "revisions": [
+    {
+      "revid": 17507,
+      "parentid": 17506,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-20T22:31:41Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "{{description|1=de|2={{{1|<noinclude>abc</noinclude>}}}|3=Deutsch|inline={{{inline|}}}}}{{#if:{{{1|}}}||{{#switch:{{NAMESPACENUMBER}}|0|6|14=[[Category:Template:De with no text displayed]]}}}}<noinclude>{{internationalization template doc}}</noinclude>"
+    },
+    {
+      "revid": 17506,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-17T20:05:47Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "{{description|1=de|2={{{1|<noinclude>abc</noinclude>}}}|3=Deutsch|inline={{{inline|}}}}}{{#if:{{{1|}}}||{{#switch:{{NAMESPACENUMBER}}|0|6|14=[[Category:Template:De with no text displayed]]}}}}<noinclude>{{internationalization template doc}}</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Language templates"
+  ]
+}

@@ -1,0 +1,1153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hilfe:Regeln</title>
+    <ns>12</ns>
+    <id>1303</id>
+    <revision>
+      <id>18945</id>
+      <parentid>9867</parentid>
+      <timestamp>2015-05-05T22:40:39Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>Karl Kirst verschob Seite [[Regeln]] nach [[Hilfe:Regeln]]: Hilfe-Seite; kein Artikel</comment>
+      <text xml:space="preserve" bytes="2503">{{Kastendesign|
+   BORDER = #AE0000|
+   BACKGROUND = #AE4C4B|
+   BREITE =100%|
+   INHALT=Dieses WIKI wird von Kindern (nicht von Erwachsenen!) für Kinder geschrieben, bearbeitet und gepflegt. Damit du das WIKI sinnvoll nutzen kannst, gibt es einige wichtige Regeln, an die du dich unbedingt halten musst.
+
+* Texte von anderen Internetseiten, Büchern, Zeitschriften oder anderem darfst du nur dann verwenden, wenn der Besitzer das auch wirklich erlaubt. Dann musst du auch einen Hinweis schreiben, woher du den Text hast.
+* Bilder von anderen Internetseiten, Büchern, Zeitschriften oder anderem darfst du nur dann verwenden, wenn der Besitzer das auch wirklich erlaubt. Dann musst du auch einen Hinweis schreiben, woher du das Bild hast.
+* Wenn du eigene Texte schreibst, kann sie jeder auf der Welt lesen, verändern oder löschen, wenn er Zugang zum Grundschul-WIKI hat. Wenn du das nicht möchtest, darfst du hier keinen Text schreiben.
+* Teile aus bestehenden Texten von anderen Kindern darfst du nur dann löschen, wenn etwas im Text nicht richtig ist oder wenn du einen Rechtschreibfehler gefunden hast. Ergänzen und umändern darfst du die Texte auf jeden Fall.
+* Versuche, selbst möglichst ohne Fehler zu schreiben. Das heißt, du musst deinen Text am besten vorher schon einmal auf Papier schreiben und korrigieren lassen. Frage einen Erwachsenen, der hilft dir dabei!
+* Achte darauf, wie man in einem Lexikon schreibt:
+** Man schreibt immer nur die Einzahl eines Wortes, nie die Mehrzahl (Bsp.: Hund, der, aber &lt;span style=&quot;color: red&quot;&gt;nicht&lt;/span&gt;: Hunde, die)
+** Schreibe den Begleiter zu einem Wort nicht mit in den Artikelnamen: &lt;nowiki&gt;[[Hund]], der&lt;/nowiki&gt;, aber &lt;span style=&quot;color: red&quot;&gt;nicht&lt;/span&gt;: &lt;nowiki&gt;[[Hund, der]]&lt;/nowiki&gt;
+* Verrate nie deine Adresse. Es wird dich auch niemand von uns danach fragen! Deinen vollständigen Namen kannst du unter Einstellungen eingeben. Für deine Artikel hast du das Copyright. Das heißt, dass du der Autor bist. Deswegen solltest du also auch genannt werden.
+* Im WIKI darfst du niemanden erpressen oder bedrohen.
+* Im WIKI darfst du keine Schimpfwörter benutzen!
+* Wir stellen uns auf unserer eigenen Benutzerseite kurz vor, damit die anderen wissen, wer wir sind.
+
+'''Wenn du merkst, dass sich jemand nicht an die Regeln hält, solltest du ihn unbedingt noch einmal darauf hinweisen, sage einem Erwachsenen Bescheid oder schreibe uns eine [mailto:email@grundschulwiki.de E-Mail].'''|
+   BILD=Important.png|
+   ÜBERSCHRIFT=Regeln|
+ }}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Richtlinien im Wiki</title>
+    <ns>12</ns>
+    <id>4261</id>
+    <revision>
+      <id>17551</id>
+      <parentid>17550</parentid>
+      <timestamp>2014-02-08T21:09:04Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="3861">&lt;div style=&quot;margin:0; margin-right:4px; margin-left:4px; border:5px solid #1874CD; padding: 1em 1em 1em 1em; background-color:#FFFFFF; align:left;&quot;&gt;
+&lt;center&gt;&lt;table border=&quot;0&quot; width=&quot;800px&quot; cellpadding=5 cellspacing=15&gt;
+&lt;tr&gt;&lt;td  width=&quot;800px&quot; valign=&quot;top&quot;&gt;
+=== Verhaltensregeln für Wiki-Autoren ===
+
+Das ''{{SITENAME}}'' ist ein '''öffentliches Portal''' in der [[:wikis:|Wiki-Family auf ZUM.de]], das weltweit eingesehen werden kann. 
+Es ist kein Diskussionsforum, kein Chat, kein Ort zur Selbstdarstellung, keine Plattform für Streitereien, Beleidigungen oder Mobbing, keine Tauschbörse. 
+
+Jede Änderung oder Neuanlegung eines Beitrages wird protokolliert; es ist nachvollziehbar, '''Wer Was Wann''' geschrieben, geändert oder gelöscht hat. Rechtschreibfehler und Unwahrheiten können von den angemeldeten Benutzern korrigiert und Beiträge ergänzt werden.
+
+'''Beachte folgende Richtlinien''': 
+&lt;div style=&quot;padding:1px;background:#FFC125;border:0px groove;&quot;&gt;
+*'''Schreibe sachlich''': Zitiere Publikation(en), die deine Aussagen belegen. 
+*'''Schreibe verständlich''': Versteht jeder deiner Bekannten deine Aussage sofort? 
+*'''Schreibe in ganzen Sätzen''': Ein Satz enthält mindestens ein Subjekt und ein Prädikat. 
+*'''Schreibe grammatikalisch richtig'''. 
+*'''Achte auf die Rechtschreibung'''. 
+&lt;/div&gt;
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&quot;margin:0; margin-right:4px; margin-left:4px; border:5px solid #1874CD; padding: 1em 1em 1em 1em; background-color:#FFFFFF; align:left;&quot;&gt;
+&lt;center&gt;&lt;table border=&quot;0&quot; width=&quot;800px&quot; cellpadding=5 cellspacing=15&gt;
+&lt;tr&gt;&lt;td  width=&quot;800px&quot; valign=&quot;top&quot;&gt;
+=== Bildrechte/Urheberrecht ===
+
+* Der einfachste Fall: das Bild wird selbst erstellt, fotografiert oder gezeichnet
+* Abgebildete Personen muss man fragen, ob sie mit der Veröffentlichung einverstanden sind
+* Stammt das Bild '''nicht von Dir''' (sondern z.B. aus dem Internet) oder hast Du etwas fotografiert, das jemand anderes hergestellt hat, muss der Rechteinhaber in die Veröffentlichung einwilligen
+* Dazu kann per E-Mail um Erlaubnis gefragt werden. Die erhaltene Genehmigung muss beim Hochladen der Abbildung mit angegeben werden (die E-Mail an die Administratoren weiterleiten!)
+*Bildrechte außer bei selbst erstellten Bildern immer im Einzelfall klären!'''
+*Es ist nicht erlaubt, Kopien aus Schulbüchern hochzuladen und darzustellen, weder als Bild noch innerhalb von Dateien.
+
+
+'''Beachte beim Hochladen von Dateien und Bildern:
+
+:Im Textfeld '''Beschreibung/Quelle''' müssen folgende Angaben gemacht werden:  
+&lt;div style=&quot;padding:1px;background:#FFC125;border:0px groove;&quot;&gt;
+
+* '''Beschreibung''': Was stellt die Datei dar?
+* '''Quelle''': Woher stammt die Datei? (URL angeben bwz. selbst fotografiert/erstellt/gezeichnet...)
+* '''Urheber''': Wer hat die Datei erstellt? 
+* '''Datum''': Wann ist es entstanden und/oder erstveröffentlicht? (nicht das Datum eintragen, an dem das Bild hochgeladen wird!)
+*''' Genehmigung''' (auszufüllen, wenn du nicht der Urheber bist): Hat dir der Urheber die Nutzung explizit erlaubt? Wenn ja, wie/wo kann man das überprüfen? 
+* '''Lizenzangabe:''' Unter welcher Lizenz wurde das Bild veröffentlicht (fremdes Bild) bzw. soll es jetzt veröffentlicht werden (eigenes Bild)? 
+&lt;/div&gt;
+
+
+'''ACHTUNG: Bei fehlenden Angaben wird das Bild von den Administratoren gelöscht.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;
+&lt;/div&gt;
+
+
+&lt;div style=&quot;margin:0; margin-right:4px; margin-left:4px; border:5px solid #1874CD; padding: 1em 1em 1em 1em; background-color:#FFFFFF; align:left;&quot;&gt;
+&lt;center&gt;&lt;table border=&quot;0&quot; width=&quot;800px&quot; cellpadding=5 cellspacing=15&gt;
+&lt;tr&gt;&lt;td  width=&quot;800px&quot; valign=&quot;top&quot;&gt;
+=== Regelverstoß ===
+Benutzer, die gegen die '''Wiki-Richtlinien''' verstoßen, werden vom Administrator gesperrt und können nicht mehr im ''{{SITENAME}}'' mitarbeiten.
+&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/center&gt;
+&lt;/div&gt;
+
+[[Kategorie:Projekt-Regeln]]</text>
+      <sha1>j8jxx5qq3v9n5aukdrf5f0m0f37au4h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Spezialvorlagen</title>
+    <ns>12</ns>
+    <id>2972</id>
+    <revision>
+      <id>18993</id>
+      <parentid>10092</parentid>
+      <timestamp>2015-05-08T19:54:34Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>Karl Kirst verschob Seite [[Spezialvorlagen]] nach [[Hilfe:Spezialvorlagen]]: Hilfeseite</comment>
+      <text xml:space="preserve" bytes="3327">==Babelvorlagen==
+
+{| {{prettytable}}
+|- {{highlight1}}
+!width=100px | Zur Seite
+!width=200px | Anzeige
+!width=200px| Verwendung
+|-
+| [[Vorlage:BabelVorlage]]
+| &lt;small&gt;wird in Babelanzeigen verwendet&lt;/small&gt;
+| &lt;tt&gt;
+ &lt;nowiki&gt;
+ &lt;div style=&quot;float:left; border:solid 1px 
+          {{{BORDER_COLOR}}}; margin:1px&quot;&gt;
+ {| cellpadding=&quot;1&quot; cellspacing=&quot;0&quot; 
+      style=&quot;width:18.6em; 
+          background-color:{{{BG_COLOR}}}&quot;
+ | style=&quot;width:45px; height:50px; 
+      background-color:{{{BG_IMAGE_COLOR}}}; 
+      text-align:center&quot;|
+{{{IMAGE}}}
+| style=&quot;font-size:{{{TEXT_SIZE}}}; 
+      padding:0.47em; 
+      line-height:1.25em&quot;| {{{TEXT}}}
+|}
+&lt;/div&gt;&lt;/nowiki&gt;&lt;/tt&gt;
+|-
+| [[Vorlage:Babel_Lehrer]]
+| {{BabelVorlage|
+BORDER_COLOR=cadetblue|
+BG_COLOR=lightblue|
+BG_IMAGE_COLOR=#ffffff|
+IMAGE=[[Bild:Lempel.gif|40px|center|Lehrer]]|
+TEXT_SIZE=8pt|
+TEXT=Dieser Benutzer ist '''Lehrer''' bzw. '''Lehrerin'''.|
+}}
+| &lt;tt&gt;
+ &lt;nowiki&gt;{{BabelVorlage|
+ BORDER_COLOR=cadetblue|
+ BG_COLOR=lightblue|
+ BG_IMAGE_COLOR=#ffffff|
+ IMAGE=[[Bild:Lempel.gif|
+   40px|center|Lehrer]]|
+ TEXT_SIZE=8pt|
+ TEXT=Dieser Benutzer ist '''Lehrer''' 
+ bzw. '''Lehrerin'''.|
+ }}&lt;/nowiki&gt;&lt;/tt&gt;
+|-
+| [[Vorlage:Babel_Schüler]]
+| {{BabelVorlage|
+BORDER_COLOR=#50ff50|
+BG_COLOR=#c0ffc0|
+BG_IMAGE_COLOR=#ffffff|
+IMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|
+TEXT_SIZE=8pt|
+TEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|
+}}
+| &lt;tt&gt;
+ &lt;nowiki&gt;{{BabelVorlage|
+ BORDER_COLOR=#50ff50|
+ BG_COLOR=#c0ffc0|
+ BG_IMAGE_COLOR=#ffffff|
+ IMAGE=[[Bild:SchwikiLogo.png|
+      40px|center|Schüler]]|
+ TEXT_SIZE=8pt|
+ TEXT=Dieser Benutzer ist '''Schüler''' 
+bzw. '''Schülerin'''.|
+}}&lt;/nowiki&gt;&lt;/tt&gt;
+|-
+| [[Vorlage:Babel_Schüler_Verfasser]]
+| {{BabelVorlage|
+BORDER_COLOR=green|
+BG_COLOR=khaki|
+BG_IMAGE_COLOR=white|
+IMAGE=[[Bild:Kid.png|40px|center|Schüler]]|
+TEXT_SIZE=8pt|
+TEXT=Der Verfasser ist '''Schüler''' bzw. '''Schülerin'''.|
+}}
+| &lt;tt&gt;
+ &lt;nowiki&gt;{{BabelVorlage|
+ BORDER_COLOR=green|
+ BG_COLOR=khaki|
+ BG_IMAGE_COLOR=white|
+ IMAGE=[[Bild:Kid.png|40px|
+           center|Schüler]]|
+ TEXT_SIZE=8pt|
+ TEXT=Der Verfasser ist '''Schüler''' 
+ bzw. '''Schülerin'''.|
+}}&lt;/nowiki&gt;&lt;/tt&gt;
+|-
+| [[Vorlage:Babel_Lehrer_Verfasser]]
+| {{Vorlage:Babel_Lehrer_Verfasser}}
+| &lt;tt&gt;
+ &lt;nowiki&gt;{{BabelVorlage|
+ BORDER_COLOR=red|
+ BG_COLOR=khaki|
+ BG_IMAGE_COLOR=white|
+ IMAGE=[[Bild:Kdict.png|40px|
+           center|Lehrer]]|
+ TEXT_SIZE=8pt|
+ TEXT=Der Verfasser ist '''Lehrer''' 
+ bzw. '''Lehrerin'''.|
+}}&lt;/nowiki&gt;&lt;/tt&gt;
+|}
+
+==Kombination mehrerer Babelvorlagen==
+
+{| {{prettytable}}
+|- {{highlight1}}
+!width=100px | Einsatz
+!width=200px | Anzeige
+!width=200px| Verwendung
+|- 
+| Wird als erste Zeile eingefügt, das Bild erscheint rechts. Gibt kurze Informationen zum Nutzer/anlegenden Verfasser etc..
+| {{Babel-2|Schüler_Verfasser|Lehrer_Verfasser}}
+| &lt;nowiki&gt;{{Babel-2|Schüler_Verfasser|Lehrer_Verfasser}}&lt;/nowiki&gt;&lt;br&gt;
+Babel-X|dahinter X verschiedene Anzeigen, durch &lt;nowiki&gt;|&lt;/nowiki&gt; getrennt!
+|}
+
+
+==Textkorrekturhinweise==
+
+{| {{prettytable}}
+|- {{highlight1}}
+!width=100px | Einsatz
+!width=200px | Anzeige
+!width=200px| Verwendung
+|- 
+| Vorlage kann als Hinweis auf Diskussionsseiten einzelner Artikel eingesetzt werden. Dient als Hinweis für die Schüler.
+| {{Tippfehler}}
+| &lt;nowiki&gt;{{Tippfehler}}&lt;/nowiki&gt;
+|}
+
+==Zurück==
+
+Zurück zu den [[Vorlagen]] geht es hier!</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Tabellen</title>
+    <ns>12</ns>
+    <id>4384</id>
+    <revision>
+      <id>17805</id>
+      <parentid>17804</parentid>
+      <timestamp>2014-02-08T21:37:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2610">=== Positionierung von Text und Bild mit Hilfe einer Tabelle ===
+{|
+|width=500px|
+{|
+|width=&quot;40%&quot; |Die verwendete Tabelle hat drei Spalten. Die erste Spalte nimmt 40% der Seitenbreite in Anspruch. Die mittlere Spalte ist leer und stellt der Abstand ( 3% ) zwischen Text und Bild sicher. In der rechten Spalte sitzt das Bild durch &lt;nowiki&gt;valign=&quot;top&quot;&lt;/nowiki&gt; oben.
+|width=&quot;3%&quot;|
+|valign=&quot;top&quot; |[[Datei:DBPB 1952 93 Walther Rathenau.jpg|100px]]
+|}
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;
+{|
+
+|width=&quot;40%&quot;|Die verwendete Tabelle hat drei Spalten. 
+Die erste Spalte nimmt 40% der Seitenbreite in Anspruch. 
+Die mittlere Spalte ist leer und stellt der Abstand ( 3% )
+zwischen Text und Bild sicher. In der rechten Spalte 
+sitzt das Bild durch &lt;nowiki&gt;valign=&quot;top&quot;&lt;/nowiki&gt; oben.
+
+|width=&quot;3%&quot;|
+
+|valign=&quot;top&quot;|[[Datei:DBPB 1952 93 Walther Rathenau.jpg|100px]]
+
+|}
+&lt;/pre&gt;
+
+
+|}
+
+===Einfache Tabellen ===
+{|
+|width=500px; |
+{|
+| Spalte A
+*1.1
+*1.2
+| Spalte B 
+*2.1
+*2.2
+| Spalte C
+*3.1
+*3.2
+|}
+
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;
+{|
+| Spalte A
+*1.1
+*1.2
+| Spalte B 
+*2.1
+*2.2
+| Spalte C
+*3.1
+*3.2
+|}
+&lt;/pre&gt;
+
+
+|}
+
+
+
+=== Zweizeilige Tabelle mit Rahmen und bestimmter Spaltenbreite ===
+{|
+|width=500px; |
+{| border=&quot;1&quot; cellspacing=&quot;0&quot;  valign=&quot;top&quot;
+| width=&quot;5%&quot; | A1  
+| width=&quot;10%&quot; | B1
+| width=&quot;20%&quot; | C1
+|-valign=&quot;top&quot;
+| A2
+| B2
+| C3
+|}
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;
+{| border=&quot;1&quot; cellspacing=&quot;0&quot;  valign=&quot;top&quot;
+| width=&quot;5%&quot; | A1  
+| width=&quot;10%&quot; | B1
+| width=&quot;20%&quot; | C1
+|-valign=&quot;top&quot;
+| A2
+| B2
+| C3
+|}
+&lt;/pre&gt;
+
+
+|}
+
+
+
+===Tabelle mit Rahmen, Spaltenbreite, Hintergrundfarbe und Textfarbe===
+{|
+|width=500px;|
+{|style=&quot;background:#BFEFFF&quot; border=&quot;1&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot;
+|style=&quot;vertical-align:top&quot; ; width=&quot;50%&quot;|
+&lt;span style=&quot;color:#990000&quot;&gt;Erste Spalte 
+|style=&quot;vertical-align:top&quot; ; width=&quot;25%&quot;|
+&lt;span style=&quot;color:#009900&quot;&gt;Zweite Spalte
+|style=&quot;vertical-align:top&quot; ; width=&quot;25%&quot;|
+&lt;span style=&quot;color:#000099&quot;&gt;Dritte Spalte
+|}
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;
+{|style=&quot;background:#BFEFFF&quot; border=&quot;1&quot;
+cellspacing=&quot;0&quot; cellpadding=&quot;4&quot;
+|style=&quot;vertical-align:top&quot; ; width=&quot;50%&quot;|
+&lt;span style=&quot;color:#990000&quot;&gt;Erste Spalte 
+|style=&quot;vertical-align:top&quot; ; width=&quot;25%&quot;|
+&lt;span style=&quot;color:#009900&quot;&gt;Zweite Spalte
+|style=&quot;vertical-align:top&quot; ; width=&quot;25%&quot;|
+&lt;span style=&quot;color:#000099&quot;&gt;Dritte Spalte
+|}
+&lt;/pre&gt;
+
+
+|}
+
+===2 Spalten ===
+{|
+|width=500px; valign=&quot;top&quot; |
+{|
+
+|width=200px|Spalte 1
+
+(die erste hat ein feste Breite 400px)
+|width=5px|
+|valign=&quot;top&quot; | Spalte 2
+
+|}
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;{|
+
+|width=400px|Spalte 1
+
+(die erste hat ein feste Breite 400px)
+|width=5px|
+|valign=&quot;top&quot; | Spalte 2
+
+|}&lt;/pre&gt;
+
+|}</text>
+      <sha1>qcuj0hlljsbadqe6jpc5vvhdf8xc34o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Timeline</title>
+    <ns>12</ns>
+    <id>1713</id>
+    <revision>
+      <id>3704</id>
+      <parentid>3703</parentid>
+      <timestamp>2006-03-27T18:39:49Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Erdkruste */</comment>
+      <text xml:space="preserve" bytes="4366">Hinweis: Umlaute müssen umschrieben werden!
+
+Ausführliche Beschreibung dazu auf:
+* http://de.wikipedia.org/wiki/Hilfe:Zeitleisten
+* http://www.wikischool.de/wiki/WikiSchool:Timeline
+== 1. Weltkrieg==
+&lt;timeline&gt;
+DateFormat = dd/mm/yyyy
+ImageSize  = width:900 height:auto barincrement:40
+PlotArea   = left:70 right:180 bottom:30 top:5
+AlignBars  = justify
+
+Colors     =
+  id:canvas   value:rgb(0.97,0.97,0.97)
+  id:grid1    value:rgb(0.80,0.80,0.80)
+  id:grid2    value:rgb(0.86,0.86,0.86)
+  id:schlacht value:rgb(0.9,0.4,0.3)
+  id:brown    value:rgb(0.5,0.3,0.0)
+  id:grau     value:gray(0.7)
+
+Period     = from:01/01/1914 till:01/01/1919
+TimeAxis   = orientation:horizontal format:yyyy
+ScaleMajor = unit:year  increment:1 start:1914 gridcolor:grid1
+ScaleMinor = unit:month increment:3 start:1914 gridcolor:grid2
+
+BackgroundColors = canvas:canvas bars:canvas
+
+BarData=
+  bar:title
+  bar:Schlachten  text:&quot;Schlachten&quot;
+  bar:Schlachten2 text:&quot;Schlachten&quot;
+  barset:Ereignisse
+  bar:dummy
+
+PlotData=
+  width:30 fontsize:S 
+  bar:title from:start till:end text:&quot;Erster Weltkrieg&quot; fontsize:XL anchor:middle align:center shift:(0,-7) mark:(line,black)
+
+  mark:(line,brown)
+
+  bar:Schlachten align:center color:schlacht shift:(-4,-4)
+  from:start      till:end color:grau # Hintergrund
+  from:07/08/1914 till:04/09/1914 text: &quot;Dt. Einfall~in Fr.&quot; fontsize:XS shift:(0,0)
+  from:01/12/1914 till:30/04/1915 text: &quot;Karpaten&quot;
+  from:01/07/1916 till:18/11/1916 text: &quot;[[Schlacht an der Somme|Somme]]&quot;
+  from:31/07/1917 till:06/11/1917 text: &quot;Passchen-~daele&quot; fontsize:XS shift:(0,0)
+  from:21/03/1918 till:03/06/1918 text: &quot;Dt. Offensive~im Westen&quot; fontsize:XS shift:(0,0)
+  from:26/09/1918 till:11/11/1918 text: &quot;Meuse-~Argonne&quot; shift:(0,2)
+
+  bar:Schlachten2 align:center color:schlacht 
+  from:start      till:end color:grau # Hintergrund
+  from:26/08/1914 till:31/08/1914 text: &quot;[[Schlacht bei Tannenberg (1914)|Tannenberg]]&quot; align:right shift:(-3,-3)
+  from:06/09/1914 till:15/09/1914 text: &quot;[[Marneschlacht|Marne]]&quot; align:left shift:(5,-3)
+  from:19/02/1915 till:09/01/1916 text: &quot;[[Schlacht von Gallipoli|Gallipoli]]&quot; 
+  from:21/02/1916 till:11/11/1918 text: &quot;[[Schlacht um Verdun|Verdun]]&quot;
+
+  mark:(line,black) shift:(5,4) fontsize:S textcolor:black align:left
+
+  barset:Ereignisse
+  at:28/06/1914 text:&quot;28._Juni~[[Franz Ferdinand von Oesterreich-Este|Franz Ferdinand]]~wird ermordet&quot;
+  at:28/07/1914 text:&quot;28._Juli~Kriegserklaerung~Oesterreichs an Serbien&quot;
+  at:30/07/1914 text:&quot;30._Juli~Generalmobilmachung~der russischen Armee&quot;
+  at:01/08/1914 text:&quot;1._August~Ruszland faellt~in Deutschland ein&quot; 
+  at:04/08/1914 text:&quot;4._August~Deutschland faellt~in Belgien ein&quot;
+  at:18/08/1914 text:&quot;18._August~Groszoffensive~Deutschlands&quot;
+  at:07/05/1915 text:&quot;7._Mai~Deutsches U-Boot versenkt~[[RMS Lusitania|GB-Passagierschiff]]&quot;
+  at:23/05/1915 text:&quot;23._Mai~Kriegseintritt~[[Italien]]s&quot;
+  at:05/08/1915 text:&quot;5._August~Mittelmaechte nehmen~[[Warschau]] ein&quot;
+  barset:break
+  at:14/10/1915 text:&quot;14._Oktober~Kriegseintritt~[[Bulgarien|Bulgariens]]&quot;
+  at:27/08/1916 text:&quot;27._August~Kriegseintritt~[[Rumaenien|Rumaeniens]]&quot;
+  at:11/03/1917 text:&quot;11._Maerz~[[Februarrevolution 1917|Februarrevolution]]&quot;
+  at:06/05/1917 text:&quot;6._April~Kriegserklaerung der [[USA]]~an Deutschland&quot;
+  at:06/11/1917 text:&quot;6._November~[[Oktoberrevolution]]&quot;
+  at:15/12/1917 text:&quot;15._Dezember~Waffenstillstand~zwischen Mittelmaechten~und Russland&quot;
+  at:07/11/1918 text:&quot;7._November~Waffenstillstand~am [[Compiegne]]&quot; 
+&lt;/timeline&gt;
+
+== Erdkruste==
+&lt;timeline&gt;
+ImageSize = width:200 height:500
+PlotArea  = left:10% bottom:0% right:0% top:10%
+
+DateFormat = yyyy
+Period     = from:0 till:6371
+TimeAxis   = orientation:vertical order:reverse
+
+Colors=
+  id:c1 value:rgb(1,0,0)
+  id:c2 value:rgb(0.9,0,0)
+  id:c3 value:rgb(0.8,0,0)
+  id:c4 value:rgb(0.7,0,0)
+  id:c5 value:rgb(0.6,0,0)
+  id:c6 value:rgb(0,0,0)
+
+PlotData =
+  bar:Leaders width:25 align:left fontsize:S shift:(20,0)
+
+  from:5100 till:6371 color:c1  text:&quot;[[Erdkern|Innerer Erdkern]]~5100-6371 km&quot;
+  from:2900 till:5100 color:c2  text:&quot;[[Erdkern|Aeuszerer Erdkern]]~2900-5100 km&quot;
+  from:900  till:2900 color:c3  text:&quot;[[Erdmantel|Unterer Mantel]]~900-2900 km&quot;
+  from:40  till:900  color:c4  text:&quot;[[Erdmantel|Oberer Mantel]]~40-900 km&quot;
+  from:0    till:40   color:c6  text:&quot;[[Erdkruste]]~0-40 km&quot; shift:(-10,16)
+
+&lt;/timeline&gt;
+
+
+[[Kategorie:Hilfe]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Twitter</title>
+    <ns>12</ns>
+    <id>4221</id>
+    <revision>
+      <id>17501</id>
+      <parentid>17500</parentid>
+      <timestamp>2014-01-09T21:37:47Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="2370">&lt;!--{{Erweiterungen}}--&gt;
+'''Twitter'''-Meldungen können über ein so genanntes Widget in den [[:portal:|Wikis auf ZUM.de]] angezeigt werden. 
+
+Als eine von zahlreichen anderen Möglichkeiten ermöglicht die '''MediaWiki-Extension:Widgets''' &lt;!--(seit dem 31.10.2010) --&gt;die Anzeige von Twitter-Meldungen. - In diesem Wiki ist hierfür auch das [[Widget:Twitter]] eingebunden. Dieses listet die Tweets eines Twitter-Users auf. 
+
+== Twitter-Benutzer (user) ==
+
+=== Syntax ===
+
+Generell gilt folgende Syntax:
+&lt;pre&gt;
+{{#widget:Twitter|user=&lt;Twitter-Name&gt;|id=&lt;Nummer des Widgets&gt;}}
+&lt;/pre&gt;
+
+:&lt;Twitter-Name&gt; = z.B.: @ZUMTeam
+
+:Die Nummer des Widgets erhält man, wenn man unter der folgenden Adresse ein neues Widget anlegt:
+
+:https://twitter.com/settings/widgets/
+
+:Die Nummer erscheint nach dem Anlegen des neuen Widgets in dessen URL.
+
+=== Beispiel ===
+
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#widget:Twitter|user=ZUMTeam|id=283915409315479553}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+{{#widget:Twitter|user=ZUMTeam|id=283915409315479553}}
+&lt;/pre&gt;
+|}
+
+Das Aussehen kann unter [http://twitter.com/about/resources/widgets/widget_profile  Widget Profile] verändert werden. Insbesondere die Farben und die entsprechenden Felder sind dort anpassbar.
+
+== Twitter-Suche (query) ==
+
+=== Syntax ===
+
+Generell gilt folgende Syntax:
+&lt;pre&gt;
+{{#widget:Twitter|query=&lt;Twitter-Suche&gt;|id=&lt;Nummer des Widgets&gt;}}
+&lt;/pre&gt;
+
+:&lt;Twitter-Suche&gt; = z.B.: #OER
+
+:Die Nummer des Widgets erhält man, wenn man unter der folgenden Adresse ein neues Widget anlegt:
+
+:https://twitter.com/settings/widgets/
+
+:Die Nummer erscheint nach dem Anlegen des neuen Widgets in dessen URL.
+
+=== Beispiel ===
+
+Da man den originalen Quellcode von Twitter nicht in diesem Wiki einbinden darf, muss man ein weiteres Widget einfügen. Dieses ist hier [http://www.mediawikiwidgets.org/Twitter_Search Twitter Search]. 
+
+;Installation: Die Seite [[Widget:Twitter Search]] muss angelegt werden und mit dem Inhalt [http://www.mediawikiwidgets.org/Twitter_Search von dort] gefüllt werden. 
+
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#widget:Twitter|query=OER|id=421054040974192640}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+{{#widget:Twitter|query=OER|id=421054040974192640}}
+&lt;/pre&gt;
+|}
+
+== Siehe auch ==
+
+* [[:zum-Wiki:Twitter|Twitter]]
+
+
+[[Kategorie:Hilfe]]</text>
+      <sha1>skaeskeeolctx9slb6l1i5yeqpachq1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Vorlagen</title>
+    <ns>12</ns>
+    <id>1550</id>
+    <revision>
+      <id>18997</id>
+      <parentid>18996</parentid>
+      <timestamp>2015-05-08T19:59:41Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Änderung 18996 von [[Special:Contributions/Karl Kirst|Karl Kirst]] ([[User talk:Karl Kirst|Diskussion]]) rückgängig gemacht.</comment>
+      <text xml:space="preserve" bytes="4266">== Hervorhebung (allgemein) ==
+
+{| {{prettytable}}
+|- {{highlight1}}
+!width=100px | Zur Seite
+!width=200px | Anzeige
+!width=200px| Verwendung
+|-
+| [[Vorlage:Kasten blau]]
+| &lt;small&gt;{{Kasten blau|Rahmen auf blauem Hintergrund zur Hervorhebung eines Textes.}}&lt;/small&gt;
+| &lt;tt&gt;
+ &lt;nowiki&gt;{{&lt;/nowiki&gt;Kasten blau|&lt;Text&gt;}}&lt;/tt&gt;
+|-
+| [[Vorlage:Kasten gelb]]
+| &lt;small&gt;{{Kasten gelb|Rahmen auf gelbem Hintergrund zur Hervorhebung eines Textes.}}&lt;/small&gt;
+| &lt;tt&gt;
+ &lt;nowiki&gt;{{&lt;/nowiki&gt;Kasten gelb|&lt;Text&gt;}}&lt;/tt&gt;
+|-
+| [[Vorlage:Kasten grün]]
+| &lt;small&gt;{{Kasten grün|Rahmen auf grünem Hintergrund zur Hervorhebung eines Textes.}}&lt;/small&gt;
+| &lt;tt&gt;
+ &lt;nowiki&gt;{{&lt;/nowiki&gt;Kasten grün|&lt;Text&gt;}}&lt;/tt&gt;
+|-
+| [[Vorlage:Kastendesign]]
+| {{Kastendesign|
+    BORDER = #97BF87|
+    BACKGROUND = #AADDAA|
+    BREITE =100%|
+    INHALT=Text|
+    BILD=Organizer.png|
+    ÜBERSCHRIFT=Überschrift}}
+|&lt;tt&gt;
+ &lt;nowiki&gt;{{&lt;/nowiki&gt;Kastendesign|
+    BORDER = #97BF87|
+    BACKGROUND = #AADDAA|
+    BREITE =100%|
+    INHALT=Text|
+    BILD=Organizer.png|
+    ÜBERSCHRIFT=Überschrift|
+  }}
+&lt;/tt&gt;
+|-
+| [[Vorlage:Kastendesign1.2]] 
+| {{Kastendesign1.2|
+    BORDER = #97BF87|
+    BACKGROUND = #AADDAA|
+    BREITE =100%|
+    INHALT1=Text 1|
+    BILD1=Organizer.png|
+    ÜBERSCHRIFT1=Überschrift 1|
+    INHALT2=Text 2|
+    BILD2=Organizer.png|
+    ÜBERSCHRIFT2=Überschrift 2|
+  }}
+|&lt;tt&gt;
+ &lt;nowiki&gt;{{&lt;/nowiki&gt;Kastendesign1.2|
+    BORDER = #97BF87|
+    BACKGROUND = #AADDAA|
+    BREITE =100%|
+    INHALT1=Text 1|
+    BILD1=Organizer.png|
+    ÜBERSCHRIFT1=Überschrift 1|
+    INHALT2=Text 2|
+    BILD2=Organizer.png|
+    ÜBERSCHRIFT2=Überschrift 2|
+  }}
+&lt;/tt&gt;
+|-
+| [[Vorlage:Kastendesign2]] 
+| {{Kastendesign2|
+    BORDER = #97BF87|
+    BACKGROUND = #AADDAA|
+    BREITE =100%|
+    INHALT1=Text 1|
+    BILD=Organizer.png|
+    ÜBERSCHRIFT=Überschrift|
+    INHALT2=Text 2|
+  }}
+|&lt;tt&gt;
+ &lt;nowiki&gt;{{&lt;/nowiki&gt;Kastendesign2|
+    BORDER = #97BF87|
+    BACKGROUND = #AADDAA|
+    BREITE =100%|
+    INHALT1=Text 1|
+    BILD=Organizer.png|
+    ÜBERSCHRIFT=Überschrift|
+    INHALT2=Text 2|
+  }}
+&lt;/tt&gt;
+|-
+| [[Vorlage:Kastendesign3]] 
+| {{Kastendesign3|
+    BORDER = #97BF87|
+    BACKGROUND = #AADDAA|
+    BREITE =100%|
+    ÜBERSCHRIFT=Überschrift|
+    BILD=Organizer.png|
+    INHALT1=Text 1|
+    INHALT2=Text 2|
+    INHALT3=Text 3|
+  }}
+|&lt;tt&gt;
+ &lt;nowiki&gt;{{&lt;/nowiki&gt;Kastendesign3|
+    BORDER = #97BF87|
+    BACKGROUND = #AADDAA|
+    BREITE =100%|
+    ÜBERSCHRIFT=Überschrift|
+    BILD=Organizer.png|
+    INHALT1=Text 1|
+    INHALT2=Text 2|
+    INHALT3=Text 3|
+  }}
+&lt;/tt&gt;
+|-
+| [[Vorlage:Rücksprung]] 
+| {{Rücksprung|L}}
+| 
+ &lt;tt&gt;&lt;nowiki&gt;{{&lt;/nowiki&gt;Rücksprung|L}}&lt;/tt&gt;&lt;br&gt;
+ = Rücksprung|(Buchstabe)
+|}
+
+==Babelvorlagen==
+
+{| {{prettytable}}
+|- {{highlight1}}
+!width=100px | Einsatz
+!width=200px | Anzeige
+!width=200px| Verwendung
+|- 
+| Wird am Anfang eines Lexikoneintrages eingefügt und gibt Kurzinformationen zum anlegenden Nutzer.
+| {{Babel-1|Schüler_Verfasser}}
+| &lt;nowiki&gt;{{Babel-1|Schüler_Verfasser}}&lt;/nowiki&gt;
+|-
+| Wird auf einer Nutzerseite verwendet, damit der Inhaber sich selbst vorstellen kann.
+| {{BabelVorlage|
+BORDER_COLOR=#50ff50|
+BG_COLOR=#c0ffc0|
+BG_IMAGE_COLOR=#ffffff|
+IMAGE=[[Bild:SchwikiLogo.png|40px|center|Schüler]]|
+TEXT_SIZE=8pt|
+TEXT=Dieser Benutzer ist '''Schüler''' bzw. '''Schülerin'''.|
+}}
+| &lt;tt&gt;
+ &lt;nowiki&gt;{{BabelVorlage|
+ BORDER_COLOR=#50ff50|
+ BG_COLOR=#c0ffc0|
+ BG_IMAGE_COLOR=#ffffff|
+ IMAGE=[[Bild:SchwikiLogo.png|
+      40px|center|Schüler]]|
+ TEXT_SIZE=8pt|
+ TEXT=Dieser Benutzer ist '''Schüler''' 
+bzw. '''Schülerin'''.|
+}}&lt;/nowiki&gt;&lt;/tt&gt;
+|}
+
+==Spezialvorlagen für Erwachsene==
+Weiterhin gibt es einige [[Hilfe:Spezialvorlagen|Spezialvorlagen]]!
+
+== Farbnamen ==
+[[Bild:FarbNamen.png]]
+
+* Beispiel: &lt;nowiki&gt;&lt;span style=&quot;color: red&quot;&gt;Farbig&lt;/span&gt;&lt;/nowiki&gt; wird zu &lt;span style=&quot;color: red&quot;&gt;Farbig&lt;/span&gt;
+
+
+==Bilder==
+
+Grafiken, die frei im ZUM-Grundschulwiki eingebaut werden können, findet Ihr auf dieser Seite: [[Galerie-Nuvola Nuvola-Icons]]
+
+Bilder, die schon zum ZUM-Grundschulwiki hochgeladen wurden, findest Du [[Spezial:Dateien|hier]].
+
+
+==Töne==
+{| {{prettytable}}
+|- {{highlight1}}
+!width=100px | Einsatz
+!width=200px | Anzeige
+!width=200px| Verwendung
+|- 
+| Kann in alle Artikel eingebunden werden.
+| [[Bild:Buchfink1.ogg]]
+| &lt;nowiki&gt;[[Bild:Tondateiname]]&lt;/nowiki&gt;
+|}</text>
+      <sha1>bunvia8p50p26yeib2gztmg2jbftaor</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:!Hauptkategorie</title>
+    <ns>14</ns>
+    <id>4013</id>
+    <revision>
+      <id>16260</id>
+      <timestamp>2012-11-24T15:19:41Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: Dies ist die oberste Kategorienebene.</comment>
+      <text xml:space="preserve" bytes="37">Dies ist die oberste Kategorienebene.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Artikel Tag des Digitalen Lernens 2009</title>
+    <ns>14</ns>
+    <id>3024</id>
+    <revision>
+      <id>10368</id>
+      <timestamp>2009-02-02T14:33:26Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>neu angelegt!</comment>
+      <text xml:space="preserve" bytes="371">Auf dieser Seite finden sich alle Seiten des ZUM-Grundschulwiki, die am Schreibwettbewerg zum Tag des Digitalen Lernens 2009 teilnehmen!
+
+Hier wird bei Abschluss des Wettbewerbes auch noch die Preisvergabe bekannt gegeben!
+
+Wir wünschen allen Teilnehmern viel Erfolg und freuen uns über Eure Beiträge!
+
+Für das Team vom ZUM-Grundschulwiki grüßt Euch
+
+MArtin Leupold</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Artikel Tag des Digitalen Lernens 2010</title>
+    <ns>14</ns>
+    <id>3459</id>
+    <revision>
+      <id>13382</id>
+      <parentid>13240</parentid>
+      <timestamp>2010-03-19T19:47:27Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="371">Auf dieser Seite finden sich alle Seiten des ZUM-Grundschulwiki, die am Schreibwettbewerb zum Tag des Digitalen Lernens 2010 teilnehmen!
+
+Hier wird bei Abschluss des Wettbewerbes auch noch die Preisvergabe bekannt gegeben!
+
+Wir wünschen allen Teilnehmern viel Erfolg und freuen uns über Eure Beiträge!
+
+Für das Team vom ZUM-Grundschulwiki grüßt Euch
+
+MArtin Leupold</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Exzellenter Artikel</title>
+    <ns>14</ns>
+    <id>3628</id>
+    <revision>
+      <id>18947</id>
+      <parentid>14199</parentid>
+      <timestamp>2015-05-05T22:41:40Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <text xml:space="preserve" bytes="139">Auf dieser Seite finden sich all die Artikel, die die Auszeichnung &quot;[[Exzellenter Artikel]]&quot; erhalten haben!
+
+[[Kategorie:!Hauptkategorie]]</text>
+      <sha1>1s3tp2hfqzqjfxqhzy90c5skrvdlalp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Lexikonaufruf</title>
+    <ns>14</ns>
+    <id>4012</id>
+    <revision>
+      <id>16259</id>
+      <timestamp>2012-11-24T15:19:19Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: [[Kategorie:!Hauptkategorie]]</comment>
+      <text xml:space="preserve" bytes="29">[[Kategorie:!Hauptkategorie]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Löschen</title>
+    <ns>14</ns>
+    <id>4616</id>
+    <revision>
+      <id>18984</id>
+      <timestamp>2015-05-08T19:40:36Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:!Hauptkategorie]]“</comment>
+      <text xml:space="preserve" bytes="29">[[Kategorie:!Hauptkategorie]]</text>
+      <sha1>gr320qewo7ifjzq35pn4nw4v8z1s16u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Spiele</title>
+    <ns>14</ns>
+    <id>1976</id>
+    <revision>
+      <id>4602</id>
+      <parentid>4594</parentid>
+      <timestamp>2006-07-24T12:46:16Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="97">''Alle ZUM-Grundschulwiki-Artikel mit der Seitenkategorie'' '''Spiele''' ''werden hier genannt.''</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Uploaded with UploadWizard</title>
+    <ns>14</ns>
+    <id>4263</id>
+    <revision>
+      <id>17555</id>
+      <parentid>17554</parentid>
+      <timestamp>2014-02-08T21:09:05Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="20">[[Kategorie:Datei:]]</text>
+      <sha1>op7li4idp25kocxma5b73t0rx1bes1l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Vorlage:Formatierungshilfe</title>
+    <ns>14</ns>
+    <id>4605</id>
+    <revision>
+      <id>18933</id>
+      <timestamp>2015-05-05T22:12:04Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:Vorlagen]]“</comment>
+      <text xml:space="preserve" bytes="22">[[Kategorie:Vorlagen]]</text>
+      <sha1>5qxajmmiy7mv7b2zi1ys3bvj1zq8v70</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Vorlage:Kastendesign-Bausteine</title>
+    <ns>14</ns>
+    <id>4604</id>
+    <revision>
+      <id>18932</id>
+      <timestamp>2015-05-05T22:11:39Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:Vorlage:Formatierungshilfe]]“</comment>
+      <text xml:space="preserve" bytes="40">[[Kategorie:Vorlage:Formatierungshilfe]]</text>
+      <sha1>pb99jq1ffuw2eqhrnthz68ii4q4t8hc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Vorlagen</title>
+    <ns>14</ns>
+    <id>4606</id>
+    <revision>
+      <id>18934</id>
+      <timestamp>2015-05-05T22:12:30Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:!Hauptkategorie]]“</comment>
+      <text xml:space="preserve" bytes="29">[[Kategorie:!Hauptkategorie]]</text>
+      <sha1>gr320qewo7ifjzq35pn4nw4v8z1s16u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Y</title>
+    <ns>14</ns>
+    <id>4011</id>
+    <revision>
+      <id>16309</id>
+      <parentid>16301</parentid>
+      <timestamp>2012-12-01T15:26:38Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- Yakari</comment>
+      <text xml:space="preserve" bytes="53">{{Vorlage:Lexikonaufruf}}
+[[Kategorie:Lexikonaufruf]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

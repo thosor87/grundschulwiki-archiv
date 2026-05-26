@@ -1,0 +1,24 @@
+{
+  "pageid": 4367,
+  "ns": 10,
+  "title": "Vorlage:Vorlagen",
+  "revisions": [
+    {
+      "revid": 17769,
+      "parentid": 17768,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:11:21Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div style=\"float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em\">\n<div style=\"font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;\">\n[[Datei:ZUM-Logo.png|right|25px]]'''[[ZUM-Wiki:Vorlagen|Vorlagen (Bausteine)]]'''\n</div>\n<div style=\"background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;\">\n'''[[Vorlage:Kasten-Hinweis|Kasten-Hinweis]]''' beachten!\n----\n* [[ZUM-Wiki:Vorlagen/Augenmerk|Augenmerk]]\n* [[ZUM-Wiki:Vorlagen/Baukastendesign|Baukastendesign]]\n* [[ZUM-Wiki:Vorlagen/Formatierungshilfen|Formatierungshilfen]]\n* [[ZUM-Wiki:Vorlagen für die Schule|Für die Schule]]\n* [[ZUM-Wiki:Vorlagen/Hinweise|Hinweise]] \n* [[ZUM-Wiki:Vorlagen/Kästen|Kästen]]\n* [[Hilfe:Kurzinfo|Kurzinfo]]\n* [[ZUM-Wiki:Vorlagen/Links|Links]]\n* [[ZUM-Wiki:Vorlagen/Medien|Medien & Symbole]]\n* [[ZUM-Wiki:Vorlagen/Navigation|Navigation]]\n----\n* [[Hilfe:Listen und Tabellen|Listen und Tabellen]]\n</div>\n<div style=\"font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;\">\n* [[ZUM-Wiki:Richtlinien|Regeln und Konventionen]]\n</div></div>"
+    },
+    {
+      "revid": 17768,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-06T22:32:35Z",
+      "comment": "Datei:ZUM-Logo.png",
+      "wikitext": "<div style=\"float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em\">\n<div style=\"font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;\">\n[[Datei:ZUM-Logo.png|right|25px]]'''[[ZUM-Wiki:Vorlagen|Vorlagen (Bausteine)]]'''\n</div>\n<div style=\"background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;\">\n'''[[Vorlage:Kasten-Hinweis|Kasten-Hinweis]]''' beachten!\n----\n* [[ZUM-Wiki:Vorlagen/Augenmerk|Augenmerk]]\n* [[ZUM-Wiki:Vorlagen/Baukastendesign|Baukastendesign]]\n* [[ZUM-Wiki:Vorlagen/Formatierungshilfen|Formatierungshilfen]]\n* [[ZUM-Wiki:Vorlagen für die Schule|Für die Schule]]\n* [[ZUM-Wiki:Vorlagen/Hinweise|Hinweise]] \n* [[ZUM-Wiki:Vorlagen/Kästen|Kästen]]\n* [[Hilfe:Kurzinfo|Kurzinfo]]\n* [[ZUM-Wiki:Vorlagen/Links|Links]]\n* [[ZUM-Wiki:Vorlagen/Medien|Medien & Symbole]]\n* [[ZUM-Wiki:Vorlagen/Navigation|Navigation]]\n----\n* [[Hilfe:Listen und Tabellen|Listen und Tabellen]]\n</div>\n<div style=\"font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;\">\n* [[ZUM-Wiki:Richtlinien|Regeln und Konventionen]]\n</div></div>"
+    }
+  ],
+  "categories": []
+}

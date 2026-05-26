@@ -1,0 +1,48 @@
+{
+  "pageid": 3428,
+  "ns": 10,
+  "title": "Vorlage:Zitat",
+  "revisions": [
+    {
+      "revid": 13116,
+      "parentid": 13113,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-01-30T15:45:14Z",
+      "comment": "Schützte „[[Vorlage:Zitat]]“: soll nicht geändert werden [edit=sysop:move=sysop]",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|{{{1}}}\n----\n[[Bild:Cquote2.svg|12px]] <tt>{{{2}}}</tt> [[Bild:Cquote2.svg|12px]]\n|}<noinclude>\n\n'''Das schreibt man:'''\n<pre>\n{{Zitat|<Text>|<Quelle>}}\n</pre>\n\n;Achtung: Diese Vorlage nimmt immer die ganze Seitenbreite ein. Wenn eine flexible Breite gewünscht ist, damit z.B. ein Bild diese Vorlage umfließen kann, verwende [[Vorlage:Zitat float]].\n\n<!--von Wiki.ZUM, verändert auf CommonsBilder, A.Burgermeister -->\n\n</noinclude>"
+    },
+    {
+      "revid": 13113,
+      "parentid": 13112,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-01-30T15:42:24Z",
+      "comment": "",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|{{{1}}}\n----\n[[Bild:Cquote2.svg|12px]] <tt>{{{2}}}</tt> [[Bild:Cquote2.svg|12px]]\n|}<noinclude>\n\n'''Das schreibt man:'''\n<pre>\n{{Zitat|<Text>|<Quelle>}}\n</pre>\n\n;Achtung: Diese Vorlage nimmt immer die ganze Seitenbreite ein. Wenn eine flexible Breite gewünscht ist, damit z.B. ein Bild diese Vorlage umfließen kann, verwende [[Vorlage:Zitat float]].\n\n<!--von Wiki.ZUM, verändert auf CommonsBilder, A.Burgermeister -->\n\n</noinclude>"
+    },
+    {
+      "revid": 13112,
+      "parentid": 13108,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-01-30T15:41:34Z",
+      "comment": "Vorlage für Zitate",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|{{{1}}}\n----\n[[Bild:Cquote2.svg|12px]] <tt>{{{2}}}</tt> [[Bild:Cquote2.svg|12px]]\n|}<noinclude>\n\n'''Das schreibt man:'''\n<pre>\n{{Zitat|<Text>|<Quelle>}}\n</pre>\n\n;Achtung: Diese Vorlage nimmt immer die ganze Seitenbreite ein. Wenn eine flexible Breite gewünscht ist, damit z.B. ein Bild diese Vorlage umfließen kann, verwende [[Vorlage:Zitat float]].\n\n\nWeitere Hinweise zur Handhabung dieser Vorlage stehen unter:\n* [[ZUM-Wiki:Vorlagen/Zitat]]\nBeachte bitte auch die Regeln zum richtigen Zitieren unter:\n* [[Zitieren]]\n\n<!--von Wiki.ZUM, verändert auf CommonsBilder, A.Burgermeister -->\n\n</noinclude>"
+    },
+    {
+      "revid": 13108,
+      "parentid": 13107,
+      "user": "A.Burgermeister",
+      "timestamp": "2010-01-30T14:41:36Z",
+      "comment": "1 Version",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<!--[[Bild:ZitatAnfang.gif|12px]]-->{{{1}}}<!--[[Bild:ZitatEnde.gif|12px]]-->\n----\n<small>{{{2}}}</small>\n|}<noinclude>\n\n'''Das schreibt man:'''\n<pre>\n{{Zitat|<Text>|<Quelle>}}\n</pre>\n\n;Achtung: Diese Vorlage nimmt immer die ganze Seitenbreite ein. Wenn eine flexible Breite gewünscht ist, damit z.B. ein Bild diese Vorlage umfließen kann, verwende [[Vorlage:Zitat float]].\n\n\nWeitere Hinweise zur Handhabung dieser Vorlage stehen unter:\n* [[ZUM-Wiki:Vorlagen/Zitat]]\nBeachte bitte auch die Regeln zum richtigen Zitieren unter:\n* [[Zitieren]]\n\n[[Kategorie:Vorlage:Zitatbausteine|Zitat]]\n\n</noinclude>"
+    },
+    {
+      "revid": 13107,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-10-04T11:33:56Z",
+      "comment": "Das schreibt man",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<!--[[Bild:ZitatAnfang.gif|12px]]-->{{{1}}}<!--[[Bild:ZitatEnde.gif|12px]]-->\n----\n<small>{{{2}}}</small>\n|}<noinclude>\n\n'''Das schreibt man:'''\n<pre>\n{{Zitat|<Text>|<Quelle>}}\n</pre>\n\n;Achtung: Diese Vorlage nimmt immer die ganze Seitenbreite ein. Wenn eine flexible Breite gewünscht ist, damit z.B. ein Bild diese Vorlage umfließen kann, verwende [[Vorlage:Zitat float]].\n\n\nWeitere Hinweise zur Handhabung dieser Vorlage stehen unter:\n* [[ZUM-Wiki:Vorlagen/Zitat]]\nBeachte bitte auch die Regeln zum richtigen Zitieren unter:\n* [[Zitieren]]\n\n[[Kategorie:Vorlage:Zitatbausteine|Zitat]]\n\n</noinclude>"
+    }
+  ],
+  "categories": []
+}

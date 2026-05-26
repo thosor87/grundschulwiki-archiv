@@ -1,0 +1,26 @@
+{
+  "pageid": 4333,
+  "ns": 10,
+  "title": "Vorlage:Kurzinfodesign",
+  "revisions": [
+    {
+      "revid": 17701,
+      "parentid": 17700,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:51Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<includeonly><div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#fff;text-align:center;font-size:14pt\" | [[Bild:{{{1}}}|40px|center]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | {{{2}}}\n|}\n</div>\n</includeonly><noinclude>\n;Syntax: \n<nowiki>{{Kurzinfodesign|<Bilddatei>|<Text>}}</nowiki> \n;Beispiel:\n<nowiki>{{Kurzinfodesign|Vista-kdmconfig.png|Bei dieser Seite handelt es sich um eine '''[[ZUM-Wiki:Kurs- und Klassenseiten|Kurs- oder Klassenseite]]'''}}</nowiki>\n;Anzeige:\n{{Kurzinfodesign|Vista-kdmconfig.png|Bei dieser Seite handelt es sich um eine '''[[ZUM-Wiki:Kurs- und Klassenseiten|Kurs- oder Klassenseite]]'''}}<noinclude>[[Kategorie:Vorlage:Artikelbausteine|Kurzinfodesign]]</noinclude>"
+    },
+    {
+      "revid": 17700,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-04-27T12:45:38Z",
+      "comment": "1 Version: Auflösung des Biologie-Wikis",
+      "wikitext": "<includeonly><div style=\"float:left;border:solid #50ff50 1px;margin:1px\">\n{| cellpadding=\"1\" cellspacing=\"0\" style=\"width:238px;background-color:#c0ffc0\"\n|-\n| style=\"width:45px;height:50px;background-color:#fff;text-align:center;font-size:14pt\" | [[Bild:{{{1}}}|40px|center]]\n| style=\"font-size:8pt;padding:4pt;line-height:1.25em\" | {{{2}}}\n|}\n</div>\n</includeonly><noinclude>\n;Syntax: \n<nowiki>{{Kurzinfodesign|<Bilddatei>|<Text>}}</nowiki> \n;Beispiel:\n<nowiki>{{Kurzinfodesign|Vista-kdmconfig.png|Bei dieser Seite handelt es sich um eine '''[[ZUM-Wiki:Kurs- und Klassenseiten|Kurs- oder Klassenseite]]'''}}</nowiki>\n;Anzeige:\n{{Kurzinfodesign|Vista-kdmconfig.png|Bei dieser Seite handelt es sich um eine '''[[ZUM-Wiki:Kurs- und Klassenseiten|Kurs- oder Klassenseite]]'''}}<noinclude>[[Kategorie:Vorlage:Artikelbausteine|Kurzinfodesign]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Artikelbausteine"
+  ]
+}

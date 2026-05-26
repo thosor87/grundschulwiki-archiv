@@ -1,0 +1,24 @@
+{
+  "pageid": 4372,
+  "ns": 10,
+  "title": "Vorlage:LangSwitch",
+  "revisions": [
+    {
+      "revid": 17779,
+      "parentid": 17778,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:11:24Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<includeonly>{{#invoke: fallback|langSwitch}}</includeonly><noinclude>\n{{Documentation}}\n\n</noinclude>"
+    },
+    {
+      "revid": 17778,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T20:58:43Z",
+      "comment": "1 Version: UploadWizardp",
+      "wikitext": "<includeonly>{{#invoke: fallback|langSwitch}}</includeonly><noinclude>\n{{Documentation}}\n\n</noinclude>"
+    }
+  ],
+  "categories": []
+}

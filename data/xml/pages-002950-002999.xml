@@ -1,0 +1,2098 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vorlage:Bild-PD-Schöpfungshöhe</title>
+    <ns>10</ns>
+    <id>4284</id>
+    <revision>
+      <id>17603</id>
+      <parentid>17602</parentid>
+      <timestamp>2014-02-08T21:09:24Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="827">&lt;div id=&quot;Vorlage_Bild-PD-Schöpfungshöhe&quot;&gt;
+{| {{Lizenzdesign2}}
+| [[Datei:PD-icon.svg|link=|55px]]
+| Diese Datei erreicht nicht die für einen urheberrechtlichen Schutz nötige {{wpd|Schöpfungshöhe}}.
+
+Liegt eine einfache Wiedergabe vor, so erreicht sie ebenfalls nicht das „Mindestmaß an persönlicher Leistung“ (&lt;small&gt;vgl. BGH GRUR 90, 669 - Bibelreproduktion&lt;/small&gt;), um den Leistungsschutz als Lichtbild genießen zu können.
+
+Die Befugnis zur Nutzung der Datei richtet sich daher nach Befugnis zur Nutzung des Originals. Die Datei ist folglich '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.
+|}
+&lt;/div&gt;
+{{NoCommons}}
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Public-Domain-Bild (Schöpfungshöhe)|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>e1a3ufs2f6u9cndrkksa1vu8gslg5bl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-PD-US</title>
+    <ns>10</ns>
+    <id>4285</id>
+    <revision>
+      <id>17605</id>
+      <parentid>17604</parentid>
+      <timestamp>2014-02-08T21:09:25Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="817">&lt;div id=&quot;Vorlage_Bild-PD-US&quot;&gt;
+{| {{Lizenzdesign2}}
+| [[Datei:PD-icon.svg|link=|alt=|55px|Icon „gemeinfrei“]]
+| Diese Datei ist in den Vereinigten Staaten „public domain“, da sie von einem Bediensteten einer Bundesbehörde („federal government“) in Ausübung seiner dienstlichen Pflichten erstellt wurde und somit ein {{wpd|Wikipedia:Bildrechte#Bilder von US-Regierungsbehörden (NASA und andere)|Werk der Regierung der Vereinigten Staaten}} ist.
+| [[Datei:Flag of the United States.svg|link=|55px|alt=|Flagge der Vereinigten Staaten]]
+|}
+&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Public-Domain-Bild (Werk der Regierung der Vereinigten Staaten)|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+&lt;!--[[en:Template:PD-USGov]]--&gt;&lt;/noinclude&gt;</text>
+      <sha1>45zhlcli2x76ttowtwivowk721ez9uv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-PD-alt</title>
+    <ns>10</ns>
+    <id>4286</id>
+    <revision>
+      <id>17607</id>
+      <parentid>17606</parentid>
+      <timestamp>2014-02-08T21:09:27Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1057">&lt;div id=&quot;Vorlage_Bild-PD-alt&quot;&gt;
+{| {{Lizenzdesign2}}
+| [[Datei:PD-icon.svg|alt=|link=|55px]]
+| Die {{wpd|Regelschutzfrist|Schutzdauer}} für das von dieser Datei gezeigte Werk ist nach den Maßstäben des deutschen, des österreichischen und des schweizerischen Urheberrechts abgelaufen. Es ist daher '''[[Gemeinfreiheit|gemeinfrei]]'''.
+| [[Datei:German-Language-Flag.svg|alt=|link=|55px]]
+|-
+| valign=&quot;middle&quot; |
+|Liegt eine triviale Wiedergabe vor, so erreicht diese weder die für einen urheberrechtlichen Schutz als {{wpd|Lichtbildwerk}} nötige {{wpd|Schöpfungshöhe}}, noch weist sie ein „Mindestmaß an persönlicher Leistung“ (&lt;small&gt;vgl. BGH GRUR 90, 669 - Bibelreproduktion&lt;/small&gt;) auf, um in Deutschland Leistungsschutz als {{wpd|Lichtbild}} genießen zu können.
+|}
+&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Public-Domain-Bild (alt)|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+vgl: {{wpe|Template:PD-old-70}} (Unterschied: spricht explizit von 70 Jahren)&lt;/noinclude&gt;</text>
+      <sha1>doyoqj3pod2rsiyt9ju0v03slqtrotg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-PD-alt-100</title>
+    <ns>10</ns>
+    <id>4287</id>
+    <revision>
+      <id>17609</id>
+      <parentid>17608</parentid>
+      <timestamp>2014-02-08T21:09:29Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1839">&lt;onlyinclude&gt;&lt;div id=&quot;Vorlage_Bild-PD-alt-100&quot;&gt;
+{| {{Lizenzdesign2}}
+| valign=&quot;top&quot; | [[Datei:PDmaybe-icon.svg|link=|55px]]
+| Die {{wpd|Regelschutzfrist|Schutzdauer}} für das von dieser Datei gezeigte Werk ist vermutlich nach den Maßstäben des deutschen Urheberrechts abgelaufen. Es ist daher vermutlich '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.
+|-
+| valign=&quot;middle&quot; | [[Datei:Nuvola apps important.svg|link=|55px]]
+| &lt;small&gt;Achtung: Diese Annahme entspricht nicht exakt der gesetzlichen, sondern einer {{wpd|Wikipedia:Bildrechte#Pragmatische Regelung bei Bildern, die älter als 100 Jahre sind|pragmatischen Regelung}}. Die Wahrscheinlichkeit für eine Verfolgung durch einen Rechtsinhaber ist jedoch so gering, dass das {{SITENAME}} wie die deutschsprachige Wikipedia trotz eines möglichen Schutzes die Datei duldet. Die Verantwortung trägt derjenige, der die Datei einstellt.&lt;/small&gt;
+|-
+| valign=&quot;middle&quot; |
+|Liegt eine triviale Wiedergabe des Originals vor, so erreicht diese weder die für einen urheberrechtlichen Schutz als {{wpd|Lichtbildwerk}} nötige {{wpd|Schöpfungshöhe}}, noch weist sie ein „Mindestmaß an persönlicher Leistung“ (&lt;small&gt;vgl. BGH GRUR 90, 669 - Bibelreproduktion&lt;/small&gt;) auf, um Leistungsschutz als {{wpd|Lichtbild}} genießen zu können.
+----
+Damit diese Datei im {{SITENAME}} bleiben kann, muss nachgewiesen sein, dass
+* das Bild vor mindestens 100 Jahren '''hergestellt''' wurde und
+* das Todesdatum des Urhebers auch nach gründlicher Recherche in Suchmaschinen, Datenbanken und biografischen Nachschlagewerken nicht herausgefunden werden kann.
+|}
+&lt;/div&gt;
+{{#ifeq:{{lc:{{{Commons|}}}}}|ja||{{NoCommons}}}}
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:Public Domain (100 Jahre)|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;&lt;/onlyinclude&gt;
+
+[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]</text>
+      <sha1>jiubxcr10njettvlg7sn2cysfknicfm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-PD-alt-1923</title>
+    <ns>10</ns>
+    <id>4288</id>
+    <revision>
+      <id>17611</id>
+      <parentid>17610</parentid>
+      <timestamp>2014-02-08T21:09:30Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1925">&lt;div id=&quot;Vorlage_Bild-PD-alt-1923&quot;&gt;
+{| {{Lizenzdesign2}}
+| valign=&quot;top&quot; | [[Datei:PDmaybe-icon.svg|alt=|link=|55px]]
+| Die {{wpd|Regelschutzfrist|Schutzdauer}} für das von dieser Datei gezeigte Werk ist vermutlich nach den Maßstäben des deutschen Urheberrechts abgelaufen. Es ist daher vermutlich '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.
+|-
+| valign=&quot;middle&quot; | [[Datei:Nuvola apps important.svg|alt=|link=|55px]]
+| &lt;small&gt;Achtung: Diese Annahme entspricht nicht exakt der gesetzlichen, sondern einer {{wpd|Wikipedia:Bildrechte#Pragmatische Regelung bei Bildern, die vor 1923 veröffentlicht wurden|pragmatischen Regelung}}. Die Wahrscheinlichkeit für eine Verfolgung durch einen Rechtsinhaber ist jedoch so gering, dass die deutschsprachige Wikipedia trotz eines möglichen Schutzes die Datei duldet. Die Verantwortung trägt der Uploader.&lt;/small&gt;
+|-
+| valign=&quot;middle&quot; |
+|Liegt eine triviale Wiedergabe vor, so erreicht diese weder die für einen urheberrechtlichen Schutz als {{wpd|Lichtbildwerk}} nötige {{wpd|Schöpfungshöhe}}, noch weist sie ein „Mindestmaß an persönlicher Leistung“ (&lt;small&gt;vgl. BGH GRUR 90, 669 - Bibelreproduktion&lt;/small&gt;) auf, um Leistungsschutz als {{wpd|Lichtbild}} genießen zu können.
+----
+Damit diese Datei in der Wikipedia bleiben kann, muss nachgewiesen sein, dass
+* das Bild vor 1923 '''veröffentlicht''' wurde und
+* das Todesdatum des Urhebers auch nach gründlicher Recherche in Suchmaschinen, Datenbanken und biographischen Nachschlagewerken nicht herausgefunden werden kann.
+{{#if: {{{1|}}} |Eine Diskussion zu dieser Datei hat [{{{1}}} hier] stattgefunden.}}
+|}
+&lt;/div&gt;
+{{NoCommons}}
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+{{#if: {{{1|}}} | [[Kategorie:Public-Domain-Bild (1923)|{{PAGENAME}}]] | [[Kategorie:Wikipedia:Dateiüberprüfung/1923/Ohne Diskussion|{{PAGENAME}}]]}}
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>7u14zx690t52qm0zvzmrq0g5quc7jnk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-PD-§134</title>
+    <ns>10</ns>
+    <id>4289</id>
+    <revision>
+      <id>17613</id>
+      <parentid>17612</parentid>
+      <timestamp>2014-02-08T21:09:31Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1012">&lt;div id=&quot;Vorlage_Bild-PD-134&quot;&gt;
+{| {{Lizenzdesign2}}
+| [[Datei:PD-icon.svg|link=|55px]]
+| Dieses Werk ist vor dem Inkrafttreten des {{wpd|Gesetz über Urheberrecht und verwandte Schutzrechte|Urheberrechtsgesetzes}} am 1. Januar 1966 von einer {{wpd|juristische Person|juristischen Person}} des öffentlichen Rechts veröffentlicht worden, ohne dass der Verfasser auf dem Titelblatt, in der Widmung, in dem Vorwort oder am Ende genannt wurde.  Für die Berechnung der Schutzfrist gilt daher nach [http://www.gesetze-im-internet.de/urhg/__134.html §134 Satz 2 UrhG], dass sie 70 Jahre nach Veröffentlichung läuft.
+| [[Datei:Flag of Germany.svg|link=|55px]]
+|-
+| valign=&quot;middle&quot; |
+| Nach dieser Berechnung der Schutzfrist ist diese Datei '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.
+|}
+&lt;/div&gt;
+{{NoCommons}}
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:Public-Domain-Bild (§134 Satz 2 UrhG)|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>sj9vy6mlwssmhd2bty72q66cjluc5ff</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-PD-§134-KUG</title>
+    <ns>10</ns>
+    <id>4290</id>
+    <revision>
+      <id>17615</id>
+      <parentid>17614</parentid>
+      <timestamp>2014-02-08T21:09:31Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1891">&lt;div id=&quot;Vorlage_Bild-PD-134-KUG&quot;&gt;
+{| {{Lizenzdesign2}}
+| [[Datei:PD-icon.svg|link=|55px]]
+| Dieses Werk, das den Namen des Urhebers nicht angibt, hat vor dem Inkrafttreten des {{wpd|Gesetz über Urheberrecht und verwandte Schutzrechte|Urheberrechtsgesetzes}} am 1. Januar 1966 eine {{wpd|juristische Person des öffentlichen Rechts}} als Herausgeber erscheinen lassen ([http://www.fotorecht.de/publikationen/kug.html § 5 KUG]; zu Details siehe {{wpd|Wikipedia:Bildrechte#Sonderfall: Juristische Person als Urheber (bis 1965)|Wikipedia:Bildrechte}}). Für die Berechnung der Schutzfrist gilt daher nach [http://www.gesetze-im-internet.de/urhg/__134.html §&amp;nbsp;134 Satz 2 UrhG], dass sie 70 Jahre nach Veröffentlichung läuft.
+| [[Datei:Flag of Germany.svg|link=|55px]]
+|-
+| valign=&quot;middle&quot; |
+| Nach dieser Berechnung der Schutzfrist ist diese Datei '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.
+|}
+&lt;/div&gt;
+{| {{Lizenzdesign4}}
+|&lt;small&gt;Dieser Baustein ist in der Wikipedia derzeit (Stand Juli 2012) nur für folgende Werkarten zugelassen:
+* Briefmarken
+Andere Werkarten müssen zuvor {{wpd|Wikipedia:Urheberrechtsfragen|hier}} diskutiert werden und können erst nach positivem Diskussionsergebnis ergänzt werden.&lt;/small&gt;
+
+In jedem Fall müssen die Werke '''vor mindestens 70 Jahren veröffentlicht worden sein.'''
+|}
+{{NoCommons}}
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:Public Domain (§134 Satz 2 UrhG)|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;
+ Diese Vorlage fügt Dateien der [[:Kategorie:Datei:Public Domain (§134 Satz 2 UrhG)]] hinzu.
+Die Diskussion zur Einfügung des §-134-Abschnitts in [[Wikipedia:Bildrechte]] findet sich [http://de.wikipedia.org/w/index.php?title=Wikipedia:Urheberrechtsfragen&amp;oldid=84447555#Schutz_f.C3.BCr_Karten_der_K.C3.B6niglich_Preu.C3.9Fischen_Landesaufnahme hier].
+[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>ko35rg0istdj5colw281d4ewigpjvyz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-WikimediaCopyright</title>
+    <ns>10</ns>
+    <id>4291</id>
+    <revision>
+      <id>17617</id>
+      <parentid>17616</parentid>
+      <timestamp>2014-02-08T21:09:34Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="813">&lt;div id=&quot;Vorlage_Bild-WikimediaCopyright&quot;&gt;
+{| {{Lizenzdesign3}}
+| [[Bild:Red copyright.svg|alt=|link=|55px]]
+| Diese Datei (oder Bestandteile derselbigen) ist als offizielles Logo der {{wpde|Wikimedia|Wikimedia Foundation}} oder eines ihrer Projekte '''{{wpde|Markenrecht|marken-}} und {{wpde|Urheberrecht|urheberrechtlich}} geschützt'''. Die Benutzung in der Wikipedia wird als projektweite Ausnahme angesehen.&lt;br /&gt; 
+© &amp; ™ Alle Rechte vorbehalten, Wikimedia Foundation, Inc.
+Wikipedia® ist eine eingetragene Marke der Wikimedia Foundation Inc.
+| [[Bild:Wikimedia-logo.svg|alt=|link=|55px]]
+|}
+&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:Wikimedia-Copyright|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:|{{PAGENAME}}]]
+{{Bild-WikimediaCopyright/Meta}}
+&lt;/noinclude&gt;</text>
+      <sha1>p4nkvauh3hcp95mo78a1bfkggl90uyf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-by</title>
+    <ns>10</ns>
+    <id>4292</id>
+    <revision>
+      <id>17619</id>
+      <parentid>17618</parentid>
+      <timestamp>2014-02-08T21:09:35Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="854">&lt;div id=&quot;Vorlage_Bild-by&quot;&gt;
+{| {{Lizenzdesign1}}
+| [[Datei:Green copyright.svg|link=|alt=|55px]]
+| Diese Datei ist '''urheberrechtlich geschützt'''. Der Urheberrechtsinhaber gestattet {{wpde|Linux-Klausel|jedermann}} (auch außerhalb und völlig unabhängig vom {{SITENAME}} oder von der Wikipedia) jegliche Nutzung, so weitreichend, wie dies gesetzlich möglich ist (u.&amp;nbsp;a. Verwendung für jeden Zweck, Aufführung, Weiterverbreitung, kommerzielle Nutzung, Bearbeitung) weltweit und zeitlich unbeschränkt unter der Bedingung der '''angemessenen Nennung seiner Urheberschaft''' (z.&amp;nbsp;B. in der Bildunterschrift).
+|}&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:By|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;&lt;noinclude&gt;
+[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+{{Commons|Template:Attribution}}
+{{Bild-by/Meta}}
+&lt;/noinclude&gt;</text>
+      <sha1>lyq2rglt6zwdxf13bydmb4tunoitkk5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bild-frei</title>
+    <ns>10</ns>
+    <id>4293</id>
+    <revision>
+      <id>17621</id>
+      <parentid>17620</parentid>
+      <timestamp>2014-02-08T21:09:38Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="779">&lt;div id=&quot;Vorlage_Bild-frei&quot;&gt;
+{| {{Lizenzdesign2}}
+| [[Datei:SemiPD-icon.svg|link=|alt=|55px]]
+| Der Urheberrechtsinhaber dieser Datei hat ein '''unentgeltliches, bedingungsloses Nutzungsrecht für jedermann ohne zeitliche, räumliche und inhaltliche Beschränkung''' eingeräumt.
+
+&lt;small&gt;Bei der Einräumung dieses Nutzungsrechtes ist nur der wirkliche Wille des Urhebers und nicht der buchstäbliche Sinn des Ausdrucks erheblich. Daher wird dieses Nutzungsrecht insbesondere auch bei der rechtlich in Deutschland nicht möglichen Übergabe durch den Urheber in die ''Gemeinfreiheit'' bzw. ''Public Domain'' angewendet.&lt;/small&gt;
+|}
+&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:Frei|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;
+{{Dokumentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>0uzw8spacbyc4k8jnnf55ye23w5zftp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Bitte vorstellen</title>
+    <ns>10</ns>
+    <id>4264</id>
+    <revision>
+      <id>17557</id>
+      <parentid>17556</parentid>
+      <timestamp>2014-02-08T21:09:06Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="703">== Bitte vorstellen! ==
+
+Hallo {{PAGENAME}},
+
+es ist erfreulich, dass Du im ZUM-Wiki aktiv mitarbeitest. Damit die Zusammenarbeit noch besser klappt, bitten wir Dich, Dich  [[Benutzer:{{PAGENAME}}|auf Deiner Benutzerseite]] kurz vorzustellen. Wichtig wäre uns dabei, dass Du kurz schreibst, ob und welchen Bezug zu Schule und Unterricht du hast. Dein wirklicher Name braucht nicht genannt zu werden, erleichtert aber natürlich auch die Kommunikation untereinander.
+
+Mit freundlichen Grüßen im Namen der [[ZUM-Wiki:Administratoren|ZUM-Wiki-AdministratorInnen]] 
+&lt;noinclude&gt;
+[[Kategorie:Vorlage:Benutzerbausteine|Bitte vorstellen]]
+[[Kategorie:Vorlage:Hinweis-Bausteine|Bitte vorstellen]]
+&lt;/noinclude&gt;</text>
+      <sha1>2fy8mp966aj5s0k9s28ohk9gwq86vqt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Booland3</title>
+    <ns>10</ns>
+    <id>4224</id>
+    <revision>
+      <id>17459</id>
+      <parentid>17458</parentid>
+      <timestamp>2014-01-08T18:33:56Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="150">&lt;onlyinclude&gt;{{#if: {{{1|}}} | {{#if: {{{2|}}} | {{#if: {{{3|}}}|1}}}}}}&lt;/onlyinclude&gt;
+
+{{Dokumentation}}
+
+[[Kategorie:Vorlage:Funktion|{{PAGENAME}}]]</text>
+      <sha1>rbw7g83h18wsnwb12ee0b3uaz9hrv2o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Cat see also</title>
+    <ns>10</ns>
+    <id>4369</id>
+    <revision>
+      <id>17773</id>
+      <parentid>17772</parentid>
+      <timestamp>2014-02-08T21:11:24Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="7047">{{#if: {{{1|&lt;noinclude&gt;Category navigational templates&lt;/noinclude&gt;}}}
+| {{#ifeq: {{{banner|}}} | no | |
+  &lt;div class=&quot;toccolours&quot; style=&quot;margin:2px 0;background-color:#ebebeb;border:1px solid #dddddd;padding:2px&quot;&gt;[[File:System-search.svg|25x25px|middle|link=]]
+  }}&lt;!--
+  --&gt;{{#if: {{{LABEL|}}}
+  | {{{LABEL}}}
+  | {{#if: {{{2|}}}
+    | {{int:Seealso}} {{LangSwitch&lt;!-- for several categories --&gt;
+      | default = categories
+      | bar = d’ Kategorien
+      | ca = les categories
+      | cs = kategorie
+      | de = die Kategorien
+      | eo = kategoriojn
+      | es = las categorías
+      | et = kategooriaid
+      | fi = luokat
+      | fr = les catégories
+      | hu = a következő kategóriákat
+      | it = le categorie
+      | mk = — категориите
+      | ml = വർഗ്ഗങ്ങൾ
+      | nl = categorieën
+      | pl = kategorie
+      | pt = a categoria
+      | ru = категории
+      | sl = kategorije
+      | sv = kategorierna
+      | sw = jamii
+      | uk = категорії
+      | zh = 分类
+      | zh-hans = 分类
+      }}
+    | {{int:Seealso}} {{LangSwitch&lt;!-- for one category --&gt;
+      | default = category
+      | bar = d’ Kategorie
+      | ca = la categoria
+      | cs = kategorii
+      | de = die Kategorie
+      | eo = kategorion
+      | es = la categoría
+      | et = kategooriat
+      | fi = luokka
+      | fr = la catégorie
+      | hu = a következő kategóriát 
+      | it = la categoria
+      | mk = — категоријата
+      | ml = വർഗ്ഗം
+      | nl = categorie
+      | pl = kategorię
+      | pt = a categoria
+      | ru = категорию
+      | sl = kategorijo
+      | sv = kategorin
+      | sw = jamii
+      | uk = категорію
+      | zh = 分类
+      | zh-hans = 分类
+      }}
+    }}
+  }}{{colon}}[[{{{SISTER|}}}:Category:{{{1|&lt;noinclude&gt;Category navigational templates&lt;/noinclude&gt;}}}|{{{1|&lt;noinclude&gt;Category navigational templates&lt;/noinclude&gt;}}}]]
+}}&lt;!--
+--&gt;{{#if: {{{ 2|}}}| {{ {{#if: {{{ 3|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{ 2|}}}|{{{ 2|}}}]] }}&lt;!--
+--&gt;{{#if: {{{ 3|}}}| {{ {{#if: {{{ 4|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{ 3|}}}|{{{ 3|}}}]] }}&lt;!--
+--&gt;{{#if: {{{ 4|}}}| {{ {{#if: {{{ 5|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{ 4|}}}|{{{ 4|}}}]] }}&lt;!--
+--&gt;{{#if: {{{ 5|}}}| {{ {{#if: {{{ 6|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{ 5|}}}|{{{ 5|}}}]] }}&lt;!--
+--&gt;{{#if: {{{ 6|}}}| {{ {{#if: {{{ 7|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{ 6|}}}|{{{ 6|}}}]] }}&lt;!--
+--&gt;{{#if: {{{ 7|}}}| {{ {{#if: {{{ 8|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{ 7|}}}|{{{ 7|}}}]] }}&lt;!--
+--&gt;{{#if: {{{ 8|}}}| {{ {{#if: {{{ 9|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{ 8|}}}|{{{ 8|}}}]] }}&lt;!--
+--&gt;{{#if: {{{ 9|}}}| {{ {{#if: {{{10|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{ 9|}}}|{{{ 9|}}}]] }}&lt;!--
+--&gt;{{#if: {{{10|}}}| {{ {{#if: {{{11|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{10|}}}|{{{10|}}}]] }}&lt;!--
+--&gt;{{#if: {{{11|}}}| {{ {{#if: {{{12|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{11|}}}|{{{11|}}}]] }}&lt;!--
+--&gt;{{#if: {{{12|}}}| {{ {{#if: {{{13|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{12|}}}|{{{12|}}}]] }}&lt;!--
+--&gt;{{#if: {{{13|}}}| {{ {{#if: {{{14|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{13|}}}|{{{13|}}}]] }}&lt;!--
+--&gt;{{#if: {{{14|}}}| {{ {{#if: {{{15|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{14|}}}|{{{14|}}}]] }}&lt;!--
+--&gt;{{#if: {{{15|}}}| {{ {{#if: {{{16|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{15|}}}|{{{15|}}}]] }}&lt;!--
+--&gt;{{#if: {{{16|}}}| {{ {{#if: {{{17|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{16|}}}|{{{16|}}}]] }}&lt;!--
+--&gt;{{#if: {{{17|}}}| {{ {{#if: {{{18|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{17|}}}|{{{17|}}}]] }}&lt;!--
+--&gt;{{#if: {{{18|}}}| {{ {{#if: {{{19|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{18|}}}|{{{18|}}}]] }}&lt;!--
+--&gt;{{#if: {{{19|}}}| {{ {{#if: {{{20|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{19|}}}|{{{19|}}}]] }}&lt;!--
+--&gt;{{#if: {{{20|}}}| {{ {{#if: {{{21|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{20|}}}|{{{20|}}}]] }}&lt;!--
+--&gt;{{#if: {{{21|}}}| {{ {{#if: {{{22|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{21|}}}|{{{21|}}}]] }}&lt;!--
+--&gt;{{#if: {{{22|}}}| {{ {{#if: {{{23|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{22|}}}|{{{22|}}}]] }}&lt;!--
+--&gt;{{#if: {{{23|}}}| {{ {{#if: {{{24|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{23|}}}|{{{23|}}}]] }}&lt;!--
+--&gt;{{#if: {{{24|}}}| {{ {{#if: {{{25|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{24|}}}|{{{24|}}}]] }}&lt;!--
+--&gt;{{#if: {{{25|}}}| {{ {{#if: {{{26|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{25|}}}|{{{25|}}}]] }}&lt;!--
+--&gt;{{#if: {{{26|}}}| {{ {{#if: {{{27|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{26|}}}|{{{26|}}}]] }}&lt;!--
+--&gt;{{#if: {{{27|}}}| {{ {{#if: {{{28|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{27|}}}|{{{27|}}}]] }}&lt;!--
+--&gt;{{#if: {{{28|}}}| {{ {{#if: {{{29|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{28|}}}|{{{28|}}}]] }}&lt;!--
+--&gt;{{#if: {{{29|}}}| {{ {{#if: {{{30|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{29|}}}|{{{29|}}}]] }}&lt;!--
+--&gt;{{#if: {{{30|}}}| {{ {{#if: {{{31|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{30|}}}|{{{30|}}}]] }}&lt;!--
+--&gt;{{#if: {{{31|}}}| {{ {{#if: {{{32|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{31|}}}|{{{31|}}}]] }}&lt;!--
+--&gt;{{#if: {{{32|}}}| {{ {{#if: {{{33|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{32|}}}|{{{32|}}}]] }}&lt;!--
+--&gt;{{#if: {{{33|}}}| {{ {{#if: {{{34|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{33|}}}|{{{33|}}}]] }}&lt;!--
+--&gt;{{#if: {{{34|}}}| {{ {{#if: {{{35|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{34|}}}|{{{34|}}}]] }}&lt;!--
+--&gt;{{#if: {{{35|}}}| {{ {{#if: {{{36|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{35|}}}|{{{35|}}}]] }}&lt;!--
+--&gt;{{#if: {{{36|}}}| {{ {{#if: {{{37|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{36|}}}|{{{36|}}}]] }}&lt;!--
+--&gt;{{#if: {{{37|}}}| {{ {{#if: {{{38|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{37|}}}|{{{37|}}}]] }}&lt;!--
+--&gt;{{#if: {{{38|}}}| {{ {{#if: {{{39|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{38|}}}|{{{38|}}}]] }}&lt;!--
+--&gt;{{#if: {{{39|}}}| {{ {{#if: {{{40|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{39|}}}|{{{39|}}}]] }}&lt;!--
+--&gt;{{#if: {{{40|}}}| {{ {{#if: {{{41|}}} | comma | and }} }}[[{{{SISTER|}}}:Category:{{{40|}}}|{{{40|}}}]] }}&lt;!--
+--&gt;{{#if: {{{41|}}}| &lt;strong class=&quot;error&quot;&gt;Error: maximum 40 list parameters allowed&lt;/strong&gt; }}&lt;!--
+--&gt;{{#if: {{{1|&lt;noinclude&gt;Category navigational templates&lt;/noinclude&gt;}}}
+| {{#ifeq: {{{banner|}}} | no | .&amp;#32; | &lt;/div&gt; }}
+}}&lt;noinclude&gt;
+{{documentation}}
+{{Templates linking contents}}
+*[[b:en:Template:Cat see also]]
+*[[species:Template:Cat see also]]
+*[[v:Template:Cat see also]]
+{{InterProject/all}}
+
+[[Category:Internal link templates|{{PAGENAME}}]]
+[[Category:Category navigational templates|{{PAGENAME}}]]
+[[Category:Internationalization templates using LangSwitch|{{PAGENAME}}]]
+
+[[en:Template:Category see also]]
+&lt;/noinclude&gt;</text>
+      <sha1>nb9lee80gbjxvfg5upd841xfkkdqrxk</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Cc-by-sa-3.0</title>
+    <ns>10</ns>
+    <id>4243</id>
+    <revision>
+      <id>17503</id>
+      <parentid>17502</parentid>
+      <timestamp>2014-01-12T08:54:40Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version</comment>
+      <text xml:space="preserve" bytes="3444">&lt;div id=&quot;Vorlage_Bild-CC-by-sa/3.0&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei unter folgenden Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen“''&lt;br /&gt; in Version 3.0 (abgekürzt „CC-by-sa 3.0“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-BY-SA_icon.svg|100px|link=|CC-by-sa]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;3.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/licenses/by-sa/3.0/legalcode http://creativecommons.org/licenses/by-sa/3.0/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten und öffentlich zugänglich zu machen sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen,&lt;br clear=&quot;left&quot; /&gt;
+
+'''sofern Sie folgende Bedingungen einhalten:'''
+
+:[[Datei:Cc-by new.svg|22px|link=|Namensnennung|left]] ''Namensnennung:'' Sie müssen den Urheber bzw. den Rechteinhaber in der von ihm festgelegten Weise, die URI (z.&amp;nbsp;B. die Internetadresse dieser Seite) sowie den Titel des Werkes und bei einer Abwandlung einen Hinweis darauf angeben.
+
+:[[Datei:Cc-sa.svg|22px|link=|Weitergabe unter gleichen Bedingungen|left]] ''Weitergabe unter gleichen Bedingungen:'' Wenn Sie das lizenzierte Werk bearbeiten, abwandeln oder als Vorlage für ein neues Werk verwenden, dürfen Sie die neu entstandenen Werke nur unter dieser oder einer zu dieser kompatiblen Lizenz nutzen und weiterverbreiten. 
+
+:[[Datei:Cc.logo.circle.svg|22px|link=|Lizenzangabe|left]] ''Lizenzangabe:'' Sie müssen anderen alle Lizenzbedingungen mitteilen, die für dieses Werk gelten. Am einfachsten ist es, wenn Sie dazu einen Link auf den Lizenzvertrag (siehe oben) einbinden.
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-by-sa|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+&lt;!-- Creative Commons License --&gt;
+&lt;!--
+&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;
+    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;
+    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;
+&lt;Work rdf:about=&quot;&quot;&gt;
+   &lt;license rdf:resource=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot; /&gt;
+&lt;/Work&gt;
+&lt;License rdf:about=&quot;http://creativecommons.org/licenses/by-sa/3.0/&quot;&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;
+&lt;/License&gt;
+&lt;/rdf:RDF&gt;
+--&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>4yt0m0l7rltdwztukx3nfya0s6aza6j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Cc-zero</title>
+    <ns>10</ns>
+    <id>4265</id>
+    <revision>
+      <id>17559</id>
+      <parentid>17558</parentid>
+      <timestamp>2014-02-08T21:09:08Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2648">&lt;div id=&quot;Vorlage_Bild-CC-0/1.0&quot; style=&quot;width: 90%; clear:both; margin:0.5em auto; padding:0.5em; background-color:#F0FFF0; border:3px solid #E0EEE0; padding-left:2em; padding-right:2em;&quot;&gt;
+
+{|style=&quot;background-color:transparent;width:100%;&quot;
+|style=&quot;padding-right: 20px; text-align: center;&quot;|'''Sie können diese Datei ohne Bedingungen weiterverwenden:'''&lt;br /&gt;
+Die Datei wurde unter der Lizenz&lt;br /&gt;
+''„Creative Commons Zero“''&lt;br /&gt; in Version 1.0 (abgekürzt „CC-0 1.0“) veröffentlicht.
+|style=&quot;width:200px;text-align:center;&quot;|[[Datei:CC-Zero-badge.svg|100px|link=|CC-Zero]]&amp;ensp;&lt;span style=&quot;font-size:larger; font-weight:bold&quot;&gt;1.0&lt;/span&gt;
+|}
+
+----
+&lt;div style=&quot;padding:0.5em; padding-left:2em; padding-right:2em;&quot;&gt;
+&lt;p&gt;Den rechtsverbindlichen Lizenzvertrag finden Sie unter [http://creativecommons.org/publicdomain/zero/1.0/legalcode http://creativecommons.org/publicdomain/zero/1.0/legalcode]. &lt;/p&gt;
+&lt;p&gt;Es folgt eine ''vereinfachte Zusammenfassung des Vertrags'' in allgemeinverständlicher Sprache ohne juristische Wirkung.&lt;/p&gt;
+&lt;/div&gt;
+----
+
+'''Es ist Ihnen gestattet,'''
+:[[Datei:Share.svg|22px|link=|Weiterverwendung erlaubt|left]]&amp;nbsp;das Werk zu vervielfältigen, zu verbreiten, öffentlich zugänglich zu machen oder anders zu verwerten sowie&lt;br clear=&quot;left&quot; /&gt;
+:[[Datei:Remix.svg|22px|link=|Bearbeitung erlaubt|left]]&amp;nbsp;Abwandlungen und Bearbeitungen des Werkes anzufertigen und diese zu verwerten.&lt;br clear=&quot;left&quot; /&gt;
+
+'''Der Urheber oder Rechteinhaber knüpft daran keine Bedingungen.'''
+
+&lt;center&gt;
+&lt;small&gt;Bitte beachten Sie, dass andere Rechte die Weiterverwendung einschränken können.&lt;/small&gt;
+&lt;/center&gt;
+
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:CC-Zero|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]
+{{commons|Template:Cc-zero|Template:Cc-zero|die entsprechende Vorlage auf Commons}}
+
+&lt;!-- Creative Commons License --&gt;
+&lt;!--
+&lt;rdf:RDF xmlns=&quot;http://web.resource.org/cc/&quot;
+    xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;
+    xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;&gt;
+&lt;Work rdf:about=&quot;&quot;&gt;
+   &lt;license rdf:resource=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot; /&gt;
+&lt;/Work&gt;
+&lt;License rdf:about=&quot;https://creativecommons.org/publicdomain/zero/1.0/&quot;&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Reproduction&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/Distribution&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Notice&quot; /&gt;
+   &lt;requires rdf:resource=&quot;http://web.resource.org/cc/Attribution&quot; /&gt;
+   &lt;permits rdf:resource=&quot;http://web.resource.org/cc/DerivativeWorks&quot; /&gt;
+&lt;/License&gt;
+&lt;/rdf:RDF&gt;
+--&gt;
+&lt;/noinclude&gt;</text>
+      <sha1>iilmwjxommowlwo7gpxa2l904e1zb8q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Chess diagram</title>
+    <ns>10</ns>
+    <id>1973</id>
+    <revision>
+      <id>4593</id>
+      <parentid>4581</parentid>
+      <timestamp>2006-07-24T10:41:25Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3335">&lt;!-- version 1.02
+0.90 2005-08-05 beta
+1.01 2005-08-10 inauguration
+1.02 2005-08-24 removing thumb class
+--&gt;
+&lt;div class=&quot;{{{1}}}&quot; style=&quot;clear: right; width: 268px; padding-top: 6px; padding-bottom: 10px&quot;&gt;
+&lt;div class=&quot;{{{1}}}&quot; style=&quot;width: 252px; text-align: center&quot;&gt;{{{2}}}
+{| style=&quot;border:1px solid #b0b0b0; background-color:#f9f9f9&quot;
+|- 
+|
+
+{| cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; style=&quot;border: 1px solid #b0b0b0&quot;
+| colspan=3 | [[Image:chess_zhor_26.png]]
+|- 
+| [[Image:chess_zver_26.png]]
+|
+
+{| cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; style=&quot;border: 1px solid #b0b0b0; background-color: #ffce9e&quot;
+|-
+| [[Image:chess_{{{3}}}l44.png|26px]]
+| [[Image:chess_{{{4}}}d44.png|26px]]
+| [[Image:chess_{{{5}}}l44.png|26px]]
+| [[Image:chess_{{{6}}}d44.png|26px]]
+| [[Image:chess_{{{7}}}l44.png|26px]]
+| [[Image:chess_{{{8}}}d44.png|26px]]
+| [[Image:chess_{{{9}}}l44.png|26px]]
+| [[Image:chess_{{{10}}}d44.png|26px]]
+|-
+| [[Image:chess_{{{11}}}d44.png|26px]]
+| [[Image:chess_{{{12}}}l44.png|26px]]
+| [[Image:chess_{{{13}}}d44.png|26px]]
+| [[Image:chess_{{{14}}}l44.png|26px]]
+| [[Image:chess_{{{15}}}d44.png|26px]]
+| [[Image:chess_{{{16}}}l44.png|26px]]
+| [[Image:chess_{{{17}}}d44.png|26px]]
+| [[Image:chess_{{{18}}}l44.png|26px]]
+|-
+| [[Image:chess_{{{19}}}l44.png|26px]]
+| [[Image:chess_{{{20}}}d44.png|26px]]
+| [[Image:chess_{{{21}}}l44.png|26px]]
+| [[Image:chess_{{{22}}}d44.png|26px]]
+| [[Image:chess_{{{23}}}l44.png|26px]]
+| [[Image:chess_{{{24}}}d44.png|26px]]
+| [[Image:chess_{{{25}}}l44.png|26px]]
+| [[Image:chess_{{{26}}}d44.png|26px]]
+|-
+| [[Image:chess_{{{27}}}d44.png|26px]]
+| [[Image:chess_{{{28}}}l44.png|26px]]
+| [[Image:chess_{{{29}}}d44.png|26px]]
+| [[Image:chess_{{{30}}}l44.png|26px]]
+| [[Image:chess_{{{31}}}d44.png|26px]]
+| [[Image:chess_{{{32}}}l44.png|26px]]
+| [[Image:chess_{{{33}}}d44.png|26px]]
+| [[Image:chess_{{{34}}}l44.png|26px]]
+|-
+| [[Image:chess_{{{35}}}l44.png|26px]]
+| [[Image:chess_{{{36}}}d44.png|26px]]
+| [[Image:chess_{{{37}}}l44.png|26px]]
+| [[Image:chess_{{{38}}}d44.png|26px]]
+| [[Image:chess_{{{39}}}l44.png|26px]]
+| [[Image:chess_{{{40}}}d44.png|26px]]
+| [[Image:chess_{{{41}}}l44.png|26px]]
+| [[Image:chess_{{{42}}}d44.png|26px]]
+|-
+| [[Image:chess_{{{43}}}d44.png|26px]]
+| [[Image:chess_{{{44}}}l44.png|26px]]
+| [[Image:chess_{{{45}}}d44.png|26px]]
+| [[Image:chess_{{{46}}}l44.png|26px]]
+| [[Image:chess_{{{47}}}d44.png|26px]]
+| [[Image:chess_{{{48}}}l44.png|26px]]
+| [[Image:chess_{{{49}}}d44.png|26px]]
+| [[Image:chess_{{{50}}}l44.png|26px]]
+|-
+| [[Image:chess_{{{51}}}l44.png|26px]]
+| [[Image:chess_{{{52}}}d44.png|26px]]
+| [[Image:chess_{{{53}}}l44.png|26px]]
+| [[Image:chess_{{{54}}}d44.png|26px]]
+| [[Image:chess_{{{55}}}l44.png|26px]]
+| [[Image:chess_{{{56}}}d44.png|26px]]
+| [[Image:chess_{{{57}}}l44.png|26px]]
+| [[Image:chess_{{{58}}}d44.png|26px]]
+|-
+| [[Image:chess_{{{59}}}d44.png|26px]]
+| [[Image:chess_{{{60}}}l44.png|26px]]
+| [[Image:chess_{{{61}}}d44.png|26px]]
+| [[Image:chess_{{{62}}}l44.png|26px]]
+| [[Image:chess_{{{63}}}d44.png|26px]]
+| [[Image:chess_{{{64}}}l44.png|26px]]
+| [[Image:chess_{{{65}}}d44.png|26px]]
+| [[Image:chess_{{{66}}}l44.png|26px]]
+|}
+
+| [[Image:chess_zver_26.png]]
+|-
+| colspan=3 | [[Image:chess_zhor_26.png]]
+|}
+
+|-
+| style=&quot;line-height: 1.4; text-align: left; font-size: 90%; padding: 2px&quot; | {{{67}}}
+|}
+&lt;/div&gt;
+&lt;/div&gt; &lt;noinclude&gt;
+[[Kategorie:Spiele]]&lt;/noinclude&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Colon</title>
+    <ns>10</ns>
+    <id>4370</id>
+    <revision>
+      <id>17775</id>
+      <parentid>17774</parentid>
+      <timestamp>2014-02-08T21:11:24Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1433">&lt;noinclude&gt;This shows an example of the localized colon&lt;span style=&quot;background:yellow&quot;&gt;&lt;/noinclude&gt;{{#switch:{{LangSwitch
+  | lang = {{#if: {{{lang|}}} | {{{lang|}}} | {{int:lang}} }}
+  | default = Zinh-Po-space
+  | am = Ethi
+  | br = Zinh-nbsp-Po-space
+  | co = Zinh-nbsp-Po-space
+  | ca = Zinh-nbsp-Po-space
+  | es = Zinh-nbsp-Po-space
+  | fr = Zinh-nbsp-Po-space
+  | gl = Zinh-nbsp-Po-space
+  | he = Hebr
+  | hi = Deva
+  | ii = Yiii
+  | ja = Jpan
+  | km = Khmr
+  | ko = Hang
+  | oc = Zinh-nbsp-Po-space
+  | pt = Zinh-nbsp-Po-space
+  | pt-br = Zinh-nbsp-Po-space
+  | ro = Zinh-nbsp-Po-space
+  | ti = Ethi
+  | yi = Hebr
+  | yue = Hant
+  | zh = Hans
+  | zh-hans = Hans
+  | zh-hant = Hant
+  }}
+
+|Ethi = &amp;#x1365;&amp;#32;&lt;!-- Ethiopic punctuation sign colon --&gt;
+
+|Bpmf|Phpa|Tale|Talu|Yiii&lt;!-- Indo-Sinitic scripts used along with Chinese --&gt;
+|Hani|Hans|Hant|Jpan = &amp;#xFF1A;&lt;!-- CJK punctuation double-width colon (rotated if vertical layout) --&gt;
+
+|Deva&lt;!-- avoids confusion with U+0903 Devanagari combining sign Visarga --&gt;
+|Hebr&lt;!-- avoids confusion with U+05C3 Hebrew punctuation sign Sof Pasuk --&gt;
+|Khmr&lt;!-- avoids confusion with U+17C8 Khmer combining sign Yukaleakpintu --&gt;
+|Hang
+|Zinh-nbsp-Po-space = &lt;span style=&quot;font-size:50%&quot;&gt;&amp;nbsp;&lt;/span&gt;&amp;#x3A;&amp;#32;
+
+|Zinh-Po-space|#default = &amp;#x3A;&amp;#32;
+}}&lt;noinclude&gt;&lt;/span&gt;text immediately after it...
+{{documentation}}
+[[Category:Internationalization templates using LangSwitch]]
+&lt;/noinclude&gt;</text>
+      <sha1>lqyid0ji5fsy2fy6pi82lmurxza33i5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Commons</title>
+    <ns>10</ns>
+    <id>4238</id>
+    <revision>
+      <id>17487</id>
+      <parentid>17486</parentid>
+      <timestamp>2014-01-08T18:34:04Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="557">&lt;onlyinclude&gt;&lt;div class=&quot;sisterproject&quot; style=&quot;margin:0.1em 0 0 0;&quot;&gt;[[Datei:Commons-logo.svg|x16px|alt=|link=|Commons]]&amp;nbsp;'''&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Commons:{{#if:{{{1|}}}|{{{1}}}|{{PAGENAME}}}}|uselang={{INT:Lang}}}} Commons: {{#if:{{{2|}}}|{{{2}}}|{{#if:{{{1|}}}|{{{1}}}|{{PAGENAME}}}}}}]&lt;/span&gt;'''{{#switch:{{{3|}}}
+|X|x=
+|= &amp;nbsp;– {{#ifeq:{{NAMESPACE:{{{1|{{PAGENAME}}}}}}}|{{ns:14}}|Sammlung von|Album mit}} Bildern, Videos und Audiodateien
+|#default= &amp;nbsp;– {{{3}}}
+}}&lt;/div&gt;&lt;/onlyinclude&gt;&lt;noinclude&gt;
+{{Dokumentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>tfeh1t2nnkhwv2se86zjjl9et92ljp9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:DasGrundschulnetz</title>
+    <ns>10</ns>
+    <id>3474</id>
+    <revision>
+      <id>18848</id>
+      <parentid>18847</parentid>
+      <timestamp>2015-03-06T21:20:22Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Änderung 18847 von [[Special:Contributions/Karl Kirst|Karl Kirst]] ([[User talk:Karl Kirst|Diskussion]]) rückgängig gemacht.</comment>
+      <text xml:space="preserve" bytes="1127">{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;&quot;&gt;&lt;/div&gt;
+&lt;!--&lt;div style=&quot;float:right; margin:8px; margin-top:5px&quot;&gt;[[Image:GSNETZ.jpg|48px]]&lt;/div&gt;--&gt;
+&lt;div style=&quot;font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;ZUM-Grundschulnetz&lt;/div&gt;
+&lt;div style=&quot;font-size:9pt; padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=5 width=100%
+|align=center valign=top width=50%|
+:[[Image:GSNETZ.jpg|80px|left]]&lt;br&gt;&lt;div style=&quot;font: 14pt Verdana&quot;&gt;Das ZUM-Grundschulwiki ist Teil des &lt;br&gt;[http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!&lt;/div&gt;
+|valign=top width=50%|
+Auch im [http://www.dasgrundschulnetz.de ZUM-Grundschulnetz]:
+* [http://www.grundschulpost.de ZUM-Grundschulpost]
+* [http://www.grundschulwebquest.de ZUM-GrundschulWebQuest]
+* [http://www.grundschulinternetabc.de ZUM-Grundschul-InternetABC]
+* [http://www.grundschulsuche.de ZUM-Grundschulsuche]
+|}</text>
+      <sha1>bbokk80gxb46y063m53r285qulj94zg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Dateiangaben ergänzen</title>
+    <ns>10</ns>
+    <id>4022</id>
+    <revision>
+      <id>17561</id>
+      <parentid>17560</parentid>
+      <timestamp>2014-02-08T21:09:08Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1576">== Bitte Dateiangaben ergänzen! ==
+{{ZUM-Wiki|Hallo, Du hat in letzter Zeit eine oder mehrere Dateien hochgeladen; siehe '''[[Spezial:Beiträge/{{PAGENAME}}|Deine Beiträge]]'''. Leider fehlen noch einige Angaben auf zumindest einer der Dateibeschreibungsseiten. Bitte ergänze diese möglichst umgehend. Denn Bilder ohne ausreichende Angabe müssen wir leider wieder löschen, um [[ZUM-Wiki:Urheberrechte beachten|Urheberrechtsverletzungen]] zu vermeiden. 
+
+Notwendig sind auf jeden Fall folgende Angaben:
+# '''Quelle''': Woher stammt die Datei?
+# '''Urheber''': Wer ist Urheber (Autor/in) der Datei?
+# '''Lizenz''': Unter welchen Bedingungen darf die Datei weiterverwendet werden?
+Siehe dazu auch die Seite [[Spezial:Hochladen]].
+
+Auch bei selbst erstellten Fotos und Zeichnungen darf ein Text wie ''selbst fotografiert, selbst gezeichnet'' und eine Lizenzangabe nicht fehlen. Welche möglich sind, siehst Du unter '''[[ZUM-Wiki:Lizenzvorlagen für Bilder]]'''.
+
+Standard im {{SITENAME}} ist die [[ZUM-Wiki:Lizenzbestimmungen|ZUM-Wiki-Lizenz (CC-by-sa/3.0/de)]], die Du mit dem folgenden Quellcode hier einfügen kannst:
+
+&lt;pre&gt;{{Bild-CC-by-sa/3.0/de}}&lt;/pre&gt;
+
+Besten Dank für Deine Unterstützung!}}
+
+Gruß &lt;noinclude&gt;
+
+;Das schreibt man:
+&lt;pre&gt;{{Dateiangaben}} --~~~~&lt;/pre&gt;
+
+;Anwendung:
+Über den Verbleib der Dateien im ZUM-Wiki wird nach etwa zwei Wochen entschieden.
+
+;Siehe auch: [[Vorlage:Angaben fehlen]]
+
+[[Kategorie:Vorlage:Lizenz für Bilder|!]]
+[[Kategorie:Vorlage:Benutzerbausteine|Dateiangaben]]
+[[Kategorie:Vorlage:Hinweis-Bausteine|Dateiangaben]]
+&lt;/noinclude&gt;</text>
+      <sha1>29cq9idsqd267fwufvlm0d2a4kzy3sm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:De</title>
+    <ns>10</ns>
+    <id>4245</id>
+    <revision>
+      <id>17507</id>
+      <parentid>17506</parentid>
+      <timestamp>2014-01-20T22:31:41Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="252">{{description|1=de|2={{{1|&lt;noinclude&gt;abc&lt;/noinclude&gt;}}}|3=Deutsch|inline={{{inline|}}}}}{{#if:{{{1|}}}||{{#switch:{{NAMESPACENUMBER}}|0|6|14=[[Category:Template:De with no text displayed]]}}}}&lt;noinclude&gt;{{internationalization template doc}}&lt;/noinclude&gt;</text>
+      <sha1>3no368hxgwstbrdv1g4o0qf99zxo4du</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Definition</title>
+    <ns>10</ns>
+    <id>4325</id>
+    <revision>
+      <id>17685</id>
+      <parentid>17684</parentid>
+      <timestamp>2014-02-08T21:09:47Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="288">&lt;div style=&quot;border: 1px solid #50ad50; background-color:#f9fff9; align:center; padding:4px;&quot;&gt;
+&lt;font&gt;'''Definition'''&lt;/font&gt;
+----
+{{{1}}}
+&lt;/div&gt;&lt;noinclude&gt;
+{{Quellcode}}
+&lt;pre&gt;{{Definition|&lt;Text&gt;}}&lt;/pre&gt;
+&lt;/noinclude&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Definition]]&lt;/noinclude&gt;</text>
+      <sha1>5m5wqcz9wtuhi1nsynga4lboqx1y5mt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Description</title>
+    <ns>10</ns>
+    <id>4247</id>
+    <revision>
+      <id>17511</id>
+      <parentid>17510</parentid>
+      <timestamp>2014-01-20T22:31:41Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="790">&lt;includeonly&gt;&lt;!-- 
+
+=== Mark text {{{2}}} as being in language {{{1}}} ===
+
+--&gt;&lt;div class=&quot;description mw-content-{{Dir|{{{4|{{{1}}}}}}}} {{{1}}}&quot; dir=&quot;{{Dir|{{{4|{{{1}}}}}}}}&quot; lang=&quot;{{{4|{{{1}}}}}}&quot; style=&quot;{{#if:{{{inline|}}}|display:inline;}}&quot;&gt;&lt;span class=&quot;language {{{1}}}&quot; title=&quot;{{{name|{{{3|}}}}}}&quot;&gt;'''{{ucfirst:{{#language:{{{1}}}}}}}{{{5|}}}:'''&lt;/span&gt; {{#if:{{{2|}}}|{{{2}}}|&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Category:Language templates with no text displayed}} &lt;span class=&quot;error&quot;&gt;{{Description/i18n}}&lt;/span&gt;]&lt;/span&gt;}}&lt;!-- 
+ 
+=== Add Maintenance Category ===
+
+--&gt;{{#if:{{{2|}}}||{{#switch:{{NAMESPACENUMBER}}
+ |0|6|10|14|100|106=[[Category:Language templates with no text displayed]]
+}}}}&lt;/div&gt;&lt;/includeonly&gt;&lt;noinclude&gt;
+
+{{heavily used template}}
+{{documentation}}
+
+&lt;/noinclude&gt;</text>
+      <sha1>el6m89qbugyi2v4f04ee5e32cnhdi0k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Diese Seite</title>
+    <ns>10</ns>
+    <id>4239</id>
+    <revision>
+      <id>17489</id>
+      <parentid>17488</parentid>
+      <timestamp>2014-01-08T18:34:04Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="421">&lt;div class=&quot;toccolours Vorlage-Dieser_Artikel&quot; style=&quot;margin-bottom:1em; padding:5px; border-width:0 0 1px 0; font-size:100%&quot;&gt;
+{| style=&quot;background-color:transparent&quot;
+| style=&quot;width:30px; vertical-align:top&quot; | [[Bild:Disambig-grau45.png|25px|Begriffsklärung]]
+| Diese Seite {{{1}}}
+|}
+&lt;/div&gt;&lt;noinclude&gt;
+
+;Das schreibt man:
+&lt;pre&gt;{{Diese Seite|&lt;Text&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Artikelbausteine|Diese Seite]]&lt;/noinclude&gt;</text>
+      <sha1>19xc1lm3fucxnh0kqosw1eazqiq88xx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Dieser Artikel</title>
+    <ns>10</ns>
+    <id>4240</id>
+    <redirect title="Vorlage:Diese Seite" />
+    <revision>
+      <id>17491</id>
+      <parentid>17490</parentid>
+      <timestamp>2014-01-08T18:34:04Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="38">#WEITERLEITUNG [[Vorlage:Diese Seite]]</text>
+      <sha1>bq55xm17l7vh5ka32nq2ymziu4ntnt6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Dir</title>
+    <ns>10</ns>
+    <id>4248</id>
+    <revision>
+      <id>17513</id>
+      <parentid>17512</parentid>
+      <timestamp>2014-01-20T22:31:41Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="337">&lt;noinclude&gt;{{heavily used template}}&lt;/noinclude&gt;{{#switch:{{{1}}}|ar|arc|arz|bcc|ckb|bqi|dv|fa|fa-af|glk|ha|he|kk-arab|kk-cn|ks|ku-arab|mzn|pnb|prd|ps|sd|ug|ur|ydd|yi={{{2|rtl}}}|{{{3|ltr}}}}}&lt;noinclude&gt;
+{{documentation}}
+
+[[Category:Internationalization templates|{{PAGENAME}}]]
+[[Category:Function templates|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>td8r7nht7cc2kdw8w7mhgyxuj6ndkh8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Documentation subpage</title>
+    <ns>10</ns>
+    <id>4249</id>
+    <revision>
+      <id>17515</id>
+      <parentid>17514</parentid>
+      <timestamp>2014-01-20T22:31:41Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="433">&lt;includeonly&gt;&lt;!--
+--&gt;{{#ifeq:{{SUBPAGENAME}}|{{#ifeq:{{{1|}}}|override|{{SUBPAGENAME}}|doc}}|&lt;/includeonly&gt;&lt;!-- show on doc pages only
+  --&gt;{{Documentation subpage/{{Fallback|Documentation subpage}}}}&lt;!--
+  --&gt;{{{category|[[Category:Template documentation|&lt;noinclude&gt; &lt;/noinclude&gt;&lt;includeonly&gt;{{PAGENAME}}&lt;/includeonly&gt;]]}}}&lt;!--
+--&gt;&lt;includeonly&gt;}}&lt;/includeonly&gt;&lt;!--  show on doc pages only
+--&gt;&lt;noinclude&gt;{{documentation}}&lt;/noinclude&gt;</text>
+      <sha1>3la76qqtzzogu7tiyb09exrq7n7759b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Dokumentation</title>
+    <ns>10</ns>
+    <id>4225</id>
+    <revision>
+      <id>17461</id>
+      <parentid>17460</parentid>
+      <timestamp>2014-01-08T18:33:57Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="7932">{{Tausendfach verwendet}}&lt;onlyinclude&gt;&lt;hr class=&quot;rulerdocumentation hintergrundfarbe6&quot; style=&quot;margin:1em 0.5em; height:0.7ex; &quot; /&gt;
+{{#ifeq:{{NAMESPACE}}|{{ns:0}}|&lt;strong class=&quot;error&quot;&gt;Achtung: Die {{Vorlage|Dokumentation}} wird im Hauptnamensraum verwendet. Wahrscheinlich fehlt &lt;code&gt;&amp;lt;noinclude&amp;gt;&lt;/code&gt; in einer eingebundenen Vorlage oder die Kapselung ist fehlerhaft. Bitte {{Bearbeiten|text=entferne diesen Fehler}}.&lt;/strong&gt;| 
+&lt;div id=&quot;framedocumentation&quot;&gt;&lt;div class=&quot;rahmenfarbe1&quot; style=&quot;margin-bottom:0.5em; padding:0.5em; padding-top:0; clear:left; border-style:solid;&quot; id=&quot;Vorlage_Dokumentation&quot;&gt; 
+&lt;div style=&quot;float:right; clear:left;&quot;&gt;[[Datei:Information icon.svg|frameless|18px|link=#Dokumentation.Info|Informationen zu dieser Dokumentation|alt=]]&lt;/div&gt;
+{{Überschriftensimulation 4|1=&lt;span class=&quot;editsection&quot;&gt;&amp;#x5b;&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:{{SUBJECTPAGENAME}}/Doku|action=edit}} Bearbeiten]&lt;/span&gt;&amp;#x5d;&lt;/span&gt; Dokumentation}} 
+{{#ifexist: {{SUBJECTPAGENAME}}/Doku|
+{{{{SUBJECTPAGENAME}}/Doku}}
+&lt;br /&gt;&lt;hr style=&quot;border:none; height:0.7ex; clear:both;&quot; /&gt;
+{{{!}} {{Bausteindesign5}}
+{{!}} Bei Fragen zu dieser [[Hilfe:Vorlagen|Vorlage]] kannst Du Dich an die [[ZUM-Wiki:Vorlagenwerkstatt|Vorlagenwerkstatt]] wenden.
+{{!}}}
+{{{!}} cellspacing=&quot;8&quot; cellpadding=&quot;0&quot; class=&quot;plainlinks&quot; style=&quot;background:transparent; margin: 2px 0;&quot; id=&quot;Dokumentation.Info&quot; 
+{{!}} style=&quot;position:relative; width:35px; vertical-align:top;&quot; {{!}} [[Datei:Information icon.svg|30px|Information|alt=]]
+{{!}} style=&quot;width: 100%;&quot; {{!}}
+&lt;ul&gt;
+&lt;li&gt;{{#switch:{{ParmPart|1|{{{nr|&lt;noinclude&gt;10&lt;/noinclude&gt;}}}}}
+| 1 = {{Verwendung|ns=1}} der Vorlage auf Artikel-Diskussionsseiten.
+| 2 = {{Verwendung|ns=2}} der Vorlage auf Benutzerseiten.
+| 3 = {{Verwendung|ns=3}} der Vorlage auf Benutzer-Diskussionsseiten.
+| 4 = {{Verwendung|ns=4}} der Vorlage auf Systemseiten.
+| 6 = {{Verwendung|ns=6}} der Vorlage bei Dateien.
+| 10 = {{Verwendung|ns=10}} der Vorlage auf Vorlagenseiten.
+| 11 = {{Verwendung|ns=10}} der Vorlage auf Vorlagen-Diskussionsseiten.
+| 14 = {{Verwendung|ns=14}} der Vorlage auf Kategorieseiten.
+| #default = {{Verwendung}} der Vorlage in Artikeln.
+}}&lt;/li&gt;
+&lt;li&gt;{{#switch:{{ParmPart|2|{{{nr|}}}}}
+| 1 = {{Verwendung|ns=1}} der Vorlage auf Artikel-Diskussionsseiten.
+| 2 = {{Verwendung|ns=2}} der Vorlage auf Benutzerseiten.
+| 3 = {{Verwendung|ns=3}} der Vorlage auf Benutzer-Diskussionsseiten.
+| 4 = {{Verwendung|ns=4}} der Vorlage auf Systemseiten.
+| 6 = {{Verwendung|ns=6}} der Vorlage bei Dateien.
+| 10 = {{Verwendung|ns=10}} der Vorlage auf Vorlagenseiten.
+| 11 = {{Verwendung|ns=10}} der Vorlage auf Vorlagen-Diskussionsseiten.
+| 14 = {{Verwendung|ns=14}} der Vorlage auf Kategorieseiten.
+}}&lt;/li&gt;
+&lt;li&gt; Diese Dokumentation befindet sich [[{{SUBJECTPAGENAME}}/Doku|auf einer eingebundenen Unterseite]]&lt;span class=&quot;metadata metadata-inline&quot;&gt; ([{{fullurl:{{SUBJECTPAGENAME}}/Doku|action=edit}} Bearbeiten]/[{{fullurl:{{SUBJECTPAGENAME}}/Doku|action=history}} Versionen]{{#ifexist:{{TALKPAGENAME}}/Doku|/[[{{TALKPAGENAME}}/Doku|Diskussion]]}})&lt;/span&gt;.&lt;/li&gt;
+{{#ifexist:{{SUBJECTPAGENAME}}/Wartung
+ | &lt;li&gt;Für diese Vorlage existiert eine [[{{SUBJECTPAGENAME}}/Wartung|Wartungsseite]]&lt;span class=&quot;metadata metadata-inline&quot;&gt; ([{{fullurl:{{SUBJECTPAGENAME}}/Wartung|action=edit}} Bearbeiten]/[{{fullurl:{{SUBJECTPAGENAME}}/Wartung|action=history}} Versionen]{{#ifexist:{{TALKPAGENAME}}/Wartung|/[[{{TALKPAGENAME}}/Wartung|Diskussion]]}})&lt;/span&gt; zum Auffinden fehlerhafter Verwendungen.&lt;/li&gt;
+ | &lt;li class=&quot;metadata metadata-label&quot;&gt;[{{fullurl:{{SUBJECTPAGENAME}}/Wartung|action=edit&amp;preload=Vorlage:Dokumentation/preload-wartung}} Wartungsseite erstellen].&lt;/li&gt;
+}}
+{{#ifexist:{{SUBJECTPAGENAME}}/XML
+ | &lt;li&gt;Für diese Vorlage existiert eine [[{{SUBJECTPAGENAME}}/XML|XML-Beschreibung]]&lt;span class=&quot;metadata metadata-inline&quot;&gt; ([{{fullurl:{{SUBJECTPAGENAME}}/XML|action=edit}} Bearbeiten]/[{{fullurl:{{SUBJECTPAGENAME}}/XML|action=history}} Versionen]{{#ifexist:{{TALKPAGENAME}}/XML|/[[{{TALKPAGENAME}}/XML|Diskussion]]}})&lt;/span&gt; für den [[ZUM-Wiki:Helferlein/Vorlagen-Meister|Vorlagenmeister]].&lt;/li&gt;
+ | &lt;li class=&quot;metadata metadata-label&quot;&gt;[[tools:~revolus/Template-Master/index.de.html|XML-Beschreibungsseite erstellen]]&lt;/li&gt;
+}}
+{{#ifexist:{{SUBJECTPAGENAME}}/Test
+ | &lt;li&gt;Anwendungsbeispiele und Funktionalitätsprüfungen befinden sich auf der [[{{SUBJECTPAGENAME}}/Test|Testseite]]&lt;span class=&quot;metadata metadata-inline&quot;&gt; ([{{fullurl:{{SUBJECTPAGENAME}}/Test|action=edit}} Bearbeiten]/[{{fullurl:{{SUBJECTPAGENAME}}/Test|action=history}} Versionen]{{#ifexist:{{TALKPAGENAME}}/Test|/[[{{TALKPAGENAME}}/Test|Diskussion]]}})&lt;/span&gt;.&lt;/li&gt;
+ | &lt;li class=&quot;metadata metadata-label&quot;&gt;[{{fullurl:{{SUBJECTPAGENAME}}/Test|action=edit&amp;preload=Vorlage:Dokumentation/preload-test}} Test-/Beispielseite erstellen].&lt;/li&gt;
+}}
+{{#ifexist:{{SUBJECTPAGENAME}}/Druck
+ | &lt;li&gt;Es existiert eine spezielle [[{{SUBJECTPAGENAME}}/Druck|Druckversion]]&lt;span class=&quot;metadata metadata-inline&quot;&gt; ([{{fullurl:{{SUBJECTPAGENAME}}/Druck|action=edit}} Bearbeiten]/[{{fullurl:{{SUBJECTPAGENAME}}/Druck|action=history}} Versionen]{{#ifexist:{{TALKPAGENAME}}/Druck|/[[{{TALKPAGENAME}}/Druck|Diskussion]]}})&lt;/span&gt; für die [[Hilfe:Buchfunktion|Buchfunktion]].&lt;/li&gt;
+ | &lt;li class=&quot;metadata metadata-label&quot;&gt;[{{fullurl:{{SUBJECTPAGENAME}}/Druck|action=edit&amp;preload=Vorlage:Dokumentation/preload-druck}} Druckversion erstellen].&lt;/li&gt;
+}}
+{{#ifexist: {{SUBJECTPAGENAME}}/Meta
+ | &lt;li&gt;Die Metadaten ([[Hilfe:Kategorien|Kategorien]] und [[Hilfe:Internationalisierung|Interwikis]]) {{#ifeq:{{NAMESPACE}}|{{ns:2}} 
+   | in [[{{SUBJECTPAGENAME}}/Meta]] werden '''nicht''' eingebunden, weil sich die Vorlage im [[Hilfe:Benutzernamensraum|Benutzernamensraum]] befindet 
+   | werden [[{{SUBJECTPAGENAME}}/Meta|von einer Unterseite eingebunden]]&lt;span class=&quot;metadata metadata-inline&quot;&gt; ([{{fullurl:{{SUBJECTPAGENAME}}/Meta|action=edit}} Bearbeiten]/[{{fullurl:{{SUBJECTPAGENAME}}/Meta|action=history}} Versionen]{{#ifexist:{{TALKPAGENAME}}/Meta|/[[{{TALKPAGENAME}}/Meta|Diskussion]]}})&lt;/span&gt;
+   }}.&lt;/li&gt;
+ | &lt;li class=&quot;metadata metadata-label&quot;&gt;[{{fullurl:{{SUBJECTPAGENAME}}/Meta|action=edit&amp;preload=Vorlage:Dokumentation/preload-meta}} Metadatenseite erstellen].&lt;/li&gt;
+}}
+{{#ifexist:{{SUBJECTPAGENAME}}/Editnotice
+ | &lt;li&gt;Es existiert eine [[{{SUBJECTPAGENAME}}/Editnotice|Editnotice]]&lt;span class=&quot;metadata metadata-inline&quot;&gt; ([{{fullurl:{{SUBJECTPAGENAME}}/Editnotice|action=edit}} Bearbeiten]/[{{fullurl:{{SUBJECTPAGENAME}}/Editnotice|action=history}} Versionen]{{#ifexist:{{TALKPAGENAME}}/Editnotice|/[[{{TALKPAGENAME}}/Editnotic|Diskussion]]}})&lt;/span&gt;, die beim Bearbeiten angezeigt wird.&lt;/li&gt;
+ | &lt;li class=&quot;metadata metadata-label&quot;&gt;[{{fullurl:{{SUBJECTPAGENAME}}/Editnotice|action=edit&amp;preload=Vorlage:Dokumentation/preload-editnotice}} Editnotice erstellen].&lt;/li&gt;
+}}
+&lt;li&gt;[[Spezial:Präfixindex/{{SUBJECTPAGENAME}}/|Liste der Unterseiten]].&lt;/li&gt;
+&lt;/ul&gt;
+{{!}}}
+|&lt;span class=&quot;plainlinks&quot; style=&quot;font-size:150%;&quot;&gt;
+* [{{fullurl:{{SUBJECTPAGENAME}}/Doku|action=edit&amp;preload=Vorlage:Dokumentation/preload-doku}} Dokumentation erstellen] 
+{{#ifexist:{{SUBJECTPAGENAME}}/Meta|| 
+* [{{fullurl:{{SUBJECTPAGENAME}}/Meta|action=edit&amp;preload=Vorlage:Dokumentation/preload-meta}} Metadatenseite erstellen]}} 
+{{#ifexist:{{SUBJECTPAGENAME}}/Test|| 
+* [{{fullurl:{{SUBJECTPAGENAME}}/Test|action=edit&amp;preload=Vorlage:Dokumentation/preload-test}} Test-/Beispielseite erstellen]}} 
+{{#ifexist:{{SUBJECTPAGENAME}}/Wartung|| 
+* [{{fullurl:{{SUBJECTPAGENAME}}/Wartung|action=edit&amp;preload=Vorlage:Dokumentation/preload-wartung}} Wartungsseite erstellen]}}
+&lt;/span&gt;{{#ifeq:{{NAMESPACE}}|{{ns:10}}|
+[[Kategorie:Vorlage:nicht dokumentiert|{{PAGENAME}}]]
+}}
+}}
+&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;
+&lt;/div&gt;&lt;/div&gt;{{#ifeq:{{NAMESPACE}}|{{ns:2}}||{{#ifexist: {{SUBJECTPAGENAME}}/Meta|{{{{SUBJECTPAGENAME}}/Meta}}
+}}}}
+}}&lt;hr class=&quot;rulerdocumentation hintergrundfarbe6&quot; style=&quot;margin:1em 0.5em; height:0.7ex; &quot; /&gt;&lt;/onlyinclude&gt;</text>
+      <sha1>tt8t3ssiijuwiz8g9yarvr5bbrrcbbx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Erledigt</title>
+    <ns>10</ns>
+    <id>4241</id>
+    <revision>
+      <id>17493</id>
+      <parentid>17492</parentid>
+      <timestamp>2014-01-08T18:34:05Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="169">&lt;onlyinclude&gt;&lt;span style=&quot;display:inline&quot;&gt;&amp;nbsp;[[Datei:Yes check.svg|14px|link=]]&amp;nbsp;'''Erledigt'''&lt;/span&gt;&lt;/onlyinclude&gt;
+
+
+[[Kategorie:Vorlage:Bearbeitungsbausteine]]</text>
+      <sha1>pgow6gyqwpgjgl1zsf4zull5birk6gw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Erweiterungen</title>
+    <ns>10</ns>
+    <id>4235</id>
+    <revision>
+      <id>17499</id>
+      <parentid>17498</parentid>
+      <timestamp>2014-01-09T21:05:21Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="1061">&lt;div style=&quot;float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em&quot;&gt;
+&lt;div style=&quot;font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;&quot;&gt;
+[[Datei:ZUM-Logo.png|right|25px]]'''[[Hilfe:Erweiterungen|Seiten bearbeiten:&lt;br&gt;Erweiterungen]]'''
+&lt;/div&gt;
+&lt;div style=&quot;background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;&quot;&gt;
+
+* [[Hilfe:CategoryTree|CategoryTree (Kategorienbaum)]]
+* [[Hilfe:GeoGebra|GeoGebra]]
+* [[Hilfe:Graphviz|Graphviz]]
+* [[Hilfe:ImageMap|ImageMap]]
+* [[Hilfe:LaTeX|LaTeX]]
+* [[Hilfe:Notensatz|Notensatz]]
+* [[Hilfe:Quiz|Quiz]]
+* [[Hilfe:Schach|Schach]]
+* [[Hilfe:Timeline|Timeline]]
+* [[Hilfe:Widgets|Widgets]]
+** [[Hilfe:SlideShare|SlideShare]]
+** [[Hilfe:Twitter|Twitter]]
+: ''[[Hilfe:Erweiterungen|... mehr]]''
+&lt;/div&gt;
+&lt;div style=&quot;font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;&quot;&gt;
+* [[Hilfe:MediaWiki|Handbuch zur Software]]
+&lt;/div&gt;&lt;/div&gt;&lt;noinclude&gt;[[Kategorie:Vorlage:Navigationsblöcke|.]]&lt;/noinclude&gt;</text>
+      <sha1>e6ica57ek1nrph0rlbjjeaf1d3mttgu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Extension DPL</title>
+    <ns>10</ns>
+    <id>4214</id>
+    <revision>
+      <id>17563</id>
+      <parentid>17428</parentid>
+      <timestamp>2014-02-08T21:09:09Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="252">&lt;noinclude&gt;This page was automatically created. It serves as an anchor page for all '''[[Special:WhatLinksHere/Template:Extension_DPL|invocations]]''' of [http://mediawiki.org/wiki/Extension:DynamicPageList Extension:DynamicPageList (DPL)].&lt;/noinclude&gt;</text>
+      <sha1>rbe2zjh13imqqxnyjdit7zpdx6dfdtu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Exzellenter Artikel</title>
+    <ns>10</ns>
+    <id>3627</id>
+    <revision>
+      <id>14152</id>
+      <parentid>14142</parentid>
+      <timestamp>2010-11-20T21:04:10Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="196">{{Kastendesign|
+BORDER = #AE0000|
+BACKGROUND = #AE4C4B|
+BREITE =100%|
+BILD = Exzellent2.png|48px|
+ÜBERSCHRIFT =EXZELLENTER ARTIKEL|
+INHALT='''SUPER ARTIKEL''' -- Dieser Artikel ist exzellent!|
+}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Frage</title>
+    <ns>10</ns>
+    <id>4326</id>
+    <revision>
+      <id>17687</id>
+      <parentid>17686</parentid>
+      <timestamp>2014-02-08T21:09:47Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="571">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#cc0000}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Datei:Fragezeichen.gif|25px]] &amp;nbsp; Frage
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{Frage|&lt;Frage(stellung)&gt;}}&lt;/pre&gt;
+
+;Vergleiche: [[Vorlage:Antwort]]
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Frage]]&lt;/noinclude&gt;</text>
+      <sha1>hldkokr188484x21qk643ozrer90y17</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Fragen</title>
+    <ns>10</ns>
+    <id>1522</id>
+    <revision>
+      <id>14129</id>
+      <parentid>14100</parentid>
+      <timestamp>2010-11-20T20:15:51Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Antwort</comment>
+      <text xml:space="preserve" bytes="2972">Wieso ist die [[Banane]] krumm? Die Antwort auf diese Frage findest im Text zu [[Banane]].
+
+Warum ist der Himmel blau?Kein-Kommentar
+
+Wie kann mann ganz Schlechte Artikel Löschen.--[[Benutzer:MALukas|MALukas]] 08:45, 7. Nov. 2010 (UTC)
+:Hallo, MALukas!
+:Nun, da würde ich auf der Diskussionsseite des Artikels einen Text schreiben, der zeigt, warum der Artikel gelöscht werden sollte. Angenommen also, jemand hat über das Nilpferd einen Artikel geschrieben, den Du nicht so gut findest. Er sollte sogar nicht im ZUM-Grundschulwiki stehen. Dann gehst Du auf die Diskussionsseite von der Nilpferd-Seite und schreibst dort Deine Gründe. Löschen kann den Artikel allerdings nur ein Administrator. --[[Benutzer:Leupold|Leupold]] 19:39, 7. Nov. 2010 (UTC)
+
+Hey hier gipt es keine seite wo Steht, wie mann eine Vorlage Erstellt.Das muss ich aber, weil mein Artikel Bern eine Vorlage Namens [[Vorlage:Achtung-Bearbeitung]] braucht.--[[Benutzer:MALukas|MALukas]] 18:50, 11. Nov. 2010 (UTC)
+:Jeder Artikel im ZUM-Grundschulwiki kann zu jeder Zeit von Jedem bearbeitet werden. Das heißt, dass Du einen Hinweis im Sinne von &quot;Achtung! Wird bearbeitet&quot; nicht geben musst! Das ist in jedem Fall so! --[[Benutzer:Leupold|Leupold]] 19:12, 11. Nov. 2010 (UTC)
+und wie Erstellt mann Vorlagen!!!!--[[Benutzer:MALukas|MALukas]] 20:22, 11. Nov. 2010 (UTC)
+ich meinte achtung muss Bearbeitet werden Vorlag und jetzt Schluss noch die Antwort--[[Benutzer:MALukas|MALukas]] 20:31, 11. Nov. 2010 (UTC)
+Wen mann eine Seite Erstellt genauer gesagt einen Artikel und nicht wil das er Bearbeitet wird wie kann mann dan auf Quelltext betrachten wechseln?--[[Benutzer:MALukas|MALukas]] 18:48, 11. Nov. 2010 (UTC)
+: Diese Frage verstehe ich nicht! --[[Benutzer:Leupold|Leupold]] 19:12, 11. Nov. 2010 (UTC)
+::Also Nochmal.Wie kann mann bei einem Artikel aus Quelltext Betrachten wechseln.(sie müssen doch emho das verstehe sie Nicht).--[[Benutzer:MALukas|MALukas]] 20:21, 11. Nov. 2010 (UTC)
+:::Hallo, MALukas! Ich denke, dass ich das Problem jetzt verstanden habe, nachdem ich überhaupt erstmal nach &quot;Quelltext betrachten&quot; gesucht habe! &quot;Quelltext betrachten&quot; siehst Du nur dann, wenn Du noch nicht im ZUM-Grundschulwiki angemeldet bist. Wenn Du also von dort aus weiter an dem Artikel arbeiten willst, musst Du Dich erstmal oben rechts anmelden! Klicke dafür einfach auf &quot;anmelden&quot;! --[[Benutzer:Leupold|Leupold]] 07:08, 13. Nov. 2010 (UTC)
+
+::::ach neee!ich meinte wie kann man den artikel fürs arbeiten sperren!--[[Benutzer:MALukas|MALukas]] 15:15, 13. Nov. 2010 (UTC)
+:::::Seiten sperren können nur Administratoren (Lehrer oder die Betreuer des ZUM-Grundschulwiki). Das machen wir auch nur auf den Seiten, an denen niemand arbeiten soll (Hinweise für die Benutzung, Impressum...). Alle anderen Seiten sollen von allen Nutzern zu jeder Zeit bearbeitet werden können, weil sie nur dann auch wirklich weiterentwickelt werden können! --[[Benutzer:Leupold|Leupold]] 20:15, 20. Nov. 2010 (UTC)</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:GNU-Lizenz</title>
+    <ns>10</ns>
+    <id>1717</id>
+    <revision>
+      <id>3727</id>
+      <parentid>3726</parentid>
+      <timestamp>2006-04-01T16:37:22Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="661">&lt;div style=&quot;border: 2px solid #dfdfdf; background-color:#c5d5ff;padding:7px;&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=5 width=100%
+|align=left valign=top width=5%|
+[[Bild:65px-Heckert_GNU_white.png]]
+|align=left valign=top width=95%|
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. 
+Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.
+|}
+&lt;/div&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Geburtstag</title>
+    <ns>10</ns>
+    <id>2555</id>
+    <revision>
+      <id>7626</id>
+      <timestamp>2008-01-14T16:41:48Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>neue vorlage erstellt, kann gelegentlich eingebaut werden</comment>
+      <text xml:space="preserve" bytes="473">{{Kastendesign|
+BORDER = #AE0000|
+BACKGROUND = #AE4C4B|
+BREITE =100%|
+BILD = Kcmpartitions.png|48px|
+ÜBERSCHRIFT =Geburtstag|
+INHALT=&lt;big&gt;'''04.01.2008'''&lt;/big&gt;&lt;br&gt;Das Grundschulwiki hat Geburtstag! Nicht nur, weil es so ziemlich genau zwei Jahre alt ist, sondern weil wir auch unsere ersten '''100.000 Besucher''' auf unserer Seite hatten!&lt;br&gt;
+Toll, dass ihr alle so fleißig geschrieben habt!&lt;br&gt;
+Wir hoffen auf viele weitere tolle Artikel von euch. '''Macht mit!'''|
+}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Geburtstagsgruß</title>
+    <ns>10</ns>
+    <id>2925</id>
+    <revision>
+      <id>16166</id>
+      <parentid>16165</parentid>
+      <timestamp>2012-11-18T22:21:13Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>typo</comment>
+      <text xml:space="preserve" bytes="490">{{Kastendesign|
+BORDER = #AE0000|
+BACKGROUND = #AE4C4B|
+BREITE =100%|
+BILD = Kcmpartitions.png|48px|
+ÜBERSCHRIFT =HAPPY BIRTHDAY|
+INHALT=&lt;big&gt;'''17.11.2012'''&lt;/big&gt;
+
+Das Grundschulwiki feiert einen RIESENGROSSEN Geburtstag, denn am 17.11.2012 besuchte uns der '''1.000.000ste Besucher''' auf unserer Seite und hat '''EURE''' Artikel gelesen!
+
+Toll, dass Ihr alle so fleißig geschrieben habt und interessiert seid!
+
+Wir hoffen auf viele weitere tolle Artikel von Euch. '''Macht mit!'''
+|}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Grundschule auf ZUM.de</title>
+    <ns>10</ns>
+    <id>4576</id>
+    <revision>
+      <id>18851</id>
+      <parentid>18849</parentid>
+      <timestamp>2015-03-06T21:36:11Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Datei:Grundschule.png</comment>
+      <text xml:space="preserve" bytes="1292">{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;&quot;&gt;&lt;/div&gt;
+&lt;!--&lt;div style=&quot;float:right; margin:8px; margin-top:5px&quot;&gt;[[Datei:Grundschule.png|48px]]&lt;/div&gt;--&gt;
+&lt;div style=&quot;font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Grundschule auf ZUM.de&lt;/div&gt;
+&lt;div style=&quot;font-size:9pt; padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=5 width=100%
+|align=center valign=top width=50%|
+:[[Datei:Grundschule.png|250px|zentriert|verweis=http://www.zum.de/portal/grundschule]]
+|valign=top width=50%|
+:&lt;div style=&quot;font: 14pt Verdana&quot;&gt;Das Grundschulwiki gehört zu &lt;br&gt;&lt;br&gt;[http://www.zum.de/portal/grundschule Grundschule auf ZUM.de]!&lt;/div&gt;
+&lt;!--Auch bei [http://www.zum.de/portal/grundschule Grundschule auf ZUM.de]:
+* [http://www.grundschulpost.de Grundschulpost]
+* [http://www.grundschulwebquest.de GrundschulWebQuest]
+* [http://www.grundschulinternetabc.de Grundschul-InternetABC]
+* [http://www.grundschulsuche.de Grundschulsuche]
+* [http://grundschullernportal.zum.de Grundschullernportal]
+* [http://klexikon.zum.de Klexikon]--&gt;
+|}</text>
+      <sha1>br0fnrp1jf52klws0x5n8v9vgiefq5o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hide</title>
+    <ns>10</ns>
+    <id>2626</id>
+    <revision>
+      <id>7994</id>
+      <timestamp>2008-02-27T18:12:27Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="686">&lt;includeonly&gt;&lt;span class=&quot;_togglegroup _toggle_initshow _toggle _toggler toggle-visible&quot; style=&quot;display:none;&quot;&gt;[show]&lt;/span&gt;&lt;span class=&quot;_toggle_inithide _toggle _toggler toggle-hidden&quot; style=&quot;display:none;&quot;&gt;[hide]&lt;/span&gt;
+&lt;div class=&quot;_toggle_inithide _toggle toggle-hidden&quot;&gt;
+{{{1}}}&lt;/div&gt;&lt;/includeonly&gt;&lt;noinclude&gt;
+==Usage==
+&lt;nowiki&gt;{{hide|text to hide}}&lt;/nowiki&gt; or &lt;nowiki&gt;{{hide|1=text to hide}}&lt;/nowiki&gt;. The second form is required when &quot;text to hide&quot; contains an equals sign.
+
+== Bitte Vorlage:versteckt nutzen! ==
+Diese Vorlage ist übernommen aus: http://openwetware.org/wiki/Template:Hide 
+
+Für das ZUM-Wiki bitte die angepasste '''[[Vorlage:versteckt]]''' nutzen!
+&lt;/noinclude&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Highlight1</title>
+    <ns>10</ns>
+    <id>1552</id>
+    <revision>
+      <id>2946</id>
+      <timestamp>2006-02-13T09:09:41Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="17">bgcolor=&quot;#B3B7FF&quot;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Hinweis</title>
+    <ns>10</ns>
+    <id>2926</id>
+    <revision>
+      <id>9688</id>
+      <timestamp>2008-11-14T16:38:40Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>vorlage angepasst</comment>
+      <text xml:space="preserve" bytes="151">{{Kastendesign|
+   BORDER = #97BF87|
+   BACKGROUND = #AADDAA|
+   BREITE =100%|
+   INHALT={{{1}}}|
+   BILD=Xmag.png|
+   ÜBERSCHRIFT=Schon gewusst?|
+ }}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:ISOdate</title>
+    <ns>10</ns>
+    <id>4371</id>
+    <revision>
+      <id>17777</id>
+      <parentid>17776</parentid>
+      <timestamp>2014-02-08T21:11:24Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="8234">{{#switch: 1 
+  |{{#ifexpr: ({{#ifeq: {{{1|}}} | | 1|0}}) or (({{#iferror: {{#expr: {{{1}}} }} | 1 | {{#ifeq: {{{1}}} | {{#expr: {{{1}}} }} |0|1}} }}) and ({{#iferror: {{#time: | {{{1}}} }}{{#time: | a{{{1}}} }} | 1 | 0 }}) and ({{#iferror: {{#expr: {{{1}}} }} | 1 | 0 }})) | 1}} = {{#if:{{{debug|}}}|a}}{{{1|}}}
+  |{{#if:      {{#iferror: {{#expr: {{{1}}} }} | | {{#ifeq: {{{1}}} | {{#expr: {{{1}}} }} |1|}} }}                                                     |1}} = {{#if:{{{debug|}}}|b}}{{date|{{{1}}}|||{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+  |{{#ifexpr: ({{#iferror: {{#expr: {{{1}}} }} |1|0}}=1) and ({{#iferror: {{#time: | {{{1}}} }}{{#time: | a{{{1}}} }} | 1 | 0 }})                      |1}} = {{#if:{{{debug|}}}|c}}{{{1}}}
+  |{{#ifexpr: ({{#iferror: {{#expr: {{{1}}} }} |0|1}}) and ({{{1}}} &lt;= 998) and ({{{1}}} &gt;= -11)                                                       |1}} =
+    {{#switch: 1
+      |{{#ifexpr: ({{{1}}} &lt;= 998) and ({{{1}}} &gt;= -11) and ({{#iferror: {{#time: Y | {{padleft:{{{1}}}|7|0}} }}                              |1|0}}=1)|1}} = {{#if:{{{debug|}}}|d}}{{{1}}}
+      |{{#ifexpr: ({{{1}}} &lt;= 998) and ({{{1}}} &gt;= -11) and ({{#ifexpr: ({{#time: Y | {{padleft:{{{1}}}|7|0}} }} &gt;= 1958) and ({{{1}}} &lt;= 98) |1|0}}=1)|1}} = {{#if:{{{debug|}}}|e}}{{#ifeq: {{{1}}} | {{#expr: {{#time: y | {{padleft:{{{1}}}|7|0}} }} }}-{{#time: m | {{padleft:{{{1}}}|7|0}} }} | {{date|{{#expr: {{#time: y | {{padleft:{{{1}}}|7|0}} }} }}| {{#time: m | {{padleft:{{{1}}}|7|0}} }}||{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }} | {{#ifeq: {{{1}}} | {{#expr: {{#time: y | {{padleft:{{{1}}}|7|0}} }} }}-{{#time: m | {{padleft:{{{1}}}|7|0}} }}-{{#time: d | {{padleft:{{{1}}}|7|0}} }} | {{date|{{#expr: {{#time: y | {{padleft:{{{1}}}|7|0}} }} }}| {{#time: m | {{padleft:{{{1}}}|7|0}} }}| {{#time: d | {{padleft:{{{1}}}|7|0}} }}|{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }} | {{{1}}} }} }}
+      |{{#ifexpr: ({{{1}}} &lt;= 998) and ({{{1}}} &gt;= -11)                                                                                                |1}} = {{#if:{{{debug|}}}|f}}{{#ifeq: {{{1}}} | {{#expr: {{#time: Y | {{padleft:{{{1}}}|7|0}} }} }}-{{#time: m | {{padleft:{{{1}}}|7|0}} }} | {{date|{{#expr: {{#time: Y | {{padleft:{{{1}}}|7|0}} }} }}| {{#time: m | {{padleft:{{{1}}}|7|0}} }}||{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }} | {{#ifeq: {{{1}}} | {{#expr: {{#time: Y | {{padleft:{{{1}}}|7|0}} }} }}-{{#time: m | {{padleft:{{{1}}}|7|0}} }}-{{#time: d | {{padleft:{{{1}}}|7|0}} }} | {{date|{{#expr: {{#time: Y | {{padleft:{{{1}}}|7|0}} }} }}| {{#time: m | {{padleft:{{{1}}}|7|0}} }}| {{#time: d | {{padleft:{{{1}}}|7|0}} }}|{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }} | {{{1}}} }} }}
+      |#default                                                                                                                                             = {{#if:{{{debug|}}}|g}}{{{1}}}
+    }}                    
+  |#default = {{#ifexpr: ({{#ifeq: {{padleft:{{{1}}}|8|#}} | #{{{1}}} | 1 | 0 }}) and ({{#iferror: {{#expr: {{{1}}} &gt; 100 }} | 0 | {{#ifexpr: {{{1}}} &gt; 100 | 1 | 0 }} }}) and ({{#iferror: {{#time: Y | {{{1|}}} }} | 0 | 1 }}) 
+    |                                                                          {{#if:{{{debug|}}}|h}}{{date| {{#expr: {{#time: Y | {{{1}}}-01 }} }}   | {{#time: n | {{{1}}}-01 }} |                      |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }} 
+    | {{#switch: {{{1}}} 
+      |{{#expr: {{#time:Y| {{{1}}} }} - 1900 }}-{{#time:m-d H:i:sZ| {{{1}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 1900 }}-{{#time:m-d H:i:s| {{{1}}} }} ={{#if:{{{debug|}}}|i}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 1900 }} | {{#time: n | {{{1}}} }} | {{#time: j | {{{1}}} }} |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}{{ISOdate/time3| {{{1}}} |lang={{{2|}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 1900 }}-{{#time:m-d H:i  | {{{1}}} }} ={{#if:{{{debug|}}}|j}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 1900 }} | {{#time: n | {{{1}}} }} | {{#time: j | {{{1}}} }} |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}{{ISOdate/time2| {{{1}}} |lang={{{2|}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 1900 }}-{{#time:m-d      | {{{1}}} }} ={{#if:{{{debug|}}}|k}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 1900 }} | {{#time: n | {{{1}}} }} | {{#time: j | {{{1}}} }} |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 1900 }}-{{#time:m        | {{{1}}} }} ={{#if:{{{debug|}}}|l}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 1900 }} | {{#time: n | {{{1}}} }} |                         |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 1900 }}                               ={{#if:{{{debug|}}}|m}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 1900 }} |                         |                         |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 2000 }}-{{#time:m-d H:i:sZ| {{{1}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 2000 }}-{{#time:m-d H:i:s| {{{1}}} }} ={{#if:{{{debug|}}}|n}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 2000 }} | {{#time: n | {{{1}}} }} | {{#time: j | {{{1}}} }} |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}{{ISOdate/time3| {{{1}}} |lang={{{2|}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 2000 }}-{{#time:m-d H:i  | {{{1}}} }} ={{#if:{{{debug|}}}|o}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 2000 }} | {{#time: n | {{{1}}} }} | {{#time: j | {{{1}}} }} |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}{{ISOdate/time2| {{{1}}} |lang={{{2|}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 2000 }}-{{#time:m-d      | {{{1}}} }} ={{#if:{{{debug|}}}|p}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 2000 }} | {{#time: n | {{{1}}} }} | {{#time: j | {{{1}}} }} |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 2000 }}-{{#time:m        | {{{1}}} }} ={{#if:{{{debug|}}}|r}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 2000 }} | {{#time: n | {{{1}}} }} |                         |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+      |{{#expr: {{#time:Y| {{{1}}} }} - 2000 }}                               ={{#if:{{{debug|}}}|s}}{{date| {{#expr: {{#time:Y| {{{1}}} }} - 2000 }} |                         |                         |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+      |{{#time:Y-m-d H:i:sZ| {{{1}}} }}|{{#time:Y-m-d H:i:s| {{{1}}} }}
+      |{{#expr:{{#time:Y| {{{1}}} }}}}{{#time:-m-d H:i:sZ| {{{1}}} }}
+      |{{#expr:{{#time:Y| {{{1}}} }}}}{{#time:-m-d H:i:s | {{{1}}} }}         ={{#if:{{{debug|}}}|t}}{{date| {{#expr:{{#time: Y | {{{1}}} }}}} | {{#time: n | {{{1}}} }} | {{#time: j | {{{1}}} }} |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}{{ISOdate/time3| {{{1}}} |lang={{{2|}}} }}
+      |{{#time:Y-m-d H:i| {{{1}}} }}
+      |{{#expr:{{#time:Y| {{{1}}} }}}}{{#time:-m-d H:i   | {{{1}}} }}         ={{#if:{{{debug|}}}|u}}{{date| {{#expr:{{#time: Y | {{{1}}} }}}} | {{#time: n | {{{1}}} }} | {{#time: j | {{{1}}} }} |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}{{ISOdate/time2| {{{1}}} |lang={{{2|}}} }}
+      |{{#time:Y-m-d| {{{1}}} }}
+      |{{#expr:{{#time:Y| {{{1}}} }}}}{{#time:-m-d       | {{{1}}} }}         ={{#if:{{{debug|}}}|w}}{{date| {{#expr:{{#time: Y | {{{1}}} }}}} | {{#time: n | {{{1}}} }} | {{#time: j | {{{1}}} }} |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+      |{{#time:Y-m| {{{1}}} }}
+      |{{#expr:{{#time:Y| {{{1}}} }}}}{{#time:-m         | {{{1}}} }}         ={{#if:{{{debug|}}}|x}}{{date| {{#expr:{{#time: Y | {{{1}}} }}}} | {{#time: n | {{{1}}} }} |                         |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+      |{{#expr:{{#time:Y| {{{1}}} }}}}|{{#time:Y| {{{1}}} }}                  ={{#if:{{{debug|}}}|y}}{{date| {{#expr:{{#time: Y | {{{1}}} }}}} |                         |                         |{{{2|}}} |form= {{{form|}}}  |class= {{{class|dtstart}}} }}
+      |#default                                                               ={{#if:{{{debug|}}}|z}}{{{1}}}
+    }}
+  }}
+}}&lt;noinclude&gt;
+
+{{documentation}}
+
+&lt;/noinclude&gt;</text>
+      <sha1>rqwbm5642v8gog0vllnvwaw9pj6thdd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Idee</title>
+    <ns>10</ns>
+    <id>4327</id>
+    <revision>
+      <id>17689</id>
+      <parentid>17688</parentid>
+      <timestamp>2014-02-08T21:09:48Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="799">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#BEF28C}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Nuvola apps edu miscellaneous.png|30px]] &amp;nbsp; Unterrichtsidee 
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+;Syntax: &lt;pre&gt;{{Idee|&lt;Text der Unterrichtsidee&gt;}}&lt;/pre&gt;&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Idee]]
+;Hinweis: Dies Vorlage hat eine feste Breite, beansprucht also die gesamte Breite eines Artikels. 
+:Die [[Vorlage:Idee float]] sieht gleich aus, hat aber eine flexible Breite, so dass die Vorlage also zum Beispiel ein Bild umfließen kann.&lt;/noinclude&gt;</text>
+      <sha1>5dkgt58k3vr7143ncf94tw3t13ih673</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Idee float</title>
+    <ns>10</ns>
+    <id>4328</id>
+    <revision>
+      <id>17691</id>
+      <parentid>17690</parentid>
+      <timestamp>2014-02-08T21:09:48Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="726">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#BEF28C}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; &lt;!--width: {{{Breite|100%}}}; --&gt;background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Nuvola apps edu miscellaneous.png|30px]] &amp;nbsp; Unterrichtsidee 
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+;Syntax: &lt;pre&gt;{{Idee|&lt;Text der Unterrichtsidee&gt;}}&lt;/pre&gt;&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Idee]]
+;Hinweis: Wie [[Vorlage:Idee]], aber die Breite der Vorlage passt sich dem zur Verfügung stehenden Platz an. Die Vorlage kann also z.B. ein Bild &quot;umfließen&quot;.&lt;/noinclude&gt;</text>
+      <sha1>7y06ag6mxm2c8b2v7797q88l98c5fno</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Information</title>
+    <ns>10</ns>
+    <id>4218</id>
+    <revision>
+      <id>17445</id>
+      <parentid>17444</parentid>
+      <timestamp>2014-01-08T18:33:18Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="2409">&lt;noinclude&gt;{{Dokumentation}}&lt;/noinclude&gt;
+{| cellpadding=&quot;3&quot; class=&quot;toccolours&quot; width=&quot;100%&quot; 
+|-
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; width=&quot;15%&quot; | Beschreibung
+|
+{{#if: {{{description|}}} | {{{description}}} | &lt;div id=&quot;information-fehlt&quot; style=&quot;text-align: center; background: #ffe; margin: .75em 15%; padding: .5em; border: 1px solid #e3e3b0;&quot;&gt;'''Es fehlt noch eine Beschreibung des Inhalts der Datei (Was zeigt die Datei?). Bitte diese Information noch [{{SERVER}}{{LOCALURL:{{SUBJECTPAGENAMEE}}|action=edit}} nachtragen].'''&lt;/div&gt;}}
+|-
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; | Quelle
+|
+{{#if: {{{source|}}} | {{{source}}} | &lt;div id=&quot;information-fehlt&quot; style=&quot;text-align: center; background: #ffe; margin: .75em 15%; padding: .5em; border: 1px solid #e3e3b0;&quot;&gt;'''Es fehlt noch die Quelle für die Datei (Woher hat der Uploader die Datei?). Bitte diese Information noch [{{SERVER}}{{LOCALURL:{{SUBJECTPAGENAMEE}}|action=edit}} nachtragen].'''&lt;/div&gt;}}
+|-
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; | Urheber bzw.&lt;br&gt;Nutzungsrechtinhaber
+|
+{{#if: {{{author|}}} | {{{author}}} |&lt;div id=&quot;information-fehlt&quot; style=&quot;text-align: center; background: #ffe; margin: .75em 15%; padding: .5em; border: 1px solid #e3e3b0;&quot;&gt;'''Es fehlt noch der Urheber bzw. der Nutzungsrechteinhaber für die Datei (Wer hat die Datei ursprünglich erstellt?). Bitte diese Information noch [{{SERVER}}{{LOCALURL:{{SUBJECTPAGENAMEE}}|action=edit}} nachtragen].'''&lt;/div&gt;}}
+|-
+{{#if:{{{date|}}}|
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; {{!}} Datum
+{{!}}
+{{{date}}}
+}}
+|-
+{{#if:{{{permission|}}}|
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; {{!}} [[Hilfe:FAQ zu Bildern#Was ist eine Erlaubnis/Permission/Freigabe/Genehmigung?|Genehmigung]]
+{{!}}
+{{{permission}}}
+}}
+|-
+{{#if:{{{other_versions|}}}|
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; {{!}} Andere Versionen dieser Datei
+{{!}}
+{{{other_versions}}}
+}}
+|-
+{{#if:{{{other_fields|}}}|
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; {{!}} Anmerkungen
+{{!}}
+{{{other_fields}}}
+}}
+|}{{#if:{{Booland3|{{{Beschreibung|}}}|{{{Quelle|}}}|{{{Urheber|}}}}}||{{#ifeq:{{NAMESPACE}}|{{ns:6}}|&lt;!--[[Kategorie:Wikipedia:Dateiüberprüfung/Informationsmängel|{{PAGENAME}}]]--&gt;}}}}</text>
+      <sha1>nli3bkliqhqniyyj5qo5g5eedf5wnsj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Information/Doku</title>
+    <ns>10</ns>
+    <id>4230</id>
+    <revision>
+      <id>17471</id>
+      <parentid>17470</parentid>
+      <timestamp>2014-01-08T18:33:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="639">&lt;noinclude&gt;{{Dokumentation/Dokuseite}}&lt;/noinclude&gt;
+Diese [[Hilfe:Vorlagen|Vorlage]] wird auf Bildbeschreibungsseiten verwendet, um ihnen ein einheitliches Layout zugeben, außerdem ist durch diese Vorlage eine eindeutige Zuordnung der Informationen zu den einzelnen Stichpunkten gegeben. Außerdem ist beim Hochladen einer Datei sichergestellt, das alle relevanten Informationen genannt werden, da diese Vorlage als &quot;Checkliste&quot; dienen kann.
+
+Ein weiterer Vorteil dieser Vorlage ist, dass eine automatische Auswertung der Informationen – beispielsweise durch [[WP:BOT|Bots]] – möglich ist.
+
+== Verwendung ==
+{{Information/Verwendung}}</text>
+      <sha1>fct11d4mse08n87esaazxeitw56cfyx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Information/Meta</title>
+    <ns>10</ns>
+    <id>4231</id>
+    <revision>
+      <id>17473</id>
+      <parentid>17472</parentid>
+      <timestamp>2014-01-08T18:33:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="122">&lt;noinclude&gt;{{Dokumentation/Metaseite}}
+&lt;/noinclude&gt;&lt;includeonly&gt;
+[[Kategorie:Vorlage:Hinweis für Bilder]]
+
+&lt;/includeonly&gt;</text>
+      <sha1>lk680ocoewvxlkjjgjvnbmvn45hdv4m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Information/Verwendung</title>
+    <ns>10</ns>
+    <id>4232</id>
+    <revision>
+      <id>17475</id>
+      <parentid>17474</parentid>
+      <timestamp>2014-01-08T18:33:59Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="2047">&lt;noinclude&gt;{{Dokumentation/Dokuseite}}&lt;/noinclude&gt;
+{| {{Bausteindesign11}}
+|-
+| width=&quot;20%&quot; |
+&lt;small&gt;&lt;pre&gt;&lt;nowiki&gt;
+{{Information
+|Beschreibung     = 
+|Quelle           = 
+|Urheber          = 
+|Datum            = 
+|Genehmigung      = 
+|Andere Versionen = 
+|Anmerkungen      = 
+}}&lt;/nowiki&gt;&lt;/pre&gt;&lt;/small&gt;
+| width=&quot;80%&quot; |
+* '''Beschreibung''': Was stellt die Datei dar? (Was ist auf dem Foto zu sehen und wo wurde es aufgenommen?)
+* '''Quelle''': Woher stammt die Datei, bzw. das was die Datei zeigt?&lt;ref&gt;Anm. zur Quelle: Werden Bilder mit einem Graphikprogramm ab- oder nachgezeichnet, so muss auch die Quelle des Ursrpungsbildes angegeben werden.&lt;/ref&gt; (z. B. eine URL oder „selbst fotografiert“)
+* '''Urheber''': Wer hat sie erstellt, bzw. wer hat den Inhalt angefertigt?&lt;ref&gt;Anm. zum Urheber: Bitte beachte, dass man durch Abzeichnen oder Fotografieren eines urheberrechtlich geschützten Gegenstandes in der Regel kein Urheberrecht erwirbt. Daher ist in einem solchen Fall die Genehmigung desjenigen einzuholen, der das Urheberrecht an dem Ursprungsgegenstand besitzt. Dazu bitte die Seite [[Wikipedia:Bildrechte|Bildrechte]] lesen.&lt;/ref&gt; (wenn du Urheber bist, deinen Benutzernamen eintragen oder mit &lt;nowiki&gt;~~~&lt;/nowiki&gt; signieren)
+* '''Datum''': Wann ist die Datei entstanden und falls zutreffend wann wurde sie erstveröffentlicht?
+* '''Genehmigung''' ''(nur ausfüllen, wenn du nicht der Urheber bist, ansonsten frei lassen)'': Woher weißt du, dass du die Datei überhaupt benutzen darfst? Hat es dir der Urheber explizit erlaubt? Leite die Erlaubnis unbedingt zusätzlich an [mailto:permissions-de@wikimedia.org?subject=Upload-Formular permissions-de@wikimedia.org] weiter und vergiss dabei bitte nicht, den Dateinamen zu nennen!
+* '''Andere Versionen''' ''(nur ausfüllen, wenn andere Versionen hochgeladen wurden, ansonsten frei lassen)'': Wie lautet der Name für eine andere Version dieser Datei?
+* '''Anmerkungen''' ''(nur ausfüllen, wenn du etwas anmerken willst, ansonsten frei lassen)'': Sonstige Anmerkungen
+|}
+&lt;references /&gt;</text>
+      <sha1>nwcoh5e0yii9nekckjn86yqaanyywk0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Information ohne UploadWizard</title>
+    <ns>10</ns>
+    <id>4217</id>
+    <revision>
+      <id>17443</id>
+      <parentid>17442</parentid>
+      <timestamp>2014-01-08T18:33:18Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="2419">&lt;noinclude&gt;{{Dokumentation}}&lt;/noinclude&gt;
+{| cellpadding=&quot;3&quot; class=&quot;toccolours&quot; width=&quot;100%&quot; 
+|-
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; width=&quot;15%&quot; | Beschreibung
+|
+{{#if: {{{Beschreibung|}}} | {{{Beschreibung}}} | &lt;div id=&quot;information-fehlt&quot; style=&quot;text-align: center; background: #ffe; margin: .75em 15%; padding: .5em; border: 1px solid #e3e3b0;&quot;&gt;'''Es fehlt noch eine Beschreibung des Inhalts der Datei (Was zeigt die Datei?). Bitte diese Information noch [{{SERVER}}{{LOCALURL:{{SUBJECTPAGENAMEE}}|action=edit}} nachtragen].'''&lt;/div&gt;}}
+|-
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; | Quelle
+|
+{{#if: {{{Quelle|}}} | {{{Quelle}}} | &lt;div id=&quot;information-fehlt&quot; style=&quot;text-align: center; background: #ffe; margin: .75em 15%; padding: .5em; border: 1px solid #e3e3b0;&quot;&gt;'''Es fehlt noch die Quelle für die Datei (Woher hat der Uploader die Datei?). Bitte diese Information noch [{{SERVER}}{{LOCALURL:{{SUBJECTPAGENAMEE}}|action=edit}} nachtragen].'''&lt;/div&gt;}}
+|-
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; | Urheber bzw.&lt;br&gt;Nutzungsrechtinhaber
+|
+{{#if: {{{Urheber|}}} | {{{Urheber}}} |&lt;div id=&quot;information-fehlt&quot; style=&quot;text-align: center; background: #ffe; margin: .75em 15%; padding: .5em; border: 1px solid #e3e3b0;&quot;&gt;'''Es fehlt noch der Urheber bzw. der Nutzungsrechteinhaber für die Datei (Wer hat die Datei ursprünglich erstellt?). Bitte diese Information noch [{{SERVER}}{{LOCALURL:{{SUBJECTPAGENAMEE}}|action=edit}} nachtragen].'''&lt;/div&gt;}}
+|-
+{{#if:{{{Datum|}}}|
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; {{!}} Datum
+{{!}}
+{{{Datum}}}
+}}
+|-
+{{#if:{{{Genehmigung|}}}|
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; {{!}} [[Hilfe:FAQ zu Bildern#Was ist eine Erlaubnis/Permission/Freigabe/Genehmigung?|Genehmigung]]
+{{!}}
+{{{Genehmigung}}}
+}}
+|-
+{{#if:{{{Andere Versionen|}}}|
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; {{!}} Andere Versionen dieser Datei
+{{!}}
+{{{Andere Versionen}}}
+}}
+|-
+{{#if:{{{Anmerkungen|}}}|
+! style=&quot;background: #ccccff; text-align: right; vertical-align: middle;&quot; {{!}} Anmerkungen
+{{!}}
+{{{Anmerkungen}}}
+}}
+|}{{#if:{{Booland3|{{{Beschreibung|}}}|{{{Quelle|}}}|{{{Urheber|}}}}}||{{#ifeq:{{NAMESPACE}}|{{ns:6}}|&lt;!--[[Kategorie:Wikipedia:Dateiüberprüfung/Informationsmängel|{{PAGENAME}}]]--&gt;}}}}</text>
+      <sha1>cazwi764usoun1gosesxx8hgoaz8odu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:InhalteA</title>
+    <ns>10</ns>
+    <id>1407</id>
+    <revision>
+      <id>25646</id>
+      <parentid>25644</parentid>
+      <timestamp>2025-08-18T18:45:49Z</timestamp>
+      <contributor>
+        <username>PIPeisker</username>
+        <id>10637</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1835">* [[Abwurf]], der
+* [[Achkarren]] 
+* [[Adebar]], der (Name)
+* [[Adeliepinguin]], der
+* [[Adler]], der
+* [[Adler, Rene]]
+* [[AFC Champions League 2008]], die
+* [[Affe]], der
+* [[Afrika]]
+* [[Afrikanische Speikobra]], die
+*(( Agent)), der
+* [[Ahornblatt]], das 
+* [[Akita  Inu]],  der
+* [[Albanien]]
+* [[Alemannen]], die
+* [[Alex]] (Löwe aus dem Film Madagaskar)
+* [[Alligator]], der
+* [[Altenmünster]]
+* Ärzte, die (Die Band), siehe [[Die Ärzte]]
+* [[Alice im Wunderland]] (Das Buch)
+* [[Alphabet]], das
+* [[Alphawolf]], der
+* [[Altenmünster]]
+* [[Ameise]],die
+* [[Ameisenbär]], der
+* [[Amazonas]], der
+* [[American Football]], der
+* [[Amerika]] (Kontinent)
+* Amerika, Vereinigte Staaten von, die, siehe [[USA]], die
+* [[Amsel]], die
+* [[Amphibien]], die
+* [[Amsterdam]]
+* [[Anakonda]], die
+* [[Anastasia]] (Name)
+* [[Anders]] (Name)
+* [[Andersen, Hans-Christian]] (Name)
+* [[Andersen Grundschule]] (Schule)
+* [[Angeln]] (Sport, Freizeitbeschäftigung, zum Leben)
+* [[Angorakatze]], die
+* Angsthorn, Eddie, siehe [[Eddie Angsthorn]]
+* [[Anime]]
+* [[Annika]] (Name)
+* [[Anne Frank]]
+* [[Ansbach]]
+* [[Anthrazit-Napfschnecke]], die
+* [[Antilope]], die
+* [[Apfel]], der 
+* [[Apfelbaum]], der
+* [[Apple-Watch]],  die
+* [[Aquarium]],  das
+* [[Ara]], der
+* [[Arazhul]]
+* [[Archäopterix]], der
+* [[Arielle]] (Meerjungfrau aus dem Film Arielle)
+* [[Ark]], das
+* [[Armbrust]], die
+* [[Armut]], die
+* [[Artemia salina]], der
+* [[Arukone]], das
+* [[Arzt]], der
+* [[Aschaffenburg]]
+* [[Aschenputtel]]
+* Ashley Tisdale, siehe [[Tisdale, Ashley]]
+* [[Asterix und Obelix]]
+* Astrid Lindgren, siehe [[Lindgren, Astrid]]
+* [[Atom]], das
+* [[Atomkraft]], die
+* [[Atwood, Roman]]
+* [[Audi]]
+* [[Auge]], das
+* [[Augsburger Puppenkiste]], die
+* [[Ausreiten]], das
+* [[Australien]]
+* [[Auto]], das
+* [[Autor]], der
+* [[Axolotl]], der
+*[[Ägypten]],das</text>
+      <sha1>dndvnu7r8r4kj03243cmrz6tnd0aww4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

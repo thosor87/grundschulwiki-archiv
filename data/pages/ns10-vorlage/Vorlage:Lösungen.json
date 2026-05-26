@@ -1,0 +1,26 @@
+{
+  "pageid": 4343,
+  "ns": 10,
+  "title": "Vorlage:Lösungen",
+  "revisions": [
+    {
+      "revid": 17721,
+      "parentid": 17720,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:56Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#8E8CF2}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Information icon.svg|20px]] '''Lösung''' {{{1}}}\n</div>\n{{{2}}}\n|}<noinclude>\n\n{{Quellcode}}\n<pre>{{Lösungen|<Nummer der Lösung>|<Lösungstext>}}</pre>\n</noinclude>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Lösungen]]</noinclude>"
+    },
+    {
+      "revid": 17720,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-06-12T12:29:50Z",
+      "comment": "Die Seite wurde neu angelegt: „{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#8E8CF2}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto;...“",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#8E8CF2}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Information icon.svg|20px]] '''Lösung''' {{{1}}}\n</div>\n{{{2}}}\n|}<noinclude>\n\n{{Quellcode}}\n<pre>{{Lösungen|<Nummer der Lösung>|<Lösungstext>}}</pre>\n</noinclude>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Lösungen]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

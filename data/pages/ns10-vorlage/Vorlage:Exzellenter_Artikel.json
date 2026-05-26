@@ -1,0 +1,24 @@
+{
+  "pageid": 3627,
+  "ns": 10,
+  "title": "Vorlage:Exzellenter Artikel",
+  "revisions": [
+    {
+      "revid": 14152,
+      "parentid": 14142,
+      "user": "Leupold",
+      "timestamp": "2010-11-20T21:04:10Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Exzellent2.png|48px|\nÜBERSCHRIFT =EXZELLENTER ARTIKEL|\nINHALT='''SUPER ARTIKEL''' -- Dieser Artikel ist exzellent!|\n}}"
+    },
+    {
+      "revid": 14142,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2010-11-20T20:45:16Z",
+      "comment": "angelegt",
+      "wikitext": "{{Kastendesign|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Exzellent2.png|48px|\nÜBERSCHRIFT =EXZELLENTER ARTIKEL|\nINHALT='''SUPER ARTIKEL''' -- Dieser Artikel ist exzellent!|\n}}\n[[Kategorie:Exzellenter Artikel]]"
+    }
+  ],
+  "categories": []
+}

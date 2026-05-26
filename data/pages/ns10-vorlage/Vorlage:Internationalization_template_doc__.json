@@ -1,0 +1,26 @@
+{
+  "pageid": 4251,
+  "ns": 10,
+  "title": "Vorlage:Internationalization template doc/",
+  "revisions": [
+    {
+      "revid": 17519,
+      "parentid": 17518,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-20T22:31:42Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<!--\n-->{{#if:{{{1|}}}|<br />\n{{Internationalization template doc/{{{1}}}}}<!--\n-->{{#if:{{{2|}}}|<br />\n{{Internationalization template doc/{{{2}}}}}<!--\n-->{{#if:{{{3|}}}|<br />\n{{Internationalization template doc/{{{3}}}}}<!--\n-->{{#if:{{{4|}}}|<br />\n{{Internationalization template doc/{{{4}}}}}<!--\n-->{{#if:{{{5|}}}|<br />\n{{Internationalization template doc/{{{5}}}}}<!--\n-->{{#if:{{{6|}}}|<br />\n{{Internationalization template doc/{{{6}}}}}<!--\n-->{{#if:{{{7|}}}|<br />\n{{Internationalization template doc/{{{7}}}}}<!--\n-->{{#if:{{{8|}}}|<br />\n{{Internationalization template doc/{{{8}}}}}<!--\n-->}}}}}}}}}}}}}}}}<noinclude>\n\n[[Category:Helper templates|{{PAGENAME}}]]\n</noinclude>"
+    },
+    {
+      "revid": 17518,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-17T20:05:48Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<!--\n-->{{#if:{{{1|}}}|<br />\n{{Internationalization template doc/{{{1}}}}}<!--\n-->{{#if:{{{2|}}}|<br />\n{{Internationalization template doc/{{{2}}}}}<!--\n-->{{#if:{{{3|}}}|<br />\n{{Internationalization template doc/{{{3}}}}}<!--\n-->{{#if:{{{4|}}}|<br />\n{{Internationalization template doc/{{{4}}}}}<!--\n-->{{#if:{{{5|}}}|<br />\n{{Internationalization template doc/{{{5}}}}}<!--\n-->{{#if:{{{6|}}}|<br />\n{{Internationalization template doc/{{{6}}}}}<!--\n-->{{#if:{{{7|}}}|<br />\n{{Internationalization template doc/{{{7}}}}}<!--\n-->{{#if:{{{8|}}}|<br />\n{{Internationalization template doc/{{{8}}}}}<!--\n-->}}}}}}}}}}}}}}}}<noinclude>\n\n[[Category:Helper templates|{{PAGENAME}}]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Helper templates"
+  ]
+}

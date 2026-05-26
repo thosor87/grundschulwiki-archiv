@@ -1,0 +1,26 @@
+{
+  "pageid": 4328,
+  "ns": 10,
+  "title": "Vorlage:Idee float",
+  "revisions": [
+    {
+      "revid": 17691,
+      "parentid": 17690,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:48Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#BEF28C}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; <!--width: {{{Breite|100%}}}; -->background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Nuvola apps edu miscellaneous.png|30px]] &nbsp; Unterrichtsidee \n</div>\n{{{1}}}\n|}<noinclude>\n;Syntax: <pre>{{Idee|<Text der Unterrichtsidee>}}</pre><noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Idee]]\n;Hinweis: Wie [[Vorlage:Idee]], aber die Breite der Vorlage passt sich dem zur Verfügung stehenden Platz an. Die Vorlage kann also z.B. ein Bild \"umfließen\".</noinclude>"
+    },
+    {
+      "revid": 17690,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-04-17T09:25:18Z",
+      "comment": "Die Seite wurde neu angelegt: „{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#BEF28C}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto;...“",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#BEF28C}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; <!--width: {{{Breite|100%}}}; -->background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Nuvola apps edu miscellaneous.png|30px]] &nbsp; Unterrichtsidee \n</div>\n{{{1}}}\n|}<noinclude>\n;Syntax: <pre>{{Idee|<Text der Unterrichtsidee>}}</pre><noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Idee]]\n;Hinweis: Wie [[Vorlage:Idee]], aber die Breite der Vorlage passt sich dem zur Verfügung stehenden Platz an. Die Vorlage kann also z.B. ein Bild \"umfließen\".</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "pageid": 4252,
+  "ns": 10,
+  "title": "Vorlage:Internationalization template doc/de",
+  "revisions": [
+    {
+      "revid": 17521,
+      "parentid": 17520,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-20T22:31:42Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "== Verwendung ==\n* <nowiki>{{</nowiki>{{lc:{{PAGENAME}}}}|''{{#language:{{lc:{{PAGENAME}}}}}} Übersetzung''}}\n* <nowiki>{{</nowiki>{{lc:{{PAGENAME}}}}|''{{#language:{{lc:{{PAGENAME}}}}}} Übersetzung''|inline=yes}}\n\nResultat: <nowiki>{{</nowiki>{{lc:{{PAGENAME}}}}|{{#language:{{lc:{{PAGENAME}}}}}} Übersetzung}} oder <nowiki>{{</nowiki>{{lc:{{PAGENAME}}}}|{{#language:{{lc:{{PAGENAME}}}}}} Übersetzung|inline=y}}.\n\nSiehe auch: [[Commons:Sprache]].<noinclude>\n{{DEFAULTSORT:{{PAGENAME}}}}\n[[Category:Commons Vorlagen-de]]\n[[Category:Template documentation]]\n</noinclude>"
+    },
+    {
+      "revid": 17520,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-17T20:05:48Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "== Verwendung ==\n* <nowiki>{{</nowiki>{{lc:{{PAGENAME}}}}|''{{#language:{{lc:{{PAGENAME}}}}}} Übersetzung''}}\n* <nowiki>{{</nowiki>{{lc:{{PAGENAME}}}}|''{{#language:{{lc:{{PAGENAME}}}}}} Übersetzung''|inline=yes}}\n\nResultat: <nowiki>{{</nowiki>{{lc:{{PAGENAME}}}}|{{#language:{{lc:{{PAGENAME}}}}}} Übersetzung}} oder <nowiki>{{</nowiki>{{lc:{{PAGENAME}}}}|{{#language:{{lc:{{PAGENAME}}}}}} Übersetzung|inline=y}}.\n\nSiehe auch: [[Commons:Sprache]].<noinclude>\n{{DEFAULTSORT:{{PAGENAME}}}}\n[[Category:Commons Vorlagen-de]]\n[[Category:Template documentation]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Commons Vorlagen-de",
+    "Kategorie:Template documentation"
+  ]
+}

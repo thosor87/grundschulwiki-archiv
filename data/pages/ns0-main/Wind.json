@@ -1,0 +1,32 @@
+{
+  "pageid": 2145,
+  "ns": 0,
+  "title": "Wind",
+  "revisions": [
+    {
+      "revid": 5491,
+      "parentid": 5490,
+      "user": "Leupold",
+      "timestamp": "2007-03-19T16:53:20Z",
+      "comment": "",
+      "wikitext": "Der Wind\n\nWind gibt es, wenn warme Luft auf kalte Luft stößt. Wind ist manchmal still, das bedeutet Windstille, dann hat er 0 km/h. Die Windstärke ist dann 1.\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 5490,
+      "parentid": 5487,
+      "user": "Leupold",
+      "timestamp": "2007-03-19T16:52:54Z",
+      "comment": "",
+      "wikitext": "Der Wind\n\nWind gibt es, wenn warme Luft auf kalte Luft stößt. Wind ist manchmal still, das bedeutet Windstille, dann hat er 0 km/h. Die Windstärke ist dann 1."
+    },
+    {
+      "revid": 5487,
+      "parentid": 0,
+      "user": "MAHahn",
+      "timestamp": "2007-03-19T11:17:47Z",
+      "comment": "",
+      "wikitext": "                                      Der Wind s\n\n\nWind gibt es wenn warme Luft auf kalte Luft stößt.Wind ist manchmal still,das bedeutet Windstille,dann hat er 0 km/h.Die Windstärke ist dann 1."
+    }
+  ],
+  "categories": []
+}

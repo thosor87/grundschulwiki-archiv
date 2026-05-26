@@ -1,0 +1,26 @@
+{
+  "pageid": 4325,
+  "ns": 10,
+  "title": "Vorlage:Definition",
+  "revisions": [
+    {
+      "revid": 17685,
+      "parentid": 17684,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:47Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div style=\"border: 1px solid #50ad50; background-color:#f9fff9; align:center; padding:4px;\">\n<font>'''Definition'''</font>\n----\n{{{1}}}\n</div><noinclude>\n{{Quellcode}}\n<pre>{{Definition|<Text>}}</pre>\n</noinclude>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Definition]]</noinclude>"
+    },
+    {
+      "revid": 17684,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-06-11T15:11:12Z",
+      "comment": "Quellcode",
+      "wikitext": "<div style=\"border: 1px solid #50ad50; background-color:#f9fff9; align:center; padding:4px;\">\n<font>'''Definition'''</font>\n----\n{{{1}}}\n</div><noinclude>\n{{Quellcode}}\n<pre>{{Definition|<Text>}}</pre>\n</noinclude>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Definition]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

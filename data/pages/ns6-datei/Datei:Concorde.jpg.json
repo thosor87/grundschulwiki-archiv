@@ -1,0 +1,24 @@
+{
+  "pageid": 2208,
+  "ns": 6,
+  "title": "Datei:Concorde.jpg",
+  "revisions": [
+    {
+      "revid": 5886,
+      "parentid": 5789,
+      "user": "MANaegel",
+      "timestamp": "2007-03-25T19:03:07Z",
+      "comment": "",
+      "wikitext": "Bild von: http://www.wikipedia.de/ , Download vom: 23.03.2007"
+    },
+    {
+      "revid": 5789,
+      "parentid": 0,
+      "user": "RobinM",
+      "timestamp": "2007-03-23T10:33:06Z",
+      "comment": "entnommen aus: www.wikipedia.de",
+      "wikitext": "entnommen aus: www.wikipedia.de"
+    }
+  ],
+  "categories": []
+}

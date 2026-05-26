@@ -1,0 +1,26 @@
+{
+  "pageid": 4283,
+  "ns": 10,
+  "title": "Vorlage:Bild-PD-Amtliches Werk",
+  "revisions": [
+    {
+      "revid": 17601,
+      "parentid": 17600,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:24Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-Amtliches_Werk\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|link=|55px]]\n| Diese Datei stellt ein {{wpd|Amtliches Werk}} dar und ist nach ''[http://bundesrecht.juris.de/urhg/__5.html § 5 UrhG] (DE)'' bzw. ''[http://kb-law.info/kbc/kbc.php?law=1&lang=DE&page=7 § 7 UrhG] (AT)'' und  ''[http://www.admin.ch/ch/d/sr/231_1/a5.html Art. 5 URG] (CH)'' '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:Public Domain (Amtliches Werk)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]</noinclude>"
+    },
+    {
+      "revid": 17600,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-03T14:22:47Z",
+      "comment": "wpd-Link",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-Amtliches_Werk\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|link=|55px]]\n| Diese Datei stellt ein {{wpd|Amtliches Werk}} dar und ist nach ''[http://bundesrecht.juris.de/urhg/__5.html § 5 UrhG] (DE)'' bzw. ''[http://kb-law.info/kbc/kbc.php?law=1&lang=DE&page=7 § 7 UrhG] (AT)'' und  ''[http://www.admin.ch/ch/d/sr/231_1/a5.html Art. 5 URG] (CH)'' '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:Public Domain (Amtliches Werk)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

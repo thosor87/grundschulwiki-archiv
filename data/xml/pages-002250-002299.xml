@@ -1,0 +1,1318 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Kig.png</title>
+    <ns>6</ns>
+    <id>1649</id>
+    <revision>
+      <id>3252</id>
+      <timestamp>2006-03-09T21:41:36Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kimsal1.JPG</title>
+    <ns>6</ns>
+    <id>3213</id>
+    <revision>
+      <id>11535</id>
+      <timestamp>2009-04-29T15:28:16Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>eigenes Photo</comment>
+      <text xml:space="preserve" bytes="13">eigenes Photo</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kimsal2.JPG</title>
+    <ns>6</ns>
+    <id>3214</id>
+    <revision>
+      <id>11536</id>
+      <timestamp>2009-04-29T15:29:21Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>eigenes Photo</comment>
+      <text xml:space="preserve" bytes="13">eigenes Photo</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kind.gif</title>
+    <ns>6</ns>
+    <id>1553</id>
+    <revision>
+      <id>2954</id>
+      <timestamp>2006-02-13T09:54:00Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Gratisdownload von Microsoft</comment>
+      <text xml:space="preserve" bytes="28">Gratisdownload von Microsoft</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kinder musizieren.jpg</title>
+    <ns>6</ns>
+    <id>2316</id>
+    <revision>
+      <id>6462</id>
+      <timestamp>2007-05-08T17:27:12Z</timestamp>
+      <contributor>
+        <username>LEDowidat</username>
+        <id>257</id>
+      </contributor>
+      <comment>Bild B.Dowidat</comment>
+      <text xml:space="preserve" bytes="14">Bild B.Dowidat</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kira 1 IMG 0099.jpg</title>
+    <ns>6</ns>
+    <id>2126</id>
+    <revision>
+      <id>5336</id>
+      <timestamp>2007-03-07T08:31:32Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kirche Herborn.jpeg</title>
+    <ns>6</ns>
+    <id>6010</id>
+    <revision>
+      <id>25191</id>
+      <parentid>25184</parentid>
+      <timestamp>2022-06-14T09:21:44Z</timestamp>
+      <contributor>
+        <username>MACielanga</username>
+        <id>10505</id>
+      </contributor>
+      <text xml:space="preserve" bytes="196">{{Information ohne UploadWizard
+|Beschreibung = Kirche Herborn
+|Quelle = Selbstfotografiert
+|Urheber = Klasse 3, Herborn
+|Datum = 01.06.2022
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>85wisc5y7k5r27btkvik0ips21df67j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kirchturm.jpg</title>
+    <ns>6</ns>
+    <id>2561</id>
+    <revision>
+      <id>7638</id>
+      <timestamp>2008-01-15T14:28:39Z</timestamp>
+      <contributor>
+        <username>MABauer</username>
+        <id>127</id>
+      </contributor>
+      <comment>Von SChülern fotografiert</comment>
+      <text xml:space="preserve" bytes="26">Von SChülern fotografiert</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kivio.png</title>
+    <ns>6</ns>
+    <id>1650</id>
+    <revision>
+      <id>3253</id>
+      <timestamp>2006-03-09T21:41:49Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kjots.png</title>
+    <ns>6</ns>
+    <id>1651</id>
+    <revision>
+      <id>3254</id>
+      <timestamp>2006-03-09T21:42:01Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Klarinette.jpg</title>
+    <ns>6</ns>
+    <id>5166</id>
+    <revision>
+      <id>21630</id>
+      <parentid>21623</parentid>
+      <timestamp>2017-07-10T07:52:27Z</timestamp>
+      <contributor>
+        <username>Wgsa02</username>
+        <id>10137</id>
+      </contributor>
+      <text xml:space="preserve" bytes="174">{{Information ohne UploadWizard
+|Beschreibung = die klarinette
+|Quelle = Pixelio
+|Urheber = Britta Schülter
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>f3usnrdez1pia7wvdcs0vaaavuafm5w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Klarinette.ogg</title>
+    <ns>6</ns>
+    <id>3033</id>
+    <revision>
+      <id>10428</id>
+      <timestamp>2009-02-10T08:21:24Z</timestamp>
+      <contributor>
+        <username>J.Leupold</username>
+        <id>9</id>
+      </contributor>
+      <comment>So klingt eine Klarinette</comment>
+      <text xml:space="preserve" bytes="25">So klingt eine Klarinette</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Klasse.gif</title>
+    <ns>6</ns>
+    <id>1495</id>
+    <revision>
+      <id>2663</id>
+      <timestamp>2006-01-22T15:55:58Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Für Logik selbst gezeichnet.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bed</comment>
+      <text xml:space="preserve" bytes="537">Für Logik selbst gezeichnet.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Klasse2.gif</title>
+    <ns>6</ns>
+    <id>1496</id>
+    <revision>
+      <id>2664</id>
+      <timestamp>2006-01-22T16:02:20Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Für Logik selbst gezeichnet.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bed</comment>
+      <text xml:space="preserve" bytes="537">Für Logik selbst gezeichnet.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Klasse3.gif</title>
+    <ns>6</ns>
+    <id>1497</id>
+    <revision>
+      <id>2665</id>
+      <timestamp>2006-01-22T16:09:43Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Für &quot;Logik&quot; selbst erstellte Zeichnung.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, un</comment>
+      <text xml:space="preserve" bytes="548">Für &quot;Logik&quot; selbst erstellte Zeichnung.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Klasse4.gif</title>
+    <ns>6</ns>
+    <id>1499</id>
+    <revision>
+      <id>2668</id>
+      <timestamp>2006-01-22T20:50:48Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Für &quot;Logik&quot; selbst erstellt.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bed</comment>
+      <text xml:space="preserve" bytes="537">Für &quot;Logik&quot; selbst erstellt.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Klasse5.gif</title>
+    <ns>6</ns>
+    <id>1500</id>
+    <revision>
+      <id>2669</id>
+      <timestamp>2006-01-22T21:02:18Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Für &quot;Logik&quot; selbst erstellte Zeichnung.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, un</comment>
+      <text xml:space="preserve" bytes="548">Für &quot;Logik&quot; selbst erstellte Zeichnung.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Klassenraum.jpg</title>
+    <ns>6</ns>
+    <id>3667</id>
+    <revision>
+      <id>22595</id>
+      <parentid>14402</parentid>
+      <timestamp>2018-06-15T06:01:38Z</timestamp>
+      <contributor>
+        <username>Wgse11</username>
+        <id>10186</id>
+      </contributor>
+      <comment>Wgse11 lud eine neue Version von „[[Datei:Klassenraum.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung =klassenraum
+|Quelle = pixabay
+|Urheber = Nuffer
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="211">Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kloster Säben.jpg</title>
+    <ns>6</ns>
+    <id>2358</id>
+    <revision>
+      <id>6635</id>
+      <timestamp>2007-05-27T13:05:38Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Selber gemacht.</comment>
+      <text xml:space="preserve" bytes="15">Selber gemacht.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kmplot.png</title>
+    <ns>6</ns>
+    <id>1652</id>
+    <revision>
+      <id>3255</id>
+      <timestamp>2006-03-09T21:42:13Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Knete als Kugel geht unter.jpg</title>
+    <ns>6</ns>
+    <id>3583</id>
+    <revision>
+      <id>13973</id>
+      <timestamp>2010-10-28T11:12:39Z</timestamp>
+      <contributor>
+        <username>ANmax d</username>
+        <id>829</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Knete als Schüssel schwimmt.jpg</title>
+    <ns>6</ns>
+    <id>3584</id>
+    <revision>
+      <id>13974</id>
+      <timestamp>2010-10-28T11:13:42Z</timestamp>
+      <contributor>
+        <username>ANmax d</username>
+        <id>829</id>
+      </contributor>
+      <comment>Knete schwimmt</comment>
+      <text xml:space="preserve" bytes="14">Knete schwimmt</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Knode.png</title>
+    <ns>6</ns>
+    <id>1653</id>
+    <revision>
+      <id>3256</id>
+      <timestamp>2006-03-09T21:42:27Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Knotes.png</title>
+    <ns>6</ns>
+    <id>1654</id>
+    <revision>
+      <id>3257</id>
+      <timestamp>2006-03-09T21:42:41Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Koala.gif</title>
+    <ns>6</ns>
+    <id>5036</id>
+    <revision>
+      <id>21108</id>
+      <timestamp>2017-03-17T09:15:11Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Koala.jpg</title>
+    <ns>6</ns>
+    <id>4903</id>
+    <revision>
+      <id>20086</id>
+      <parentid>20081</parentid>
+      <timestamp>2016-07-07T06:27:58Z</timestamp>
+      <contributor>
+        <username>Wgsa13</username>
+        <id>10148</id>
+      </contributor>
+      <text xml:space="preserve" bytes="202">{{Information ohne UploadWizard
+|Beschreibung = Koalas leben auf Bäumen
+|Quelle = Wikimedia 
+|Urheber =von Erick Veland (Eigenes Werk) 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>pwfjyhnekkwfnw5m6upn3c0mjbrkmcz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Koche .png</title>
+    <ns>6</ns>
+    <id>5990</id>
+    <revision>
+      <id>25149</id>
+      <timestamp>2022-05-17T10:41:13Z</timestamp>
+      <contributor>
+        <username>KOIGSRO32</username>
+        <id>10496</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Kochen 
+|Quelle = Pixabay 
+|Urheber = GraphicMama-Team
+|Datum = 17.5.2022
+|Genehmigung =CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="184">{{Information ohne UploadWizard
+|Beschreibung = Kochen 
+|Quelle = Pixabay 
+|Urheber = GraphicMama-Team
+|Datum = 17.5.2022
+|Genehmigung =CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>1zo3fk9yokizhs6vbir6ybjnqwusk2y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Koeln Dom Fenster AeltBibel1.jpg</title>
+    <ns>6</ns>
+    <id>5892</id>
+    <revision>
+      <id>24901</id>
+      <parentid>24900</parentid>
+      <timestamp>2021-04-12T18:58:09Z</timestamp>
+      <contributor>
+        <username>MARaphael</username>
+        <id>10392</id>
+      </contributor>
+      <text xml:space="preserve" bytes="204">{{Information ohne UploadWizard
+|Beschreibung = Älteres Bibelfenster aus dem Kölner Dom
+|Quelle = Wikipedia
+|Urheber = Beckstet
+|Datum = 31-1-2011
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>rvw7509obze4h546a4gvz8xsaupqak5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Koelner Dom Nacht.jpeg</title>
+    <ns>6</ns>
+    <id>5864</id>
+    <revision>
+      <id>24829</id>
+      <timestamp>2021-01-24T12:50:16Z</timestamp>
+      <contributor>
+        <username>MARaphael</username>
+        <id>10392</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Langhaus des Kölner Domes von Süden
+|Quelle = eigenes Foto
+|Urheber = MA Raphael
+|Datum = 8.11.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="205">{{Information ohne UploadWizard
+|Beschreibung = Langhaus des Kölner Domes von Süden
+|Quelle = eigenes Foto
+|Urheber = MA Raphael
+|Datum = 8.11.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>bq9a0q3d8i21y36wyhqhxri55lbd7in</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kolourpaint.png</title>
+    <ns>6</ns>
+    <id>1655</id>
+    <revision>
+      <id>3258</id>
+      <timestamp>2006-03-09T21:42:57Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Komodowaran01.JPG</title>
+    <ns>6</ns>
+    <id>4911</id>
+    <revision>
+      <id>20115</id>
+      <parentid>20109</parentid>
+      <timestamp>2016-07-07T07:19:56Z</timestamp>
+      <contributor>
+        <username>Wgsa05</username>
+        <id>10140</id>
+      </contributor>
+      <text xml:space="preserve" bytes="187">{{Information ohne UploadWizard
+|Beschreibung = Der Komodowaran
+|Quelle = Wikimedia
+|Urheber = Von Josefma (Eigenes Werk)
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>bt2xuiszq3rs51bchxch0h7uzmdg0gp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Konqsidebar mediaplayer.png</title>
+    <ns>6</ns>
+    <id>1656</id>
+    <revision>
+      <id>3259</id>
+      <timestamp>2006-03-09T21:43:10Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Konqueror.png</title>
+    <ns>6</ns>
+    <id>1657</id>
+    <revision>
+      <id>3260</id>
+      <timestamp>2006-03-09T21:43:28Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:KonstantinBild2007.jpg</title>
+    <ns>6</ns>
+    <id>2299</id>
+    <revision>
+      <id>6387</id>
+      <timestamp>2007-04-27T20:19:13Z</timestamp>
+      <contributor>
+        <username>Konstantin</username>
+        <id>345</id>
+      </contributor>
+      <comment>Eigenes Foto</comment>
+      <text xml:space="preserve" bytes="12">Eigenes Foto</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kontrabass Grundschulwiki.jpg</title>
+    <ns>6</ns>
+    <id>5162</id>
+    <revision>
+      <id>21625</id>
+      <parentid>21619</parentid>
+      <timestamp>2017-07-10T07:52:01Z</timestamp>
+      <contributor>
+        <username>Wgsa09</username>
+        <id>10144</id>
+      </contributor>
+      <text xml:space="preserve" bytes="153">{{Information ohne UploadWizard
+|Beschreibung =Kontrabass 
+|Quelle =pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>j8j86n6msluyme8j4mz6lyjphqqldg1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kopf des Fischotters.jpg</title>
+    <ns>6</ns>
+    <id>5237</id>
+    <revision>
+      <id>21808</id>
+      <parentid>21807</parentid>
+      <timestamp>2018-04-09T10:58:34Z</timestamp>
+      <contributor>
+        <username>MAKnist</username>
+        <id>10269</id>
+      </contributor>
+      <text xml:space="preserve" bytes="216">{{Information ohne UploadWizard
+|Beschreibung = Kopf des Fischotters
+|Quelle = https://pxhere.com/de/photo/608875
+|Urheber = Creative Commons
+|Datum = 9.04.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>hnrhhcw7d3emq2phyxska8q98ttnd9s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kopflaus.jpg</title>
+    <ns>6</ns>
+    <id>2265</id>
+    <revision>
+      <id>6194</id>
+      <timestamp>2007-04-20T06:58:32Z</timestamp>
+      <contributor>
+        <username>Yannick.PPS</username>
+        <id>269</id>
+      </contributor>
+      <comment>http://de.wikipedia.org/wiki/Bild:Pediculus_humanus_var_capitis.jpg:
+Description Pediculus humanus var capitis AKA head louse; public domain from http://phil.cdc.gov/. [1]
+
+Content Provider(s): en:Centers for Disease Control and Prevention (CDC)/Dr. Denni</comment>
+      <text xml:space="preserve" bytes="527">http://de.wikipedia.org/wiki/Bild:Pediculus_humanus_var_capitis.jpg:
+Description Pediculus humanus var capitis AKA head louse; public domain from http://phil.cdc.gov/. [1]
+
+Content Provider(s): en:Centers for Disease Control and Prevention (CDC)/Dr. Dennis D. Juranek
+
+Now in Commons also.[2]--Gyllenhali 15:08, 28 December 2005 (UTC)
+ 
+Source Originally from en.wikipedia; description page is/was here.
+ 
+Date 2003-08-06 (original upload date)
+ 
+Author Original uploader was M123 at en.wikipedia
+ 
+Permission PD-USGOV-HHS-CDC.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Korganizer todo.png</title>
+    <ns>6</ns>
+    <id>1658</id>
+    <revision>
+      <id>3261</id>
+      <timestamp>2006-03-09T21:43:41Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kpdf.png</title>
+    <ns>6</ns>
+    <id>1659</id>
+    <revision>
+      <id>3262</id>
+      <timestamp>2006-03-09T21:43:58Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kragenbär.jpg</title>
+    <ns>6</ns>
+    <id>4933</id>
+    <revision>
+      <id>20369</id>
+      <parentid>20368</parentid>
+      <timestamp>2016-07-12T06:14:47Z</timestamp>
+      <contributor>
+        <username>Wgsa04</username>
+        <id>10211</id>
+      </contributor>
+      <comment>Wgsa04 lud eine neue Version von „[[Datei:Kragenbär.jpg]]“ hoch: Zurückgesetzt auf die Version vom 12. Juli 2016, 06:14 Uhr</comment>
+      <text xml:space="preserve" bytes="238">'''Fetter Text'''{{Information ohne UploadWizard
+|Beschreibung =Kragenbär  
+|Quelle = Wikimedia
+|Urheber = von dalbera from Paris, France (Ours à collier (Zoo de Berlin))
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>p6g43o8elcul4pmomn10477u19e1z8a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kragenbär (1).jpg</title>
+    <ns>6</ns>
+    <id>4934</id>
+    <revision>
+      <id>20363</id>
+      <parentid>20362</parentid>
+      <timestamp>2016-07-12T06:08:12Z</timestamp>
+      <contributor>
+        <username>Wgsa04</username>
+        <id>10211</id>
+      </contributor>
+      <text xml:space="preserve" bytes="220">{{Information ohne UploadWizard
+|Beschreibung = Kragenbär
+|Quelle =Wikimedia 
+|Urheber = von dalbera from Paris, France (Ours à collier (Zoo de Berlin))
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>67j196sklgpibqcj57jlvvjjkjhy7ct</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Krakenbild.jpg</title>
+    <ns>6</ns>
+    <id>3202</id>
+    <revision>
+      <id>11501</id>
+      <timestamp>2009-04-20T15:08:40Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kreis2.png</title>
+    <ns>6</ns>
+    <id>3809</id>
+    <revision>
+      <id>15163</id>
+      <timestamp>2012-01-04T16:40:35Z</timestamp>
+      <contributor>
+        <username>MALorenzo</username>
+        <id>916</id>
+      </contributor>
+      <comment>Ein Kreis. Ich hab das Bild mit Scratch selber gemalt.</comment>
+      <text xml:space="preserve" bytes="54">Ein Kreis. Ich hab das Bild mit Scratch selber gemalt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Krita.png</title>
+    <ns>6</ns>
+    <id>1660</id>
+    <revision>
+      <id>3263</id>
+      <timestamp>2006-03-09T21:44:13Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Krokodil.gif</title>
+    <ns>6</ns>
+    <id>5037</id>
+    <revision>
+      <id>21110</id>
+      <timestamp>2017-03-17T09:16:54Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kronebau night.jpg</title>
+    <ns>6</ns>
+    <id>5017</id>
+    <revision>
+      <id>21019</id>
+      <timestamp>2017-01-30T14:07:06Z</timestamp>
+      <contributor>
+        <username>MAPeters2</username>
+        <id>10224</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = kronebau bei nacht 
+|Quelle = https://de.wikipedia.org/wiki/Circus_Krone#/media/File:Kronebau_night.jpg
+|Urheber = Von Daniel Kaltenthaler (Diskussion) - Selbst fotografiert, CC BY-SA 3.0, https://de.wiki…</comment>
+      <text xml:space="preserve" bytes="361">{{Information ohne UploadWizard
+|Beschreibung = kronebau bei nacht 
+|Quelle = https://de.wikipedia.org/wiki/Circus_Krone#/media/File:Kronebau_night.jpg
+|Urheber = Von Daniel Kaltenthaler (Diskussion) - Selbst fotografiert, CC BY-SA 3.0, https://de.wikipedia.org/w/index.php?curid=8596699
+|Datum = 30.01.17
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lmuzew9c5vqa8tiefuf05jmvemm7i6e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kruler.png</title>
+    <ns>6</ns>
+    <id>1661</id>
+    <revision>
+      <id>3264</id>
+      <timestamp>2006-03-09T21:44:26Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Ksig.png</title>
+    <ns>6</ns>
+    <id>1662</id>
+    <revision>
+      <id>3265</id>
+      <timestamp>2006-03-09T21:44:39Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Ksysv.png</title>
+    <ns>6</ns>
+    <id>1663</id>
+    <revision>
+      <id>3266</id>
+      <timestamp>2006-03-09T21:44:53Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Ktip.png</title>
+    <ns>6</ns>
+    <id>1664</id>
+    <revision>
+      <id>3267</id>
+      <timestamp>2006-03-09T21:45:08Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

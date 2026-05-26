@@ -1,0 +1,26 @@
+{
+  "pageid": 4307,
+  "ns": 10,
+  "title": "Vorlage:Portal-head2",
+  "revisions": [
+    {
+      "revid": 17649,
+      "parentid": 17648,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:42Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<includeonly><div style=\"padding:3px 3px 0px 3px; text-align: left; font-family: Gill Sans, Futura, sans-serif; font-size: {{#if:{{{5|}}}|#{{{5|}}}|120%}}; font-stretch: condensed; border-bottom: solid 1px #{{{1}}}; background-color: {{#if:{{{3|}}}|#{{{3|}}}|transparent}}; color: {{#if:{{{4|}}}|#{{{4|}}}|black}};\">{{{2}}}</div></includeonly><noinclude>\n\nDiese Vorlage erzeugt Überschriften für Portale wie in [[Portal:Halbleiter]]\n\n== Anwendung ==\n* 1. Parameter: Linienfarbe, hexadezimal ohne '#'\n* 2. Parameter: Überschrifttext\n* 3. Parameter: Hintergrundfarbe, hexadezimal ohne '#', optional, Standard: durchsichtig\n* 4. Parameter: Schriftfarbe, hexadezimal ohne '#', optional, Standard: schwarz\n* 5. Parameter: Schriftgröße, in Prozent, optional, Standard: 120%\n\n=== Beispiele ===\n* <code><nowiki>{{Portal-head2|00a0cb|Überschrift ohne Hintergrundfarbe}}</nowiki></code> erzeugt\n{{Portal-head2|00a0cb|Überschrift ohne Hintergrund}}\n\n\n* <code><nowiki>{{Portal-head2|00a0cb|Überschrift mit Hintergrundfarbe|afd2db}}</nowiki></code> erzeugt\n{{Portal-head2|00a0cb|Überschrift mit Hintergrund|afd2db}}\n\n\n* <code><nowiki>{{Portal-head2|00a0cb|Überschrift mit Hintergrund- und Schriftfarbe|00a0cb|FFFFFF}}</nowiki></code> erzeugt\n{{Portal-head2|00a0cb|Überschrift mit Hintergrund|00a0cb|FFFFFF}}\n\n<!--[[Kategorie:Vorlage:Portal:|Head2]]-->\n[[Kategorie:Vorlage:Formatierungshilfe|Portal-head2]]\n</noinclude>"
+    },
+    {
+      "revid": 17648,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-05-11T13:40:45Z",
+      "comment": "-kat",
+      "wikitext": "<includeonly><div style=\"padding:3px 3px 0px 3px; text-align: left; font-family: Gill Sans, Futura, sans-serif; font-size: {{#if:{{{5|}}}|#{{{5|}}}|120%}}; font-stretch: condensed; border-bottom: solid 1px #{{{1}}}; background-color: {{#if:{{{3|}}}|#{{{3|}}}|transparent}}; color: {{#if:{{{4|}}}|#{{{4|}}}|black}};\">{{{2}}}</div></includeonly><noinclude>\n\nDiese Vorlage erzeugt Überschriften für Portale wie in [[Portal:Halbleiter]]\n\n== Anwendung ==\n* 1. Parameter: Linienfarbe, hexadezimal ohne '#'\n* 2. Parameter: Überschrifttext\n* 3. Parameter: Hintergrundfarbe, hexadezimal ohne '#', optional, Standard: durchsichtig\n* 4. Parameter: Schriftfarbe, hexadezimal ohne '#', optional, Standard: schwarz\n* 5. Parameter: Schriftgröße, in Prozent, optional, Standard: 120%\n\n=== Beispiele ===\n* <code><nowiki>{{Portal-head2|00a0cb|Überschrift ohne Hintergrundfarbe}}</nowiki></code> erzeugt\n{{Portal-head2|00a0cb|Überschrift ohne Hintergrund}}\n\n\n* <code><nowiki>{{Portal-head2|00a0cb|Überschrift mit Hintergrundfarbe|afd2db}}</nowiki></code> erzeugt\n{{Portal-head2|00a0cb|Überschrift mit Hintergrund|afd2db}}\n\n\n* <code><nowiki>{{Portal-head2|00a0cb|Überschrift mit Hintergrund- und Schriftfarbe|00a0cb|FFFFFF}}</nowiki></code> erzeugt\n{{Portal-head2|00a0cb|Überschrift mit Hintergrund|00a0cb|FFFFFF}}\n\n<!--[[Kategorie:Vorlage:Portal:|Head2]]-->\n[[Kategorie:Vorlage:Formatierungshilfe|Portal-head2]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Formatierungshilfe"
+  ]
+}

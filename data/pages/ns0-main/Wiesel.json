@@ -1,0 +1,32 @@
+{
+  "pageid": 2526,
+  "ns": 0,
+  "title": "Wiesel",
+  "revisions": [
+    {
+      "revid": 7453,
+      "parentid": 7449,
+      "user": "Leupold",
+      "timestamp": "2008-01-01T14:11:43Z",
+      "comment": "Babel",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDAS  WIESEL ist  im  Winter  weiß  mit  schwarzer  Schwanzspitze  und  im  Sommer  braun. Es  ist  ein  kleines  Säugetier.\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 7449,
+      "parentid": 7430,
+      "user": "Leupold",
+      "timestamp": "2008-01-01T12:57:33Z",
+      "comment": "rücksprung",
+      "wikitext": "DAS  WIESEL ist  im  Winter  weiß  mit  schwarzer  Schwanzspitze  und  im  Sommer  braun. Es  ist  ein  kleines  Säugetier.\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 7430,
+      "parentid": 0,
+      "user": "MALiliana",
+      "timestamp": "2008-01-01T09:35:49Z",
+      "comment": "",
+      "wikitext": "DAS  WIESEL  \nist  im  Winter  weiß  mit  schwarzer  Schwanzspitze  und  im  Sommer  braun.\nEs  ist  ein  kleines  Säugetier."
+    }
+  ],
+  "categories": []
+}

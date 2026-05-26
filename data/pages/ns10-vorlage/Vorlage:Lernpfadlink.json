@@ -1,0 +1,26 @@
+{
+  "pageid": 4338,
+  "ns": 10,
+  "title": "Vorlage:Lernpfadlink",
+  "revisions": [
+    {
+      "revid": 17711,
+      "parentid": 17710,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:54Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "[[Bild:Crystal 128 forward.png|16px]] [[{{{1}}}|{{{2}}}]]<noinclude>\n\n{{Quellcode}}\n<pre>{{Lernpfad-Link|<interner Link>|<Linkname>}}</pre>\n\n[[Kategorie:Vorlage:Linkbausteine|Lernpfad-Link]]</noinclude>"
+    },
+    {
+      "revid": 17710,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-09-06T11:22:17Z",
+      "comment": "hat „[[Vorlage:Lernpfad-Link]]“ nach „[[Vorlage:Lernpfadlink]]“ verschoben:&#32;einheitliche Schreibweise",
+      "wikitext": "[[Bild:Crystal 128 forward.png|16px]] [[{{{1}}}|{{{2}}}]]<noinclude>\n\n{{Quellcode}}\n<pre>{{Lernpfad-Link|<interner Link>|<Linkname>}}</pre>\n\n[[Kategorie:Vorlage:Linkbausteine|Lernpfad-Link]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Linkbausteine"
+  ]
+}

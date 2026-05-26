@@ -1,0 +1,27 @@
+{
+  "pageid": 4321,
+  "ns": 10,
+  "title": "Vorlage:Aufgaben",
+  "revisions": [
+    {
+      "revid": 17677,
+      "parentid": 17676,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:46Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Stift.gif|30px]] &nbsp; Aufgabe {{{1}}}\n</div>\n{{{2}}}\n|}<noinclude>\n;Syntax: <nowiki>{{Aufgaben|<Nummer der Aufgabe>|<Text der Aufgabe>}}</nowiki>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Aufgaben]]</noinclude>"
+    },
+    {
+      "revid": 17676,
+      "parentid": 0,
+      "user": "Konstantin Kowalski",
+      "timestamp": "2012-05-20T21:45:59Z",
+      "comment": "Syntax korrigiert",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Stift.gif|30px]] &nbsp; Aufgabe {{{1}}}\n</div>\n{{{2}}}\n|}<noinclude>\n;Syntax: <nowiki>{{Aufgaben|<Nummer der Aufgabe>|<Text der Aufgabe>}}</nowiki>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Aufgaben]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

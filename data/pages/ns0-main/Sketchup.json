@@ -1,0 +1,64 @@
+{
+  "pageid": 1981,
+  "ns": 0,
+  "title": "Sketchup",
+  "revisions": [
+    {
+      "revid": 12873,
+      "parentid": 6400,
+      "user": "Konstantin",
+      "timestamp": "2009-12-11T14:20:27Z",
+      "comment": "",
+      "wikitext": "Sketchup ist ein 3D-Programm (räumliche Darstellung). Es wird von Google programmiert. Die Basisversion (eingeschränkte Version) ist kostenlos.\n\n[[Bild:Sketchup.jpg]] [[Bild:Sketchup2.jpg]]\n\n[http://sketchup.google.de/products.html Grundlegende Informationen]\n\n[http://download.sketchup.com/OnlineDoc/gsu_win/GoogleSketchUpHelp.htm Onlinehilfe]\n\n[http://www.suwiki.org/suwiki/ SketchUp Wiki]\n\n\n\n{{Rücksprung|S}}"
+    },
+    {
+      "revid": 6400,
+      "parentid": 4664,
+      "user": "Leupold",
+      "timestamp": "2007-04-29T08:35:51Z",
+      "comment": "{{Rücksprung|S}}",
+      "wikitext": "Sketchup ist ein 3D-Programm (räumliche Darstellung). \n\n[[Bild:Sketchup.jpg]] [[Bild:Sketchup2.jpg]]\n\n[http://sketchup.google.de/products.html Grundlegende Informationen]\n\n[http://download.sketchup.com/OnlineDoc/gsu_win/GoogleSketchUpHelp.htm Onlinehilfe]\n\n[http://www.suwiki.org/suwiki/ SketchUp Wiki]\n\n\n\n{{Rücksprung|S}}"
+    },
+    {
+      "revid": 4664,
+      "parentid": 4648,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-10-02T12:49:23Z",
+      "comment": "",
+      "wikitext": "Sketchup ist ein 3D-Programm (räumliche Darstellung). \n\n[[Bild:Sketchup.jpg]] [[Bild:Sketchup2.jpg]]\n\n[http://sketchup.google.de/products.html Grundlegende Informationen]\n\n[http://download.sketchup.com/OnlineDoc/gsu_win/GoogleSketchUpHelp.htm Onlinehilfe]\n\n[http://www.suwiki.org/suwiki/ SketchUp Wiki]"
+    },
+    {
+      "revid": 4648,
+      "parentid": 4647,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-09-28T08:07:19Z",
+      "comment": "",
+      "wikitext": "Sketchup ist ein 3D-Programm (räumliche Darstellung). \n\n[[Bild:Sketchup.jpg]] [[Bild:Sketchup2.jpg]]\n\n[http://sketchup.google.de/products.html Grundlegende Informationen]\n\n[http://www.suwiki.org/suwiki/ SketchUp Wiki]"
+    },
+    {
+      "revid": 4647,
+      "parentid": 4645,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-09-27T20:14:30Z",
+      "comment": "",
+      "wikitext": "Sketchup ist ein 3D-Programm (räumliche Darstellung). \n\n[[Bild:Sketchup.jpg]] [[Bild:Sketchup2.jpg]]\n\n[http://sketchup.google.de/products.html Grundlegende Informationen]"
+    },
+    {
+      "revid": 4645,
+      "parentid": 4643,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-09-27T20:02:18Z",
+      "comment": "",
+      "wikitext": "Sketchup ist ein 3D-Programm (räumliche Darstellung). \n\n[[Bild:Sketchup.jpg]]\n\n[http://sketchup.google.de/products.html Grundlegende Informationen]"
+    },
+    {
+      "revid": 4643,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-09-27T19:56:13Z",
+      "comment": "",
+      "wikitext": "Sketchup ist ein 3D-Programm (räumliche Darstellung). \n\n[http://sketchup.google.de/products.html Grundlegende Informationen]"
+    }
+  ],
+  "categories": []
+}

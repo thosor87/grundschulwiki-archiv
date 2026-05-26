@@ -1,0 +1,27 @@
+{
+  "pageid": 4322,
+  "ns": 10,
+  "title": "Vorlage:Aufgaben-M",
+  "revisions": [
+    {
+      "revid": 17679,
+      "parentid": 17678,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:46Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">&nbsp; [[Bild:Stift.gif|30px]] &nbsp; Aufgabe {{{1}}}\n</div>\n{{{2}}}\n|}<noinclude>\n\n{{Quellcode}}\n\n<pre>{{Aufgaben-M|<Nummer der Aufgabe>|<Text der Aufgabe>}}</pre>\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Aufgaben-M]]</noinclude>"
+    },
+    {
+      "revid": 17678,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2010-01-03T22:24:55Z",
+      "comment": "linker Balekn wie in Vorlage:Aufgabe-M",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#FFE7BA}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">&nbsp; [[Bild:Stift.gif|30px]] &nbsp; Aufgabe {{{1}}}\n</div>\n{{{2}}}\n|}<noinclude>\n\n{{Quellcode}}\n\n<pre>{{Aufgaben-M|<Nummer der Aufgabe>|<Text der Aufgabe>}}</pre>\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Aufgaben-M]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

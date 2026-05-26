@@ -1,0 +1,24 @@
+{
+  "pageid": 3816,
+  "ns": 0,
+  "title": "Pi",
+  "revisions": [
+    {
+      "revid": 15180,
+      "parentid": 15179,
+      "user": "MALorenzo",
+      "timestamp": "2012-01-05T17:08:11Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nPi ist eine Zahl und zwar diese: 3,141592653... . Das Symbol für Pi sieht so aus: &pi;. &pi; wird bei der Berechnung der Fläche, des Umfangs und des Durchmessers eines [[Kreis|Kreises]] benutzt. Deshalb wird es auch Kreiszahl genannt.\n\n== Bestimmung von &pi;==\n\n&pi; kann man so berechnen: Unfang /Durchmesser eines Kreises oder eines [[Polygon|regelmäßiges Polygons]] mit sehr vielen Ecken. Zum Beispiel mit 10 Ecken ist das Ergebnis 3,09 oder mit 100 Ecken ist das Ergebnis 3,1407 oder mit 1.000 Ecken ist das Ergebnis 3,141587. Die Zahl oben stammt aus einer Rechnung mit 1.000.000 Ecken.\n\n{{Rücksprung|P}}"
+    },
+    {
+      "revid": 15179,
+      "parentid": 0,
+      "user": "MALorenzo",
+      "timestamp": "2012-01-05T16:56:24Z",
+      "comment": "Die Seite wurde neu angelegt: {{Babel-1|Schüler_Verfasser}} Pi ist eine Zahl und zwar diese: 3,141592653... . Das Symbol für Pi sieht so aus: &pi;. &pi; wird bei der Berechnung der Fläche, des Um...",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nPi ist eine Zahl und zwar diese: 3,141592653... . Das Symbol für Pi sieht so aus: &pi;. &pi; wird bei der Berechnung der Fläche, des Umfangs und des Durchmessers eines [[Kreis|Kreises]] benutzt. Deshalb wird es auch Kreiszahl genannt.\n\n== Bestimmung von &pi;==\n\n&pi; kann man so berechnen: Unmfang/ Durchmesser eines Kreises oder eines [[Polygon|regelmäßiges Polygons]] mit sehr vielen Ecken. Zum Beispiel mit 10 Ecken ist das Ergebnis 3,09 oder mit 100 Ecken ist das Ergebnis 3,1407 oder mit 1.000 Ecken ist das Ergebnis 3,141587. Die Zahl oben stammt aus einer Rechnung mit 1.000.000 Ecken.\n\n{{Rücksprung|P}}"
+    }
+  ],
+  "categories": []
+}

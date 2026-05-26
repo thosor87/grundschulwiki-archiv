@@ -1,0 +1,48 @@
+{
+  "pageid": 1764,
+  "ns": 0,
+  "title": "Lampe",
+  "revisions": [
+    {
+      "revid": 5859,
+      "parentid": 4043,
+      "user": "Leupold",
+      "timestamp": "2007-03-23T17:33:38Z",
+      "comment": "babel entfernt",
+      "wikitext": "Die Lampe wurde im 13. Jahrhundert erfunden.\n\n\n{{Rücksprung|L}}"
+    },
+    {
+      "revid": 4043,
+      "parentid": 4029,
+      "user": "Leupold",
+      "timestamp": "2006-07-19T14:29:58Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDie Lampe wurde im 13. Jahrhundert erfunden.\n\n\n{{Rücksprung|L}}"
+    },
+    {
+      "revid": 4029,
+      "parentid": 4020,
+      "user": "Leupold",
+      "timestamp": "2006-07-19T14:15:24Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nDie Lampe wurde im 13 Jahrhundert erfunden.\n\n\n{{Rücksprung|L}}"
+    },
+    {
+      "revid": 4020,
+      "parentid": 4019,
+      "user": "MAJimmy",
+      "timestamp": "2006-07-19T09:51:24Z",
+      "comment": "",
+      "wikitext": "Die Lampe wurde im 13 Jahrhunert erfunden."
+    },
+    {
+      "revid": 4019,
+      "parentid": 0,
+      "user": "MAJimmy",
+      "timestamp": "2006-07-19T09:48:44Z",
+      "comment": "",
+      "wikitext": "Die Lampe ist ein licht erzeugendes Objekt."
+    }
+  ],
+  "categories": []
+}

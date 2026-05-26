@@ -1,0 +1,168 @@
+{
+  "pageid": 1286,
+  "ns": 0,
+  "title": "K",
+  "revisions": [
+    {
+      "revid": 19010,
+      "parentid": 16063,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T20:31:12Z",
+      "comment": "- font-size:9pt;",
+      "wikitext": "{{Lexikonaufruf}}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Buchstabe-K.gif]]</div>\n<div style=\"font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteK&action=edit neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{InhalteK}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 16063,
+      "parentid": 3482,
+      "user": "Leupold",
+      "timestamp": "2012-11-12T20:37:16Z",
+      "comment": "",
+      "wikitext": "{{Lexikonaufruf}}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Buchstabe-K.gif]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteK&action=edit neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{InhalteK}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3482,
+      "parentid": 3452,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T14:47:53Z",
+      "comment": "",
+      "wikitext": "{{Lexikonaufruf}}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Buchstabe-K.gif]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:InhalteK&action=edit neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{InhalteK}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3452,
+      "parentid": 3322,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-12T21:24:27Z",
+      "comment": "Neues Design",
+      "wikitext": "{{Lexikonaufruf}}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Buchstabe-K.gif]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:InhalteK&action=edit bearbeiten!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{InhalteK}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3322,
+      "parentid": 2866,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T12:41:14Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-K.gif]]\n\n{{Lexikonaufruf}}\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Inhalte:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{InhalteK}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2866,
+      "parentid": 2308,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-03T16:03:59Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-K.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#DAF1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Inhalte:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{InhalteK}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2308,
+      "parentid": 2259,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T11:54:41Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-K.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#DAF1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Inhalte:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{InhalteK}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2259,
+      "parentid": 2220,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T11:16:52Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-K.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Inhalte:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{InhalteK}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2220,
+      "parentid": 2143,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T11:05:50Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-K.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4></h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n{{InhalteK}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2143,
+      "parentid": 2136,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T10:40:54Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-K.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4></h4>\n\n{{InhalteK}}\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n</div>\n<br>"
+    },
+    {
+      "revid": 2136,
+      "parentid": 1945,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T10:38:59Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-K.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Inhalte:</h4>\n\n{{InhalteK}}\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteK&action=edit bearbeiten]</div>\n</div>\n<br>"
+    },
+    {
+      "revid": 1945,
+      "parentid": 1789,
+      "user": "Leupold",
+      "timestamp": "2006-01-03T10:41:04Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-K.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4></h4>\n\n[[Kuh]], Die\n\n</div>\n<br>"
+    },
+    {
+      "revid": 1789,
+      "parentid": 1727,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-01T14:51:43Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-K.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n[[Kuh]], Die"
+    },
+    {
+      "revid": 1727,
+      "parentid": 1411,
+      "user": "Leupold",
+      "timestamp": "2005-12-30T14:00:39Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-C.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n[[Kuh]], Die"
+    },
+    {
+      "revid": 1411,
+      "parentid": 1315,
+      "user": "Leupold",
+      "timestamp": "2005-12-27T18:48:51Z",
+      "comment": "",
+      "wikitext": "[[Kuh]], Die"
+    },
+    {
+      "revid": 1315,
+      "parentid": 1310,
+      "user": "Leupold",
+      "timestamp": "2005-12-27T10:21:41Z",
+      "comment": "",
+      "wikitext": "Kuh, Die"
+    },
+    {
+      "revid": 1310,
+      "parentid": 1308,
+      "user": "Leupold",
+      "timestamp": "2005-12-27T10:13:23Z",
+      "comment": "Kuh",
+      "wikitext": "Kuh, Die\n\nDie Kuh ist ein inzwischen durch viele verschiedene Rassen in Deutschland vertretenes Haustier. Durch verschiedene Züchtungen konnten die extensive Fleisch- und Milchproduktion gesteigert werden. Vor allem die schwarz-weiße Rasse der Holsteiner hat durch hervorragende Milchquoten auf sich aufmerksam gemacht. Die Kuh produziert, eigentlich zur Ernährung ihrer Nachkommen, den Kälbern, [[Milch]]."
+    },
+    {
+      "revid": 1308,
+      "parentid": 1307,
+      "user": "Leupold",
+      "timestamp": "2005-12-27T10:12:35Z",
+      "comment": "",
+      "wikitext": "Kuh\n\nDie Kuh ist ein inzwischen durch viele verschiedene Rassen in Deutschland vertretenes Haustier. Durch verschiedene Züchtungen konnten die extensive Fleisch- und Milchproduktion gesteigert werden. Vor allem die schwarz-weiße Rasse der Holsteiner hat durch hervorragende Milchquoten auf sich aufmerksam gemacht. Die Kuh produziert, eigentlich zur Ernährung ihrer Nachkommen, den Kälbern, [[Milch]]."
+    },
+    {
+      "revid": 1307,
+      "parentid": 1304,
+      "user": "Leupold",
+      "timestamp": "2005-12-27T10:12:15Z",
+      "comment": "",
+      "wikitext": "Kuh, Die\n\nDie Kuh ist ein inzwischen durch viele verschiedene Rassen in Deutschland vertretenes Haustier. Durch verschiedene Züchtungen konnten die extensive Fleisch- und Milchproduktion gesteigert werden. Vor allem die schwarz-weiße Rasse der Holsteiner hat durch hervorragende Milchquoten auf sich aufmerksam gemacht. Die Kuh produziert, eigentlich zur Ernährung ihrer Nachkommen, den Kälbern, [[Milch]]."
+    },
+    {
+      "revid": 1304,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2005-12-27T10:08:18Z",
+      "comment": "",
+      "wikitext": "Kuh, Die\n\nDie Kuh ist ein inzwischen durch viele verschiedene Rassen in Deutschland vertretenes Haustier. Durch verschiedene Züchtungen konnten die extensive Fleisch- und Milchproduktion gesteigert werden. Vor allem die schwarz-weiße Rasse der Holsteiner hat durch hervorragende Milchquoten auf sich aufmerksam gemacht."
+    }
+  ],
+  "categories": []
+}

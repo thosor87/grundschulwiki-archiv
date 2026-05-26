@@ -1,0 +1,26 @@
+{
+  "pageid": 4282,
+  "ns": 10,
+  "title": "Vorlage:Bild-LogoSH",
+  "revisions": [
+    {
+      "revid": 17599,
+      "parentid": 17598,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:23Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-LogoSH\">\n{| {{Lizenzdesign5}}\n| [[Datei:Orange trademark.svg|alt=|link=|55px|Markenrecht]]\n| Diese Datei stellt ein {{wpde|Logografie|Logo}} oder ein ähnliches Objekt dar. Da es dem {{wpde|Markenrecht|Marken-}} oder {{wpde|Namensrecht}} unterliegt, müssen bei der Weiterverwendung diese Schutzrechte beachtet werden.\n\nAuch im {{SITENAME}} unterliegt die Verwendung wie in der Wikipedia diesen Einschränkungen. Die Datei darf ausschließlich zu {{wpde|Enzyklopädie|enzyklopädischen Zwecken}} und in mit dem Logo im Zusammenhang stehenden Seiten verwendet werden.\n|}\n</div>\n{{#ifeq:{{lc:{{{Commons|}}}}}|ja|[[Kategorie:Datei:Commonsfähige Logos]]<span style=\"display:none;\">{{PD-textlogo}}{{Trademarked}}</span>|{{NoCommons}}}}\n{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:LogoSH|{{PAGENAME}}]]}}<noinclude>\n[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\n{{Bild-LogoSH/Meta}}\n</noinclude>"
+    },
+    {
+      "revid": 17598,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-08T18:35:39Z",
+      "comment": "aktuelle Version aus der deutschen Wikipedia; angepasst an das ZUM-Wiki",
+      "wikitext": "<div id=\"Vorlage_Bild-LogoSH\">\n{| {{Lizenzdesign5}}\n| [[Datei:Orange trademark.svg|alt=|link=|55px|Markenrecht]]\n| Diese Datei stellt ein {{wpde|Logografie|Logo}} oder ein ähnliches Objekt dar. Da es dem {{wpde|Markenrecht|Marken-}} oder {{wpde|Namensrecht}} unterliegt, müssen bei der Weiterverwendung diese Schutzrechte beachtet werden.\n\nAuch im {{SITENAME}} unterliegt die Verwendung wie in der Wikipedia diesen Einschränkungen. Die Datei darf ausschließlich zu {{wpde|Enzyklopädie|enzyklopädischen Zwecken}} und in mit dem Logo im Zusammenhang stehenden Seiten verwendet werden.\n|}\n</div>\n{{#ifeq:{{lc:{{{Commons|}}}}}|ja|[[Kategorie:Datei:Commonsfähige Logos]]<span style=\"display:none;\">{{PD-textlogo}}{{Trademarked}}</span>|{{NoCommons}}}}\n{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:LogoSH|{{PAGENAME}}]]}}<noinclude>\n[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]\n{{Bild-LogoSH/Meta}}\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

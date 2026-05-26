@@ -1,0 +1,40 @@
+{
+  "pageid": 2163,
+  "ns": 0,
+  "title": "Rumpumpel",
+  "revisions": [
+    {
+      "revid": 5867,
+      "parentid": 5684,
+      "user": "Leupold",
+      "timestamp": "2007-03-23T20:41:59Z",
+      "comment": "",
+      "wikitext": "== Rumpumpel ==\n\n'''Rumpumpel''' ist der Name einer Hexe in der Geschichte \"Die kleine Hexe\" von Otfried Preußler.\n\n\n\n{{Rücksprung|R}}"
+    },
+    {
+      "revid": 5684,
+      "parentid": 5594,
+      "user": "Leupold",
+      "timestamp": "2007-03-21T16:42:57Z",
+      "comment": "",
+      "wikitext": "== Rumpumpel ==\n\nDie '''Rumpumpel''' ist ein seltener Vogel mit '''blau''' schillerndem Gefieder.\n\n\n\n{{Rücksprung|R}}"
+    },
+    {
+      "revid": 5594,
+      "parentid": 5582,
+      "user": "LAMeyer",
+      "timestamp": "2007-03-21T14:48:05Z",
+      "comment": "",
+      "wikitext": "\n== Rumpumpel ==\n\nDie '''Rumpumpel''' ist ein seltener Vogel mit '''blau''' schillerndem Gefieder."
+    },
+    {
+      "revid": 5582,
+      "parentid": 0,
+      "user": "LAMeyer",
+      "timestamp": "2007-03-21T14:37:19Z",
+      "comment": "",
+      "wikitext": "Die Rumpumpel ist ein seltener Vogel mitblau schillerndem Gefieder."
+    }
+  ],
+  "categories": []
+}

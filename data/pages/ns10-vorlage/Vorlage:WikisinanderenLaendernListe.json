@@ -1,0 +1,80 @@
+{
+  "pageid": 2425,
+  "ns": 10,
+  "title": "Vorlage:WikisinanderenLaendernListe",
+  "revisions": [
+    {
+      "revid": 19034,
+      "parentid": 19033,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-15T14:37:09Z",
+      "comment": "miniatur",
+      "wikitext": "[[Datei:Map_children_wiki_encyclopedias_in_Europe_Jan_2015.pdf|miniatur|Kinder-Wiki-Lexika in Europa, Januar 2015]]\n* [http://fr.vikidia.org/wiki/Accueil Vikidia] - ein französisches Kinderwiki\n* [http://es.vikidia.org/wiki/Vikidia:Portada Vikidia] - ein spanisches Kinderwiki\n* [http://wikikids.wiki.kennisnet.nl/Hoofdpagina WikiKids] - ein niederländisches Kinderwiki"
+    },
+    {
+      "revid": 19033,
+      "parentid": 19027,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-15T14:36:38Z",
+      "comment": "Map_children_wiki_encyclopedias_in_Europe_Jan_2015.pdf",
+      "wikitext": "[[Datei:Map_children_wiki_encyclopedias_in_Europe_Jan_2015.pdf|Kinder-Wiki-Lexika in Europa, Januar 2015]]\n* [http://fr.vikidia.org/wiki/Accueil Vikidia] - ein französisches Kinderwiki\n* [http://es.vikidia.org/wiki/Vikidia:Portada Vikidia] - ein spanisches Kinderwiki\n* [http://wikikids.wiki.kennisnet.nl/Hoofdpagina WikiKids] - ein niederländisches Kinderwiki"
+    },
+    {
+      "revid": 19027,
+      "parentid": 14969,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T22:51:14Z",
+      "comment": "KinderWiki scheint es nicht mehr zu geben",
+      "wikitext": "* [http://fr.vikidia.org/wiki/Accueil Vikidia] - ein französisches Kinderwiki\n* [http://es.vikidia.org/wiki/Vikidia:Portada Vikidia] - ein spanisches Kinderwiki\n* [http://wikikids.wiki.kennisnet.nl/Hoofdpagina WikiKids] - ein niederländisches Kinderwiki"
+    },
+    {
+      "revid": 14969,
+      "parentid": 11551,
+      "user": "Leupold",
+      "timestamp": "2011-09-11T18:29:45Z",
+      "comment": "wikis hinzugefügt",
+      "wikitext": "* [[KinderWiki aus den Niederlanden]]\n* [http://fr.vikidia.org/wiki/Accueil Vikidia] - ein französisches Kinderwiki\n* [http://es.vikidia.org/wiki/Vikidia:Portada Vikidia] - ein spanisches Kinderwiki\n* [http://wikikids.wiki.kennisnet.nl/Hoofdpagina WikiKids] - ein niederländisches Kinderwiki"
+    },
+    {
+      "revid": 11551,
+      "parentid": 11548,
+      "user": "Leupold",
+      "timestamp": "2009-05-02T08:12:34Z",
+      "comment": "",
+      "wikitext": "* [[KinderWiki aus den Niederlanden]]\n* [[WikiKids aus den Niederlanden]]"
+    },
+    {
+      "revid": 11548,
+      "parentid": 11546,
+      "user": "Leupold",
+      "timestamp": "2009-04-30T13:44:04Z",
+      "comment": "Neuen Beitrag",
+      "wikitext": "* [[WikiKids aus den Niederlanden]]\n* [[KinderWiki aus den Niederlanden]]"
+    },
+    {
+      "revid": 11546,
+      "parentid": 11542,
+      "user": "Leupold",
+      "timestamp": "2009-04-30T13:43:19Z",
+      "comment": "hat „[[Vorlage:WikisinanderenLändernListe]]“ nach „[[Vorlage:WikisinanderenLaendernListe]]“ verschoben: Umlaute",
+      "wikitext": "[[WikiKids aus den Niederlanden]]"
+    },
+    {
+      "revid": 11542,
+      "parentid": 6905,
+      "user": "Leupold",
+      "timestamp": "2009-04-30T13:41:38Z",
+      "comment": "hat „[[Vorlage:Wikis in anderen Ländern Liste]]“ nach „[[Vorlage:WikisinanderenLändernListe]]“ verschoben",
+      "wikitext": "[[WikiKids aus den Niederlanden]]"
+    },
+    {
+      "revid": 6905,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2007-07-14T07:03:52Z",
+      "comment": "Erstes Wiki eingefügt",
+      "wikitext": "[[WikiKids aus den Niederlanden]]"
+    }
+  ],
+  "categories": []
+}

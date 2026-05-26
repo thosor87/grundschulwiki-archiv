@@ -1,0 +1,112 @@
+{
+  "pageid": 1349,
+  "ns": 0,
+  "title": "L",
+  "revisions": [
+    {
+      "revid": 19011,
+      "parentid": 16064,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T20:32:36Z",
+      "comment": "- font-size:9pt;",
+      "wikitext": "{{Lexikonaufruf}}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Buchstabe-L.gif]]</div>\n<div style=\"font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteL&action=edit neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{InhalteL}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 16064,
+      "parentid": 3483,
+      "user": "Leupold",
+      "timestamp": "2012-11-12T20:37:27Z",
+      "comment": "",
+      "wikitext": "{{Lexikonaufruf}}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Buchstabe-L.gif]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteL&action=edit neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{InhalteL}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3483,
+      "parentid": 3453,
+      "user": "Leupold",
+      "timestamp": "2006-03-13T14:48:02Z",
+      "comment": "",
+      "wikitext": "{{Lexikonaufruf}}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Buchstabe-L.gif]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:InhalteL&action=edit neuen Beitrag hinzufügen!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{InhalteL}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3453,
+      "parentid": 3215,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-12T21:24:57Z",
+      "comment": "",
+      "wikitext": "{{Lexikonaufruf}}\n\n{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF\" |\n<div style=\"background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;\"></div>\n<div style=\"float:right; margin:12px; margin-top:10px\">[[Bild:Buchstabe-L.gif]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Beiträge &nbsp;&nbsp;<small><small>[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:InhalteL&action=edit bearbeiten!]</small></small></div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=3 width=100%\n|align=left valign=top width=100%|\n{{InhalteL}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 3215,
+      "parentid": 2867,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T20:35:57Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-L.gif]]\n\n{{Lexikonaufruf}}\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Inhalte:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:InhalteL&action=edit bearbeiten]</div>\n{{InhalteL}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2867,
+      "parentid": 2309,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-03T16:04:12Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-L.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#DAF1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Inhalte:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:InhalteL&action=edit bearbeiten]</div>\n{{InhalteL}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2309,
+      "parentid": 2260,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T11:58:26Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-L.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#DAF1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Inhalte:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteL&action=edit bearbeiten]</div>\n{{InhalteL}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2260,
+      "parentid": 2215,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T11:17:02Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-L.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4>Inhalte:</h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteL&action=edit bearbeiten]</div>\n{{InhalteL}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2215,
+      "parentid": 2144,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T11:05:14Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-L.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4></h4>\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteL&action=edit bearbeiten]</div>\n{{InhalteL}}\n</div>\n<br>"
+    },
+    {
+      "revid": 2144,
+      "parentid": 1946,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T10:41:36Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-L.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4></h4>\n\n{{InhalteL}}\n<div style=\"font-size:80%;\">[http://www.zum.de/Faecher/M/NRW/wikis/index.php?title=Vorlage:InhalteL&action=edit bearbeiten]</div>\n</div>\n<br>"
+    },
+    {
+      "revid": 1946,
+      "parentid": 1791,
+      "user": "Leupold",
+      "timestamp": "2006-01-03T10:41:55Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-L.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>\n\n<div style=\"margin: 0; margin-right:10px; border: 2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;\">\n\n<h4></h4>\n\n\n</div>\n<br>"
+    },
+    {
+      "revid": 1791,
+      "parentid": 1728,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-01T20:33:36Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-L.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>"
+    },
+    {
+      "revid": 1728,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2005-12-30T14:00:46Z",
+      "comment": "",
+      "wikitext": "'''''Buchstabe''''' [[Bild:Buchstabe-C.gif]]\n\n<div style=\"margin:0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#F1F1FF; align:left;\">\n<h4>Lexikonseiten</h4>\n<div style=\"font-size:25px\">\n'''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n</div>\n<br>"
+    }
+  ],
+  "categories": []
+}

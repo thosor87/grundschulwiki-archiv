@@ -1,0 +1,40 @@
+{
+  "pageid": 3250,
+  "ns": 6,
+  "title": "Datei:MUM.jpg",
+  "revisions": [
+    {
+      "revid": 11779,
+      "parentid": 11777,
+      "user": "KSFabritius",
+      "timestamp": "2009-05-14T14:34:35Z",
+      "comment": "hat eine neue Version von „[[Bild:MUM.jpg]]“ hochgeladen: mum",
+      "wikitext": "MUM"
+    },
+    {
+      "revid": 11777,
+      "parentid": 11776,
+      "user": "KSFabritius",
+      "timestamp": "2009-05-14T14:33:33Z",
+      "comment": "hat eine neue Version von „[[Bild:MUM.jpg]]“ hochgeladen: Zurückgesetzt auf die Version vom 14. Mai 2009, 14:17 Uhr",
+      "wikitext": "MUM"
+    },
+    {
+      "revid": 11776,
+      "parentid": 11774,
+      "user": "KSFabritius",
+      "timestamp": "2009-05-14T14:33:24Z",
+      "comment": "hat eine neue Version von „[[Bild:MUM.jpg]]“ hochgeladen",
+      "wikitext": "MUM"
+    },
+    {
+      "revid": 11774,
+      "parentid": 0,
+      "user": "KSFabritius",
+      "timestamp": "2009-05-14T14:17:40Z",
+      "comment": "MUM",
+      "wikitext": "MUM"
+    }
+  ],
+  "categories": []
+}

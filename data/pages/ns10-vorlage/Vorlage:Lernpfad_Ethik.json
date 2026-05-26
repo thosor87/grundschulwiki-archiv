@@ -1,0 +1,26 @@
+{
+  "pageid": 4337,
+  "ns": 10,
+  "title": "Vorlage:Lernpfad Ethik",
+  "revisions": [
+    {
+      "revid": 17709,
+      "parentid": 17708,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:53Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{{Kasten mit kleinem Bild links farbig| \nBORDER = #808000|\nBACKGROUND = #808000|\nBREITE =100%|\nINHALT = \n{{{1}}}|\nHINTERGRUND = #F5F5DC|\nBILD = Crystal 128 forward.png|\nÜBERSCHRIFT = Lernpfad Ethik|\n}}\n\n<includeonly>[[Kategorie:Lernpfad für Ethik]]</includeonly><noinclude>\n{{Quellcode}}\n<pre>{{Lernpfad-Ethik|<text>}}</pre>\n\n;Hinweise:\n* Mit dem Einfügen dieser Vorlage in einen Artikel wird dieser auch der [[:Kategorie:Lernpfad für Ethik]] zugeordnet.\n[[Kategorie:Vorlage:Aufgabenbausteine|Lernpfad-Ethik]]\n</noinclude>"
+    },
+    {
+      "revid": 17708,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-05-20T16:28:17Z",
+      "comment": "hat „[[Vorlage:Lernpfad-Ethik]]“ nach „[[Vorlage:Lernpfad Ethik]]“ verschoben: einheitliche Schreibweise",
+      "wikitext": "{{Kasten mit kleinem Bild links farbig| \nBORDER = #808000|\nBACKGROUND = #808000|\nBREITE =100%|\nINHALT = \n{{{1}}}|\nHINTERGRUND = #F5F5DC|\nBILD = Crystal 128 forward.png|\nÜBERSCHRIFT = Lernpfad Ethik|\n}}\n\n<includeonly>[[Kategorie:Lernpfad für Ethik]]</includeonly><noinclude>\n{{Quellcode}}\n<pre>{{Lernpfad-Ethik|<text>}}</pre>\n\n;Hinweise:\n* Mit dem Einfügen dieser Vorlage in einen Artikel wird dieser auch der [[:Kategorie:Lernpfad für Ethik]] zugeordnet.\n[[Kategorie:Vorlage:Aufgabenbausteine|Lernpfad-Ethik]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

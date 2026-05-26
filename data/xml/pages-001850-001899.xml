@@ -1,0 +1,1248 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Dachs2.jpg</title>
+    <ns>6</ns>
+    <id>4161</id>
+    <revision>
+      <id>17093</id>
+      <timestamp>2013-05-08T07:14:06Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Das Bild wurde von Schülern und Schülerinnen selbst gezeichnet.</comment>
+      <text xml:space="preserve" bytes="65">Das Bild wurde von Schülern und Schülerinnen selbst gezeichnet.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:DachsR1.jpg</title>
+    <ns>6</ns>
+    <id>4563</id>
+    <revision>
+      <id>18780</id>
+      <parentid>18779</parentid>
+      <timestamp>2015-02-09T17:24:07Z</timestamp>
+      <contributor>
+        <username>MARabe1</username>
+        <id>10056</id>
+      </contributor>
+      <text xml:space="preserve" bytes="195">{{Information ohne UploadWizard
+|Beschreibung = Dachs sucht Nahrung
+|Quelle = selbst gesehen
+|Urheber = selbst erstellt
+|Datum = 09.02.2015
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>te0677qgam0jkabacro68p3y7ymuo86</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Das Getreide.jpg</title>
+    <ns>6</ns>
+    <id>3743</id>
+    <revision>
+      <id>14840</id>
+      <timestamp>2011-05-09T16:26:02Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Dasperfekterhoenrad.png</title>
+    <ns>6</ns>
+    <id>5612</id>
+    <revision>
+      <id>23743</id>
+      <timestamp>2019-06-26T11:29:56Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Rhönrad
+|Quelle = selbst erstellt
+|Urheber = Johanna und Hanna
+|Datum = 26.06.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="187">{{Information ohne UploadWizard
+|Beschreibung = Rhönrad
+|Quelle = selbst erstellt
+|Urheber = Johanna und Hanna
+|Datum = 26.06.2019
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>2n373hh6hogqkptu6eea2arhfpa9vrb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:David2.JPG</title>
+    <ns>6</ns>
+    <id>3127</id>
+    <revision>
+      <id>11157</id>
+      <timestamp>2009-03-18T16:08:44Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Schülerphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="25">Schülerphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:David3.JPG</title>
+    <ns>6</ns>
+    <id>3128</id>
+    <revision>
+      <id>11158</id>
+      <timestamp>2009-03-18T16:09:19Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Schülerphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="25">Schülerphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:David4.JPG</title>
+    <ns>6</ns>
+    <id>3129</id>
+    <revision>
+      <id>11159</id>
+      <timestamp>2009-03-18T16:09:49Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Schülerphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="25">Schülerphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:David5.JPG</title>
+    <ns>6</ns>
+    <id>3130</id>
+    <revision>
+      <id>11160</id>
+      <timestamp>2009-03-18T16:10:19Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Schülerphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="25">Schülerphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:David6.JPG</title>
+    <ns>6</ns>
+    <id>3131</id>
+    <revision>
+      <id>11161</id>
+      <timestamp>2009-03-18T16:10:48Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Schülerphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="25">Schülerphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Deborah-Luca.jpg</title>
+    <ns>6</ns>
+    <id>3721</id>
+    <revision>
+      <id>14785</id>
+      <timestamp>2011-05-07T21:40:18Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Deborah-Luca Wasserwerk.JPG</title>
+    <ns>6</ns>
+    <id>3722</id>
+    <revision>
+      <id>14787</id>
+      <timestamp>2011-05-07T21:43:04Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Delfin.jpg</title>
+    <ns>6</ns>
+    <id>1516</id>
+    <revision>
+      <id>2741</id>
+      <timestamp>2006-01-24T19:58:09Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Diese Datei wird direkt aus dem zentralen, mehrsprachigen Dateiarchiv Wikimedia Commons eingebunden.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das </comment>
+      <text xml:space="preserve" bytes="608">Diese Datei wird direkt aus dem zentralen, mehrsprachigen Dateiarchiv Wikimedia Commons eingebunden.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Delfin2.jpg</title>
+    <ns>6</ns>
+    <id>1587</id>
+    <revision>
+      <id>3123</id>
+      <timestamp>2006-03-07T14:41:59Z</timestamp>
+      <contributor>
+        <username>MAelena</username>
+        <id>35</id>
+      </contributor>
+      <comment>Ein Delfin der im Wasser schwimmt.Von:Elena S., Vom: 7.3.06</comment>
+      <text xml:space="preserve" bytes="59">Ein Delfin der im Wasser schwimmt.Von:Elena S., Vom: 7.3.06</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Delphinbild.jpg</title>
+    <ns>6</ns>
+    <id>2365</id>
+    <revision>
+      <id>6666</id>
+      <timestamp>2007-05-29T13:20:47Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Gemalt von MApatricia am 29.05.2007</comment>
+      <text xml:space="preserve" bytes="35">Gemalt von MApatricia am 29.05.2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:DemoBildSpielwiese.jpg</title>
+    <ns>6</ns>
+    <id>3910</id>
+    <revision>
+      <id>15592</id>
+      <timestamp>2012-05-22T06:29:22Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>Demo-Bild zum Üben</comment>
+      <text xml:space="preserve" bytes="19">Demo-Bild zum Üben</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Der &quot;schwebende Ball&quot; im Mathematikum.jpeg</title>
+    <ns>6</ns>
+    <id>5492</id>
+    <revision>
+      <id>23310</id>
+      <timestamp>2018-07-06T15:18:01Z</timestamp>
+      <contributor>
+        <username>MASturm</username>
+        <id>10271</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Der &quot;schwebende Ball&quot; im Mathematikum
+|Quelle = keine
+|Urheber = Vanessa, Henry und Dominik
+|Datum = 06.07.2018
+|Genehmigung = ja
+|Andere Versionen = nein
+|Anmerkungen = keine
+}}</comment>
+      <text xml:space="preserve" bytes="226">{{Information ohne UploadWizard
+|Beschreibung = Der &quot;schwebende Ball&quot; im Mathematikum
+|Quelle = keine
+|Urheber = Vanessa, Henry und Dominik
+|Datum = 06.07.2018
+|Genehmigung = ja
+|Andere Versionen = nein
+|Anmerkungen = keine
+}}</text>
+      <sha1>m3cw5rw08nxoj6h45yvdakonj7v3i3w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Der Neptun.jpg</title>
+    <ns>6</ns>
+    <id>5867</id>
+    <revision>
+      <id>24841</id>
+      <parentid>24839</parentid>
+      <timestamp>2021-01-28T13:10:55Z</timestamp>
+      <contributor>
+        <username>DSSVelin</username>
+        <id>10433</id>
+      </contributor>
+      <comment>DSSVelin lud eine neue Version von „[[Datei:Der Neptun.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Der Weltraum.JPG</title>
+    <ns>6</ns>
+    <id>2081</id>
+    <revision>
+      <id>5116</id>
+      <parentid>5104</parentid>
+      <timestamp>2007-02-14T11:06:38Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="77">[[Bild:Der_Weltraum.JPG|thumb|Dieses Bild wurde von Carolin in paint gemalt]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Desktop.png</title>
+    <ns>6</ns>
+    <id>1676</id>
+    <revision>
+      <id>3283</id>
+      <timestamp>2006-03-09T22:47:25Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="210">http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Deutsche-Schrift.jpg</title>
+    <ns>6</ns>
+    <id>3675</id>
+    <revision>
+      <id>14412</id>
+      <timestamp>2011-02-15T20:55:28Z</timestamp>
+      <contributor>
+        <username>MAstockhausen</username>
+        <id>871</id>
+      </contributor>
+      <comment>Eigene Grafik(Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge).</comment>
+      <text xml:space="preserve" bytes="87">Eigene Grafik(Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge).</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Deutschlandkarte gross.gif</title>
+    <ns>6</ns>
+    <id>1558</id>
+    <revision>
+      <id>6940</id>
+      <parentid>2983</parentid>
+      <timestamp>2007-07-22T08:26:25Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="93">Diese Datei wird aus dem zentralen, mehrsprachigen Dateiarchiv Wikimedia Commons eingebunden.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Die Lochis.jpg</title>
+    <ns>6</ns>
+    <id>5442</id>
+    <revision>
+      <id>22949</id>
+      <timestamp>2018-06-22T06:57:05Z</timestamp>
+      <contributor>
+        <username>Wgsa04</username>
+        <id>10211</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Heiko und Roman 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="157">{{Information ohne UploadWizard
+|Beschreibung = Heiko und Roman 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>o79cag2jf9we51qwgc84xpbe1clbc9h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Die Planeten.jpg</title>
+    <ns>6</ns>
+    <id>2080</id>
+    <revision>
+      <id>5128</id>
+      <parentid>5123</parentid>
+      <timestamp>2007-02-14T11:12:19Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="75">[[Bild:Die_Planeten.jpg|thumb|Dieses Bild wurde von Florian selbst gemalt]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Die Schnecke.pdf</title>
+    <ns>6</ns>
+    <id>3325</id>
+    <revision>
+      <id>12383</id>
+      <timestamp>2009-08-16T15:48:14Z</timestamp>
+      <contributor>
+        <username>KSSchueller</username>
+        <id>702</id>
+      </contributor>
+      <comment>Erarbeitet von der Klasse 3a, GGS Jülich West, Koslar</comment>
+      <text xml:space="preserve" bytes="54">Erarbeitet von der Klasse 3a, GGS Jülich West, Koslar</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Die Wasserschildkröte.docx</title>
+    <ns>6</ns>
+    <id>4750</id>
+    <revision>
+      <id>19503</id>
+      <parentid>19490</parentid>
+      <timestamp>2016-01-27T08:56:41Z</timestamp>
+      <contributor>
+        <username>MABueck</username>
+        <id>10119</id>
+      </contributor>
+      <text xml:space="preserve" bytes="176">{{Information ohne UploadWizard
+|Beschreibung = Informationen über Wasserschildkröten
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>5at0fy11a39dgeyt2gyuvlex5hfnc1b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Die weiße Schlange.jpeg</title>
+    <ns>6</ns>
+    <id>5191</id>
+    <revision>
+      <id>21729</id>
+      <timestamp>2017-09-03T16:56:12Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Diesel-navara1.jpg</title>
+    <ns>6</ns>
+    <id>5324</id>
+    <revision>
+      <id>22062</id>
+      <parentid>22061</parentid>
+      <timestamp>2018-05-09T04:26:17Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <text xml:space="preserve" bytes="195">{{Information ohne UploadWizard
+|Beschreibung = Dieselmotor 2,3l Nissan Navara 2017
+|Quelle = Eigenes Bild
+|Urheber = MAWiedemann
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>bgb0rrj6dzrtxbtp4wmlhf1uxxuarpm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Dieselmotor2.jpg</title>
+    <ns>6</ns>
+    <id>5148</id>
+    <revision>
+      <id>21574</id>
+      <parentid>21569</parentid>
+      <timestamp>2017-07-10T06:27:04Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <text xml:space="preserve" bytes="189">{{Information ohne UploadWizard
+|Beschreibung = Dieselmotor im Nissan Navara
+|Quelle = Eigenes Bild
+|Urheber = Eigenes Bild
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>rpibmmabkh9522vku18l3hu4wgfxfo3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Dieselmotor3.jpg</title>
+    <ns>6</ns>
+    <id>5164</id>
+    <revision>
+      <id>21626</id>
+      <parentid>21621</parentid>
+      <timestamp>2017-07-10T07:52:21Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <text xml:space="preserve" bytes="174">{{Information ohne UploadWizard
+|Beschreibung = Navara 140 kW
+|Quelle = Eigenes Bild
+|Urheber = Eigenes Bild
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ggyz7kt2banvzny1npx1k10doi193cl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Dieselmotor4.jpg</title>
+    <ns>6</ns>
+    <id>5153</id>
+    <revision>
+      <id>21600</id>
+      <parentid>21585</parentid>
+      <timestamp>2017-07-10T07:16:36Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung = Nissan Motor 140 kW
+|Quelle = Eigenes Bild
+|Urheber = Eigenes Bild
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>hxkyzwj40ssu0d1kugtfewhpziuueyg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Dinosaurierkampf.jpg</title>
+    <ns>6</ns>
+    <id>5243</id>
+    <revision>
+      <id>21823</id>
+      <timestamp>2018-04-09T13:59:28Z</timestamp>
+      <contributor>
+        <username>MAKnist</username>
+        <id>10269</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Kampf zweier Dinosaurier
+|Quelle = https://pixabay.com/de/dinosaurier-gad-s%C3%A4ugetier-dino-958000/
+|Urheber = Creative Commons
+|Datum = 9.04.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="252">{{Information ohne UploadWizard
+|Beschreibung = Kampf zweier Dinosaurier
+|Quelle = https://pixabay.com/de/dinosaurier-gad-s%C3%A4ugetier-dino-958000/
+|Urheber = Creative Commons
+|Datum = 9.04.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>5knu9nlvpti6ats4s51ut6zdxna7fhs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Display.png</title>
+    <ns>6</ns>
+    <id>1624</id>
+    <revision>
+      <id>3227</id>
+      <timestamp>2006-03-09T21:35:53Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Diözese Bozen Brixen.jpg</title>
+    <ns>6</ns>
+    <id>2342</id>
+    <revision>
+      <id>6595</id>
+      <timestamp>2007-05-23T14:53:07Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Die Religionslehrerin hat uns das Bild gegeben. Wir haben es dann bemalt.</comment>
+      <text xml:space="preserve" bytes="73">Die Religionslehrerin hat uns das Bild gegeben. Wir haben es dann bemalt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Dodo1.jpg</title>
+    <ns>6</ns>
+    <id>3403</id>
+    <revision>
+      <id>12966</id>
+      <timestamp>2009-12-16T22:34:30Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Dornröschen.jpeg</title>
+    <ns>6</ns>
+    <id>5185</id>
+    <revision>
+      <id>21720</id>
+      <timestamp>2017-09-03T16:41:16Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Download.jpg</title>
+    <ns>6</ns>
+    <id>5452</id>
+    <revision>
+      <id>23040</id>
+      <parentid>23034</parentid>
+      <timestamp>2018-06-22T10:30:54Z</timestamp>
+      <contributor>
+        <username>Wgsa30</username>
+        <id>10165</id>
+      </contributor>
+      <comment>Wgsa30 lud eine neue Version von „[[Datei:Download.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Luis Fonsi
+|Quelle = ??
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="154">{{Information ohne UploadWizard
+|Beschreibung = Wincent Weiss
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ivhwteengk2eb31it40zamnw5oyaf9t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:DreizackNeptun.png</title>
+    <ns>6</ns>
+    <id>4399</id>
+    <revision>
+      <id>17945</id>
+      <timestamp>2014-03-18T07:42:24Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Dvd unmount.png</title>
+    <ns>6</ns>
+    <id>1671</id>
+    <revision>
+      <id>3278</id>
+      <timestamp>2006-03-09T22:45:50Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="210">http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:EU 007.jpg</title>
+    <ns>6</ns>
+    <id>4582</id>
+    <revision>
+      <id>18866</id>
+      <timestamp>2015-04-19T18:54:57Z</timestamp>
+      <contributor>
+        <username>MAKahl</username>
+        <id>10057</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Echse.jpg</title>
+    <ns>6</ns>
+    <id>2253</id>
+    <revision>
+      <id>6131</id>
+      <timestamp>2007-04-18T19:40:40Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Ed Sheeren.jpg</title>
+    <ns>6</ns>
+    <id>5436</id>
+    <revision>
+      <id>22943</id>
+      <timestamp>2018-06-22T06:56:54Z</timestamp>
+      <contributor>
+        <username>Wgsa07</username>
+        <id>10142</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung =Ed Sheeren 
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="151">{{Information ohne UploadWizard
+|Beschreibung =Ed Sheeren 
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>okt5vzvjkryr1s929ax15tv2flt830u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Edu mathematics.png</title>
+    <ns>6</ns>
+    <id>1625</id>
+    <revision>
+      <id>3228</id>
+      <timestamp>2006-03-09T21:36:07Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Edu miscellaneous.png</title>
+    <ns>6</ns>
+    <id>1626</id>
+    <revision>
+      <id>3229</id>
+      <timestamp>2006-03-09T21:36:20Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Edu science.png</title>
+    <ns>6</ns>
+    <id>1627</id>
+    <revision>
+      <id>3230</id>
+      <timestamp>2006-03-09T21:36:33Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Egypt-2267089 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5385</id>
+    <revision>
+      <id>22559</id>
+      <timestamp>2018-06-12T10:42:25Z</timestamp>
+      <contributor>
+        <username>Wgse14</username>
+        <id>10189</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Pyramiden
+|Quelle = pixabay
+|Urheber = Cezzare
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="160">{{Information ohne UploadWizard
+|Beschreibung = Pyramiden
+|Quelle = pixabay
+|Urheber = Cezzare
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>nvn1d6ts0c2e6a08vqt2iqo17fr07hl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Eiche.jpg</title>
+    <ns>6</ns>
+    <id>2090</id>
+    <revision>
+      <id>5118</id>
+      <parentid>5113</parentid>
+      <timestamp>2007-02-14T11:06:39Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="57">[[Bild:Eiche.jpg|thumb|Dieses Bild wurde von Kim gemalt]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Eichekim.jpg</title>
+    <ns>6</ns>
+    <id>2089</id>
+    <revision>
+      <id>5112</id>
+      <timestamp>2007-02-14T10:50:11Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Eichhörnchen2.jpg</title>
+    <ns>6</ns>
+    <id>4172</id>
+    <revision>
+      <id>17158</id>
+      <timestamp>2013-05-21T12:29:16Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Eidechse.jpg</title>
+    <ns>6</ns>
+    <id>3300</id>
+    <revision>
+      <id>12145</id>
+      <timestamp>2009-06-17T15:17:47Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Sina und Jasmin, vom: 17.6.2009</comment>
+      <text xml:space="preserve" bytes="41">Bild von: Sina und Jasmin, vom: 17.6.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Eifelturm.jpg</title>
+    <ns>6</ns>
+    <id>5334</id>
+    <revision>
+      <id>22093</id>
+      <parentid>22081</parentid>
+      <timestamp>2018-05-09T06:53:34Z</timestamp>
+      <contributor>
+        <username>Wgsad61</username>
+        <id>10330</id>
+      </contributor>
+      <text xml:space="preserve" bytes="173">{{Information ohne UploadWizard
+|Beschreibung = eifelturm
+|Quelle = www.pixedia.de
+|Urheber = freie nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lrjwomlibph171eg7y57z022uv6eu28</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

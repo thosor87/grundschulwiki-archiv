@@ -1,0 +1,56 @@
+{
+  "pageid": 3701,
+  "ns": 0,
+  "title": "Quader",
+  "revisions": [
+    {
+      "revid": 14724,
+      "parentid": 14723,
+      "user": "Leupold",
+      "timestamp": "2011-03-27T09:29:09Z",
+      "comment": "babel rücksprung eingefügt",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n[[Bild:Quader.JPG|thumb|Foto eines Quaders]]\n\nDer Quader ist ein geometrischer Körper.\nDer Quader hat 6 Flächen, 8 Ecken und 12 Kanten. Die Flächen des Quaders nennt man Grundfläche, Deckfläche und Seitenflächen. Beim Quader sind alle Flächen Rechtecke. Nur die gegenüberliegenden Flächen sind gleich groß und gleich lang.\n\n\n\n{{Rücksprung|Q}}"
+    },
+    {
+      "revid": 14723,
+      "parentid": 14706,
+      "user": "MAStaudt",
+      "timestamp": "2011-03-25T14:26:30Z",
+      "comment": "",
+      "wikitext": "[[Bild:Quader.JPG|thumb|Foto eines Quaders]]\n\nDer Quader ist ein geometrischer Körper.\nDer Quader hat 6 Flächen, 8 Ecken und 12 Kanten. Die Flächen des Quaders nennt man Grundfläche, Deckfläche und Seitenflächen. Beim Quader sind alle Flächen Rechtecke. Nur die gegenüberliegenden Flächen sind gleich groß und gleich lang."
+    },
+    {
+      "revid": 14706,
+      "parentid": 14695,
+      "user": "MAStaudt",
+      "timestamp": "2011-03-25T10:18:34Z",
+      "comment": "",
+      "wikitext": "Der Quader ist ein geometrischer Körper.\nDer Quader hat 6 Flächen, 8 Ecken und 12 Kanten. Die Flächen des Quaders nennt man Grundfläche, Deckfläche und Seitenflächen. Beim Quader sind alle Flächen Rechtecke. Nur die gegenüberliegenden Flächen sind gleich groß und gleich lang."
+    },
+    {
+      "revid": 14695,
+      "parentid": 14693,
+      "user": "MAStaudt",
+      "timestamp": "2011-03-25T09:31:26Z",
+      "comment": "",
+      "wikitext": "Der Quader ist ein geometrischer Körper.\nDer Quader hat 6 Flächen, 8 Ecken und 12 Kanten. Die Flächen des Quaders nennt man Grundfläche, Deckfläche und Seitenflächen."
+    },
+    {
+      "revid": 14693,
+      "parentid": 14692,
+      "user": "MAStaudt",
+      "timestamp": "2011-03-25T09:21:23Z",
+      "comment": "",
+      "wikitext": "Der Quader ist ein geometrischer Körper.\n\nDer Quader hat 6 Flächen, 8 Ecken und 12 Kanten. Die Flächen des Quaders nennt man Grundfläche, Deckfläche und Seitenfläche."
+    },
+    {
+      "revid": 14692,
+      "parentid": 0,
+      "user": "MAStaudt",
+      "timestamp": "2011-03-25T09:20:47Z",
+      "comment": "Die Seite wurde neu angelegt: Der Quader ist ein geometrischer Körper. Der Quader hat 6 Flächen, 8Ecken und 12 Kanten. Die Flächen des Quaders nennt man Grundfläche, Deckfläche und Seitenfläch...",
+      "wikitext": "Der Quader ist ein geometrischer Körper.\nDer Quader hat 6 Flächen, 8Ecken und 12 Kanten. Die Flächen des Quaders nennt man Grundfläche, Deckfläche und Seitenfläche."
+    }
+  ],
+  "categories": []
+}

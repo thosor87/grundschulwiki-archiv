@@ -1,0 +1,27 @@
+{
+  "pageid": 4304,
+  "ns": 10,
+  "title": "Vorlage:NoCommons (Benutzerbild)",
+  "revisions": [
+    {
+      "revid": 17643,
+      "parentid": 17642,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:42Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Benutzerbild\">\n{| {{Lizenzdesign4}}\n| [[Datei:NoCommons.svg|55px|This personal user image is requested not to be transferred to Wikimedia Commons.]]\n| Dieses Bild zeigt einen oder mehrere Benutzer dieses oder eines anderen Wikis. Der Hochlader der Datei bittet (nicht als lizenzrechtliche Bedingung, sondern als unverbindliche Bitte zu verstehen) darum, dass sie nicht auf Wikimedia Commons hochgeladen wird.\n-----\nThis image depicts one or more users of this or another wiki. '''The file’s uploader is requesting that it doesn’t get transferred to Wikimedia Commons.''' This is not a required part of the licence but a non-binding personal request.\n|}\n</div>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Benutzerbild|{{PAGENAME}}]]}}<noinclude>\n[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]\n[[Kategorie:Benutzer:Benutzerbild]]</noinclude>"
+    },
+    {
+      "revid": 17642,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-08T19:03:42Z",
+      "comment": "Benutzer dieses oder eines anderen Wikis",
+      "wikitext": "<div id=\"Vorlage_Benutzerbild\">\n{| {{Lizenzdesign4}}\n| [[Datei:NoCommons.svg|55px|This personal user image is requested not to be transferred to Wikimedia Commons.]]\n| Dieses Bild zeigt einen oder mehrere Benutzer dieses oder eines anderen Wikis. Der Hochlader der Datei bittet (nicht als lizenzrechtliche Bedingung, sondern als unverbindliche Bitte zu verstehen) darum, dass sie nicht auf Wikimedia Commons hochgeladen wird.\n-----\nThis image depicts one or more users of this or another wiki. '''The file’s uploader is requesting that it doesn’t get transferred to Wikimedia Commons.''' This is not a required part of the licence but a non-binding personal request.\n|}\n</div>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Benutzerbild|{{PAGENAME}}]]}}<noinclude>\n[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]\n[[Kategorie:Benutzer:Benutzerbild]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Benutzer:Benutzerbild",
+    "Kategorie:Vorlage:Hinweis für Bilder"
+  ]
+}

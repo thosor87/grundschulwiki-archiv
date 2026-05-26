@@ -1,0 +1,24 @@
+{
+  "pageid": 4247,
+  "ns": 10,
+  "title": "Vorlage:Description",
+  "revisions": [
+    {
+      "revid": 17511,
+      "parentid": 17510,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-20T22:31:41Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<includeonly><!-- \n\n=== Mark text {{{2}}} as being in language {{{1}}} ===\n\n--><div class=\"description mw-content-{{Dir|{{{4|{{{1}}}}}}}} {{{1}}}\" dir=\"{{Dir|{{{4|{{{1}}}}}}}}\" lang=\"{{{4|{{{1}}}}}}\" style=\"{{#if:{{{inline|}}}|display:inline;}}\"><span class=\"language {{{1}}}\" title=\"{{{name|{{{3|}}}}}}\">'''{{ucfirst:{{#language:{{{1}}}}}}}{{{5|}}}:'''</span> {{#if:{{{2|}}}|{{{2}}}|<span class=\"plainlinks\">[{{fullurl:Category:Language templates with no text displayed}} <span class=\"error\">{{Description/i18n}}</span>]</span>}}<!-- \n \n=== Add Maintenance Category ===\n\n-->{{#if:{{{2|}}}||{{#switch:{{NAMESPACENUMBER}}\n |0|6|10|14|100|106=[[Category:Language templates with no text displayed]]\n}}}}</div></includeonly><noinclude>\n\n{{heavily used template}}\n{{documentation}}\n\n</noinclude>"
+    },
+    {
+      "revid": 17510,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-17T20:05:48Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<includeonly><!-- \n\n=== Mark text {{{2}}} as being in language {{{1}}} ===\n\n--><div class=\"description mw-content-{{Dir|{{{4|{{{1}}}}}}}} {{{1}}}\" dir=\"{{Dir|{{{4|{{{1}}}}}}}}\" lang=\"{{{4|{{{1}}}}}}\" style=\"{{#if:{{{inline|}}}|display:inline;}}\"><span class=\"language {{{1}}}\" title=\"{{{name|{{{3|}}}}}}\">'''{{ucfirst:{{#language:{{{1}}}}}}}{{{5|}}}:'''</span> {{#if:{{{2|}}}|{{{2}}}|<span class=\"plainlinks\">[{{fullurl:Category:Language templates with no text displayed}} <span class=\"error\">{{Description/i18n}}</span>]</span>}}<!-- \n \n=== Add Maintenance Category ===\n\n-->{{#if:{{{2|}}}||{{#switch:{{NAMESPACENUMBER}}\n |0|6|10|14|100|106=[[Category:Language templates with no text displayed]]\n}}}}</div></includeonly><noinclude>\n\n{{heavily used template}}\n{{documentation}}\n\n</noinclude>"
+    }
+  ],
+  "categories": []
+}

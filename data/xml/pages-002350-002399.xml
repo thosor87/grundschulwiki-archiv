@@ -1,0 +1,1292 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Lisa-marie.jpg</title>
+    <ns>6</ns>
+    <id>2481</id>
+    <revision>
+      <id>7203</id>
+      <timestamp>2007-11-28T08:00:19Z</timestamp>
+      <contributor>
+        <username>MALaureen</username>
+        <id>375</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lisa.PNG</title>
+    <ns>6</ns>
+    <id>2473</id>
+    <revision>
+      <id>7181</id>
+      <timestamp>2007-11-23T20:49:14Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Logik.swf</title>
+    <ns>6</ns>
+    <id>1523</id>
+    <revision>
+      <id>2781</id>
+      <timestamp>2006-01-26T15:38:03Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Logo GSA.png</title>
+    <ns>6</ns>
+    <id>5221</id>
+    <revision>
+      <id>21775</id>
+      <timestamp>2017-11-05T15:40:55Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Logo GS Altenmünster
+|Quelle = Eigenes Bild
+|Urheber = GS Altenmünster
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="186">{{Information ohne UploadWizard
+|Beschreibung = Logo GS Altenmünster
+|Quelle = Eigenes Bild
+|Urheber = GS Altenmünster
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ts0nkmnxe6dbikv9cpmnqwvxmrc0802</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:London-3078109 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5361</id>
+    <revision>
+      <id>22319</id>
+      <parentid>22318</parentid>
+      <timestamp>2018-05-14T08:43:09Z</timestamp>
+      <contributor>
+        <username>Wgsad71</username>
+        <id>10340</id>
+      </contributor>
+      <comment>Wgsad71 lud eine neue Version von „[[Datei:London-3078109 960 720.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = london
+|Quelle = pixabay
+|Urheber = julius silver  
+|Datum = 14.05.18
+|Genehmigung = freie nutzung
+|Andere Versionen = 
+|Anm</comment>
+      <text xml:space="preserve" bytes="186">{{Information ohne UploadWizard
+|Beschreibung = london
+|Quelle = pixabay
+|Urheber = julius silver  
+|Datum = 14.05.18
+|Genehmigung = freie nutzung
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>rvldsjqogu6t4nhnzjbc53ldz4sl23l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Louis und Julian.jpg</title>
+    <ns>6</ns>
+    <id>3744</id>
+    <revision>
+      <id>14843</id>
+      <timestamp>2011-05-09T16:27:42Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lösung-L1.jpg</title>
+    <ns>6</ns>
+    <id>1456</id>
+    <revision>
+      <id>2444</id>
+      <timestamp>2006-01-06T13:05:45Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung SuDoku
+  
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der </comment>
+      <text xml:space="preserve" bytes="491">Lösung SuDoku
+  
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lösung-L2.jpg</title>
+    <ns>6</ns>
+    <id>1457</id>
+    <revision>
+      <id>2445</id>
+      <timestamp>2006-01-06T13:06:21Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  G</comment>
+      <text xml:space="preserve" bytes="489">Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lösung-L3.jpg</title>
+    <ns>6</ns>
+    <id>1458</id>
+    <revision>
+      <id>2446</id>
+      <timestamp>2006-01-06T13:07:06Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  G</comment>
+      <text xml:space="preserve" bytes="489">Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lösung-L4.jpg</title>
+    <ns>6</ns>
+    <id>1460</id>
+    <revision>
+      <id>2448</id>
+      <timestamp>2006-01-06T13:08:19Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  G</comment>
+      <text xml:space="preserve" bytes="489">Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lösung-L5.jpg</title>
+    <ns>6</ns>
+    <id>1459</id>
+    <revision>
+      <id>2447</id>
+      <timestamp>2006-01-06T13:07:28Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  G</comment>
+      <text xml:space="preserve" bytes="489">Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lösung-L6.jpg</title>
+    <ns>6</ns>
+    <id>1466</id>
+    <revision>
+      <id>2468</id>
+      <timestamp>2006-01-06T18:30:47Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  G</comment>
+      <text xml:space="preserve" bytes="489">Lösung SuDoku
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lösung-L7.jpg</title>
+    <ns>6</ns>
+    <id>1467</id>
+    <revision>
+      <id>2469</id>
+      <timestamp>2006-01-06T18:31:05Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für f</comment>
+      <text xml:space="preserve" bytes="473">http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lösung-L8.jpg</title>
+    <ns>6</ns>
+    <id>1468</id>
+    <revision>
+      <id>2470</id>
+      <timestamp>2006-01-06T18:31:24Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für f</comment>
+      <text xml:space="preserve" bytes="473">http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der  GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Löwe01.jpg</title>
+    <ns>6</ns>
+    <id>4915</id>
+    <revision>
+      <id>20116</id>
+      <parentid>20108</parentid>
+      <timestamp>2016-07-07T07:19:58Z</timestamp>
+      <contributor>
+        <username>Wgsa08</username>
+        <id>10143</id>
+      </contributor>
+      <text xml:space="preserve" bytes="164">{{Information ohne UploadWizard
+|Beschreibung =Löwe 
+|Quelle =wikimedia 
+|Urheber =Wikimedia.org 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>97hhzqge3vxqlp9hpbkqibh3inywozm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:MIR.Lilly1.JPG</title>
+    <ns>6</ns>
+    <id>3383</id>
+    <revision>
+      <id>12827</id>
+      <timestamp>2009-12-10T12:31:18Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:MS-DOS.png</title>
+    <ns>6</ns>
+    <id>5588</id>
+    <revision>
+      <id>23611</id>
+      <timestamp>2019-04-22T16:51:29Z</timestamp>
+      <contributor>
+        <username>MADacjan</username>
+        <id>10378</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Hier wird in MS-DOS gerade der Befehl rd Müll ausgeführt
+|Quelle = Selbst erstellt
+|Urheber = MADacjan
+|Datum = 22.04.2019
+}}</comment>
+      <text xml:space="preserve" bytes="175">{{Information ohne UploadWizard
+|Beschreibung = Hier wird in MS-DOS gerade der Befehl rd Müll ausgeführt
+|Quelle = Selbst erstellt
+|Urheber = MADacjan
+|Datum = 22.04.2019
+}}</text>
+      <sha1>lda12bpkmoq3y5sbxbbrk4uirxdu6bn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:MUM.jpg</title>
+    <ns>6</ns>
+    <id>3250</id>
+    <revision>
+      <id>11779</id>
+      <parentid>11777</parentid>
+      <timestamp>2009-05-14T14:34:35Z</timestamp>
+      <contributor>
+        <username>KSFabritius</username>
+        <id>639</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:MUM.jpg]]“ hochgeladen: mum</comment>
+      <text xml:space="preserve" bytes="3">MUM</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Maerchen zwerg.jpg</title>
+    <ns>6</ns>
+    <id>2013</id>
+    <revision>
+      <id>4849</id>
+      <timestamp>2006-12-12T13:47:01Z</timestamp>
+      <contributor>
+        <username>MABauer</username>
+        <id>127</id>
+      </contributor>
+      <comment>Zwerg als Vertreter von Märchenfiguren</comment>
+      <text xml:space="preserve" bytes="39">Zwerg als Vertreter von Märchenfiguren</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mai.jpeg</title>
+    <ns>6</ns>
+    <id>5970</id>
+    <revision>
+      <id>25105</id>
+      <timestamp>2022-05-06T07:28:44Z</timestamp>
+      <contributor>
+        <username>KOIGSRO42</username>
+        <id>10495</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = selbst gemalt
+|Urheber =  Aniko
+|Datum = 06.05.2022
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="166">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = selbst gemalt
+|Urheber =  Aniko
+|Datum = 06.05.2022
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>2eguwhpuk10o7j5z3e2311lchyayyix</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Malta-191.jpg</title>
+    <ns>6</ns>
+    <id>5350</id>
+    <revision>
+      <id>22234</id>
+      <timestamp>2018-05-11T06:18:16Z</timestamp>
+      <contributor>
+        <username>Wgsad06</username>
+        <id>10277</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Hafen und Sonne in Malta
+|Quelle = www.Pixabay.de
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="188">{{Information ohne UploadWizard
+|Beschreibung = Hafen und Sonne in Malta
+|Quelle = www.Pixabay.de
+|Urheber = freie Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>7uz00phxezf9x8q3f491a6c4xywkomw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mammut.jpg</title>
+    <ns>6</ns>
+    <id>2255</id>
+    <revision>
+      <id>6133</id>
+      <timestamp>2007-04-18T19:42:40Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Lukas B., vom: 18.04.2007</comment>
+      <text xml:space="preserve" bytes="35">Bild von: Lukas B., vom: 18.04.2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:March Wappen.jpg</title>
+    <ns>6</ns>
+    <id>3178</id>
+    <revision>
+      <id>11360</id>
+      <parentid>11359</parentid>
+      <timestamp>2009-03-30T21:15:22Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:March Wappen.jpg]]“ hochgeladen: Bild von: Maxi B. und Valentin S. , vom: 24.3.2009</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Marco-Diego.jpg</title>
+    <ns>6</ns>
+    <id>3737</id>
+    <revision>
+      <id>14825</id>
+      <timestamp>2011-05-09T16:00:47Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Marcus und Martinus Bild.jpg</title>
+    <ns>6</ns>
+    <id>5437</id>
+    <revision>
+      <id>22944</id>
+      <timestamp>2018-06-22T06:56:54Z</timestamp>
+      <contributor>
+        <username>Wgsa08</username>
+        <id>10143</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Marcus und Martinus 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="161">{{Information ohne UploadWizard
+|Beschreibung = Marcus und Martinus 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>sellxmmlnntdc3pahdougm8gfspyb73</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Marienkaefer.jpg</title>
+    <ns>6</ns>
+    <id>2645</id>
+    <revision>
+      <id>8147</id>
+      <timestamp>2008-04-25T13:27:55Z</timestamp>
+      <contributor>
+        <username>MABenke</username>
+        <id>424</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Marienkaefera.jpg</title>
+    <ns>6</ns>
+    <id>2646</id>
+    <revision>
+      <id>8153</id>
+      <timestamp>2008-04-25T19:35:41Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Ein Marienkäfer krabbelt an einer Scheibe. Blick von unten.
+
+Aufgenommen von MArtin Leupold unter GNU-Lizenz, 25.04.2008</comment>
+      <text xml:space="preserve" bytes="121">Ein Marienkäfer krabbelt an einer Scheibe. Blick von unten.
+
+Aufgenommen von MArtin Leupold unter GNU-Lizenz, 25.04.2008</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Markt Indersdorf - Kloster - Panorama.jpg</title>
+    <ns>6</ns>
+    <id>5016</id>
+    <revision>
+      <id>21018</id>
+      <timestamp>2017-01-30T14:05:11Z</timestamp>
+      <contributor>
+        <username>MAPeters2</username>
+        <id>10224</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Kloster Markt Indersdorf
+|Quelle = https://upload.wikimedia.org/wikipedia/commons/b/bf/Markt_Indersdorf_-_Kloster_-_Panorama.jpg
+|Urheber = Guido Radig
+|Datum = 30.01.2017
+|Genehmigung = 
+|Andere Versione…</comment>
+      <text xml:space="preserve" bytes="275">{{Information ohne UploadWizard
+|Beschreibung = Kloster Markt Indersdorf
+|Quelle = https://upload.wikimedia.org/wikipedia/commons/b/bf/Markt_Indersdorf_-_Kloster_-_Panorama.jpg
+|Urheber = Guido Radig
+|Datum = 30.01.2017
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>gwa6pliyqdci0q197ltgxrqb5ks2v5d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mars.Sonja1.JPG</title>
+    <ns>6</ns>
+    <id>3385</id>
+    <revision>
+      <id>12831</id>
+      <timestamp>2009-12-10T12:33:40Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mathilda HQ.jpg</title>
+    <ns>6</ns>
+    <id>6032</id>
+    <revision>
+      <id>25232</id>
+      <timestamp>2023-01-11T18:00:24Z</timestamp>
+      <contributor>
+        <username>MAMontuori</username>
+        <id>10509</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Im Herbst fallen die&lt;br /&gt;
+Blätter runter auf den Weg&lt;br /&gt;
+und die Sonne scheint.&lt;br /&gt;
+'''''(Mathilda)'''''
+|Quelle = eigene Darstellung
+|Urheber = Mathilda
+|Datum = 
+|Genehmigung = 
+|Andere Version…</comment>
+      <text xml:space="preserve" bytes="276">{{Information ohne UploadWizard
+|Beschreibung = Im Herbst fallen die&lt;br /&gt;
+Blätter runter auf den Weg&lt;br /&gt;
+und die Sonne scheint.&lt;br /&gt;
+'''''(Mathilda)'''''
+|Quelle = eigene Darstellung
+|Urheber = Mathilda
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>hwi3v42oq55ipqcyh6x1qodx6i5x5qt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:MaulwurfR1.jpg</title>
+    <ns>6</ns>
+    <id>4572</id>
+    <revision>
+      <id>18814</id>
+      <timestamp>2015-02-16T11:46:11Z</timestamp>
+      <contributor>
+        <username>MARabe1</username>
+        <id>10056</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Maulwurf auf einem Hügel
+|Quelle = Natur
+|Urheber = selbst
+|Datum = 16.02.2015
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="183">{{Information ohne UploadWizard
+|Beschreibung = Maulwurf auf einem Hügel
+|Quelle = Natur
+|Urheber = selbst
+|Datum = 16.02.2015
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>d8k25gxcdpnlzn1xtl09zevia2ew4ns</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mawiedemann01.jpg</title>
+    <ns>6</ns>
+    <id>4123</id>
+    <revision>
+      <id>16884</id>
+      <timestamp>2013-05-06T06:29:22Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>Brunnen
+Quelle: MAWiedemann</comment>
+      <text xml:space="preserve" bytes="27">Brunnen
+Quelle: MAWiedemann</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mawiedemann02.jpg</title>
+    <ns>6</ns>
+    <id>4133</id>
+    <revision>
+      <id>16939</id>
+      <timestamp>2013-05-06T08:06:46Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>Brunnen
+Quelle: MAWiedemann</comment>
+      <text xml:space="preserve" bytes="27">Brunnen
+Quelle: MAWiedemann</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mawiedemann05.jpg</title>
+    <ns>6</ns>
+    <id>4157</id>
+    <revision>
+      <id>17042</id>
+      <timestamp>2013-05-08T06:34:19Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>Brunnen
+Quelle: MAWiedemann</comment>
+      <text xml:space="preserve" bytes="27">Brunnen
+Quelle: MAWiedemann</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Max giesinger.jpg</title>
+    <ns>6</ns>
+    <id>5462</id>
+    <revision>
+      <id>23035</id>
+      <timestamp>2018-06-22T10:29:18Z</timestamp>
+      <contributor>
+        <username>Wgsa34</username>
+        <id>10169</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Max Gisinger
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="153">{{Information ohne UploadWizard
+|Beschreibung = Max Gisinger
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>2p655qo35j4i44t2qyfyx90eipqvemg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Maître Gims Cannes 2016.jpg</title>
+    <ns>6</ns>
+    <id>5455</id>
+    <revision>
+      <id>23006</id>
+      <timestamp>2018-06-22T09:43:25Z</timestamp>
+      <contributor>
+        <username>Wgsa19</username>
+        <id>10154</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung =Maitre Gims 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="152">{{Information ohne UploadWizard
+|Beschreibung =Maitre Gims 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ing6w62tnwfqmrkgl4c1lg0xkiq62qb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mecklenburg Vorpommern.png</title>
+    <ns>6</ns>
+    <id>5507</id>
+    <revision>
+      <id>23379</id>
+      <parentid>23377</parentid>
+      <timestamp>2018-07-11T04:56:43Z</timestamp>
+      <contributor>
+        <username>Wgsad70</username>
+        <id>10339</id>
+      </contributor>
+      <text xml:space="preserve" bytes="288">{{Information ohne UploadWizard
+|Beschreibung = bild mecklenburg vorpommern
+|Quelle = https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMV17TZtJ1WhybMn9-xp8Qg4QsCONM6KQE6N3vY8FoGpi7buQ4
+|Urheber = frei Nutzung
+|Datum = 11/07/18
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>8z4qkxfd5y6kokb878a7a6ds38gypoc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Meeresschildkröte.jpg</title>
+    <ns>6</ns>
+    <id>4905</id>
+    <revision>
+      <id>20087</id>
+      <parentid>20082</parentid>
+      <timestamp>2016-07-07T06:27:58Z</timestamp>
+      <contributor>
+        <username>Wgsa06</username>
+        <id>10141</id>
+      </contributor>
+      <text xml:space="preserve" bytes="192">{{Information ohne UploadWizard
+|Beschreibung =Meeresschildkröte im Meer 
+|Quelle =Wikimedia 
+|Urheber = Von Brocken Inaglory
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>nvajtsu8m9p57cgplzwei56iabkdv67</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Meeresschildkröte01.jpg</title>
+    <ns>6</ns>
+    <id>4931</id>
+    <revision>
+      <id>20216</id>
+      <timestamp>2016-07-07T15:19:21Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Meeresschildkröte im Meer
+|Quelle = Wikimedia
+|Urheber = von Brocken Inaglory
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="192">{{Information ohne UploadWizard
+|Beschreibung = Meeresschildkröte im Meer
+|Quelle = Wikimedia
+|Urheber = von Brocken Inaglory
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ie72n5sstieitmdj4laudb3j8x6469t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Megantereon cultridens.jpg</title>
+    <ns>6</ns>
+    <id>5380</id>
+    <revision>
+      <id>22544</id>
+      <parentid>22535</parentid>
+      <timestamp>2018-06-12T10:23:41Z</timestamp>
+      <contributor>
+        <username>Wgse03</username>
+        <id>10178</id>
+      </contributor>
+      <comment>Wgse03 lud eine neue Version von „[[Datei:Megantereon cultridens.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="189">{{Information ohne UploadWizard
+|Beschreibung = Säbelzahntiger ausgestopft
+|Quelle = wikipedia.de
+|Urheber = frank wouters
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>b6zet1kspkk7hp4d0qnbvsttvjqags5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mehlkäfer.jpg</title>
+    <ns>6</ns>
+    <id>2575</id>
+    <revision>
+      <id>7725</id>
+      <timestamp>2008-01-17T16:23:59Z</timestamp>
+      <contributor>
+        <username>MAClemens</username>
+        <id>370</id>
+      </contributor>
+      <comment>© Claudia Clemens, Berlin 2007</comment>
+      <text xml:space="preserve" bytes="31">© Claudia Clemens, Berlin 2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Mehlwurm.jpg</title>
+    <ns>6</ns>
+    <id>2574</id>
+    <revision>
+      <id>7724</id>
+      <timestamp>2008-01-17T16:21:43Z</timestamp>
+      <contributor>
+        <username>MAClemens</username>
+        <id>370</id>
+      </contributor>
+      <comment>© Claudia Clemens, Berlin 2007</comment>
+      <text xml:space="preserve" bytes="31">© Claudia Clemens, Berlin 2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Meine Wellensittiche.jpg</title>
+    <ns>6</ns>
+    <id>2086</id>
+    <revision>
+      <id>5127</id>
+      <parentid>5124</parentid>
+      <timestamp>2007-02-14T11:12:15Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="82">[[Bild:Meine_Wellensittiche.jpg|thumb|Dieses Bild wurde von Stephan fotografiert]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Meisterdieb.jpeg</title>
+    <ns>6</ns>
+    <id>5197</id>
+    <revision>
+      <id>21738</id>
+      <timestamp>2017-09-03T17:10:01Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Melden.jpg</title>
+    <ns>6</ns>
+    <id>3670</id>
+    <revision>
+      <id>14406</id>
+      <parentid>14405</parentid>
+      <timestamp>2011-02-15T20:25:55Z</timestamp>
+      <contributor>
+        <username>MAstockhausen</username>
+        <id>871</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Melden.jpg]]“ hochgeladen: Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzi</comment>
+      <text xml:space="preserve" bytes="240">Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;: Vorschriftsmäßiges Melden.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Merkur.jpg</title>
+    <ns>6</ns>
+    <id>2088</id>
+    <revision>
+      <id>5111</id>
+      <timestamp>2007-02-14T10:47:04Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Metallica - The O2 - Sunday 22nd October 2017 MetallicaO2221017-56 (37187883124).jpg</title>
+    <ns>6</ns>
+    <id>5456</id>
+    <revision>
+      <id>23008</id>
+      <timestamp>2018-06-22T09:43:51Z</timestamp>
+      <contributor>
+        <username>Wgsa25</username>
+        <id>10160</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Metallika
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="150">{{Information ohne UploadWizard
+|Beschreibung = Metallika
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ka6r68zkuvr4s8ote7u862gc484c7ke</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Meteor.Hannah.JPG</title>
+    <ns>6</ns>
+    <id>3377</id>
+    <revision>
+      <id>12746</id>
+      <parentid>12743</parentid>
+      <timestamp>2009-12-09T12:07:14Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Meteor.Hannah.JPG]]“ hochgeladen: Meteor von Hannah</comment>
+      <text xml:space="preserve" bytes="17">Meteor von Hannah</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Meteor.Patrick 001.jpg</title>
+    <ns>6</ns>
+    <id>3376</id>
+    <revision>
+      <id>12741</id>
+      <timestamp>2009-12-09T12:03:16Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <comment>Meteor von Patrick</comment>
+      <text xml:space="preserve" bytes="18">Meteor von Patrick</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Michael-beck-thomas-duerr-andreas-rieke-und-michael-bernd-schmidt-die-fantastischen-vier-bambi-award-gewinner-am-deutschland-entertainment-awards-in-der-buhne-theater-potsdamer-platz-berlin-k79937.jpg</title>
+    <ns>6</ns>
+    <id>5451</id>
+    <revision>
+      <id>22970</id>
+      <timestamp>2018-06-22T07:28:05Z</timestamp>
+      <contributor>
+        <username>Wgsa10</username>
+        <id>10145</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Die Fantastischen vier
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="159">{{Information ohne UploadWizard
+|Beschreibung = Die Fantastischen vier
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>ao433447kzvxu9ywf2gtrx5fxjmxcai</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

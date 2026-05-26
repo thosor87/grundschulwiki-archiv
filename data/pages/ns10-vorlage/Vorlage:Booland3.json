@@ -1,0 +1,27 @@
+{
+  "pageid": 4224,
+  "ns": 10,
+  "title": "Vorlage:Booland3",
+  "revisions": [
+    {
+      "revid": 17459,
+      "parentid": 17458,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:56Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<onlyinclude>{{#if: {{{1|}}} | {{#if: {{{2|}}} | {{#if: {{{3|}}}|1}}}}}}</onlyinclude>\n\n{{Dokumentation}}\n\n[[Kategorie:Vorlage:Funktion|{{PAGENAME}}]]"
+    },
+    {
+      "revid": 17458,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:43Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "<onlyinclude>{{#if: {{{1|}}} | {{#if: {{{2|}}} | {{#if: {{{3|}}}|1}}}}}}</onlyinclude>\n\n{{Dokumentation}}\n\n[[Kategorie:Vorlage:Funktion|{{PAGENAME}}]]"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Funktion",
+    "Kategorie:Vorlage:nicht dokumentiert"
+  ]
+}

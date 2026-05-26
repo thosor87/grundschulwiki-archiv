@@ -1,0 +1,26 @@
+{
+  "pageid": 4227,
+  "ns": 10,
+  "title": "Vorlage:!",
+  "revisions": [
+    {
+      "revid": 17465,
+      "parentid": 17464,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:58Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "|<noinclude>{{Dokumentation}}\n</noinclude>"
+    },
+    {
+      "revid": 17464,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:33Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "|<noinclude>{{Dokumentation}}\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:nicht dokumentiert"
+  ]
+}

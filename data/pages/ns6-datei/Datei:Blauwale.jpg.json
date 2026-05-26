@@ -1,0 +1,32 @@
+{
+  "pageid": 4912,
+  "ns": 6,
+  "title": "Datei:Blauwale.jpg",
+  "revisions": [
+    {
+      "revid": 20111,
+      "parentid": 20110,
+      "user": "Wgsa07",
+      "timestamp": "2016-07-07T07:19:52Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung =Blauwale schwimmen \n|Quelle =wikimedia \n|Urheber = von Gabriel Barathieu\n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 20110,
+      "parentid": 20101,
+      "user": "Wgsa07",
+      "timestamp": "2016-07-07T07:16:20Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung =Blauwale schwimmen \n|Quelle =wikimedia \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 20101,
+      "parentid": 0,
+      "user": "Wgsa07",
+      "timestamp": "2016-07-07T07:12:11Z",
+      "comment": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,24 @@
+{
+  "pageid": 4219,
+  "ns": 10,
+  "title": "Vorlage:Own",
+  "revisions": [
+    {
+      "revid": 17447,
+      "parentid": 17446,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:18Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "Eigene Arbeit"
+    },
+    {
+      "revid": 17446,
+      "parentid": 0,
+      "user": "Uschuetzenmeister",
+      "timestamp": "2014-01-08T12:00:28Z",
+      "comment": "Die Seite wurde neu angelegt: „Eigene Arbeit“",
+      "wikitext": "Eigene Arbeit"
+    }
+  ],
+  "categories": []
+}

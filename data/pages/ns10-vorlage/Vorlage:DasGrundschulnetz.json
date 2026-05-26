@@ -1,0 +1,104 @@
+{
+  "pageid": 3474,
+  "ns": 10,
+  "title": "Vorlage:DasGrundschulnetz",
+  "revisions": [
+    {
+      "revid": 18848,
+      "parentid": 18847,
+      "user": "Karl Kirst",
+      "timestamp": "2015-03-06T21:20:22Z",
+      "comment": "Änderung 18847 von [[Special:Contributions/Karl Kirst|Karl Kirst]] ([[User talk:Karl Kirst|Diskussion]]) rückgängig gemacht.",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n:[[Image:GSNETZ.jpg|80px|left]]<br><div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des <br>[http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|valign=top width=50%|\nAuch im [http://www.dasgrundschulnetz.de ZUM-Grundschulnetz]:\n* [http://www.grundschulpost.de ZUM-Grundschulpost]\n* [http://www.grundschulwebquest.de ZUM-GrundschulWebQuest]\n* [http://www.grundschulinternetabc.de ZUM-Grundschul-InternetABC]\n* [http://www.grundschulsuche.de ZUM-Grundschulsuche]\n|}"
+    },
+    {
+      "revid": 18847,
+      "parentid": 17280,
+      "user": "Karl Kirst",
+      "timestamp": "2015-03-06T21:19:50Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n:[[Image:GSNETZ.jpg|80px|left]]<br><div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des <br>[http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|valign=top width=50%|\nAuch im [http://www.dasgrundschulnetz.de ZUM-Grundschulnetz]:\n* [http://www.grundschulpost.de ZUM-Grundschulpost]\n* [http://www.grundschulwebquest.de ZUM-GrundschulWebQuest]\n* [http://www.grundschulinternetabc.de ZUM-Grundschul-InternetABC]\n* [http://www.grundschulsuche.de ZUM-Grundschulsuche]\n* [http://grundschullernportal.zum.de Grundschullernportal]\n* [http://klexikon.zum.de Klexikon]\n|}"
+    },
+    {
+      "revid": 17280,
+      "parentid": 17274,
+      "user": "Karl Kirst",
+      "timestamp": "2013-07-08T19:16:45Z",
+      "comment": "+ ZUM",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n:[[Image:GSNETZ.jpg|80px|left]]<br><div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des <br>[http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|valign=top width=50%|\nAuch im [http://www.dasgrundschulnetz.de ZUM-Grundschulnetz]:\n* [http://www.grundschulpost.de ZUM-Grundschulpost]\n* [http://www.grundschulwebquest.de ZUM-GrundschulWebQuest]\n* [http://www.grundschulinternetabc.de ZUM-Grundschul-InternetABC]\n* [http://www.grundschulsuche.de ZUM-Grundschulsuche]\n|}"
+    },
+    {
+      "revid": 17274,
+      "parentid": 16292,
+      "user": "Leupold",
+      "timestamp": "2013-07-03T14:01:34Z",
+      "comment": "links aktualisiert",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n:[[Image:GSNETZ.jpg|80px|left]]<br><div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des <br>[http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|valign=top width=50%|\nAuch im [http://www.dasgrundschulnetz.de ZUM-Grundschulnetz]:\n* [http://www.grundschulpost.de Grundschulpost]\n* [http://www.grundschulwebquest.de GrundschulWebQuest]\n* [http://www.grundschulinternetabc.de ZUM-Grundschul-InternetABC]\n* [http://www.grundschulsuche.de ZUM-Grundschulsuche]\n|}"
+    },
+    {
+      "revid": 16292,
+      "parentid": 16291,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-28T23:25:19Z",
+      "comment": "Logo eingerückt",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n:[[Image:GSNETZ.jpg|80px|left]]<br><div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des <br>[http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|valign=top width=50%|\nAuch im [http://www.dasgrundschulnetz.de ZUM-Grundschulnetz]:\n* [http://grundschulpost.zum.de Grundschulpost]\n* [http://www.zum.de/GrundschulWebQuest/ GrundschulWebQuest]\n* [http://www.zum.de/internetabc/ Grundschul-InternetABC]\n|}"
+    },
+    {
+      "revid": 16291,
+      "parentid": 16290,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-28T22:54:14Z",
+      "comment": "rechte Spalte nicht zentriert",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n[[Image:GSNETZ.jpg|80px|left]]<br><div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des <br>[http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|valign=top width=50%|\nAuch im [http://www.dasgrundschulnetz.de ZUM-Grundschulnetz]:\n* [http://grundschulpost.zum.de Grundschulpost]\n* [http://www.zum.de/GrundschulWebQuest/ GrundschulWebQuest]\n* [http://www.zum.de/internetabc/ Grundschul-InternetABC]\n|}"
+    },
+    {
+      "revid": 16290,
+      "parentid": 16289,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-28T22:53:27Z",
+      "comment": "auch im Grundschulnetz",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n[[Image:GSNETZ.jpg|80px|left]]<br><div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des <br>[http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|align=center valign=top width=50%|\nAuch im [http://www.dasgrundschulnetz.de ZUM-Grundschulnetz]:\n* [http://grundschulpost.zum.de Grundschulpost]\n* [http://www.zum.de/GrundschulWebQuest/ GrundschulWebQuest]\n* [http://www.zum.de/internetabc/ Grundschul-InternetABC]\n|}"
+    },
+    {
+      "revid": 16289,
+      "parentid": 16288,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-28T22:49:36Z",
+      "comment": "Bild links",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n[[Image:GSNETZ.jpg|80px|left]]<br><div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des <br>[http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|align=center valign=top width=50%|\n\n|}"
+    },
+    {
+      "revid": 16288,
+      "parentid": 13428,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-28T22:46:39Z",
+      "comment": "- doppeltes Bild",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n<div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des [http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|align=center valign=top width=50%|\n[[Image:GSNETZ.jpg|80px]]\n|}"
+    },
+    {
+      "revid": 13428,
+      "parentid": 13427,
+      "user": "Leupold",
+      "timestamp": "2010-04-02T13:50:14Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n<div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des [http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|align=center valign=top width=50%|\n[[Image:GSNETZ.jpg|80px]]\n|}"
+    },
+    {
+      "revid": 13427,
+      "parentid": 13425,
+      "user": "Leupold",
+      "timestamp": "2010-04-02T13:50:04Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n<div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des [http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|align=center valign=top width=50%|\n[[Image:GSNETZ.jpg|50px]]\n|}"
+    },
+    {
+      "revid": 13425,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2010-04-02T13:48:58Z",
+      "comment": "Die Seite wurde neu angelegt: {| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\" | style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; backgrou...",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">ZUM-Grundschulnetz</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n<div style=\"font: 14pt Verdana\">Das ZUM-Grundschulwiki ist Teil des [http://www.dasgrundschulnetz.de ZUM-Grundschulnetzes]!</div>\n|align=center valign=top width=50%|\n[[Image:GSNETZ.jpg|150px]]\n|}"
+    }
+  ],
+  "categories": []
+}

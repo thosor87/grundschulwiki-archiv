@@ -1,0 +1,48 @@
+{
+  "pageid": 1693,
+  "ns": 10,
+  "title": "Vorlage:Babel ZUM",
+  "revisions": [
+    {
+      "revid": 16155,
+      "parentid": 16154,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-13T23:09:07Z",
+      "comment": "typo",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=peru|\nBG_COLOR=khaki|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:ZUM-Logo.png|45px|center|ZUM-Mitglied]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist Mitglied der <br>'''Zentrale für Unterrichtsmedien <br> im Internet e.&nbsp;V.'''\n}}"
+    },
+    {
+      "revid": 16154,
+      "parentid": 16153,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-13T23:06:07Z",
+      "comment": "typo",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=peru|\nBG_COLOR=khaki|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:ZUM-Logo.png|45px|center|ZUM-Mitglied]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist Mitglied der <br>'''Zentrale für Unterrichtsmedien <br> imInternet e.&nbsp;V.'''\n}}"
+    },
+    {
+      "revid": 16153,
+      "parentid": 3390,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-13T23:05:48Z",
+      "comment": "ZUM-Logo.png",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=peru|\nBG_COLOR=khaki|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:ZUM-Logo.png|45px|center|ZUM-Mitglied]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist Mitglied der <br>'''Zentrale für Unterrichtsmedien <br> imInternet e.&nbsp;V.'''.\n}}"
+    },
+    {
+      "revid": 3390,
+      "parentid": 3389,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:37:29Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=peru|\nBG_COLOR=khaki|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:ZUM-Wiki-Logo.jpg|45px|center|ZUM-Mitglied]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist Mitglied des <br>'''ZUM Internet e.&nbsp;V.'''.\n}}"
+    },
+    {
+      "revid": 3389,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:36:20Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=cadetblue|\nBG_COLOR=lightblue|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:ZUM-Wiki-Logo.jpg|45px|center|ZUM-Mitglied]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist Mitglied des <br>'''ZUM Internet e.&nbsp;V.'''.\n}}"
+    }
+  ],
+  "categories": []
+}

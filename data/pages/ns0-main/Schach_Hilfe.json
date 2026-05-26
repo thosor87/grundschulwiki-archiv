@@ -1,0 +1,32 @@
+{
+  "pageid": 1975,
+  "ns": 0,
+  "title": "Schach Hilfe",
+  "revisions": [
+    {
+      "revid": 4611,
+      "parentid": 4587,
+      "user": "Leupold",
+      "timestamp": "2006-07-25T12:07:04Z",
+      "comment": "",
+      "wikitext": "== Hilfen für die Darstellung von Schachpartien==\n\n=== Übersetzung von FEN in Wikibeschreibung===\nUnter http://www.dwheeler.com/misc/fen2wikipedia.html kann automatisch in die Wikisyntax übersetzt werden.\n\n[[Bild:Fen_wiki.png]]\n\nAngefangen mit der 8. bis zur 1. Reihe werden reihenweise, getrennt durch einen Schrägstrich \"/\", die Positionen der Figuren auf dem Brett angegeben. '''Weiße''' Figuren werden in '''Groß'''-, '''schwarze''' Figuren in '''Kleinbuchstaben''' angegeben. Für die Figuren werden die Abkürzungen der englischen Bezeichnungen verwendet (r=Rook->Turm, n=Knight->Pferd, b=Bishop->Läufer q=Queen->Dame, k=King->König, p=Pawn->Bauer). Die Anzahl leerer Felder wird als Zahl dargestellt.\n\nBeispiel: Ein weißer König auf e4 ein schwarzer König auf c5 bedeutet für FEN:\n\n8/8/8/2k5/4K3/8/8/8 \n\nund ergibt:\n\n{{Chess diagram|=\n| tleft\n| Beispiel\n|=\n 8 |  |  |  |  |  |  |  |  |=\n 7 |  |  |  |  |  |  |  |  |=\n 6 |  |  |  |  |  |  |  |  |=\n 5 |  |  |kd|  |  |  |  |  |=\n 4 |  |  |  |  |kl|  |  |  |=\n 3 |  |  |  |  |  |  |  |  |=\n 2 |  |  |  |  |  |  |  |  |=\n 1 |  |  |  |  |  |  |  |  |=\n    a  b  c  d  e  f  g  h\n| aus Wikipedia\n}}\n<br clear=all>\n\nDabei sollte für das Grundschulwiki nur die obige Einstellung (Square size 26px x 26 pc) der Bilder gewählt werden.\n\nZurück zu [[Schach]]\n\n{{Rücksprung|S}}"
+    },
+    {
+      "revid": 4587,
+      "parentid": 4586,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-07-24T10:26:38Z",
+      "comment": "/* Übersetzung von FEN in Wikibeschreibung */",
+      "wikitext": "== Hilfen für die Darstellung von Schachpartien==\n\n=== Übersetzung von FEN in Wikibeschreibung===\nUnter http://www.dwheeler.com/misc/fen2wikipedia.html kann automatisch in die Wikisyntax übersetzt werden.\n\n[[Bild:Fen_wiki.png]]\n\nAngefangen mit der 8. bis zur 1. Reihe werden reihenweise, getrennt durch einen Schrägstrich \"/\", die Positionen der Figuren auf dem Brett angegeben. '''Weiße''' Figuren werden in '''Groß'''-, '''schwarze''' Figuren in '''Kleinbuchstaben''' angegeben. Für die Figuren werden die Abkürzungen der englischen Bezeichnungen verwendet (r=Rook->Turm, n=Knight->Pferd, b=Bishop->Läufer q=Queen->Dame, k=King->König, p=Pawn->Bauer). Die Anzahl leerer Felder wird als Zahl dargestellt.\n\nBeispiel: Ein weißer König auf e4 ein schwarzer König auf c5 bedeutet für FEN:\n\n8/8/8/2k5/4K3/8/8/8 \n\nund ergibt:\n\n{{Chess diagram|=\n| tleft\n| Beispiel\n|=\n 8 |  |  |  |  |  |  |  |  |=\n 7 |  |  |  |  |  |  |  |  |=\n 6 |  |  |  |  |  |  |  |  |=\n 5 |  |  |kd|  |  |  |  |  |=\n 4 |  |  |  |  |kl|  |  |  |=\n 3 |  |  |  |  |  |  |  |  |=\n 2 |  |  |  |  |  |  |  |  |=\n 1 |  |  |  |  |  |  |  |  |=\n    a  b  c  d  e  f  g  h\n| aus Wikipedia\n}}\n<br clear=all>\n\nDabei sollte für das ZUM-Wiki nur die obige Einstellung (Square size 26px x 26 pc) der Bilder gewählt werden."
+    },
+    {
+      "revid": 4586,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-07-24T10:25:58Z",
+      "comment": "",
+      "wikitext": "== Hilfen für die Darstellung von Schachpartien==\n\n=== Übersetzung von FEN in Wikibeschreibung===\nUnter http://www.dwheeler.com/misc/fen2wikipedia.html kann automatisch in die Wikisyntax übersetzt werden.\n\nUnter {{wpde|Forsyth-Edwards_Notation|Forsyth-Edwards_Notation}} erfährt man Genaueres zu dieser Notation. \n\n[[Bild:Fen_wiki.png]]\n\nAngefangen mit der 8. bis zur 1. Reihe werden reihenweise, getrennt durch einen Schrägstrich \"/\", die Positionen der Figuren auf dem Brett angegeben. '''Weiße''' Figuren werden in '''Groß'''-, '''schwarze''' Figuren in '''Kleinbuchstaben''' angegeben. Für die Figuren werden die Abkürzungen der englischen Bezeichnungen verwendet (r=Rook->Turm, n=Knight->Pferd, b=Bishop->Läufer q=Queen->Dame, k=King->König, p=Pawn->Bauer). Die Anzahl leerer Felder wird als Zahl dargestellt.\n\nBeispiel: Ein weißer König auf e4 ein schwarzer König auf c5 bedeutet für FEN:\n\n8/8/8/2k5/4K3/8/8/8 \n\nund ergibt:\n\n{{Chess diagram|=\n| tleft\n| Beispiel\n|=\n 8 |  |  |  |  |  |  |  |  |=\n 7 |  |  |  |  |  |  |  |  |=\n 6 |  |  |  |  |  |  |  |  |=\n 5 |  |  |kd|  |  |  |  |  |=\n 4 |  |  |  |  |kl|  |  |  |=\n 3 |  |  |  |  |  |  |  |  |=\n 2 |  |  |  |  |  |  |  |  |=\n 1 |  |  |  |  |  |  |  |  |=\n    a  b  c  d  e  f  g  h\n| aus Wikipedia\n}}\n<br clear=all>\n\nDabei sollte für das ZUM-Wiki nur die obige Einstellung (Square size 26px x 26 pc) der Bilder gewählt werden."
+    }
+  ],
+  "categories": []
+}

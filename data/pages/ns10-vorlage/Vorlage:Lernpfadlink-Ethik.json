@@ -1,0 +1,26 @@
+{
+  "pageid": 4339,
+  "ns": 10,
+  "title": "Vorlage:Lernpfadlink-Ethik",
+  "revisions": [
+    {
+      "revid": 17713,
+      "parentid": 17712,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:54Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "[[Bild:Crystal 128 forward.png|16px]] &nbsp;[[Lernpfade Ethik/{{{1}}}|{{{1}}}]]<noinclude>\n\n{{Quellcode}} \n<pre>{{Lernpfadlink-Ethik|<Lernpfadname (ohne \"Lernpfade Ethik/\">}}</pre>[[Kategorie:Vorlage:Linkbausteine|Lernpfadlink-Ethik]]</noinclude>"
+    },
+    {
+      "revid": 17712,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-09-06T12:20:17Z",
+      "comment": "linkfix",
+      "wikitext": "[[Bild:Crystal 128 forward.png|16px]] &nbsp;[[Lernpfade Ethik/{{{1}}}|{{{1}}}]]<noinclude>\n\n{{Quellcode}} \n<pre>{{Lernpfadlink-Ethik|<Lernpfadname (ohne \"Lernpfade Ethik/\">}}</pre>[[Kategorie:Vorlage:Linkbausteine|Lernpfadlink-Ethik]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Linkbausteine"
+  ]
+}

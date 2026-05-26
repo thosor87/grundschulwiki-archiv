@@ -1,0 +1,24 @@
+{
+  "pageid": 4246,
+  "ns": 10,
+  "title": "Vorlage:-",
+  "revisions": [
+    {
+      "revid": 17509,
+      "parentid": 17508,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-20T22:31:41Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<br style=\"clear:both\" /><noinclude>\n{{documentation}}\n</noinclude>"
+    },
+    {
+      "revid": 17508,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-17T20:05:47Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<br style=\"clear:both\" /><noinclude>\n{{documentation}}\n</noinclude>"
+    }
+  ],
+  "categories": []
+}

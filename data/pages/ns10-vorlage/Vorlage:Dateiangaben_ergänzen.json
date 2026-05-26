@@ -1,0 +1,44 @@
+{
+  "pageid": 4022,
+  "ns": 10,
+  "title": "Vorlage:Dateiangaben ergänzen",
+  "revisions": [
+    {
+      "revid": 17561,
+      "parentid": 17560,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:08Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "== Bitte Dateiangaben ergänzen! ==\n{{ZUM-Wiki|Hallo, Du hat in letzter Zeit eine oder mehrere Dateien hochgeladen; siehe '''[[Spezial:Beiträge/{{PAGENAME}}|Deine Beiträge]]'''. Leider fehlen noch einige Angaben auf zumindest einer der Dateibeschreibungsseiten. Bitte ergänze diese möglichst umgehend. Denn Bilder ohne ausreichende Angabe müssen wir leider wieder löschen, um [[ZUM-Wiki:Urheberrechte beachten|Urheberrechtsverletzungen]] zu vermeiden. \n\nNotwendig sind auf jeden Fall folgende Angaben:\n# '''Quelle''': Woher stammt die Datei?\n# '''Urheber''': Wer ist Urheber (Autor/in) der Datei?\n# '''Lizenz''': Unter welchen Bedingungen darf die Datei weiterverwendet werden?\nSiehe dazu auch die Seite [[Spezial:Hochladen]].\n\nAuch bei selbst erstellten Fotos und Zeichnungen darf ein Text wie ''selbst fotografiert, selbst gezeichnet'' und eine Lizenzangabe nicht fehlen. Welche möglich sind, siehst Du unter '''[[ZUM-Wiki:Lizenzvorlagen für Bilder]]'''.\n\nStandard im {{SITENAME}} ist die [[ZUM-Wiki:Lizenzbestimmungen|ZUM-Wiki-Lizenz (CC-by-sa/3.0/de)]], die Du mit dem folgenden Quellcode hier einfügen kannst:\n\n<pre>{{Bild-CC-by-sa/3.0/de}}</pre>\n\nBesten Dank für Deine Unterstützung!}}\n\nGruß <noinclude>\n\n;Das schreibt man:\n<pre>{{Dateiangaben}} --~~~~</pre>\n\n;Anwendung:\nÜber den Verbleib der Dateien im ZUM-Wiki wird nach etwa zwei Wochen entschieden.\n\n;Siehe auch: [[Vorlage:Angaben fehlen]]\n\n[[Kategorie:Vorlage:Lizenz für Bilder|!]]\n[[Kategorie:Vorlage:Benutzerbausteine|Dateiangaben]]\n[[Kategorie:Vorlage:Hinweis-Bausteine|Dateiangaben]]\n</noinclude>"
+    },
+    {
+      "revid": 17560,
+      "parentid": 16286,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-22T21:45:12Z",
+      "comment": "SITENAME",
+      "wikitext": "== Bitte Dateiangaben ergänzen! ==\n{{ZUM-Wiki|Hallo, Du hat in letzter Zeit eine oder mehrere Dateien hochgeladen; siehe '''[[Spezial:Beiträge/{{PAGENAME}}|Deine Beiträge]]'''. Leider fehlen noch einige Angaben auf zumindest einer der Dateibeschreibungsseiten. Bitte ergänze diese möglichst umgehend. Denn Bilder ohne ausreichende Angabe müssen wir leider wieder löschen, um [[ZUM-Wiki:Urheberrechte beachten|Urheberrechtsverletzungen]] zu vermeiden. \n\nNotwendig sind auf jeden Fall folgende Angaben:\n# '''Quelle''': Woher stammt die Datei?\n# '''Urheber''': Wer ist Urheber (Autor/in) der Datei?\n# '''Lizenz''': Unter welchen Bedingungen darf die Datei weiterverwendet werden?\nSiehe dazu auch die Seite [[Spezial:Hochladen]].\n\nAuch bei selbst erstellten Fotos und Zeichnungen darf ein Text wie ''selbst fotografiert, selbst gezeichnet'' und eine Lizenzangabe nicht fehlen. Welche möglich sind, siehst Du unter '''[[ZUM-Wiki:Lizenzvorlagen für Bilder]]'''.\n\nStandard im {{SITENAME}} ist die [[ZUM-Wiki:Lizenzbestimmungen|ZUM-Wiki-Lizenz (CC-by-sa/3.0/de)]], die Du mit dem folgenden Quellcode hier einfügen kannst:\n\n<pre>{{Bild-CC-by-sa/3.0/de}}</pre>\n\nBesten Dank für Deine Unterstützung!}}\n\nGruß <noinclude>\n\n;Das schreibt man:\n<pre>{{Dateiangaben}} --~~~~</pre>\n\n;Anwendung:\nÜber den Verbleib der Dateien im ZUM-Wiki wird nach etwa zwei Wochen entschieden.\n\n;Siehe auch: [[Vorlage:Angaben fehlen]]\n\n[[Kategorie:Vorlage:Lizenz für Bilder|!]]\n[[Kategorie:Vorlage:Benutzerbausteine|Dateiangaben]]\n[[Kategorie:Vorlage:Hinweis-Bausteine|Dateiangaben]]\n</noinclude>"
+    },
+    {
+      "revid": 16286,
+      "parentid": 16284,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-28T20:22:56Z",
+      "comment": "- Siehe auch",
+      "wikitext": "== Bitte Dateiangaben ergänzen! ==\n{{ZUM-Wiki|Hallo, Du hat in letzter Zeit eine oder mehrere Dateien hochgeladen; siehe '''[[Spezial:Beiträge/{{PAGENAME}}|Deine Beiträge]]'''. Leider fehlen noch einige Angaben auf zumindest einer der Dateibeschreibungsseiten. Bitte ergänze diese möglichst umgehend. Denn Bilder ohne ausreichende Angabe müssen wir leider wieder löschen, um [[ZUM-Wiki:Urheberrechte beachten|Urheberrechtsverletzungen]] zu vermeiden. \n\nNotwendig sind auf jeden Fall folgende Angaben:\n# '''Quelle''': Woher stammt die Datei?\n# '''Urheber''': Wer ist Urheber (Autor/in) der Datei?\n# '''Lizenz''': Unter welchen Bedingungen darf die Datei weiterverwendet werden?\nSiehe dazu auch die Seite [[Spezial:Hochladen]].\n\nAuch bei selbst erstellten Fotos und Zeichnungen darf ein Text wie ''selbst fotografiert, selbst gezeichnet'' und eine Lizenzangabe nicht fehlen. Welche möglich sind, siehst Du unter '''[[ZUM-Wiki:Lizenzvorlagen für Bilder]]'''.\n\nStandard im ZUM-Wiki ist die [[ZUM-Wiki:Lizenzbestimmungen|ZUM-Wiki-Lizenz (CC-by-sa/3.0/de)]], die Du mit dem folgenden Quellcode hier einfügen kannst:\n\n<pre>{{Bild-CC-by-sa/3.0/de}}</pre>\n\nBesten Dank für Deine Unterstützung!}}\n\nGruß <noinclude>\n\n;Das schreibt man:\n<pre>{{Dateiangaben}} --~~~~</pre>\n\n;Anwendung:\nÜber den Verbleib der Dateien im ZUM-Wiki wird nach etwa zwei Wochen entschieden.\n\n<!--;Siehe auch: [[Vorlage:Angaben fehlen]]-->\n\n[[Kategorie:Vorlage:Lizenz für Bilder|!]]\n[[Kategorie:Vorlage:Benutzerbausteine|Dateiangaben]]\n[[Kategorie:Vorlage:Hinweis-Bausteine|Dateiangaben]]\n</noinclude>"
+    },
+    {
+      "revid": 16284,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-28T20:21:23Z",
+      "comment": "aus dem ZUM-Wiki",
+      "wikitext": "== Bitte Dateiangaben ergänzen! ==\n{{ZUM-Wiki|Hallo, Du hat in letzter Zeit eine oder mehrere Dateien hochgeladen; siehe '''[[Spezial:Beiträge/{{PAGENAME}}|Deine Beiträge]]'''. Leider fehlen noch einige Angaben auf zumindest einer der Dateibeschreibungsseiten. Bitte ergänze diese möglichst umgehend. Denn Bilder ohne ausreichende Angabe müssen wir leider wieder löschen, um [[ZUM-Wiki:Urheberrechte beachten|Urheberrechtsverletzungen]] zu vermeiden. \n\nNotwendig sind auf jeden Fall folgende Angaben:\n# '''Quelle''': Woher stammt die Datei?\n# '''Urheber''': Wer ist Urheber (Autor/in) der Datei?\n# '''Lizenz''': Unter welchen Bedingungen darf die Datei weiterverwendet werden?\nSiehe dazu auch die Seite [[Spezial:Hochladen]].\n\nAuch bei selbst erstellten Fotos und Zeichnungen darf ein Text wie ''selbst fotografiert, selbst gezeichnet'' und eine Lizenzangabe nicht fehlen. Welche möglich sind, siehst Du unter '''[[ZUM-Wiki:Lizenzvorlagen für Bilder]]'''.\n\nStandard im ZUM-Wiki ist die [[ZUM-Wiki:Lizenzbestimmungen|ZUM-Wiki-Lizenz (CC-by-sa/3.0/de)]], die Du mit dem folgenden Quellcode hier einfügen kannst:\n\n<pre>{{Bild-CC-by-sa/3.0/de}}</pre>\n\nBesten Dank für Deine Unterstützung!}}\n\nGruß <noinclude>\n\n;Das schreibt man:\n<pre>{{Dateiangaben}} --~~~~</pre>\n\n;Anwendung:\nÜber den Verbleib der Dateien im ZUM-Wiki wird nach etwa zwei Wochen entschieden.\n\n;Siehe auch: [[Vorlage:Angaben fehlen]]\n\n[[Kategorie:Vorlage:Lizenz für Bilder|!]]\n[[Kategorie:Vorlage:Benutzerbausteine|Dateiangaben]]\n[[Kategorie:Vorlage:Hinweis-Bausteine|Dateiangaben]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Benutzerbausteine",
+    "Kategorie:Vorlage:Hinweis-Bausteine",
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

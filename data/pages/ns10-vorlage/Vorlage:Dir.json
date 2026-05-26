@@ -1,0 +1,27 @@
+{
+  "pageid": 4248,
+  "ns": 10,
+  "title": "Vorlage:Dir",
+  "revisions": [
+    {
+      "revid": 17513,
+      "parentid": 17512,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-20T22:31:41Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<noinclude>{{heavily used template}}</noinclude>{{#switch:{{{1}}}|ar|arc|arz|bcc|ckb|bqi|dv|fa|fa-af|glk|ha|he|kk-arab|kk-cn|ks|ku-arab|mzn|pnb|prd|ps|sd|ug|ur|ydd|yi={{{2|rtl}}}|{{{3|ltr}}}}}<noinclude>\n{{documentation}}\n\n[[Category:Internationalization templates|{{PAGENAME}}]]\n[[Category:Function templates|{{PAGENAME}}]]\n</noinclude>"
+    },
+    {
+      "revid": 17512,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-17T20:05:48Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<noinclude>{{heavily used template}}</noinclude>{{#switch:{{{1}}}|ar|arc|arz|bcc|ckb|bqi|dv|fa|fa-af|glk|ha|he|kk-arab|kk-cn|ks|ku-arab|mzn|pnb|prd|ps|sd|ug|ur|ydd|yi={{{2|rtl}}}|{{{3|ltr}}}}}<noinclude>\n{{documentation}}\n\n[[Category:Internationalization templates|{{PAGENAME}}]]\n[[Category:Function templates|{{PAGENAME}}]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Function templates",
+    "Kategorie:Internationalization templates"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "pageid": 4109,
+  "ns": 0,
+  "title": "Westendorf",
+  "revisions": [
+    {
+      "revid": 17235,
+      "parentid": 16659,
+      "user": "Leupold",
+      "timestamp": "2013-05-21T22:50:58Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Wappen==\n== Entstehung==\n== Verein==\n== Firmen==\n== Besonderheiten==\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 16659,
+      "parentid": 0,
+      "user": "MAWiedemann",
+      "timestamp": "2013-05-03T07:00:17Z",
+      "comment": "Die Seite wurde neu angelegt: == Wappen== == Entstehung== == Verein== == Firmen== == Besonderheiten==",
+      "wikitext": "== Wappen==\n== Entstehung==\n== Verein==\n== Firmen==\n== Besonderheiten=="
+    }
+  ],
+  "categories": []
+}

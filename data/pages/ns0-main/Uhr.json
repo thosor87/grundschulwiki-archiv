@@ -1,0 +1,48 @@
+{
+  "pageid": 2270,
+  "ns": 0,
+  "title": "Uhr",
+  "revisions": [
+    {
+      "revid": 6242,
+      "parentid": 6241,
+      "user": "Leupold",
+      "timestamp": "2007-04-23T14:34:53Z",
+      "comment": "Untertext zum Bild anzeigen lassen",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n[[Bild:uhr.jpg|thumb|Armbanduhr]]\nDie Uhr zeigt die [[Zeit]] an. Die Uhr hat drei Zeiger. Der Zeiger, der sich jede Sekunde bewegt, heißt Sekundenzeiger. Der kleinste Zeiger ist der Stundenzeiger. Er läuft in einer Stunde von einer Zahl zur nächsten. Um einmal rum zu laufen, braucht er 12 Stunden. Der lange Zeiger zeigt die Minuten an. Er braucht für ein Umdrehung eine Stunde oder 60 Minuten.\n\n\n\n{{Rücksprung|U}}"
+    },
+    {
+      "revid": 6241,
+      "parentid": 6240,
+      "user": "MAKatja",
+      "timestamp": "2007-04-22T19:25:43Z",
+      "comment": "internen Link zu Zeit hinzugefügt",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n\nDie Uhr zeigt die [[Zeit]] an. Die Uhr hat drei Zeiger. Der Zeiger, der sich jede Sekunde bewegt, heißt Sekundenzeiger. Der kleinste Zeiger ist der Stundenzeiger. Er läuft in einer Stunde von einer Zahl zur nächsten. Um einmal rum zu laufen, braucht er 12 Stunden. Der lange Zeiger zeigt die Minuten an. Er braucht für ein Umdrehung eine Stunde oder 60 Minuten.\n\n[[Bild:uhr.jpg|Armbanduhr]]\n\n\n{{Rücksprung|U}}"
+    },
+    {
+      "revid": 6240,
+      "parentid": 6238,
+      "user": "MAKatja",
+      "timestamp": "2007-04-22T19:23:39Z",
+      "comment": "Bild hinzugefügt",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n\nDie Uhr zeigt die Zeit an. Die Uhr hat drei Zeiger. Der Zeiger, der sich jede Sekunde bewegt, heißt Sekundenzeiger. Der kleinste Zeiger ist der Stundenzeiger. Er läuft in einer Stunde von einer Zahl zur nächsten. Um einmal rum zu laufen, braucht er 12 Stunden. Der lange Zeiger zeigt die Minuten an. Er braucht für ein Umdrehung eine Stunde oder 60 Minuten.\n\n[[Bild:uhr.jpg|Armbanduhr]]\n\n\n{{Rücksprung|U}}"
+    },
+    {
+      "revid": 6238,
+      "parentid": 6237,
+      "user": "Leupold",
+      "timestamp": "2007-04-22T19:14:10Z",
+      "comment": "{{Rücksprung|U}}",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n\nDie Uhr zeigt die Zeit an. Die Uhr hat drei Zeiger. Der Zeiger, der sich jede Sekunde bewegt, heißt Sekundenzeiger. Der kleinste Zeiger ist der Stundenzeiger. Er läuft in einer Stunde von einer Zahl zur nächsten. Um einmal rum zu laufen, braucht er 12 Stunden. Der lange Zeiger zeigt die Minuten an. Er braucht für ein Umdrehung eine Stunde oder 60 Minuten.\n\n\n\n{{Rücksprung|U}}"
+    },
+    {
+      "revid": 6237,
+      "parentid": 0,
+      "user": "MAKatja",
+      "timestamp": "2007-04-22T18:14:34Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n\nDie Uhr zeigt die Zeit an. Die Uhr hat drei Zeiger. Der Zeiger, der sich jede Sekunde bewegt, heißt Sekundenzeiger. Der kleinste Zeiger ist der Stundenzeiger. Er läuft in einer Stunde von einer Zahl zur nächsten. Um einmal rum zu laufen, braucht er 12 Stunden. Der lange Zeiger zeigt die Minuten an. Er braucht für ein Umdrehung eine Stunde oder 60 Minuten."
+    }
+  ],
+  "categories": []
+}

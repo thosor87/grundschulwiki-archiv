@@ -1,0 +1,26 @@
+{
+  "pageid": 4258,
+  "ns": 10,
+  "title": "Vorlage:Uwl",
+  "revisions": [
+    {
+      "revid": 17531,
+      "parentid": 17530,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-03T22:38:52Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<noinclude>\nThis template (uploaded without license tag) is used to tag files uploaded (but not by using the basic form apparently). Usually [[:User:Nikbot]] (it ignores this template) will come by after some time and add a {{tl|no license since}} and inform the uploader.\n\nThis template is added (substed) by UW (but not by the basic upload form) for uploads without a license: {{tl|Remove this line and insert a license instead}} with time parameters filled in (see below). Files are categorized in [[:Category:Media uploaded without a license]]\n\n*Current ({{ISOdate|2011-11-25}}) discussion: [[Commons_talk:Upload_Wizard#New UW version deployed (Multi-file selection and more)]]\n* {{see also cat|Media uploaded without a license|banner=no}}\n\n[[Category:Problem tags|{{PAGENAME}}]]\n\n\nThis is added to files:<br />\n</noinclude><includeonly>{</includeonly><noinclude>&#123;</noinclude>{Remove this line and insert a license instead|year={{<includeonly>subst:</includeonly>CURRENTYEAR}}|month={{<includeonly>subst:</includeonly>CURRENTMONTH}}|day={{<includeonly>subst:</includeonly>CURRENTDAY2}}}}"
+    },
+    {
+      "revid": 17530,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-03T22:27:45Z",
+      "comment": "übernommen aus Wikimedia Commons https://commons.wikimedia.org/wiki/Template:Uwl",
+      "wikitext": "<noinclude>\nThis template (uploaded without license tag) is used to tag files uploaded (but not by using the basic form apparently). Usually [[:User:Nikbot]] (it ignores this template) will come by after some time and add a {{tl|no license since}} and inform the uploader.\n\nThis template is added (substed) by UW (but not by the basic upload form) for uploads without a license: {{tl|Remove this line and insert a license instead}} with time parameters filled in (see below). Files are categorized in [[:Category:Media uploaded without a license]]\n\n*Current ({{ISOdate|2011-11-25}}) discussion: [[Commons_talk:Upload_Wizard#New UW version deployed (Multi-file selection and more)]]\n* {{see also cat|Media uploaded without a license|banner=no}}\n\n[[Category:Problem tags|{{PAGENAME}}]]\n\n\nThis is added to files:<br />\n</noinclude><includeonly>{</includeonly><noinclude>&#123;</noinclude>{Remove this line and insert a license instead|year={{<includeonly>subst:</includeonly>CURRENTYEAR}}|month={{<includeonly>subst:</includeonly>CURRENTMONTH}}|day={{<includeonly>subst:</includeonly>CURRENTDAY2}}}}"
+    }
+  ],
+  "categories": [
+    "Kategorie:Problem tags"
+  ]
+}

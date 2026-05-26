@@ -1,0 +1,56 @@
+{
+  "pageid": 1492,
+  "ns": 6,
+  "title": "Datei:Internet.jpg",
+  "revisions": [
+    {
+      "revid": 14656,
+      "parentid": 12371,
+      "user": "Leupold",
+      "timestamp": "2011-03-06T12:23:20Z",
+      "comment": "hat eine neue Version von „[[Bild:Internet.jpg]]“ hochgeladen: Zurückgesetzt auf die Version vom 20. Januar 2006, 19:01 Uhr",
+      "wikitext": "Die roten Linien stellen Verbindungskabel zwischen Servern und Computern dar. Wo Computer nicht mit Kabeln miteinander verbunden sind, da können auch Satelliten die Informationen übertragen."
+    },
+    {
+      "revid": 12371,
+      "parentid": 3758,
+      "user": "MANaegel",
+      "timestamp": "2009-07-27T19:26:28Z",
+      "comment": "hat eine neue Version von „[[Bild:Internet.jpg]]“ hochgeladen: Quelle: Bundesamt für Sicherheit und Informationstechnik",
+      "wikitext": "Die roten Linien stellen Verbindungskabel zwischen Servern und Computern dar. Wo Computer nicht mit Kabeln miteinander verbunden sind, da können auch Satelliten die Informationen übertragen."
+    },
+    {
+      "revid": 3758,
+      "parentid": 2626,
+      "user": "Leupold",
+      "timestamp": "2006-04-26T15:43:59Z",
+      "comment": "",
+      "wikitext": "Die roten Linien stellen Verbindungskabel zwischen Servern und Computern dar. Wo Computer nicht mit Kabeln miteinander verbunden sind, da können auch Satelliten die Informationen übertragen."
+    },
+    {
+      "revid": 2626,
+      "parentid": 2625,
+      "user": "Leupold",
+      "timestamp": "2006-01-20T19:04:56Z",
+      "comment": "",
+      "wikitext": "Die roten Linien stellen Verbindungskabel zwischen den Servern dar. Wo Computer nicht mit Kabeln miteinander verbunden sind, da können auch Satelliten die Informationen übertragen."
+    },
+    {
+      "revid": 2625,
+      "parentid": 2622,
+      "user": "Leupold",
+      "timestamp": "2006-01-20T19:04:14Z",
+      "comment": "",
+      "wikitext": "Die roten Linien stellen Verbindungskabel dar. Wo Computer nicht mit Kabeln verbunden sind, da können auch Satelliten die Informationen übertragen."
+    },
+    {
+      "revid": 2622,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2006-01-20T19:01:46Z",
+      "comment": "",
+      "wikitext": ""
+    }
+  ],
+  "categories": []
+}

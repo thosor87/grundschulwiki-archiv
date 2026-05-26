@@ -1,0 +1,26 @@
+{
+  "pageid": 4364,
+  "ns": 10,
+  "title": "Vorlage:Unterricht",
+  "revisions": [
+    {
+      "revid": 17763,
+      "parentid": 17762,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:11:19Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div style=\"float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em\">\n<div style=\"font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;\">\n[[Datei:ZUM-Logo.png|right|25px]] '''[[Hilfe:Unterricht|Unterricht]]'''\n</div>\n<div style=\"background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;\">\n\n* [[Hilfe:Kurs- und Klassenseiten|Kurs- und Klassenseiten]]\n* [[Hilfe:Lehrer|Hinweise für Lehrer/innen]]\n* [[Hilfe:Schüler|Hinweise für Schüler/innen]]\n----\n* [[Hilfe:Interaktive Übungen|Interaktive Übungen]]\n* [[Hilfe:Transklusion|Transklusion (Verkettung)]]\t\n* [[Hilfe:Verstecken und Anzeigen|Verstecken und Anzeigen]]\n* [[Hilfe:Vorlagen für die Schule|Vorlagen für die Schule]]\n</div>\n<div style=\"font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;\">\n* [[Hilfe:MediaWiki|Handbuch zur Software]]\n</div></div>\n<noinclude>[[Kategorie:Vorlage:Benutzerbausteine|.]]</noinclude>"
+    },
+    {
+      "revid": 17762,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-03T08:54:40Z",
+      "comment": "linkfix",
+      "wikitext": "<div style=\"float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em\">\n<div style=\"font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;\">\n[[Datei:ZUM-Logo.png|right|25px]] '''[[Hilfe:Unterricht|Unterricht]]'''\n</div>\n<div style=\"background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;\">\n\n* [[Hilfe:Kurs- und Klassenseiten|Kurs- und Klassenseiten]]\n* [[Hilfe:Lehrer|Hinweise für Lehrer/innen]]\n* [[Hilfe:Schüler|Hinweise für Schüler/innen]]\n----\n* [[Hilfe:Interaktive Übungen|Interaktive Übungen]]\n* [[Hilfe:Transklusion|Transklusion (Verkettung)]]\t\n* [[Hilfe:Verstecken und Anzeigen|Verstecken und Anzeigen]]\n* [[Hilfe:Vorlagen für die Schule|Vorlagen für die Schule]]\n</div>\n<div style=\"font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;\">\n* [[Hilfe:MediaWiki|Handbuch zur Software]]\n</div></div>\n<noinclude>[[Kategorie:Vorlage:Benutzerbausteine|.]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Benutzerbausteine"
+  ]
+}

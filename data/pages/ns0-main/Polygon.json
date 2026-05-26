@@ -1,0 +1,24 @@
+{
+  "pageid": 3786,
+  "ns": 0,
+  "title": "Polygon",
+  "revisions": [
+    {
+      "revid": 15055,
+      "parentid": 15044,
+      "user": "MALorenzo",
+      "timestamp": "2011-11-13T09:54:46Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Polygon ist eine Fläche mit geraden Kanten und mit Ecken. \nQuadrate, Rechtecke, Dreiecke sind Polygone, aber sie können auch viel unordentlicher aussehen. Man kann mit der Formel (N-2)*180<sup>o</sup> die Summe aller Winkel des Polygons bestimmen. Hier ist N die Anzahl der Ecken.\nZ.B. bei den Vierecken ist die Summe der Winkel 360<sup>o</sup> und bei den Fünfecken ist die Summe der Winkel 540<sup>o</sup>.\n\n\n== Regelmäßige Polygone==\n[[Bild:Regpol3-4-5.png‎|thumb|200px]] \nRegelmäßige Polygone haben alle Kanten gleich lang und in allen Ecken den gleichen Winkel. Wenn man noch \"Die Summe aller Winkel\" durch N teilt hat man die größe der Winkel, das ganze kann aber nur mit Regelmäßigen Polygonen klappen. Das gilt z.B. für die Fünfecke, bei  denen der Winkel 108<sup>o</sup> ist.\n\n\n== Unregelmäßige Polygone==\n[[Bild:unregpol.png‎|thumb|200px]]\nUnregelmäßige Polygone müssen nicht an allen Kanten die gleiche Länge und an allen Ecken den gleiche Winkel haben. \n\n\n\n{{Rücksprung|P}}"
+    },
+    {
+      "revid": 15044,
+      "parentid": 0,
+      "user": "MALorenzo",
+      "timestamp": "2011-10-29T09:13:26Z",
+      "comment": "Die Seite wurde neu angelegt: {{Babel-1|Schüler_Verfasser}} Ein Polygon ist eine Fläche mit geraden Kanten und mit Ecken.  Quadrate, Rechtecke, Dreiecke sind Polygone, aber sie können auch viel u...",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nEin Polygon ist eine Fläche mit geraden Kanten und mit Ecken. \nQuadrate, Rechtecke, Dreiecke sind Polygone, aber sie können auch viel unordentlicher aussehen.\n\n== Regelmäßige Polygone==\n[[Bild:Regpol3-4-5.png‎|thumb|200px]] \nRegelmäßige Polygone haben alle Kanten gleich lang und in allen Ecken den gleichen Winkel.\n\n\n== Unregelmäßige Polygone==\n[[Bild:unregpol.png‎|thumb|200px]]\nUnregelmäßige Polygone müssen nicht an allen Kanten die gleiche Länge und an allen Ecken den gleiche Winkel haben. \n\n\n\n{{Rücksprung|P}}"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,16 @@
+{
+  "pageid": 1695,
+  "ns": 10,
+  "title": "Vorlage:Babel-3",
+  "revisions": [
+    {
+      "revid": 3393,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:40:29Z",
+      "comment": "",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{Babel {{{1}}}}}\n|-\n| {{Babel {{{2}}}}}\n|-\n| {{Babel {{{3}}}}}\n|}"
+    }
+  ],
+  "categories": []
+}

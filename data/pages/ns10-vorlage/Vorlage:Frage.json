@@ -1,0 +1,27 @@
+{
+  "pageid": 4326,
+  "ns": 10,
+  "title": "Vorlage:Frage",
+  "revisions": [
+    {
+      "revid": 17687,
+      "parentid": 17686,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:47Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#cc0000}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Datei:Fragezeichen.gif|25px]] &nbsp; Frage\n</div>\n{{{1}}}\n|}<noinclude>\n\n;Das schreibt man: <pre>{{Frage|<Frage(stellung)>}}</pre>\n\n;Vergleiche: [[Vorlage:Antwort]]\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Frage]]</noinclude>"
+    },
+    {
+      "revid": 17686,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2010-01-04T08:56:15Z",
+      "comment": "weißer Hintergrund",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 10px solid {{{RandLinks|#cc0000}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Datei:Fragezeichen.gif|25px]] &nbsp; Frage\n</div>\n{{{1}}}\n|}<noinclude>\n\n;Das schreibt man: <pre>{{Frage|<Frage(stellung)>}}</pre>\n\n;Vergleiche: [[Vorlage:Antwort]]\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Frage]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

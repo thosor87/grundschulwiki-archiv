@@ -1,0 +1,27 @@
+{
+  "pageid": 4264,
+  "ns": 10,
+  "title": "Vorlage:Bitte vorstellen",
+  "revisions": [
+    {
+      "revid": 17557,
+      "parentid": 17556,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:06Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "== Bitte vorstellen! ==\n\nHallo {{PAGENAME}},\n\nes ist erfreulich, dass Du im ZUM-Wiki aktiv mitarbeitest. Damit die Zusammenarbeit noch besser klappt, bitten wir Dich, Dich  [[Benutzer:{{PAGENAME}}|auf Deiner Benutzerseite]] kurz vorzustellen. Wichtig wäre uns dabei, dass Du kurz schreibst, ob und welchen Bezug zu Schule und Unterricht du hast. Dein wirklicher Name braucht nicht genannt zu werden, erleichtert aber natürlich auch die Kommunikation untereinander.\n\nMit freundlichen Grüßen im Namen der [[ZUM-Wiki:Administratoren|ZUM-Wiki-AdministratorInnen]] \n<noinclude>\n[[Kategorie:Vorlage:Benutzerbausteine|Bitte vorstellen]]\n[[Kategorie:Vorlage:Hinweis-Bausteine|Bitte vorstellen]]\n</noinclude>"
+    },
+    {
+      "revid": 17556,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2010-11-14T17:22:42Z",
+      "comment": "Schützte „[[Vorlage:Bitte vorstellen]]“: Wichtig für die Projektorganisation ([edit=sysop] (unbeschränkt) [move=sysop] (unbeschränkt))",
+      "wikitext": "== Bitte vorstellen! ==\n\nHallo {{PAGENAME}},\n\nes ist erfreulich, dass Du im ZUM-Wiki aktiv mitarbeitest. Damit die Zusammenarbeit noch besser klappt, bitten wir Dich, Dich  [[Benutzer:{{PAGENAME}}|auf Deiner Benutzerseite]] kurz vorzustellen. Wichtig wäre uns dabei, dass Du kurz schreibst, ob und welchen Bezug zu Schule und Unterricht du hast. Dein wirklicher Name braucht nicht genannt zu werden, erleichtert aber natürlich auch die Kommunikation untereinander.\n\nMit freundlichen Grüßen im Namen der [[ZUM-Wiki:Administratoren|ZUM-Wiki-AdministratorInnen]] \n<noinclude>\n[[Kategorie:Vorlage:Benutzerbausteine|Bitte vorstellen]]\n[[Kategorie:Vorlage:Hinweis-Bausteine|Bitte vorstellen]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Benutzerbausteine",
+    "Kategorie:Vorlage:Hinweis-Bausteine"
+  ]
+}

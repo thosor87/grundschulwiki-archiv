@@ -1,0 +1,16 @@
+{
+  "pageid": 4432,
+  "ns": 10,
+  "title": "Vorlage:Rücksprung2",
+  "revisions": [
+    {
+      "revid": 18091,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2014-05-13T09:18:56Z",
+      "comment": "Die Seite wurde neu angelegt: „<br style=\"clear:both;\"/> ---- <div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Wenn du mehr zum Begriff \"{{PAG…“",
+      "wikitext": "<br style=\"clear:both;\"/>\n----\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Wenn du mehr zum Begriff \"{{PAGENAME}}\" wissen willst, dann findest du vielleicht auf den folgenden Seiten etwas:\n----\n<center>[[Bild:Finn_klein3.gif]] [http://www.fragfinn.de/kinderliste/suche?query={{PAGENAMEE}}&x=0&y=0 FragFinn.de] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Bild:BlindeKuh.jpg]] [http://www.blinde-kuh.de/bksearch.cgi?query={{PAGENAMEE}} Blinde-Kuh.de] &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [[Bild:Helles_wiki_koepfchen.gif]] [http://www.helles-koepfchen.de/?suche={{PAGENAMEE}} Helles-Köpfchen.de] </center>\n----\nHier geht es zurück zur [[{{{1}}}|{{{1}}}]]!</div>"
+    }
+  ],
+  "categories": []
+}

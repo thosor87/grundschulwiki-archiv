@@ -1,0 +1,16 @@
+{
+  "pageid": 3891,
+  "ns": 0,
+  "title": "Querdifferenz",
+  "revisions": [
+    {
+      "revid": 15511,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2012-03-12T20:40:02Z",
+      "comment": "angelegt",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Querdifferenz==\n\nEs gibt auch die Querdifferenz. Dabei werden Ziffern, die in den [[Gerade und Ungerade Zahlen |geraden]] Stellen stehen, subtrahiert also die Zehner, Tausender, Hunderttausender, Zehnmillionener, ... und die Ziffern, die in den  [[Gerade und Ungerade Zahlen |ungeraden]] Stellen stehen, werden addiert, also die Einer, Hunderter, Zehntausender, Millioner, und so weiter. Ein Beispiel für die Querdifferenz: Die Querdifferenz von 135 ist 1-3+5=3 und die Querdifferenz von 1.356 ist 0-1+3-5+6=3.\n\n\n{{Rücksprung|Q}}"
+    }
+  ],
+  "categories": []
+}

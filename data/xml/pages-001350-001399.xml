@@ -1,0 +1,1950 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Totes Meer</title>
+    <ns>0</ns>
+    <id>3274</id>
+    <revision>
+      <id>11942</id>
+      <parentid>11933</parentid>
+      <timestamp>2009-06-10T15:40:20Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="513">{{Babel-1|Schüler_Verfasser}}
+Das Tote Meer
+
+Das Tote Meer ist weit und breit ganz still. Es gibt keine Lebewesen.
+Das Wasser verdunstet weil es zu viel Salz gibt.
+Es fängt der Wasserkreislauf wieder von vorne an.
+Es entstehen Wolken aus dem Wasserdampf.
+Sie kommen vom Himmel als Hagel, Schnee oder Regen auf die Erde.
+So wird ständig neues Salz ins Tote Meer geleitet.
+Durch die Unterwasser-Vulkane kommt noch mehr Salz ins Wasser.
+Sie heißen „Schwarze Raucher“.
+
+Von NOAH und JULIA
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tower Bridge</title>
+    <ns>0</ns>
+    <id>5124</id>
+    <revision>
+      <id>25594</id>
+      <parentid>21697</parentid>
+      <timestamp>2023-10-20T07:27:32Z</timestamp>
+      <contributor>
+        <username>34grün</username>
+        <id>10622</id>
+      </contributor>
+      <comment>/* Aussehen */</comment>
+      <text xml:space="preserve" bytes="742">== Aussehen ==
+Die Tower Bridge ist eine kombinierte hänge klapp und Kettenbrücke in London (Großbrittannien).
+Ihre Länge beträgt 244 Meter und die höhe der Fahrbahn ist 9m,die Höhe der Fußgängerbrücke 43m.
+Die Stahlseile der Brücke sind aus nicht Schweißbarem Grauguss.
+
+== Standort ==
+Die Tower Bridge steht in England in der Hauptstadt London.&lt;br /&gt;
+Sie führt über die Themse.
+
+
+
+
+== Interessantes ==
+Die Tower Bridge zählt zu den bekanntesten und berühmtesten Ausflugszielen Londons.&lt;br /&gt;
+Sie wurde am 30. Juni 1894 eröffnet.&lt;br /&gt;
+Die Tower Bridge ist eine Schiff- und Autobrücke.&lt;br /&gt;
+Aber Fußgänger überqueren sie zwischen den zwei Türmen.
+[[Datei:Tower-bridge-980961 960 720.jpg|miniatur|Brücke öffnet sich]]</text>
+      <sha1>6amo975rzb4md9f8fsege6xsm83apct</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Traktor</title>
+    <ns>0</ns>
+    <id>2203</id>
+    <revision>
+      <id>13955</id>
+      <parentid>5975</parentid>
+      <timestamp>2010-10-26T14:21:28Z</timestamp>
+      <contributor>
+        <username>GGSKlasse4b</username>
+        <id>824</id>
+      </contributor>
+      <text xml:space="preserve" bytes="811">== Traktoren und Landmaschinen ==
+[[Bild:Traktor.jpg|thumb]]
+Traktoren und Landmaschinen sind aus den landwirtschaftlichen Gebieten nicht mehr wegzudenken.Traktoren sind Fahrzeuge, die in der Landwirtschaft vielseitig genutzt werden. Man kann vorne und hinten verschiedene Maschinen anhängen z.B. den Pflug, die Egge, einen Sattelschlepper oder einen Mulcher. Früher zogen Pferde Ackergeräte wie z.B. den Pflug. Ein starker Traktor kann heute die'' Arbeit'' ''von 200 Pferden'' erledigen.
+Von Traktoren gibt es viele Sorten z.B. Fendt, Marzedise, John-Deere, Deutz, IHC sowie Class.
+Es gibt aber nicht nur Traktoren die, die Arbeit von 200 Pferden erledigen, sondern auch noch kleinere und auch größere Traktoren die eben auch weniger oder mehr PS haben. Ein PS ist eine Pferdestärke.
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Transformers (Film)</title>
+    <ns>0</ns>
+    <id>5885</id>
+    <revision>
+      <id>24880</id>
+      <parentid>24879</parentid>
+      <timestamp>2021-03-13T14:34:14Z</timestamp>
+      <contributor>
+        <username>MALuetgenau</username>
+        <id>10455</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1547">{{Babel-1|Schüler_Verfasser}}
+
+==Einleitung==
+Bei den ''Transformers'' geht es um den Krieg zwischen den ''Autobots'' und den ''Deceptions''.
+Die ''Deceptions'' wollen das Universum beherrschen. Dazu brauchen sie den ''Allspark'', der auf der Erde gelandet ist. Der ''Allspark'' ist ein magisches Artefakt. Die Autobots leben auf dem Planeten Cybertron. Die ''Deceptions'' bringen auch Menschen um, die ''Autobots'' aber nicht.
+
+== Was sind Transformers ==
+Die Transformers sind eigentlich Action-Figuren, also Roboter, die sich in Fahr- oder Flugzeuge verwandeln. Es gibt auch Filme und Computerspiele mit ihnen.
+Übersetzung: ändern, abändern, umtauschen, umwandeln.
+
+== Aus was sind Transformer? ==
+Transformer sind aus Eisen, Metall und Stahl.
+
+==Was kann ein Transformer?==
+Kämpfen, explodieren, schwere Sachen heben. Der stärkste kann mind. fünf Tonnen heben.
+
+== Wie groß ist ein Schwert eines Transformers? ==
+
+ca. 1,5 Meter lang.
+
+== Filme ==
+Reihe 1 - 5. Hauptsprache: englisch.
+
+== Kritik ==
+
+Die Wertung für den Film ist auf IMDB 7,0 von 10, was ziemlich gut ist. Die Kritiker fanden den Film aber nicht so gut. 
+„Die Zeit“ sagt: Triumph der Hirnlosigkeit. Die „taz“ meint: herzzerreißend dämlich. Der „Spiegel“ sagt: so laut, so bunt und so schön plemplem.
+Film 1: 4,5
+Film 2: 4,5
+Film 3: 4,5
+Film 4: 4,5
+Film 5: 4,5
+
+== Freigabe ==
+
+Die Altersfreigabe ist ab 12 Jahren.
+
+== Spielsachen ==
+Alle Sachen, die es auch im Film gibt: Waffen, Menschen und selbst Transformer, z.B. als Kuscheltiere
+
+
+{{Rücksprung|T}}</text>
+      <sha1>6ro81o54zw53br87v17z4q2oo7ujyf8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Triathlon, der</title>
+    <ns>0</ns>
+    <id>6077</id>
+    <revision>
+      <id>25337</id>
+      <parentid>25279</parentid>
+      <timestamp>2023-01-30T03:03:59Z</timestamp>
+      <contributor>
+        <username>MAZimmermann2</username>
+        <id>10510</id>
+      </contributor>
+      <text xml:space="preserve" bytes="568">
+'''Triathlon'''
+Triathlon ist ein Sport, welcher aus 3 verschiedenen Sportarten besteht: Schwimmen, Radfahren und Laufen. Ursprünglich begann der Triathlonsport wohl bereits in Frankreich im Jahre 1920 „Les Trois Sports“ nannte man den Wettkampf, der ab 1920 jährlich stattfand. Auf die Idee des IRONMAN - Rennens kamen vor ca. 40 Jahren ein paar Freunden auf der Insel Hawaii durch eine Wette. Dieses ist bis heute wohl das berühmteste Rennen, 3,8 km Schwimmen im Pazifik, 180 km Radfahren durch die Lavawüste plus einen abschleißenden Marathon über 42 km.</text>
+      <sha1>pqfcrw870p8senevundhrn1f23m14od</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Triomino</title>
+    <ns>0</ns>
+    <id>4094</id>
+    <revision>
+      <id>16573</id>
+      <parentid>16572</parentid>
+      <timestamp>2013-03-13T16:45:10Z</timestamp>
+      <contributor>
+        <username>MALeupold</username>
+        <id>710</id>
+      </contributor>
+      <text xml:space="preserve" bytes="552">Triominos ist ein Spiel, wo 2 bis 4 Spieler in den Bereichen Farben und Zahlen ihr Wissen testen können.
+Das Spiel geht folgendermaßen: Das Kind, das dran ist, legt ein Triominos an den oder die Triominos, die schon hingelegt worden sind.
+Passen Farbe und Zahl, kann sich das Kind einen Taler nehmen. Passen Farbe und Zahlen nicht, muss das Kind einen Taler abgeben und sich einen Triominos nehmen. Gewonnen hat das Kind, das keinen Triominos mehr hat. Dieses Spiel gibt es auch für ältere Kinder. Es macht sehr viel Spaß, dieses Spiel zu spielen.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Triops</title>
+    <ns>0</ns>
+    <id>2614</id>
+    <revision>
+      <id>24370</id>
+      <parentid>24369</parentid>
+      <timestamp>2020-01-08T08:28:49Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>/* Gute  Seiten  im  Internet */ link entnommen</comment>
+      <text xml:space="preserve" bytes="4756">{{Babel-1|Schüler_Verfasser}}
+Triops  gehören  zu  den  [[Urkrebs]]en.  Sie  werden  4-5cm  groß.  Man  darf  sie  nicht  mit  dem  [[Salzkrebs]]en  verwechseln.  Sie  leben  nicht  im  Salzwasser, sondern  in  Pfützen  und  Tümpeln,  also  im  Süßwasser. Wenn  man  sie  züchten  will,  braucht  man  ein  Zuchtset  und  ein  großes  Becken.  In  das  Becken  füllt  man  '''destilliertes'''  Wasser.
+Ein  gutes  Zuchtset  ist  z.B.: &quot;Triops City&quot; (Damit  züchte  ich  selber)
+
+==Triops longicaudatus==
+
+=== Lebenszeit ===
+
+Leider  fressen  die  Tiere  sich  oft  gegenseitig  auf.  Darum  werden  viele  Tiere  nicht  einmal  einen  Monat  alt.  In  der  Regel  werden  sie  sonst  aber  20-90  Tage  alt.  Das  liegt  daran,  das  sie  in  Tümpeln  leben,  die  oft  austrocknen.  Das  heißt,  sie  müssen  erwachsen  werden  und  Eier  legen,  bevor  kein  Wasser  mehr  da  ist.
+
+
+=== Futter ===
+In  Zuchtsets  ist  meistens  eine  Tüte  mit  schwarzen  und  grünen  Futterkügelchen  enthalten.  Das  ist  das  wichtigste  Futter  für  die  Larven  und  erwachsenen  Tiere.  In  der  Anleitung  zum  Zuchtset  ist  ein  Futterplan.  Nicht  in  jeder  Anleitung  ist  der  Futterrplan  gleich.  Aber  alle  Futterpläne  sind  sich  ähnlich.  Aber  man  darf  nie  zuviel  füttern!  Davon  würde  das  Wasser  schmutzig  werden  und  die  Triopse  würden  sterben!  Deshalb  darf  man  in  den  ersten  2-3  Tagen  nicht  füttern!  Ab  15mm  (Achte  lieber  auf  Größe  als  auf  Alter,  denn  ansonsten  sind  die  Tiere  kleiner  als  das  Futter)  kannst  du  den  Tieren  auch  Apfel,Karotte  und  Kartoffel  geben,  aber  du  musst  sie  ganz  klein  schneiden.  Am  liebsten  fressen  alle  Triopse  Mückenlarven(gibt  es  als  Fischfutter  zu  kaufen).  
+
+
+
+=== Eier  und  Larven ===
+Die  Eier  können  Jahrzehnte,  vielleicht  sogar  Jahrhunderte  überleben.  Das  ist  wichtig,  denn  ein  Tümpel  könnte  ja  auch  mal  sehr  lange  ausgetrocknet  sein.  Bewiesen  ist,  das  aus  27  Jahre  alten  Eiern  noch  Larven  schlüpfen  können.  Auch  bei  Kälte  oder  Hitze  gehen  die  Eier  nicht  kaputt.  Die  Eier  warten  einfach,  bis  es  Wasser  in  der  richtigen  Temperatur  gibt.  So etwas  nennt  man  ''Diapause''.  Schon  1-2  Tage  später  schlüpfen  die  nur  0,2mm  großen  Larven,  die  noch  ganz  anders  aussehen  als  die  erwachsenen  Tiere.  Jetzt  kann  man  sie  kaum  erkennen,  aber  sie  wachsen  schnell,  denn   sie  häuten  sich  täglich.  Damit  die  Larven  schlüpfen  und  leben  können,  muss  es  etwa  23-27  Grad  warm  sein.
+
+
+=== Erwachsene  Tiere ===
+Erwachsene  Tiere  kriechen  oft  am  Boden  herum  und  wühlen  nicht  nur  im  Sand,  um  Futter  zu  finden:  Sie  legen  dort  auch  Eier.  Ab  jetzt  ist  die  Futtermenge  auch  unterschiedlich.  Ich  füttere  meine  Triopse  so: pro  Triops morgens    zwei  Futter-Kugeln,  mittags,  wenn  alles  aufgefressen  ist,  einige  Mückenlarven,  und  abends,  nachdem  auch  diese  aufgefressen  sind,   eine  Kugel.  Für  deine  Triopse  kann  das  auch  zuviel  oder  zuwenig  sein.  Außerdem  kriegen  sie  manchmal  statt  Mückenlarven  auch  Apfel.  Ausgewachsene  Tiere  sind  etwa  4-5cm  lang.  Ausgewachsen  hat  fast  nichts  mit  erwachsen  zutun,  denn  viele  Tiere  sind  wie  die  Triopse  schon  bevor  sie  ausgewachsen  sind,  erwachsen.  Wenn  du  den  Rückenpanzer,  den  geringelten  Schwanz  und  die  Schwanzborsten  erkennen  kannst,  sind  deine  Tiere  wahrscheinlich  erwachsen.
+ 
+
+== Triops  cancriformis ==
+Bisjetzt  habe  ich  alles  über  Triops  longicaudatus,  eine  andere,  häufigere,  nordamerikanische  Art, geschrieben.  Jetzt  will  ich  etwas  über  Triops  cancriformis  schreiben.
+
+===Lebenszeit===
+
+Triops cancriformis  wird  etwa  6-10  Wochen  alt,  wenn  er  nicht  schon  voher  gefressen  wurde.
+
+===Futter===
+Diese  Triopsart  ernährt  von  ähnlichem  Futter  wie  Triops  longicaudatus.
+
+===Eier  und  Larven===
+
+Für  die  Eier  gilt  das  selbe  wie  für  Triops  longicautatus.  Triops  cancriformis-Larven  mögen  aber  kälteres  Wasser,  etwa  20-25  Grad.  Nach  2-14  Tagen  schlüpfen  die  Larven.
+
+===Erwachsene  Tiere===
+
+Wie  auch  Triops  longicaudatus  wühlen  sie  häufig  im  Sand,  um  Eier  zu  legen.  Erwachsene  Tiere  erkennt  man  an  den  selben  Kennzeichen  wie  bei  Triops  longicaudatus.
+ 
+== Triops  australiensis == 
+Das  ist  australische  Triopsart.
+
+
+== Gute  Seiten  im  Internet ==
+
+[http://www.kindernetz.de/oli/tierlexikon/-/id=75006/nid=75006/did=80468/1mm52yi Hier  geht  es  um  alle  Urzeitkrebse]
+
+[http://de.wikipedia.org/wiki/triops  Viele  Informationen  über  Triopse]
+
+
+ 
+
+ 
+
+
+{{Rücksprung|T}}</text>
+      <sha1>kkso8jiqq7krepfihrzupjssiizpfyd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Triops cancriformis</title>
+    <ns>0</ns>
+    <id>2967</id>
+    <revision>
+      <id>9904</id>
+      <parentid>9903</parentid>
+      <timestamp>2008-12-15T07:18:32Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="273">{{Babel-1|Schüler_Verfasser}}
+Triops  cancriformis  ist  eine  europäische  Triopsart,  die  bis  zu  11cm  lang  wird.
+ 
+== Mehr  Informationen==
+
+[[Triops]]
+
+[[Triops longicaudatus]]
+
+[http://www.triops.at  Gute  Seite  über  Triops  cancriformis]
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Triops longicaudatus</title>
+    <ns>0</ns>
+    <id>2643</id>
+    <revision>
+      <id>8110</id>
+      <parentid>8108</parentid>
+      <timestamp>2008-04-12T17:03:33Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel, rücksprung</comment>
+      <text xml:space="preserve" bytes="141">{{Babel-1|Schüler_Verfasser}}
+Triops  longicaudatus  ist  eine  amerikanische  [[Triops]]art,  die  4-5  cm  lang  wird.
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Troja</title>
+    <ns>0</ns>
+    <id>1526</id>
+    <revision>
+      <id>18756</id>
+      <parentid>3851</parentid>
+      <timestamp>2015-01-11T22:09:21Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="858">{{Babel-1|Schüler_Verfasser}}
+Troja war eine Stadt an der kleinasiatischen Küste. Der Sage nach fand hier der Trojanische Krieg statt, ausgelöst durch die Entführung Helenas, der Gattin des Königs von Sparta, durch den trojanischen Prinzen Paris. Nach fast zehn Jahren Belagerung hatten die Griechen plötzlich ein Idee, um Troja endgültig einzunehmen und zu zerstören. Sie bauten ein hölzernes Pferd und ließen verkünden, das Pferd mache den Besitzer unbesiegbar. Die Griechen gaben die Belagerung zum Schein auf und versteckten die stärksten Krieger im inneren des Pferdes. Im guten Glauben schleppten die Trojaner das hölzerene Pferd in die Stadt. In der Nacht als alle Trojaner schliefen, sprangen die Krieger aus dem Pferd heraus und öffneten ihrer Armee die Stadttore. Die Stadt Troja wurde von den Griechen zerstört.
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1>8k7kibjt9mf33my0wss8iwh5waii5nq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Trommel</title>
+    <ns>0</ns>
+    <id>4584</id>
+    <revision>
+      <id>21489</id>
+      <parentid>21465</parentid>
+      <timestamp>2017-07-07T06:27:48Z</timestamp>
+      <contributor>
+        <username>Wgsa06</username>
+        <id>10141</id>
+      </contributor>
+      <text xml:space="preserve" bytes="660">
+== Aussehen ==
+EINS
+
+Das Fell der Trommel hat meistens ein breunlichen Farbton.&lt;br /&gt;
+Die Zarga hat einen silber Farbton.&lt;br /&gt;
+Die Ausenhöhle ist meistens braun.&lt;br /&gt;
+
+
+
+== Aufbau==
+ZWEI
+
+Das Fell wird durch die Zarga geschpannt.&lt;br /&gt;
+Der Druggussreifen und die Spannschrauben halten die Zarga fest.&lt;br /&gt;
+Der Schläger wird aus Holz gemacht.&lt;br /&gt;
+
+
+== arten ==
+DREI
+
+
+Es Gibt verschiedene trommel arten.&lt;br /&gt;
+Es gibt Schlagtrommeln,zupf-,rieb- und ansingtrommel&lt;br /&gt;
+
+
+== Urtrommel ==
+VIER
+
+Die Urtrommel ist auch als afrikanische djembe bekant&lt;br /&gt;
+sie hat etwa die höhe von 60 Zentimeter Durchmesser&lt;br /&gt;
+die breite ist etwa 30 zementierter&lt;br /&gt;</text>
+      <sha1>c1bgi8ia7v24tr64bogiiut1nm8jxrh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Trompete</title>
+    <ns>0</ns>
+    <id>2007</id>
+    <revision>
+      <id>21634</id>
+      <parentid>21540</parentid>
+      <timestamp>2017-07-10T08:01:14Z</timestamp>
+      <contributor>
+        <username>Wgsa07</username>
+        <id>10142</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2316">{{Babel-1|Schüler_Verfasser}}                                                                                                                ==Allgemeine Informationen==
+Die Trompete ist ein Blasinstrument das drei Ventile hat. Die Trompete ist eine Jazztrompete , Bosstrompete  und in Orchestern zu finden. Trompeten sind aus Metall aus Messing und Neusilber. Es gibt sie in allen Farben und Formen. Alle Trompeten haben ein Mundstück. Das Mundstück hat oberhalb  ein Loch. Sie führt zu dem unteren Teil der Trompete.Tralalalalalalo&lt;br&lt;br /&gt;
+ /&gt;
+[[Datei:Trompete v. Finn2.jpg|miniatur|Trompete]]
+
+
+Schon im der Steinzeit wurde die Trompete benuntzt als Signal instroment.
+Die trompete kann bis 30000,00$ kosten und ab 100$ profi instromente kosten 50000,00$ bis 59999,00.
+Die zeit der Produgsjon mit maschinen 5:00 stunden händlich 24:00 stunden profi instromente 30:00 stunden.
+es gibt Jess trompeten,Bass Trompeten,Romantik Trompeten und Rok Trompeten.
+Die igipter haben trompeten aus Tieren und aus Holz gemacht jeder 50 Mensch hate früher eine  gehabt.
+Wo ein neuer konnig Presentirt wurde sind Trompeten benutzt wurden.
+Die Trompete ist im Orkester ein Inastroment was sehr berümt ist und ist im Orkester bei denn Blass Instrumente
+
+{{Rücksprung|T}}
+==Aussehen==
+
+
+Die Trompete hat drei Ventile und ein Mundstück.
+Die Trompeten sind aus Silber,Gold und Silber Gold gemischt.
+Sie ist mindestens 53cm lang und 20cm Breit.
+
+
+
+==Geschichte==
+
+ 
+Vor langer zeiht in der Antihkenzeiht,wurde die Trompete nur von Pristern und Soldaten gespielt.
+Das Instroment war zwar schon aus Metall,hatte aber noch keine Ventile.&lt;br /&gt;
+ Im Mittelalter gab es Hoftrompeten die für Könige aber auch höheren Personen gedacht waren.
+
+
+
+==Verwendung==
+
+
+Solokonzerte für Trompeten wurden in der späten Brockzeit segr beliebt.
+Ein bekanntes Trompetenkonzert ist von Mozart komponiert.
+Die Trompete ist ein sehr wichtiges Jazzinstrument.
+
+
+
+==Funktion==
+
+Trompeten werden mit der linken Hand gehalten während die drei mittleren Finger Ventile drücken.
+Die Trompete wird hauptsächlich aus dem Material Messing hergestellt.
+Teile der Trompete sind auch aus Edelstahl, damit es nicht rostet.
+Wenn man mit dem Mundstück in die Trompete blässt und gleichzeitig die Ventile drückt kommen verschiedene Notenwerte raus.&lt;br /&gt;</text>
+      <sha1>382427046523onhk4tyacozqsh9zr5k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tschechien</title>
+    <ns>0</ns>
+    <id>2379</id>
+    <revision>
+      <id>22415</id>
+      <parentid>22392</parentid>
+      <timestamp>2018-05-18T09:16:12Z</timestamp>
+      <contributor>
+        <username>Wgsad56</username>
+        <id>10324</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1154">== Speisen und Getränke ==
+Die bekanntesten Beilagen in Tschechien sind Knödel. Dazu gibt es Schweinebraten mit Kraut. &lt;br /&gt;
+Als Nachtisch sind in Tschechien Mehlspeisen sehr beliebt, zum Beispiel Zwetschgenknödel oder Kolatschen.
+
+== Interessantes == 
+Ein Drittel von Tschechien ist von Wald bedeckt. In Tschechien gibt es Luchse. Wie in Deutschland sind Rehe und Hirsche heimisch.&lt;br /&gt;
+
+[[Datei:Bridges33.jpg|miniatur|Prag in Tschechien]]
+
+== Daten und Fakten ==
+Größe: 78 866 km²&lt;br /&gt; 
+Einwohner: 10 56 Millionen 
+Hauptstadt: Prag 
+Höchster Berg: Schneekoppe (1603)m&lt;br /&gt;
+ 
+Währung: Tschechische Krone
+
+== Berühmte Persönlichkeiten ==
+Ministerpräsident Andrej Babiš, Präsident Miloš Zeman.&lt;br /&gt;
+
+== Sehenswürdikeiten ==
+Das Prebischtor ist ein Felsentor in der Bömischen Schweiz im Elbsandsteingebirge. &lt;br /&gt;
+Es ist eins der größten der Welt.&lt;br /&gt;
+Die Burg von Prag war früher der Sitz der bömischen Herzöge und Könige. &lt;br /&gt;
+Heute ist es die Residenz des Präsidenten von Tschechien. &lt;br /&gt;
+Die Uhr am Prager Rathaus ist eine astronomische Uhr. Sie zeigt nicht nur die Uhrzeit, sondern auch den Stand von Sonne und Mond.</text>
+      <sha1>b8cypdewl3dfrcphlsmaj6btksi2i3e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tschechische Republik</title>
+    <ns>0</ns>
+    <id>5301</id>
+    <revision>
+      <id>21911</id>
+      <timestamp>2018-05-03T09:37:36Z</timestamp>
+      <contributor>
+        <username>Wgsad56</username>
+        <id>10324</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Daten und Fakten ==   == Sehenswürdigkeiten ==   == Speisen und Getränke ==   == Berühmte Persönlichkeiten ==    == Interessantes ==“</comment>
+      <text xml:space="preserve" bytes="139">== Daten und Fakten ==
+
+
+== Sehenswürdigkeiten ==
+
+
+== Speisen und Getränke ==
+
+
+== Berühmte Persönlichkeiten ==
+
+
+ == Interessantes ==</text>
+      <sha1>6cfl39h7rrt7xmi8tdsqv3wvv6kf8cv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tuba</title>
+    <ns>0</ns>
+    <id>5133</id>
+    <revision>
+      <id>21640</id>
+      <parentid>21637</parentid>
+      <timestamp>2017-07-10T11:41:54Z</timestamp>
+      <contributor>
+        <username>Wgsa11</username>
+        <id>10146</id>
+      </contributor>
+      <text xml:space="preserve" bytes="659">== Aussehen ==
+Die Tuba besteht aus Bronze oder anderem Metall .&lt;br /&gt;
+Sie ist 1 Meter groß .&lt;br /&gt;
+Die Tuba hat drei bis sechs Ventile .
+[[Datei:Tuba 34245.jpg|miniatur| Tuba]]
+
+
+
+== Funktion ==
+
+Der Spieler der Tuba bläst in das Mundstück .&lt;br /&gt;
+Dann stellt man die Höhe des Tones ein .&lt;br /&gt;
+Danach hört man den Ton aus der Öffnung .&lt;br /&gt;
+
+
+
+
+
+
+== Geschichte ==
+Die erste Tuba der Welt wurde im Jahr 1835 gebaut.&lt;br /&gt;
+Es gibt die Tuba seit 170 Jahren .&lt;br /&gt;
+
+
+== Kontrabasstuba ==
+Die Kontrabasstuba ist die größte Tubbart .&lt;br /&gt;
+Sie ist knapp 1 Meter groß .&lt;br /&gt;
+Das Mundstück nennt man Kesselmundstück,in dieses bläst man hinein .&lt;br /&gt;</text>
+      <sha1>i3rvqhohpsbe96zfgjhapg8nx4v7hgp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tukan</title>
+    <ns>0</ns>
+    <id>3468</id>
+    <revision>
+      <id>17535</id>
+      <parentid>17534</parentid>
+      <timestamp>2014-02-04T12:04:00Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="188">{{Babel-1|Schüler_Verfasser}}
+Der Tukan
+Lebensraum:
+Die Tukane sind vom südlichen Mexiko.
+
+
+
+
+{{Rücksprung|T}}
+[[Kategorie:Artikel_Tag_des_Digitalen_Lernens_2010]]
+{{Autor|--|--|--|--}}</text>
+      <sha1>1ktn1prou2556a8t9jiydcwtvhuh128</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tulpe</title>
+    <ns>0</ns>
+    <id>3698</id>
+    <revision>
+      <id>14684</id>
+      <parentid>14679</parentid>
+      <timestamp>2011-03-21T19:31:41Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="451">{{Babel-1|Schüler_Verfasser}}
+== Die Tulpe==
+
+Die ersten Tulpenzwiebeln gab es in der Türkei.&lt;br /&gt;
+Ogier de Busbecq (ein flämischer Diplomat) brachte im 17. Jahrhundert die Zwiebeln nach Holland. &lt;br /&gt;
+Die Tulpen haben sechs Blütenblätter.&lt;br /&gt;
+Sie steht sehr gerne in der Sonne.&lt;br /&gt;
+Die Tulpe kann 10 bis 70 cm groß werden.&lt;br /&gt;
+Ihre Blütenzeit ist von März bis Mai.
+
+
+verfasst von Denayt, Caroline, Timo (Klasse 3c)
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tunesien</title>
+    <ns>0</ns>
+    <id>5828</id>
+    <revision>
+      <id>24750</id>
+      <timestamp>2020-07-20T13:03:08Z</timestamp>
+      <contributor>
+        <username>MADana</username>
+        <id>10409</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Wo liegt Tunesien?== Tunesien liegt in Nordafrika und grenzt im Norden und Osten ans Mittelmeer. An der westlichen Grenze Tunesiens findest du Algerien und i…“</comment>
+      <text xml:space="preserve" bytes="431">==Wo liegt Tunesien?==
+Tunesien liegt in Nordafrika und grenzt im Norden und Osten ans Mittelmeer. An der westlichen Grenze Tunesiens findest du Algerien und im Südosten liegt Libyen. Tunesien zählt zu den Ländern des Maghreb. Wenn du es auf der Karte anschaust, sieht es wie ein Dreieck aus.
+
+
+==Steckbrief==
+Fläche:	163.610 km²
+
+Einwohner:	11,29 Millionen
+
+Sprache:   Arabisch
+
+Hauptstadt:	Tunis
+
+Währung	:Tunesischer Dinar</text>
+      <sha1>2a8w3t9no73qza8wdybc3o15telpvm5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tuning</title>
+    <ns>0</ns>
+    <id>2546</id>
+    <revision>
+      <id>7605</id>
+      <parentid>7584</parentid>
+      <timestamp>2008-01-12T18:45:05Z</timestamp>
+      <contributor>
+        <username>F.Leupold</username>
+        <id>12</id>
+      </contributor>
+      <minor/>
+      <comment>Babel und Rücksprung eingefügt</comment>
+      <text xml:space="preserve" bytes="473">== Tuning==
+{{Babel-1|Schüler_Verfasser}}
+[[Bild:Tuning.jpg|thumb|So schaut ein aufgemotztes Auto aus.]]
+Die Autos haben Reifen, eine Karosserie, Spoiler und ein Lenkrad. Das Besondere in einem Tuningauto ist, dass es meistens ganz genau so ist, wie es der Besitzer möchte. Es wird auf allen Seiten tiefer gestellt. Es werden dicke Auspuffe und bessere Felgen angebracht. Es wird Nitro eingebaut. Es werden Boxen eingebaut, die ungefähr 500 Watt haben.
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Turmfalke, der</title>
+    <ns>0</ns>
+    <id>5952</id>
+    <revision>
+      <id>25063</id>
+      <timestamp>2022-04-05T07:19:36Z</timestamp>
+      <contributor>
+        <username>Jkssar</username>
+        <id>10474</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Er ist ein Vogel der sehr selten ist. Der Turmfalke ist ein Mäusejäger der Siedlungen und Kulturlandschaft. Er nistet in Krähen - oder in Greifvögelnestern…“</comment>
+      <text xml:space="preserve" bytes="215">Er ist ein Vogel der sehr selten ist.
+Der Turmfalke ist ein Mäusejäger der Siedlungen und Kulturlandschaft.
+Er nistet in Krähen - oder in Greifvögelnestern, die in Feldgehölzen oder Einzelbäumen angelegt sind.</text>
+      <sha1>f54y3eppfjih1jy95uz4kv4wghdbyg6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Turnen</title>
+    <ns>0</ns>
+    <id>5597</id>
+    <revision>
+      <id>23741</id>
+      <parentid>23716</parentid>
+      <timestamp>2019-06-26T11:26:59Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <text xml:space="preserve" bytes="424">[[Datei:Turnerin.png|miniatur|Turnerin auf einem Balken.]]
+Es gibt verschiedene Turnarten:
+Geräteturnen und Bodenturnen .
+Geräteturnen ist wenn man an Geräte turnt, ganz einfach der Name verrät es schon.
+Und Bodenturnen ist wenn man am Boden turnt.
+Ich mache Leistungsturnen das ist doppelt so schwer, ich turne 3Stunden.
+Man schwitzt ganz schön doll!!!
+Die Turngeräte sind: Reck, Boden, Balken, Sprungtisch und Ringe.</text>
+      <sha1>ogv82etatphaqjotqqdjqzecj3714xc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Turnstile</title>
+    <ns>0</ns>
+    <id>4083</id>
+    <revision>
+      <id>16552</id>
+      <parentid>16551</parentid>
+      <timestamp>2013-02-26T13:29:53Z</timestamp>
+      <contributor>
+        <username>MALeupold</username>
+        <id>710</id>
+      </contributor>
+      <text xml:space="preserve" bytes="490">Turnstile Drehkreuz Labyrinth (Thinkfun)
+
+Turnstile ist ein knobeliges Spiel. in dem man Figuren durch ein Labyrinth hindurch kriegen muss. Das Spiel ist gewonnen wenn alle Figuren am 
+
+richtigen Platz sind.Es gibt 40 kniffilige Levels.Man kann es sehr gut unterwegs spielen weil die Figuren sehr fest stehen außerdem gibt es 
+
+bei dem Spiel eine praktische Tasche mit der man alles sehr gut transportieren kann. Deshalb finde ich das Spiel sehr gut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Autor: Tom Senger</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Twisted Eyes</title>
+    <ns>0</ns>
+    <id>4093</id>
+    <revision>
+      <id>16599</id>
+      <parentid>16598</parentid>
+      <timestamp>2013-03-17T11:45:53Z</timestamp>
+      <contributor>
+        <username>MALeupold</username>
+        <id>710</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2986">Twisted Eyes ist ein Spiel, das man ab vier(!) Personen und ab sieben Jahren spielen kann. Man spielt es mit einer übergroßen, lustigen Brille, in die man Gläser mit unterschiedlichen Schärfen und Mustern hineinstecken kann. Es gibt ein einfaches Spielfeld mit einem Weg aus farbigen Kreisen. Dazu gibt es eine Stoppuhr, einen Schreibblock mit zwei Bleistiften, einen dreifarbigen Würfel, den man selbst bekleben muss, 4 Spielfiguren und 54 Spielkarten. Das Spiel ist zweisprachig - deutsch/holländisch.
+
+Die Spielregeln sind zu Beginn nicht ganz so einfach: Bei 4 Spielern, bildet man zuerst 2 Teams. Jedes Team erhält EINE Spielfigur. 
+Das beginnende Team würfelt zunächst eine Farbe. Das Team schiebt ihre Spielfigur bis zum Kreis in dieser Farbe vor. Dann würfelt das Team ein zweites Mal. Dieser Wurf gibt die Farbe und damit die Schärfe der Brillengläser vor. Die erwürfelten Brillengläser werden in die Brille gesteckt und los geht die gemalte Raterei. Das 1. Teamspieler setzt die Brille auf. Der 2. Teamspieler muss das Bild erraten. Das andere Team bedient die Stoppuhr.
+ 
+Der Spieler mit der Brille zieht eine Karte. Auf der VORDERSEITE steht die zur gewürfelten Farbe gehörige Frage und die Zeit, in der das Bild erraten werden muss. Es gibt drei Zeitstufen: 15, 30, 45 Sekunden. Auf der RÜCKSEITE, die der Mitspieler sieht, steht als Hilfe die Kategorie, in welche das Bild gehört. Es gibt drei Kategorien: Ort, Objekt und Unterhaltung. Ab jetzt läuft die Zeit: Der bebrillte Spieler malt und der Mitspieler versucht, das Bild zu erraten. Wenn der Mitspieler das Bild errät, darf das Team ein drittes Mal würfeln und bis zur gewürfelten Farbe vorziehen. Errät er das Bild nicht, bleibt die Spielfigur stehen. Danach wird getauscht und das andere Team ist mit malen und raten dran.
+
+Vorteile:
+* Die Verpackung ist klein und quadratisch.
+* Wenn man erst einmal das Spiel verstanden hat, dann macht es Spaß und es kommt Stimmung auf.
+* Der bebrillte Spieler sieht sehr lustig aus, besonders die Erwachsenen sehen damit ulkig aus.
+* Schnell versucht auch das andere Team, das Bild zu erraten. Dadurch kommt es zu lustigen Diskussionen.
+* Die Brille ist sehr stabil. 
+* Die Kunststoffgläser lassen sich am Anfang zwar schwer hineinschieben, aber sie brechen nicht.
+* Eine Spielrunde dauert ungefähr 15 - 20 Minuten.
+
+Nachteile:
+* Die Spielregeln sind zu Beginn etwas schwierig zu verstehen, da nicht gleich klar wird, wer malt, wer rät und wer stoppt die Zeit.
+* Man benötigt mindestens 4 Spieler.
+* Der Block hat nur wenige Seiten und ist sehr klein. Hier empfiehlt es sich, auf DIN A4-Schmierblätter umzusteigen.
+* Manche Karten können jüngere Kinder vom Inhalt noch nicht verstehen, besonders Begriffe aus der Rubrik &quot;Unterhaltung&quot;.
+* Das Spielfeld ist relativ klein und unspektakulär.
+* Die Uhr lässt sich schwer aus der weichen Verpackung herauslösen (meine Mutter hat sich dabei den Fingernagel abgebrochen:-)
+* Die Uhr hakt immer wieder.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tyrannosaurus Rex</title>
+    <ns>0</ns>
+    <id>2404</id>
+    <revision>
+      <id>18065</id>
+      <parentid>18064</parentid>
+      <timestamp>2014-05-09T10:22:50Z</timestamp>
+      <contributor>
+        <username>MALeupold</username>
+        <id>710</id>
+      </contributor>
+      <comment>/* Wann lebte er? */</comment>
+      <text xml:space="preserve" bytes="655">Ein  Dinosaurier  hieß  '''Tyrannosaurus  Rex'''.  Der  Tyrannosaurus  Rex  war  ein  Fleischfresser,  der  12-15m  hoch  wurde.  Man  ist  sich  sicher, dass er  der  größte  Fleischfresser war. Der Tyrannosaurus war aber nicht der größte Dinosaurier auf der Welt.
+
+==Was fressen sie?==
+Er frisst Fleisch. Das jagt er sich allein.
+
+==Wie sah er aus?==
+Leider weiß man nicht, wie er aus sah. 
+
+==Wie lebte er?==
+Der Tyrannosaurus rex lebte in der Urzeit. Er hatte eine Familie. Die Mutter legte Eier und passte auf die Jungen auf.
+
+==Wann lebte er?==
+Der Tyrannosaurus Rex lebte in der oberen Jura (vor 74-65 Millionen Jahren).
+
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1>i3wj1tpqg7jp789q9bzzcyndtciues4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Türkei</title>
+    <ns>0</ns>
+    <id>2770</id>
+    <revision>
+      <id>18714</id>
+      <parentid>10533</parentid>
+      <timestamp>2015-01-11T21:17:06Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="2152">{{Babel-1|Schüler_Verfasser}}
+
+
+== Die Größe ==
+
+Das Land hat eine Größe von 814.578 km².
+
+== Einwohner ==
+Dieses Land hat ungefähr 71.517.100 Einwohner . 
+
+== Hauptstadt ==
+Die Hauptstadt ist '''Ankara'''.
+
+== Große Stadt ==
+
+Die größte Stadt ist Istanbul.
+
+== Grenzländer ==
+
+Die Türkei grenzt an Griechenland, Syrien, Irak, Iran, Bulgarien, Zypern, Armenien, Georgien.
+
+== Flagge und Landessprache ==
+
+Die Flagge ist rot mit einem weißen Halbond und einem weißen Stern. Die Landessprache ist türkisch. 
+
+
+== Spezialität ==
+ 
+Eine Spezialität der Türkei sind die Döner.
+
+
+== '''Höchster Berg''' ==
+
+Der Berg Ararat liegt 5137 Meter über dem Meeresspiegel 
+
+
+== '''Längster Fluss''': ==
+ 
+
+Der längste Fluss heißt Kezelermak 
+    
+
+== '''Währung''': ==
+ 
+
+Am 01.01.2005 wurde die alte Türkische Lira ersetzt.Damit verlor die neue Türkische Lira 6 Nullen und deswegen heißt das nicht mehr die neue Türkische Lira sondern YTL 
+
+
+== '''Autokenzeichen''': ==
+ 
+
+Das Autokennzeichen der Türkei ist TR. 
+
+
+== '''Sehenswürdigkeiten''' ==
+
+Die Sehenswürdigkeiten sind Kapadokia, Pammukkalle, Bosperus-Brücke, Ishak-Pascha-Palast und die Mädchenburg 
+
+
+== '''Lage:''' ==
+
+Die Türkei liegt in Vorderasien und Südost Europa
+
+== '''Meere''' ==
+
+In der Türkei gibt es das Schwarze Meer, das Mittelmeer und das Kaspische Meer.
+
+
+== '''Berühmte Persönlichkeiten''' ==
+
+Berühmte Persönlichkeiten sind Nikolaus, Mustafa Kemal Atatürk (Staatsgründer) Alekber Cicek (Sazspieler)     
+
+
+==Die Türkei bei der Fußball EM 2008==
+
+=== Die Farben des Nationaltrikots ===
+
+Die Farben des Nationaltrikots sind rot-weiß oder blau-weiß.
+
+
+
+=== Die Gruppe der Türkei ===
+
+Die Türkei war in der '''Gruppe A''' mit der ''Schweiz,Tschechien und Portugal.''
+
+
+=== Die Spiele ===
+
+Ihr erstes Spiel gegen Portugal verlor die Türkei 2:0.
+Dann gewannen sie gegen die Schweiz (1:2), Tschechien (3:2) und Kroatien (2:4). '''Durch Deutschland schieden sie aus, denn sie verloren 3:2.''' 
+
+
+== Weitere Informationen im Internet==
+Weitere Informationen findest du auf den Seiten von [http://www.seitenstark.de Seitenstark.de]
+
+{{Rücksprung|T}}</text>
+      <sha1>oaiue3rbr3jnqbpcjs3dhgazrj9ot7o</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>U</title>
+    <ns>0</ns>
+    <id>1356</id>
+    <revision>
+      <id>19023</id>
+      <parentid>16073</parentid>
+      <timestamp>2015-05-08T20:38:55Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- font-size:9pt;</comment>
+      <text xml:space="preserve" bytes="790">{{Lexikonaufruf}}
+
+{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; margin:12px; margin-top:10px&quot;&gt;[[Bild:Buchstabe-U.gif]]&lt;/div&gt;
+&lt;div style=&quot;font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Beiträge &amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;small&gt;[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteU&amp;action=edit neuen Beitrag hinzufügen!]&lt;/small&gt;&lt;/small&gt;&lt;/div&gt;
+&lt;div style=&quot;padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=3 width=100%
+|align=left valign=top width=100%|
+{{InhalteU}}
+|}
+&lt;/div&gt;
+|}</text>
+      <sha1>i2qjtbkxyzwl510mt8v30318spmkqsz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>UEFA-Cup</title>
+    <ns>0</ns>
+    <id>2671</id>
+    <revision>
+      <id>18018</id>
+      <parentid>17998</parentid>
+      <timestamp>2014-04-11T18:56:16Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="189">{{Babel-1|Schüler_Verfasser}}
+Die Sieger des UEFA-Cups sind:
+Fc Bayern München war:1974,1975,1976,2001 und 2013.
+Borosia Dortmund war:1997.
+Bayer Leverkusen war:1988.
+
+
+
+{{Rücksprung|U}}</text>
+      <sha1>twhwedfvu8gj30rg6pf7euo4u5qkbwv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>UFO</title>
+    <ns>0</ns>
+    <id>2965</id>
+    <revision>
+      <id>9906</id>
+      <parentid>9892</parentid>
+      <timestamp>2008-12-15T07:19:34Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>rücksprung</comment>
+      <text xml:space="preserve" bytes="470">{{Babel-1|Schüler_Verfasser}}
+[[Bild:UFOausPapptellern.JPG|thumb|UFOs aus Papptetllern]]
+UFO ist eine Abkürzung für Unbekanntes Flug Objekt. Wenn Menschen am Himmel eine unbekannte Lichterscheinung sehen die sie sich nicht erklären können, glauben sie manchmal es sei ein Raumschiff aus einer fremden Welt und nennen es UFO. In Wirklichkeit gibt es natürlich keine UFOs und auch keine Marsmenschen.
+'''-- von Alina 09:12, 14. Dez 2008 (CEST)'''
+
+
+{{Rücksprung|U}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>UNO</title>
+    <ns>0</ns>
+    <id>3911</id>
+    <revision>
+      <id>16079</id>
+      <parentid>16009</parentid>
+      <timestamp>2012-11-12T20:40:06Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="888">{{Babel-1|Schüler_Verfasser}}
+[[Bild:uno1.jpg|thumb|UNO Sonderkarten]]
+[[Bild:uno2.jpg|thumb|UNO Karten von 0-9]]
+
+UNO ist ein Kartenspiel.
+Das Spiel ist für 2 bis 10 Mitspieler geeignet.
+Es ist ab 7 Jahren.
+Zu dem Spiel gehören 108 Spielkarten. Es gibt 19 rote Karten mit den Zahlen 0-9 drauf, 19 blaue Karten  von 0-9, 19 grüne Karten von 0-9 und 19 gelbe Karten auch von 0-9.
+Es gibt auch noch Spezialkarten. Dazu gehören 8 Zieh Zwei Karten, 8 Retour Karten, 8 Aussetzen Karten, 4 Farbwahlkarten und 4 Zieh Vier Farbwahlkarten. Wenn Du 2 gleiche Karten in der Hand hast, kannst Du sie mit den Rückseiten aneinander ablegen. Wenn man nur noch 1 Karte in seiner Hand hält, dann muss man Uno oder letzte Karte rufen. Wer keine Karten mehr hat, hat gewonnen. Wer noch ein paar Karten hat, hat verloren oder kann weiterspielen wenn mehr als 2 Mitspieler da sind.
+
+
+
+{{Rücksprung|U}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>USA</title>
+    <ns>0</ns>
+    <id>3036</id>
+    <revision>
+      <id>23656</id>
+      <parentid>11413</parentid>
+      <timestamp>2019-05-15T11:05:48Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1232">{{Babel-1|Schüler_Verfasser}}
+USA 
+
+Die Fläche beträgt 9809155 km², damit ist das Land von der Größe her auf Platz 3 von 197 Ländern. 
+
+Die Einwohnerzahl ist 301,3 Mio. 
+
+Die Hauptstadt der USA heißt Washingon D.C. 
+
+Die Amerikaner sprechen in den USA amerikanisches Englisch (Amt-und offizielle Landessprache) und Spanisch. 
+
+Der höchste Berg Nordamerikas ist der Mount McKinley (6194 Meter). 
+
+In der USA bezahlen sie mit US- Dollar. 
+
+Die Nachbarländer sind Mexiko und Kanada. 
+
+Die Sehenswürdigkeiten sind die Freiheitsstatue, das Weiße Haus und der Grand Canyon. 
+
+Berühmte Persönlichkeiten sind Donald Trump(der 44. Präsident)und George Washington (der erste Präsident der USA). 
+
+Das älteste Dorf der USA heißt Taos Puebelo. 
+
+Man sagt den Amerikanern nach: Amerikaner essen Fastfood wie Hamburger und Grillhähnchen und sie essen gerne Süßigkeiten wie Eiscreme und andere Süßspeisen, z.B. Brownies, Marshmellows und Donuts.
+
+Der längste Fluss ist der Missisippi mit 2900 km. Das erste Dampfschiff fuhr im Jahre 1811 auf dem Missisippi. 
+
+Eine Besonderheit ist, dass in den USA der Hamburger erfunden wurde.
+
+
+{{Rücksprung|U}}
+[[Kategorie:Artikel Tag des Digitalen Lernens 2009]]
+{{Autor|9/10|4|GS|2}}</text>
+      <sha1>5opr628xv2kxi3af6zltqfn4gi585p9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Uganda</title>
+    <ns>0</ns>
+    <id>3048</id>
+    <revision>
+      <id>11414</id>
+      <parentid>10833</parentid>
+      <timestamp>2009-04-07T10:45:54Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Hob den Schutz von „[[Uganda]]“ auf: Ende der Bearbeitungsblockade durch den Schreibwettbewerb</comment>
+      <text xml:space="preserve" bytes="780">{{Babel-1|Schüler_Verfasser}}
+== Uganda==
+
+In Uganda leben 30 Millionen Einwohner.
+Die Hauptstadt ist Kampala.
+Die Einwohner Ugandas sprechen Englisch, Kiseuaheli und Gand.
+Uganda liegt in Ostafrika.
+Der längste Fluss ist der Viktoria-Nil.
+Der höchste Berg ist der Mount-Stanley mit 5110 m.
+In Uganda wird mit Uganda Shilling bezahlt.
+Die Sehenswürdigkeit ist der Nationalpark.
+In Uganda gibt es sehr viele Bürgerkriege. Im Durchschnitt werden die meisten Einwohner nur 49 Jahre alt. Uganda war früher ein Königreich.
+Eine berühmte Persönlichkeit ist Yoweri Museven (Präsident).
+Das Autokennzeichen ist Eau.
+Die Nachbarländer von Uganda sind Kenia, Sudan, Kongo und Tansania.
+
+
+
+{{Rücksprung|U}}
+[[Kategorie:Artikel_Tag_des_Digitalen_Lernens_2009]]
+{{Autor|10|4|GS|2}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Uhr</title>
+    <ns>0</ns>
+    <id>2270</id>
+    <revision>
+      <id>6242</id>
+      <parentid>6241</parentid>
+      <timestamp>2007-04-23T14:34:53Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Untertext zum Bild anzeigen lassen</comment>
+      <text xml:space="preserve" bytes="451">{{Babel-1|Schüler_Verfasser}}
+[[Bild:uhr.jpg|thumb|Armbanduhr]]
+Die Uhr zeigt die [[Zeit]] an. Die Uhr hat drei Zeiger. Der Zeiger, der sich jede Sekunde bewegt, heißt Sekundenzeiger. Der kleinste Zeiger ist der Stundenzeiger. Er läuft in einer Stunde von einer Zahl zur nächsten. Um einmal rum zu laufen, braucht er 12 Stunden. Der lange Zeiger zeigt die Minuten an. Er braucht für ein Umdrehung eine Stunde oder 60 Minuten.
+
+
+
+{{Rücksprung|U}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Ukraine</title>
+    <ns>0</ns>
+    <id>5302</id>
+    <revision>
+      <id>22423</id>
+      <parentid>22410</parentid>
+      <timestamp>2018-05-21T20:12:36Z</timestamp>
+      <contributor>
+        <username>Wgsad55</username>
+        <id>10323</id>
+      </contributor>
+      <comment>/* Interessantes */</comment>
+      <text xml:space="preserve" bytes="1173">== Daten und Fakten ==
+In der Ukraine Leben rund 45,000,000 Einwohner. &lt;br /&gt;
+Die Hauptstadt von der Ukraine ist Kiew.&lt;br /&gt;
+Die Nachbarländer der Ukraine sind Russland, &lt;br /&gt;
+Polen,&lt;br /&gt;
+Weißrussland,&lt;br /&gt;
+Rumänien,&lt;br /&gt;
+Republik,&lt;br /&gt;
+Moldau,&lt;br /&gt;
+Ungarn und Slowakei.&lt;br /&gt;
+Die Schrift in der Ukraine ist kyrillisch und die Sprache ist ukrainisch.&lt;br /&gt;
+In der Ukraine bezahlen die Einwohner mit Hrywnia.&lt;br /&gt;
+
+==Sehenswürdigkeiten ==
+Die Sehenswürigkeiten in der Ukraine sind Kiew,&lt;br /&gt;
+die Sophienkathedrale,&lt;br /&gt;
+Bukowel usw.
+[[Datei:City-26.jpg|miniatur|Stadt in der Ukraine]]
+&lt;br /&gt;
+== Speisen und Getränke ==
+In der Ukrainischen Küche gibt es Suppen, 
+Salate, Brot, Mehlspeisen, Fisch, Fleisch.
+
+== Berühmte Persönlichkeiten ==
+Die  berühmten Persönlichkeiten der Ukraine sind Milla Jovovich, &lt;br /&gt;
+Olga Kurylenkloe,&lt;br /&gt;
+Waléra Kanischtscheff, &lt;br /&gt;
+Daria Karinina, &lt;br /&gt;
+Juliette Marquis.&lt;br /&gt;
+
+== Interessantes ==
+Die Ukraine besitzt das zweitgrößte Staatsgebiet in Europa. &lt;br /&gt;
+Das Land, welches früher zur UdSSR (frühere Sowjetunion) gehörte, &lt;br /&gt;
+ist ehrst seit 1991 unabhängig und damit noch ein sehr junger Staat. &lt;br /&gt;</text>
+      <sha1>iifya4x5rkeskt51cd83ntv402um0fy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Umweltverschmutzung</title>
+    <ns>0</ns>
+    <id>3184</id>
+    <revision>
+      <id>21839</id>
+      <parentid>11956</parentid>
+      <timestamp>2018-04-09T14:28:54Z</timestamp>
+      <contributor>
+        <username>MAKnist</username>
+        <id>10269</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1470">{{Babel-1|Schüler_Verfasser}}
+
+Wir verschmutzen die Umwelt stark, indem wir Auto fahren und Müll verbrennen. Dadurch, dass wir die Umwelt verschmutzen, lassen wir viele Tiere und
+Pflanzenarten aussterben. Fische sterben im Meer, weil Abwasser ins Meer geleitet wird. Wenn wir Müll am Strand liegen lassen, dann denkt eine Möwe zum
+Beispiel, das ist etwas leckeres zum Fressen und füttert damit ihre Jungen, oder sie frisst es selbst. Dadurch sterben viele Möwen.
+
+Wenn wir Plastikmüll in den Wald werfen, und es dann regnet, lösen sich giftige Stoffe ab und dringen zusammen mit dem Regenwasser in die Erde oder sammeln sich in einer Pfütze. Tiere trinken dann aus der Pfütze und werden krank. Menschen, die zum Beispiel Rehe essen, können dann auch krank werden.
+
+Eine dünne Schicht um die Erde (Ozonschicht) wird immer weniger, weil wir so viele Abgase in die Luft leiten. Die Ozonschicht schützt uns vor Strahlen. Es wird immer wärmer auf der Erde, dadurch schmilzt das Eis vom Nordpol und die Eisbären sterben aus.
+
+== Verschmutzung durch Erdöl ==
+In vielen Ländern suchen Forscher nach Erdöl. Dadurch entstehen ganz kleine Risse, durch die dann ein kleiner Teil des Erdöls in das Grundwasser kommt.  Dieses Erdöl verschmutzt das Wasser. Auch Schiffe lassen Öl in das Meer, obwohl das nicht erlaubt ist. Die Fische sterben dann, da sie in dem Öl nicht überleben können. 
+
+[[Bild:Umweltverschmutzung am Strand.jpg|miniatur]]
+
+{{Rücksprung|U}}</text>
+      <sha1>41qj4jml2nfluhsd08x8luoeyghji5g</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Ungarn</title>
+    <ns>0</ns>
+    <id>2285</id>
+    <revision>
+      <id>6773</id>
+      <parentid>6771</parentid>
+      <timestamp>2007-06-15T06:55:35Z</timestamp>
+      <contributor>
+        <username>Malina.PPS</username>
+        <id>270</id>
+      </contributor>
+      <text xml:space="preserve" bytes="252">Die Hauptstadt ist Budapest. Die Einwohnerzahl ist 11.000.000. Die Besonderheit ist ein scharfes
+Gericht. Ungarn liegt in Süd Ost Europa. Es gehört zur Europähischeen Region. Die Wehrung ist
+Forint. Die Fläche ist 93.000 km².
+
+
+
+
+{{Rücksprung|U}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Ungeheuer von Loch Ness</title>
+    <ns>0</ns>
+    <id>6018</id>
+    <revision>
+      <id>25218</id>
+      <parentid>25215</parentid>
+      <timestamp>2022-11-13T13:14:47Z</timestamp>
+      <contributor>
+        <username>MAMeisel</username>
+        <id>10508</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1655">
+Das Ungeheuer von Loch Ness
+
+In Schottland gibt es einen See namens Loch Ness, der teilweise über 200m tief ist. Manche Menschen behaupten, dass darin ein Seeungeheuer lebt. Dieses Wesen wird „Nessie“ genannt. Mehr als 4000 Menschen wollen Nessie bereits gesehen haben. Einige von ihnen sagen, dass sie wie eine große Schlange aussieht. Andere glauben, Nessie sei ein Plesiosaurier, also ein Tier aus der Dino-Zeit.
+
+Wissenschaftler sind jedoch nicht davon überzeugt, dass es Nessie wirklich gibt. Zum einen meinen sie, dass es im Loch Ness zu wenig Nahrung für ein so großes Seeungeheuer geben würde. Zum anderen müsste Nessie Familie haben, um sich fortzupflanzen. Ansonsten wäre sie längst ausgestorben. Fotos, die angeblich von Nessie gemacht wurden, haben sich im Nachhinein als Fälschungen herausgestellt. Manchmal wurden auch Äste, Fische oder Wellen für das Ungeheuer gehalten.  
+
+Trotzdem lockt Nessies Geschichte jedes Jahr viele Schaulustige nach Schottland. Die Hotels und Gaststätten am See sowie die Nessie-Besucherzentren freuen sich über die Touristen. Deshalb haben sie großes Interesse daran, die Sage vom Ungeheuer von Loch Ness lebendig zu halten.
+
+&lt;gallery&gt;
+Datei:Nessie2.jpeg|Von Nessies Äußerem gibt es unterschiedliche Vorstellungen. 
+Datei:Nessie1.jpeg|Ist Nessie ein menschenfressendes Ungeheuer...
+Datei:Nessie4.png|...oder ein freundlicher Unterwasser-Riese?
+Datei:Nessie5.jpg|Viele Leute glauben, dass Nessie zum Atmen an die Oberfläche kommen muss. 
+Datei:Nessie3.png|Am Loch Ness regnet es oft. Vielleicht taucht Nessie nur bei Sonnenschein auf?
+Datei:Nessie6.png|Fühlt Nessie sich einsam?
+&lt;/gallery&gt;</text>
+      <sha1>69qz85ncghsim4kthrpxygmvn7v0tt0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Unterschöneberg</title>
+    <ns>0</ns>
+    <id>4104</id>
+    <revision>
+      <id>17225</id>
+      <parentid>17196</parentid>
+      <timestamp>2013-05-21T22:33:50Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>prettytable entnommen</comment>
+      <text xml:space="preserve" bytes="1463">{{Babel-1|Schüler_Verfasser}}
+[[Bild:GASKatharina01.jpg|thumb|Das ist die alte Linde in Unterschöneberg.]]
+== Wappen==
+Ein teil des Wappens ist ein fallender Baum mit Axt.&lt;br /&gt;
+Der andere teil ist Grün-Silber-Grün.&lt;br /&gt;
+Für die Entstehung des Ortes wurden viele Bäume gefällt.
+
+== Entstehung==
+Wann: Im Jahr 1327 entstand das Dorf.&lt;br /&gt;
+Unterschöneberg ist das älteste Rodungsdorf in der Gemeinde Altenmünster.
+
+Wie: Das Dorf bestand aus 12 Anwesen aber das änderte sich auf 33 Anwesen.&lt;br /&gt;
+Von 1492 bis 1598 sind es 48 Anwesen gewesen.&lt;br /&gt;
+Dann im Jahr 1721 da waren es 51 Anwesen, im Jahr 1834 waren es 55 Feuerstätten.&lt;br /&gt;
+Es wurde 2007 416 Einwohner gezählt.
+
+== Vereine==
+
+FC Bayern-Fanclub Neumünster -Unterschöneberg da gehen alle Fans hin.&lt;br /&gt;
+Freiwillige Feuerwehr die Leute haben eine andere Arbeit und die Feuerwehr.&lt;br /&gt;
+Singgruppe &quot;Heischniggl&quot; da singen sie Lieder.&lt;br /&gt;
+Faschingshaufen sie feiern gern Fasching.
+
+== Firmen==
+
+Der Herr Litzel ist selbstständiger Holzfäller und Landschaftspfleger.&lt;br /&gt;
+Herr Wink hat einen Gartenservice.&lt;br /&gt;
+Herr Spengler handelt mit Brennholz.&lt;br /&gt;
+Frau Lader macht Versicherungen und Darlehen.
+
+== Besonderheiten==
+
+In Unterschöneberg gibt es eine alte Linde.&lt;br /&gt;
+Jedes Jahr ist das Lindenfest an der Linde.&lt;br /&gt;
+Die katholische Kirche St. Georg wurde 1620 erbaut.
+Unterschöneberg ist ein Straßendorf, da stehen alle Häuser in die selbe richtung.&lt;br /&gt;
+
+
+{{Rücksprung|U}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Uranus</title>
+    <ns>0</ns>
+    <id>2077</id>
+    <revision>
+      <id>21126</id>
+      <parentid>21123</parentid>
+      <timestamp>2017-03-17T16:04:24Z</timestamp>
+      <contributor>
+        <username>MATom-Tove</username>
+        <id>10130</id>
+      </contributor>
+      <comment>Änderung 21123 von [[Special:Contributions/MATom-Tove|MATom-Tove]] ([[User talk:MATom-Tove|Diskussion]]) rückgängig gemacht.</comment>
+      <text xml:space="preserve" bytes="2115">{{Babel-1|Schüler_Verfasser}}
+[[Bild:Im_Sonnensystem.jpg|thumb|Dieses Bild wurde von Jonathan selber gemalt]]
+Uranus
+
+Mit sehr guten Augen kann man 7 [[Planeten]] sehen :
+Merkur, Venus, Erde, Mars, Jupiter, Saturn und Uranus.
+Bei Uranus braucht man einen sehr dunklen Himmel, weil
+er ein schwacher Punkt am Himmel ist.
+Aber man muss auch wissen wo er liegt, dass man ihn nicht mit
+einem Stern verwechselt. Wenn man Neptun sehen will, braucht man ein
+Fernglas und bei Pluto sogar ein Teleskop.
+
+Uranus hat den Namen eines alten griechischen Gottes, der lange vor
+Zeus Götterfürst war. Er war der erste Planet, der mit Hilfe des Teleskops entdeckt wurde. Wilhelm Herschel entdeckte ihn am
+13.03.1781 in England. Erst glaubte man, er sei ein
+Stern, weil er nicht wie ein Planet aussah. 
+Uranus ist 4 mal so groß wie die Erde. Sein Durchmesser ist 51.200. km.
+Die Entfernung von ihm bis zur Erde ist ziemlich groß, nämlich 
+2.590- 3.160 Mio km und bis zur Sonne sogar 2.735- 3.005 Mio km.
+Er braucht 84 Jahre und 3 Tage bis er um die Sonne umgelaufen ist.
+Uranus hat 17 Monde, 10 in ihm und 7 außer ihm. Er besteht aus Festmaterial und verschiedenen Eisarten. 15% des Uranus sind aus Wasserstoff.
+Über die Beschaffene der Oberfläche weiß man, wie auch bei Gasplaneten,
+nicht viel.
+
+Das Besondere an Uranus ist, dass seine Rotationsachse gekippt ist. Dies ist vermutlich auf einen Zusammenprall mit einem riesigen Himmelskörper zurückzuführen. Uranus besitzt mindestens neun schwach erkennbare &quot;Ringe&quot;
+
+1977 wurden die ersten neun Ringe des Uranus entdeckt. Die Voyager-Sonden haben die Ringe fotografiert und vermessen. Die Sonden haben auch zwei weitere neue Ringe entdeckt. Die Ringe des Uranus unterschieden sich sehr von denen des Jupiter oder Saturn. Der äußere Ring setzt sich aus Eisblöcken zusammen. Im gesamten Ringsystem findet man auch sehr feinen Staub.
+
+
+Das Zeichen von Uranus sied so aus :ein pfeil zeigt in den himmel , unter dem peilist ein Kreis ,und in der mitte des Kreises ist ein Punkt.
+{{Rücksprung|U}} 
+[[Kategorie:Artikel_Tag_des_Digitalen_Lernens_2010]] 
+{{Autor|9-10|4|GS|2}}</text>
+      <sha1>ludft4rpycvwcfera5vjcuh2f072bcq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Urkrebs</title>
+    <ns>0</ns>
+    <id>2613</id>
+    <revision>
+      <id>18011</id>
+      <parentid>18008</parentid>
+      <timestamp>2014-04-11T18:47:39Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Änderung 18008 von [[Special:Contributions/MALeupold|MALeupold]] ([[User talk:MALeupold|Diskussion]]) rückgängig gemacht.</comment>
+      <text xml:space="preserve" bytes="355">{{Babel-1|Schüler_Verfasser}}
+[[Bild:Urkrebs.jpg|thumb|Ein Urkrebs]]
+Die  [[Salzkrebs]]chen  (Auch  [[Artemia salina]]  oder  [[Salinenkrebs]]chen)  und  die  Triops  gehören  zu  den  Urkrebsen.  Sie  lebten  gemeinsam  mit  den  [[Dinosaurier]]n  und  existieren  heute  noch.  Deshalb  nennt  man  sie  auch  &quot;lebende  Fossilien&quot;.
+
+
+{{Rücksprung|U}}</text>
+      <sha1>du4ng7c104lv05jdyf9vktwxug3ia3d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>V</title>
+    <ns>0</ns>
+    <id>1357</id>
+    <revision>
+      <id>19022</id>
+      <parentid>16074</parentid>
+      <timestamp>2015-05-08T20:38:18Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- font-size:9pt;</comment>
+      <text xml:space="preserve" bytes="790">{{Lexikonaufruf}}
+
+{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; margin:12px; margin-top:10px&quot;&gt;[[Bild:Buchstabe-V.gif]]&lt;/div&gt;
+&lt;div style=&quot;font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Beiträge &amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;small&gt;[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteV&amp;action=edit neuen Beitrag hinzufügen!]&lt;/small&gt;&lt;/small&gt;&lt;/div&gt;
+&lt;div style=&quot;padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=3 width=100%
+|align=left valign=top width=100%|
+{{InhalteV}}
+|}
+&lt;/div&gt;
+|}</text>
+      <sha1>oqmvcici8ng92w88zabjiggqjsq3t31</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>VFB-Stuttgart</title>
+    <ns>0</ns>
+    <id>2341</id>
+    <revision>
+      <id>11972</id>
+      <parentid>11971</parentid>
+      <timestamp>2009-06-14T10:34:08Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>absätze und aufzählungen</comment>
+      <text xml:space="preserve" bytes="1311">{{Babel-1|Schüler_Verfasser}}
+Der VFB-Stuttgart ist ein Fußballverein beziehungsweise eine Fußballmannschaft.
+
+Trikotnummern des VFB Stuttgart:
+
+* Nr.1: Jens Lehmann                                                                          
+* Nr.3: Ricardo Osorio
+* Nr.4: Khalid Boulahrouz
+* Nr.5: Serdar Tasci
+* Nr.7: Martin Lanig
+* Nr.8: Jan Simak
+* Nr.9: Ciprian Marica
+* Nr.10:Yildiray Bastürk
+* Nr.11:Thomas Hitzelsberger
+* Nr.12:Alexander Stolz
+* Nr.13:Timo Gebhart
+* Nr.15:Arthur Boka
+* Nr.16:Sebastian Rudy
+* Nr.17:Matthieu Delpierre
+* Nr.18:Cacau
+* Nr.19:Roberto Hilbert
+* Nr.21:Ludovic Magnin
+* Nr.25:Elson
+* Nr.28:Sami Khedira
+* Nr.29:Georges Mandjeck
+* Nr.35:Christian Träsch
+* Nr.39:Julian Schieber
+
+Stand 14.06.2009 
+
+===Die Partner und Sponsoren des VfB Stuttgart===
+
+* Hauptsponsor: EnBW
+* Exklusiv Partner: Mercedes-Benz, Puma, Fanuc Robotics
+* Premium Partner: LBBW, Dinkel-Acker, Weru 
+* Team Partner: Reiff, Ensinger, Kärcher, Coca Cola, Sparkasse, breuninger, Würth, lenovo, hofmeister, GEK, SWR 1, häussler,
+                                   
+
+===Erfolge des VFB Stuttgart===
+
+Deutscher Meister: 1950, 1952, 1984, 1992, 2007&lt;br&gt;
+DFB-Pokalsieger: 1954, 1958, 1997&lt;br&gt;
+UEFA-Cup: Endspiel 88/89&lt;br&gt;
+Europapokal der Pokalssieger:Endspiel 97/98&lt;br&gt;
+Stand 14.06.2009
+
+
+
+{{Rücksprung|V}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>VW käfer</title>
+    <ns>0</ns>
+    <id>5142</id>
+    <revision>
+      <id>21512</id>
+      <parentid>21510</parentid>
+      <timestamp>2017-07-07T07:44:25Z</timestamp>
+      <contributor>
+        <username>Wgsa23</username>
+        <id>10158</id>
+      </contributor>
+      <comment>Die Seite wurde geleert.</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Venezuela</title>
+    <ns>0</ns>
+    <id>3159</id>
+    <revision>
+      <id>11483</id>
+      <parentid>11482</parentid>
+      <timestamp>2009-04-20T10:24:27Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1011">{{Babel-1|Schüler_Verfasser}}
+VENEZUELA
+
+==Steckbrief:==
+Fläche:        912 050 Quadratkilometer
+Einwohnerzahl: 26,1   Mio
+Hauptstadt:    Caracas
+Amtssprache:   Spanisch
+
+
+Venezuela  liegt  am  Karibischen  Meer.  Im  Westen  liegt der  Angel  Fall  er  ist  der  höchste  Wasserfall  der  Erde. Venezuela  ist  der  fünftgrößte  erölproduzent  und hat  die größte  Erdgasreserve  Südamerikas. Im  Süden  liegt  das  Bergland  von  Guyana  und  im Norden  die  Anden. In  der  Hauptstadt (Caracas). Gibt  es  elegante  Geschäfte  aber  auch  arme  Slums.
+        
+
+Die  größten  Städte  sind:
+:1. Caracas:1.836.000  Einwohner
+:2. Maracaibo:1.609.000  Einwohner
+:3. Valencina:1.196.000  Einwohner
+:4. Berquismento:811.000  Einwohner
+:5. Ciudad  Guyana:629.000  Einwohner
+:6. Puerto  la  Cruz:199.000  Einwohner
+:7. Mérida: 196.000  Einwohner
+
+
+Der  höchste  Berg  ist  der  Bolívar  er  ist  4981m  hoch.
+
+Der  Präsident  heißt   Hugo  Chavez.
+
+[[Bild:Karte Venezuela.jpg]]
+
+{{Rücksprung|V}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Venus</title>
+    <ns>0</ns>
+    <id>2067</id>
+    <revision>
+      <id>20881</id>
+      <parentid>14674</parentid>
+      <timestamp>2016-08-02T10:41:05Z</timestamp>
+      <contributor>
+        <username>MATom-Tove</username>
+        <id>10130</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1928">[[Bild:Bouguereau venus detail.jpg|thumb|Ein Bild von der Göttin Venus.]]
+Die Venus trägt den Namen einer römischen Göttin, der Göttin der Gärten,des Frühlings,des Liebreizens und des Begehrens auch noch der Liebe und Schönheit außerdem ist sie auf dem Wasser geboren.
+Auf ihrer Oberfläche ist es um 500°C heiß. Deshalb verdampft fast jeder Tropfen Wasser auf ihr. Man geht davon aus, dass die Venus früher große Mengen an Wasser hatte, das aber durch die Sonne vollständig verdunstet ist. 
+Ein Tag auf der Venus dauert ca. 8 Monate auf der Erde und ein Venusjahr dauert 225 Erdentage. Das bedeutet, dass sich die Venus superlangsam um sich selbst dreht, aber in gegenläufige Richtung zur Erde.
+Trotzdem hat die Venus viele Ähnlichkeiten mit der Erde, deshalb werden sich auch Schwesterplaneten genannt.
+Die Venus ist ein bisschen kleiner als die Erde und sie wiegt auch etwas weniger. Sie ist der sechstgrößte Planet im Sonnensystem und neben der Sonne und dem Mond der hellste Körper am Himmel. Die Venus und die Erde haben nur wenige Krater an der Oberfläche, deshalb glaubt man, dass ihre Oberflächen noch relativ jung sind. Ihre chemischen Zusammensetzungen und ihre Dichte sind miteinander vergleichbar.
+Auf der Venus wehen starke Winde auf der Oberfläche und es gibt Wolkenschichten aus giftigen Gasen, daher ist die Venus einer der lebensfeindlichsten Orte im Sonnensystem. Das unterscheidet sie sehr von der Erde.
+Am Abendhimmel kann man die Venus normalerweise mit bloßem Auge sehen. Manche nenne sie Morgen- oder Abendstern, weil sie ein sehr heller Körper am Himmel ist.
+
+Das Musikstück
+Gustav Holst hat in seinem Musikstück - Die Planeten - auch die Venus musikalisch dargestellt. Das Stück ist ruhig und langsam, es entspannt und ist leise. Es macht Spaß, es zu hören es ist hoch und samft,hat viele Töne.  
+  
+[[Kategorie:Artikel_Tag_des_Digitalen_Lernens_2010]]
+{{Autor|10|4|GS|2}}</text>
+      <sha1>4vp4cglqkdhqg4q8e6qljssri4vivaa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vereine Heretsried</title>
+    <ns>0</ns>
+    <id>4948</id>
+    <revision>
+      <id>20848</id>
+      <parentid>20818</parentid>
+      <timestamp>2016-07-24T09:48:14Z</timestamp>
+      <contributor>
+        <username>Wgsecarolin</username>
+        <id>10215</id>
+      </contributor>
+      <text xml:space="preserve" bytes="708">== Sportverein ==
+
+
+ 
+Der Sportverein hat ein Sportheim. Der BSC Heretsried ist 1949 gegründet worden.
+
+== Feuerwehr ==
+Die Freiwillige Feuerwehr Heretsried hat aktuell 40 aktive Feuerwehrfrauen und Männer .Außerdem haben sie 140 passive Mitglieder im Feuerwehrverein.
+Der Kommandant ist Harald Refle.
+
+
+
+== Ausrüstung der Feuerwehr ==
+Atemschutzkleidung und Maske, Handschuhe, Schuhe, 
+Tragkraftspritzenfahrzeug mit Wassertank.
+
+== Geschichte der Feuerwehr ==
+40 Männer gründeten am 17.Oktober 1887 die Freiwillige Feuerwehr Heretsried unter dem Leitwort:
+&quot;Gott zu Ehr ,dem Nächsten zur Wehr&quot;. Am 23.Mai 1892 hatte die Wehr beim Brand des Anwesens Lorenz 
+Furchtner ihre erste Feuerprobe zu bestehen.</text>
+      <sha1>embjtarjrki755imcvad6r5a9mjz4q7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Verhütung</title>
+    <ns>0</ns>
+    <id>3646</id>
+    <revision>
+      <id>14353</id>
+      <parentid>14273</parentid>
+      <timestamp>2011-01-06T16:07:47Z</timestamp>
+      <contributor>
+        <username>MAAnja</username>
+        <id>845</id>
+      </contributor>
+      <comment>Tippfehler und Überschriftswiederholung</comment>
+      <text xml:space="preserve" bytes="684">{{Babel-1|Schüler_Verfasser}}
+
+Heutzutage benutzen viele Paare Verhütungsmittel. Zum Beispiel: Die Pille oder Kondome.
+
+Die Pille ist das beliebteste Verhütungsmittel in ganz Deutschland. Man schluckt die Pille und die Pille verhindert die Befruchtung.
+
+==Chemische Verhütungsmittel==
+Bei chemischen Verhütungsmitteln gilt: Sie Zäpfchen oder Tabletten töten die Samenzellen ab. Der Nachteil ist, dass es sich in der Scheide unangenehm anfühlt.
+
+==Mechanische Verhütungsmittel==
+Bei dem mechanischen Verhütungsmitteln ist die bekannteste das Kondom. Man zieht es über den Penis und so kommen die Samenzellen nicht zur Eizelle. Deshalb entsteht kein Baby.
+
+
+{{Rücksprung|V}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Viaduc de Millau</title>
+    <ns>0</ns>
+    <id>4886</id>
+    <revision>
+      <id>20838</id>
+      <parentid>20392</parentid>
+      <timestamp>2016-07-20T07:35:40Z</timestamp>
+      <contributor>
+        <username>Wgsa29</username>
+        <id>10164</id>
+      </contributor>
+      <comment>/* Aussehen */</comment>
+      <text xml:space="preserve" bytes="1011">== Aussehen == 
+
+
+[[Datei:Viaduc de MillauO1.png|miniatur|rechts]]
+Die Brücke heißt Viaduc de Millau. Die Gesamtlänge beträgt 2460m, die größte Spannweite ist 342m. Die Höhe der Straße
+über dem Tal beträgt 270m.
+
+== Standort ==
+Etwa auf halber Strecke zwischen Toulouse und Avignon liegt das südfranzösische Städtchen Millau. Im Zentralmassiv gelegen, führt es die 
+Autobahn A 75 über das Tal des Flusses Tarn. Es ist eine Verbindung zwischen Paris und Barcelona.
+
+
+
+
+
+== Bauherr ==
+Michel Virlogeux wurde 1946 im französischen La Fleche geboren. Nach dem Ingenieurstudium arbeitete er in der Straßenbauverwaltung. Später
+wurde er zu einem der bedeutendsten Brückenbauer der Welt.
+
+
+
+
+
+== Besonderheiten ==
+In Millau ist einer der längsten Multischrägseilbrücken der Welt zu bestaunen. Das am 14.12.2004 offiziell eingeweihte Bauwerk war 
+sogar für einige Zeit die höchste Autobahnbrücke weltweit. Sie ist ein Bauwerk der Superlative und alles andere als eine gewönhnliche 
+Talbrücke.</text>
+      <sha1>jghikxqan9lfimgitverhbpj5p1awgl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Violau</title>
+    <ns>0</ns>
+    <id>4107</id>
+    <revision>
+      <id>17180</id>
+      <parentid>17179</parentid>
+      <timestamp>2013-05-21T21:57:50Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>rücksprung eingefügt</comment>
+      <text xml:space="preserve" bytes="1550">{{Babel-1|Schüler_Verfasser}}
+
+== Wappen==
+Auf dem Wappen von Violau ist eine große Kirche zu entdecken.&lt;br /&gt; 
+Violau ist nämlich ein sehr bekannter Wallfahrtsort.&lt;br /&gt;   
+Auch zu sehen ist die Muttergottes und ein Veilchen unter der Kirche.&lt;br /&gt;
+Ein Himmelblauer Hintergrund schmückt das Wappen.
+
+== Entstehung==
+Ganz am Anfang hieß Violau &quot;Hezsilinbach&quot;.&lt;br /&gt;
+Das war im Jahre 1281.&lt;br /&gt; Der Besitzer war Heinrich von Wolfsberg.&lt;br /&gt; Das ist bei Steinekirch.&lt;br /&gt; Den Berg in Steinekirch gibt es heute noch.&lt;br /&gt; Heinrich von Wolfsberg übergibt die Besitzurkunde an einen Priester des Ordens der Benediktiener.&lt;br /&gt; So kam Violau in den Besitz der Kirche.
+
+== Vereine und Gaststätten==
+Der bekannteste und größte Verein in Violau ist die Blasmusikkapelle Violau.&lt;br /&gt;
+In Violau gibt es auch noch eine Gaststätte sie heißt &quot;Violetta&quot;.&lt;br /&gt;
+In Violau gibt´s viele Vereine z.B Marianische Männerkongregation, Krieger und Veteranenverein, 
+Wallfahrtsverein Violau, Soldatenverein, Frauenbund St.Elisabeth, Volkstanzgruppe, Maibaumgesellschaft und natürlich der bekannte Musikverein.
+
+== Firmen==
+In Violau gibt es die Schreinerei Wiehler.
+
+== Besonderheiten==
+[[Bild:GSACorinna01.jpg|thumb|Die Wallfahrtskirche]]
+Die Wallfahrts Kirche St. Michael gibt es seit dem fünfzehnten Jahrhundert,und die Wallfahrtskirche ist auf dem Wappen von Violau zu sehen.&lt;br /&gt;
+
+Die Sternwarte ist auch sehr beliebt in Violau.Sie gehört zum Bruder-Klaus-Heim.&lt;br /&gt;
+
+Die Bücherei &quot;Bücherwurm&quot; ist 1982 gebaut worden.&lt;br /&gt;
+
+
+{{Rücksprung|V}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Violetta</title>
+    <ns>0</ns>
+    <id>4766</id>
+    <revision>
+      <id>19595</id>
+      <parentid>19594</parentid>
+      <timestamp>2016-03-10T04:34:34Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="279">{{Babel-1|Schüler_Verfasser}}
+Violetta ist eine Fernsehsendung im Disney Channel. Von ihr gibt es 3 Staffeln. Violetta erzählt von der Liebe und von Ihrer Leidenschaft Musik. Ihr Freund Leon ist eifersüchtig weil ein Junge namens Diego aufgetaucht ist.....
+
+
+{{Rücksprung|V}}</text>
+      <sha1>3uooafo06bckj3gjq43rlflz3dfa0yb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Viper</title>
+    <ns>0</ns>
+    <id>3225</id>
+    <revision>
+      <id>11730</id>
+      <parentid>11729</parentid>
+      <timestamp>2009-05-12T05:45:00Z</timestamp>
+      <contributor>
+        <username>Alora</username>
+        <id>548</id>
+      </contributor>
+      <comment>Bild zugeordnet</comment>
+      <text xml:space="preserve" bytes="518">{{Babel-1|Schüler_Verfasser}}
+
+Alle Vipern sind giftig. Ihre Giftzähne können sie einfach einklappen. Es ist diesen Schlangen möglich, sehr große Giftzähne zu entwickeln. Gabunvipern erreichen etwa zwei Meter Körperlänge und haben fast vier Zentimeter lange Giftzähne.
+
+Zu den Vipern gehören auch unsere heimischen Kreuzottern. Die Kreuzotter kann bis zu 80 Zentimeter lang werden.
+Sie spüren von weitem aus Erschütterungen und können sehr gut riechen.
+
+
+[[Bild:Gabunviper.JPG‎|thumb]]
+{{Rücksprung|V}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,48 @@
+{
+  "pageid": 1690,
+  "ns": 10,
+  "title": "Vorlage:Babel Lehrer",
+  "revisions": [
+    {
+      "revid": 3387,
+      "parentid": 3385,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:23:30Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=cadetblue|\nBG_COLOR=lightblue|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:Lempel.gif|40px|center|Lehrer]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist '''Lehrer''' bzw. '''Lehrerin'''.|\n}}"
+    },
+    {
+      "revid": 3385,
+      "parentid": 3384,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:18:44Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=#50ff50|\nBG_COLOR=#c0ffc0|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:Lempel.gif|40px|center|Lehrer]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser Benutzer ist '''Lehrer''' bzw. '''Lehrerin'''.|\n}}"
+    },
+    {
+      "revid": 3384,
+      "parentid": 3383,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:17:57Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=#50ff50|\nBG_COLOR=#c0ffc0|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:Lempel.gif|40px|center|Lehrer]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser [[Grundschul-Wiki:Benutzer|Benutzer]] ist '''Lehrer''' bzw. '''Lehrerin'''.|\n}}"
+    },
+    {
+      "revid": 3383,
+      "parentid": 3382,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:17:48Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=#50ff50|\nBG_COLOR=#c0ffc0|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:Lempel.gif|40px|center|Lehrer]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser [[Grunschul-Wiki:Benutzer|Benutzer]] ist '''Lehrer''' bzw. '''Lehrerin'''.|\n}}"
+    },
+    {
+      "revid": 3382,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:17:20Z",
+      "comment": "",
+      "wikitext": "{{BabelVorlage|\nBORDER_COLOR=#50ff50|\nBG_COLOR=#c0ffc0|\nBG_IMAGE_COLOR=#ffffff|\nIMAGE=[[Bild:Lempel.gif|40px|center|Lehrer]]|\nTEXT_SIZE=8pt|\nTEXT=Dieser [[ZUM-Wiki:Benutzer|Benutzer]] ist '''Lehrer''' bzw. '''Lehrerin'''.|\n}}"
+    }
+  ],
+  "categories": []
+}

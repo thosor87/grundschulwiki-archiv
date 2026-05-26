@@ -1,0 +1,24 @@
+{
+  "pageid": 4223,
+  "ns": 10,
+  "title": "Vorlage:Anker/code",
+  "revisions": [
+    {
+      "revid": 17457,
+      "parentid": 17456,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:56Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "{{Dokumentation/Unterseite}}\n\n<onlyinclude><span id=\"{{anchorencode:{{{1|{{{anchor|anchor}}}}}}}}\"><span id=\"Anker:{{anchorencode:{{{1|{{{anchor|anchor}}}}}}}}\"></span></span></onlyinclude>"
+    },
+    {
+      "revid": 17456,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-05T15:56:33Z",
+      "comment": "1 Version:&#32;Vorlagen importieren",
+      "wikitext": "{{Dokumentation/Unterseite}}\n\n<onlyinclude><span id=\"{{anchorencode:{{{1|{{{anchor|anchor}}}}}}}}\"><span id=\"Anker:{{anchorencode:{{{1|{{{anchor|anchor}}}}}}}}\"></span></span></onlyinclude>"
+    }
+  ],
+  "categories": []
+}

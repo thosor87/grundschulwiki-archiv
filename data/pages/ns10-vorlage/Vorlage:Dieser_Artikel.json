@@ -1,0 +1,27 @@
+{
+  "pageid": 4239,
+  "ns": 10,
+  "title": "Vorlage:Diese Seite",
+  "revisions": [
+    {
+      "revid": 17489,
+      "parentid": 17488,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:34:04Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<div class=\"toccolours Vorlage-Dieser_Artikel\" style=\"margin-bottom:1em; padding:5px; border-width:0 0 1px 0; font-size:100%\">\n{| style=\"background-color:transparent\"\n| style=\"width:30px; vertical-align:top\" | [[Bild:Disambig-grau45.png|25px|Begriffsklärung]]\n| Diese Seite {{{1}}}\n|}\n</div><noinclude>\n\n;Das schreibt man:\n<pre>{{Diese Seite|<Text>}}</pre>\n\n[[Kategorie:Vorlage:Artikelbausteine|Diese Seite]]</noinclude>"
+    },
+    {
+      "revid": 17488,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2012-07-26T09:26:58Z",
+      "comment": "katfix",
+      "wikitext": "<div class=\"toccolours Vorlage-Dieser_Artikel\" style=\"margin-bottom:1em; padding:5px; border-width:0 0 1px 0; font-size:100%\">\n{| style=\"background-color:transparent\"\n| style=\"width:30px; vertical-align:top\" | [[Bild:Disambig-grau45.png|25px|Begriffsklärung]]\n| Diese Seite {{{1}}}\n|}\n</div><noinclude>\n\n;Das schreibt man:\n<pre>{{Diese Seite|<Text>}}</pre>\n\n[[Kategorie:Vorlage:Artikelbausteine|Diese Seite]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Artikelbausteine"
+  ]
+}

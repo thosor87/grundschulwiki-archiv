@@ -1,0 +1,27 @@
+{
+  "pageid": 4323,
+  "ns": 10,
+  "title": "Vorlage:Aufgaben-blau",
+  "revisions": [
+    {
+      "revid": 17681,
+      "parentid": 17680,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:46Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<onlyinclude>\n<div style=\"border:2px solid #4682B4; {{#if: {{{3|}}} | width:{{{3}}}; }} {{#if: {{{4|}}} | float: {{{4}}}; }} margin: 6px 0; -webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; overflow: hidden;\">\n<div style=\"border-left: 10px solid #B0C4DE; background-color:white\">\n<div style=\"font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Stift.gif{{!}}30px]] &nbsp; Aufgabe {{{1}}}\n</div>\n<div style=\"padding:5px; font-size:11pt;\">\n{{{2}}}\n</div></div></div></onlyinclude><noinclude>\n\n\n==Syntax== \n<pre>\n{{Aufgaben-blau\n|<ggf. Nummer der Aufgabe: 1>\n|<Text der Aufgabe: Kopiere den Syntax dieser Vorlage in Deinen Artikel!>\n|<ggf. Breite in px oder Prozent: 50%>\n|<ggf. float left oder right: right>\n}}\n</pre>\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Aufgaben]]</noinclude>"
+    },
+    {
+      "revid": 17680,
+      "parentid": 0,
+      "user": "Konstantin Kowalski",
+      "timestamp": "2013-01-12T18:58:10Z",
+      "comment": "",
+      "wikitext": "<onlyinclude>\n<div style=\"border:2px solid #4682B4; {{#if: {{{3|}}} | width:{{{3}}}; }} {{#if: {{{4|}}} | float: {{{4}}}; }} margin: 6px 0; -webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; overflow: hidden;\">\n<div style=\"border-left: 10px solid #B0C4DE; background-color:white\">\n<div style=\"font: 12pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">[[Bild:Stift.gif{{!}}30px]] &nbsp; Aufgabe {{{1}}}\n</div>\n<div style=\"padding:5px; font-size:11pt;\">\n{{{2}}}\n</div></div></div></onlyinclude><noinclude>\n\n\n==Syntax== \n<pre>\n{{Aufgaben-blau\n|<ggf. Nummer der Aufgabe: 1>\n|<Text der Aufgabe: Kopiere den Syntax dieser Vorlage in Deinen Artikel!>\n|<ggf. Breite in px oder Prozent: 50%>\n|<ggf. float left oder right: right>\n}}\n</pre>\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Aufgaben]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

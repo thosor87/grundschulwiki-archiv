@@ -1,0 +1,72 @@
+{
+  "pageid": 1604,
+  "ns": 0,
+  "title": "Nuvola-Icons",
+  "revisions": [
+    {
+      "revid": 9938,
+      "parentid": 4014,
+      "user": "Leupold",
+      "timestamp": "2008-12-17T13:52:40Z",
+      "comment": "tippfehler angepasst",
+      "wikitext": "Gallerie der [[Galerie-Nuvola Nuvola-Icons]]\n\nNach einem Hinweis aus dem SchWiki: \n\nhttp://www.wikischool.de/wiki/WikiSchool:Iconset\n\nkann man unter der Adresse \n\nhttp://www.kde-look.org/content/show.php?content=5358\n\n(Originaladresse: http://www.icon-king.com/)\n\ndiese von David Vignoni entwickelten Icons downloaden und unter der [[GNU lgpl|GNU LESSER GENERAL PUBLIC LICENSE]] verwenden.\n\nHier der '''Readme.txt''' der downgeloadeten Icons:\n\n----\n\nThis copyright and license notice covers the images in this directory.\nNote the license notice contains an add-on.\n\n----\n\nTITLE:\tNUVOLA ICON THEME for KDE 3.x\n\nAUTHOR:\tDavid Vignoni | ICON KING\n\nSITE:\thttp://www.icon-king.com\n\nMAILING LIST: http://mail.icon-king.com/mailman/listinfo/nuvola_icon-king.com\n\nCopyright (c)  2003-2004  David Vignoni.\n\nThis library is free software; you can redistribute it and/or\nmodify it under the terms of the GNU Lesser General Public\nLicense as published by the Free Software Foundation,\nversion 2.1 of the License.\n\nThis library is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU\nLesser General Public License for more details.\nYou should have received a copy of the GNU Lesser General Public\nLicense along with this library (see the the license.txt file); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n\nNOTE THIS ADD-ON\n\nThe GNU Lesser General Public License or LGPL is written for software libraries\nin the first place. The LGPL has to be considered valid for this artwork\nlibrary too.\n\nNuvola icon theme for KDE 3.x is a special kind of software library, it is an\nartwork library, it's elements can be used in a Graphical User Interface, or\nGUI.\n\nSource code, for this library means: raster png image .\n\nThe LGPL in some sections obliges you to make the files carry\nnotices. With images this is in some cases impossible or hardly usefull.\nWith this library a notice is placed at a prominent place in the directory\ncontaining the elements. You may follow this practice.\n\nThe exception in section 6 of the GNU Lesser General Public License covers\nthe use of elements of this art library in a GUI.\ndave [at] icon-king.com\n\nDate:\t\t15 october 2004\n\nVersion:\t1.0\n\nDESCRIPTION:\n\nIcon theme for KDE 3.x. \n\nIcons where designed using Adobe Illustrator, and then exported to PNG format.\nIcons shadows and minor corrections were done using Adobe Photoshop.\nKiconedit was used to correct some 16x16 and 22x22 icons.\n\nLICENSE\n\nReleased under GNU Lesser General Public License (LGPL)\nLook at the license.txt file.\n\nCONTACT\n\nDavid Vignoni\t\n\ne-mail :\t\tdavid [at] icon-king.com\n\nICQ :\t\t\t117761009\n\nhttp:           \thttp://www.icon-king.com"
+    },
+    {
+      "revid": 4014,
+      "parentid": 3287,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-07-15T21:11:56Z",
+      "comment": "",
+      "wikitext": "Gallerie der [[Gallerie-Nuvola Nuvola-Icons]]\n\nNach einem Hinweis aus dem SchWiki: \n\nhttp://www.wikischool.de/wiki/WikiSchool:Iconset\n\nkann man unter der Adresse \n\nhttp://www.kde-look.org/content/show.php?content=5358\n\n(Originaladresse: http://www.icon-king.com/)\n\ndiese von David Vignoni entwickelten Icons downloaden und unter der [[GNU lgpl|GNU LESSER GENERAL PUBLIC LICENSE]] verwenden.\n\nHier der '''Readme.txt''' der downgeloadeten Icons:\n\n----\n\nThis copyright and license notice covers the images in this directory.\nNote the license notice contains an add-on.\n\n----\n\nTITLE:\tNUVOLA ICON THEME for KDE 3.x\n\nAUTHOR:\tDavid Vignoni | ICON KING\n\nSITE:\thttp://www.icon-king.com\n\nMAILING LIST: http://mail.icon-king.com/mailman/listinfo/nuvola_icon-king.com\n\nCopyright (c)  2003-2004  David Vignoni.\n\nThis library is free software; you can redistribute it and/or\nmodify it under the terms of the GNU Lesser General Public\nLicense as published by the Free Software Foundation,\nversion 2.1 of the License.\n\nThis library is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU\nLesser General Public License for more details.\nYou should have received a copy of the GNU Lesser General Public\nLicense along with this library (see the the license.txt file); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n\nNOTE THIS ADD-ON\n\nThe GNU Lesser General Public License or LGPL is written for software libraries\nin the first place. The LGPL has to be considered valid for this artwork\nlibrary too.\n\nNuvola icon theme for KDE 3.x is a special kind of software library, it is an\nartwork library, it's elements can be used in a Graphical User Interface, or\nGUI.\n\nSource code, for this library means: raster png image .\n\nThe LGPL in some sections obliges you to make the files carry\nnotices. With images this is in some cases impossible or hardly usefull.\nWith this library a notice is placed at a prominent place in the directory\ncontaining the elements. You may follow this practice.\n\nThe exception in section 6 of the GNU Lesser General Public License covers\nthe use of elements of this art library in a GUI.\ndave [at] icon-king.com\n\nDate:\t\t15 october 2004\n\nVersion:\t1.0\n\nDESCRIPTION:\n\nIcon theme for KDE 3.x. \n\nIcons where designed using Adobe Illustrator, and then exported to PNG format.\nIcons shadows and minor corrections were done using Adobe Photoshop.\nKiconedit was used to correct some 16x16 and 22x22 icons.\n\nLICENSE\n\nReleased under GNU Lesser General Public License (LGPL)\nLook at the license.txt file.\n\nCONTACT\n\nDavid Vignoni\t\n\ne-mail :\t\tdavid [at] icon-king.com\n\nICQ :\t\t\t117761009\n\nhttp:           \thttp://www.icon-king.com"
+    },
+    {
+      "revid": 3287,
+      "parentid": 3186,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-10T09:21:34Z",
+      "comment": "",
+      "wikitext": "Gallerie der [[Gallerie-Nuvola Nuvola-Icons]]\n\nNach einem Hinweis aus dem SchWiki: \n\nhttp://www.schwiki.de/wiki/SchWiki:Iconset\n\nkann man unter der Adresse \n\nhttp://www.kde-look.org/content/show.php?content=5358\n\n(Originaladresse: http://www.icon-king.com/)\n\ndiese von David Vignoni entwickelten Icons downloaden und unter der [[GNU lgpl|GNU LESSER GENERAL PUBLIC LICENSE]] verwenden.\n\nHier der '''Readme.txt''' der downgeloadeten Icons:\n\n----\n\nThis copyright and license notice covers the images in this directory.\nNote the license notice contains an add-on.\n\n----\n\nTITLE:\tNUVOLA ICON THEME for KDE 3.x\n\nAUTHOR:\tDavid Vignoni | ICON KING\n\nSITE:\thttp://www.icon-king.com\n\nMAILING LIST: http://mail.icon-king.com/mailman/listinfo/nuvola_icon-king.com\n\nCopyright (c)  2003-2004  David Vignoni.\n\nThis library is free software; you can redistribute it and/or\nmodify it under the terms of the GNU Lesser General Public\nLicense as published by the Free Software Foundation,\nversion 2.1 of the License.\n\nThis library is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU\nLesser General Public License for more details.\nYou should have received a copy of the GNU Lesser General Public\nLicense along with this library (see the the license.txt file); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n\nNOTE THIS ADD-ON\n\nThe GNU Lesser General Public License or LGPL is written for software libraries\nin the first place. The LGPL has to be considered valid for this artwork\nlibrary too.\n\nNuvola icon theme for KDE 3.x is a special kind of software library, it is an\nartwork library, it's elements can be used in a Graphical User Interface, or\nGUI.\n\nSource code, for this library means: raster png image .\n\nThe LGPL in some sections obliges you to make the files carry\nnotices. With images this is in some cases impossible or hardly usefull.\nWith this library a notice is placed at a prominent place in the directory\ncontaining the elements. You may follow this practice.\n\nThe exception in section 6 of the GNU Lesser General Public License covers\nthe use of elements of this art library in a GUI.\ndave [at] icon-king.com\n\nDate:\t\t15 october 2004\n\nVersion:\t1.0\n\nDESCRIPTION:\n\nIcon theme for KDE 3.x. \n\nIcons where designed using Adobe Illustrator, and then exported to PNG format.\nIcons shadows and minor corrections were done using Adobe Photoshop.\nKiconedit was used to correct some 16x16 and 22x22 icons.\n\nLICENSE\n\nReleased under GNU Lesser General Public License (LGPL)\nLook at the license.txt file.\n\nCONTACT\n\nDavid Vignoni\t\n\ne-mail :\t\tdavid [at] icon-king.com\n\nICQ :\t\t\t117761009\n\nhttp:           \thttp://www.icon-king.com"
+    },
+    {
+      "revid": 3186,
+      "parentid": 3173,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T10:35:25Z",
+      "comment": "",
+      "wikitext": "Nach einem Hinweis aus dem SchWiki: \n\nhttp://www.schwiki.de/wiki/SchWiki:Iconset\n\nkann man unter der Adresse \n\nhttp://www.kde-look.org/content/show.php?content=5358\n\n(Originaladresse: http://www.icon-king.com/)\n\ndiese von David Vignoni entwickelten Icons downloaden und unter der [[GNU lgpl|GNU LESSER GENERAL PUBLIC LICENSE]] verwenden.\n\nHier der '''Readme.txt''' der downgeloadeten Icons:\n\n----\n\nThis copyright and license notice covers the images in this directory.\nNote the license notice contains an add-on.\n\n----\n\nTITLE:\tNUVOLA ICON THEME for KDE 3.x\n\nAUTHOR:\tDavid Vignoni | ICON KING\n\nSITE:\thttp://www.icon-king.com\n\nMAILING LIST: http://mail.icon-king.com/mailman/listinfo/nuvola_icon-king.com\n\nCopyright (c)  2003-2004  David Vignoni.\n\nThis library is free software; you can redistribute it and/or\nmodify it under the terms of the GNU Lesser General Public\nLicense as published by the Free Software Foundation,\nversion 2.1 of the License.\n\nThis library is distributed in the hope that it will be useful,\nbut WITHOUT ANY WARRANTY; without even the implied warranty of\nMERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU\nLesser General Public License for more details.\nYou should have received a copy of the GNU Lesser General Public\nLicense along with this library (see the the license.txt file); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA\n\nNOTE THIS ADD-ON\n\nThe GNU Lesser General Public License or LGPL is written for software libraries\nin the first place. The LGPL has to be considered valid for this artwork\nlibrary too.\n\nNuvola icon theme for KDE 3.x is a special kind of software library, it is an\nartwork library, it's elements can be used in a Graphical User Interface, or\nGUI.\n\nSource code, for this library means: raster png image .\n\nThe LGPL in some sections obliges you to make the files carry\nnotices. With images this is in some cases impossible or hardly usefull.\nWith this library a notice is placed at a prominent place in the directory\ncontaining the elements. You may follow this practice.\n\nThe exception in section 6 of the GNU Lesser General Public License covers\nthe use of elements of this art library in a GUI.\ndave [at] icon-king.com\n\nDate:\t\t15 october 2004\n\nVersion:\t1.0\n\nDESCRIPTION:\n\nIcon theme for KDE 3.x. \n\nIcons where designed using Adobe Illustrator, and then exported to PNG format.\nIcons shadows and minor corrections were done using Adobe Photoshop.\nKiconedit was used to correct some 16x16 and 22x22 icons.\n\nLICENSE\n\nReleased under GNU Lesser General Public License (LGPL)\nLook at the license.txt file.\n\nCONTACT\n\nDavid Vignoni\t\n\ne-mail :\t\tdavid [at] icon-king.com\n\nICQ :\t\t\t117761009\n\nhttp:           \thttp://www.icon-king.com"
+    },
+    {
+      "revid": 3173,
+      "parentid": 3168,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T08:24:56Z",
+      "comment": "",
+      "wikitext": "Nach einem Hinweis aus dem SchWiki: \n\nhttp://www.schwiki.de/wiki/SchWiki:Iconset\n\nkann man unter der Adresse \n\nhttp://www.kde-look.org/content/show.php?content=5358\n\n(Originaladresse: http://www.icon-king.com/)\n\ndiese von David Vignoni entwickelten Icons downloaden und unter der [[GNU lgpl|GNU LESSER GENERAL PUBLIC LICENSE]] verwenden."
+    },
+    {
+      "revid": 3168,
+      "parentid": 3167,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-08T18:39:02Z",
+      "comment": "",
+      "wikitext": "Unter der Adresse \n\nhttp://www.kde-look.org/content/show.php?content=5358\n\n(Originaladresse: http://www.icon-king.com/)\n\nkönnen diese von David Vignoni entwickelten Icons unter der [[GNU lgpl|GNU LESSER GENERAL PUBLIC LICENSE]] verwendet werden."
+    },
+    {
+      "revid": 3167,
+      "parentid": 3166,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-08T18:38:36Z",
+      "comment": "",
+      "wikitext": "Unter der Adresse \n\nhttp://www.kde-look.org/content/show.php?content=5358\n\nOriginaladresse: http://www.icon-king.com/\n\nkönnen diese von David Vignoni entwickelten Icons unter der [[GNU lgpl|GNU LESSER GENERAL PUBLIC LICENSE]] verwendet werden."
+    },
+    {
+      "revid": 3166,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-08T18:36:28Z",
+      "comment": "",
+      "wikitext": "Unter der Adresse \n\nhttp://www.kde-look.org/content/show.php?content=5358\n\nOriginaladresse: http://www.icon-king.com/\n\nkönnen diese von David Vignoni entwickelten Icons unter der GNU L verwendet werden."
+    }
+  ],
+  "categories": []
+}

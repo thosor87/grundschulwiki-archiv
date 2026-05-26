@@ -1,0 +1,1298 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Felix wiki.jpg</title>
+    <ns>6</ns>
+    <id>3956</id>
+    <revision>
+      <id>15815</id>
+      <timestamp>2012-06-22T07:08:19Z</timestamp>
+      <contributor>
+        <username>GSAFelix</username>
+        <id>971</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fen wiki.png</title>
+    <ns>6</ns>
+    <id>1972</id>
+    <revision>
+      <id>4580</id>
+      <timestamp>2006-07-24T10:14:16Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Stammt aus der Bibliothek von Wikipedia und ist unter der Lizenz von GNU.</comment>
+      <text xml:space="preserve" bytes="73">Stammt aus der Bibliothek von Wikipedia und ist unter der Lizenz von GNU.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Feuer klein.jpg</title>
+    <ns>6</ns>
+    <id>3239</id>
+    <revision>
+      <id>11766</id>
+      <parentid>11765</parentid>
+      <timestamp>2009-05-12T19:13:02Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Feuer klein.jpg]]“ hochgeladen: Foto von: RaphaelS, vom: 9.5.2009</comment>
+      <text xml:space="preserve" bytes="33">Foto von: RaphaelS, vom: 9.5.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Feuerwehr Symbol.jpg</title>
+    <ns>6</ns>
+    <id>3222</id>
+    <revision>
+      <id>11565</id>
+      <timestamp>2009-05-05T08:42:26Z</timestamp>
+      <contributor>
+        <username>KSFabritius</username>
+        <id>639</id>
+      </contributor>
+      <comment>Auto</comment>
+      <text xml:space="preserve" bytes="4">Auto</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Feuerwehr symbol.jpg</title>
+    <ns>6</ns>
+    <id>3221</id>
+    <revision>
+      <id>11562</id>
+      <timestamp>2009-05-05T08:28:47Z</timestamp>
+      <contributor>
+        <username>KSFabritius</username>
+        <id>639</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Figaro.jpg</title>
+    <ns>6</ns>
+    <id>2317</id>
+    <revision>
+      <id>6481</id>
+      <timestamp>2007-05-13T06:42:45Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Ich habe meine Katze selber fotographiert.</comment>
+      <text xml:space="preserve" bytes="42">Ich habe meine Katze selber fotographiert.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Figaro beim Spielen.jpg</title>
+    <ns>6</ns>
+    <id>2474</id>
+    <revision>
+      <id>7190</id>
+      <timestamp>2007-11-27T16:54:20Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Finn klein3.gif</title>
+    <ns>6</ns>
+    <id>2896</id>
+    <revision>
+      <id>9478</id>
+      <timestamp>2008-09-09T17:54:12Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Logo für Rücksprung!</comment>
+      <text xml:space="preserve" bytes="22">Logo für Rücksprung!</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Finnland Robert winter see.jpg</title>
+    <ns>6</ns>
+    <id>5341</id>
+    <revision>
+      <id>22159</id>
+      <timestamp>2018-05-09T07:41:07Z</timestamp>
+      <contributor>
+        <username>Wgsad52</username>
+        <id>10320</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = See
+|Quelle = www.pixabay.de
+|Urheber =freie nutzung 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="167">{{Information ohne UploadWizard
+|Beschreibung = See
+|Quelle = www.pixabay.de
+|Urheber =freie nutzung 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>1tq5n96s6ie3jegs8lu9ik0u6p14xp2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fischotter.jpeg</title>
+    <ns>6</ns>
+    <id>5236</id>
+    <revision>
+      <id>21805</id>
+      <timestamp>2018-04-09T10:54:53Z</timestamp>
+      <contributor>
+        <username>MAKnist</username>
+        <id>10269</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = der Fischotter auf einem Baumstamm
+|Quelle = https://commons.wikimedia.org/wiki/File%3AFischotter%2C_Lutra_Lutra.JPG
+|Urheber = Bernard Landgraf
+|Datum = 9.04.2018
+|Genehmigung = 
+|Andere Versionen = 
+|An…</comment>
+      <text xml:space="preserve" bytes="267">{{Information ohne UploadWizard
+|Beschreibung = der Fischotter auf einem Baumstamm
+|Quelle = https://commons.wikimedia.org/wiki/File%3AFischotter%2C_Lutra_Lutra.JPG
+|Urheber = Bernard Landgraf
+|Datum = 9.04.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>jjcj2vr5thd4o5jqmacyn41jdev7dpn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Flag-1293727 1280.png</title>
+    <ns>6</ns>
+    <id>5356</id>
+    <revision>
+      <id>22281</id>
+      <parentid>22278</parentid>
+      <timestamp>2018-05-13T08:38:25Z</timestamp>
+      <contributor>
+        <username>Wgsad69</username>
+        <id>10338</id>
+      </contributor>
+      <comment>Wgsad69 lud eine neue Version von „[[Datei:Flag-1293727 1280.png]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Flagge Polen
+|Quelle = https://pixabay.com/de/flagge-ikonen-polen-1293727/
+|Urheber = https://pixabay.com/de/flagge-ikonen-polen-</comment>
+      <text xml:space="preserve" bytes="267">{{Information ohne UploadWizard
+|Beschreibung =Flagge Polen 
+|Quelle =https://pixabay.com/de/flagge-ikonen-polen-1293727/
+|Urheber = https://pixabay.com/de/flagge-ikonen-polen-1293727/
+|Datum = 31 März 2016
+|Genehmigung = frei
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>gokv57egpoxtpbs172ewumfpm0n3ut1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Flagge Griechenland.jpg</title>
+    <ns>6</ns>
+    <id>5352</id>
+    <revision>
+      <id>22254</id>
+      <timestamp>2018-05-11T12:22:25Z</timestamp>
+      <contributor>
+        <username>Wgsad64</username>
+        <id>10333</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung =Flagge 
+|Quelle =www.pixabay.de 
+|Urheber =stux
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="160">{{Information ohne UploadWizard
+|Beschreibung =Flagge 
+|Quelle =www.pixabay.de 
+|Urheber =stux
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>m3zgax5kl7rf1ixxxe95plik5ipa6fq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Flagge Niederlande.jpg</title>
+    <ns>6</ns>
+    <id>5358</id>
+    <revision>
+      <id>22289</id>
+      <parentid>22288</parentid>
+      <timestamp>2018-05-13T11:12:35Z</timestamp>
+      <contributor>
+        <username>Wgsad70</username>
+        <id>10339</id>
+      </contributor>
+      <text xml:space="preserve" bytes="623">{{Information ohne UploadWizard
+|Beschreibung = Flagge Niederlande
+|Quelle = https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.buurtaal.de%2Fblog%2Fwp-content%2Fuploads%2F2017%2F11%2Fniederlaendische-flagge-pixabay.png&amp;imgrefurl=https%3A%2F%2Fwww.buurtaal.de%2Fblog%2Fniederlaendische-flagge-farben&amp;docid=eEyAdPmCuH-4xM&amp;tbnid=GR_HCaCIFD1roM%3A&amp;vet=10ahUKEwiu2snvxILbAhXIJZoKHUH-AXIQMwhJKBIwEg..i&amp;w=500&amp;h=600&amp;client=firefox-b&amp;bih=654&amp;biw=1366&amp;q=die%20flagge%20der%20niederlande&amp;ved=0ahUKEwiu2snvxILbAhXIJZoKHUH-AXIQMwhJKBIwEg&amp;iact=mrc&amp;uact=8
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>2zjt83phdj707vjjw83gt9pdj7zb3f6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Flamingo.jpeg</title>
+    <ns>6</ns>
+    <id>5498</id>
+    <revision>
+      <id>23322</id>
+      <timestamp>2018-07-06T16:24:04Z</timestamp>
+      <contributor>
+        <username>MASturm</username>
+        <id>10271</id>
+      </contributor>
+      <comment>{{Flamingo im Opel-Zoo}}</comment>
+      <text xml:space="preserve" bytes="24">{{Flamingo im Opel-Zoo}}</text>
+      <sha1>mb0p7svpwhew09xzxiep1y4wzupy7sz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fliegenpilz.png</title>
+    <ns>6</ns>
+    <id>5050</id>
+    <revision>
+      <id>21153</id>
+      <timestamp>2017-04-05T08:13:26Z</timestamp>
+      <contributor>
+        <username>Burgschule5</username>
+        <id>10231</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="144">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>k7gmmm90qjus8t0hxrrfce8q42ahssd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Flugdrache2.jpg</title>
+    <ns>6</ns>
+    <id>3884</id>
+    <revision>
+      <id>15494</id>
+      <timestamp>2012-02-29T09:27:47Z</timestamp>
+      <contributor>
+        <username>MAWagner</username>
+        <id>921</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:FlugzeugFlughafen.jpeg</title>
+    <ns>6</ns>
+    <id>5495</id>
+    <revision>
+      <id>23318</id>
+      <parentid>23317</parentid>
+      <timestamp>2018-07-06T16:12:05Z</timestamp>
+      <contributor>
+        <username>MASturm</username>
+        <id>10271</id>
+      </contributor>
+      <comment>MASturm lud eine neue Version von „[[Datei:FlugzeugFlughafen.jpeg]]“ hoch: {{Airbus am Flughafen}}</comment>
+      <text xml:space="preserve" bytes="36">{{Airbus am Frankfurter Flughafen
+}}</text>
+      <sha1>eb8cs9p2cto43hcya87ru079aja1lyn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:FlugzeugFlughafenneu.jpeg</title>
+    <ns>6</ns>
+    <id>5497</id>
+    <revision>
+      <id>23320</id>
+      <timestamp>2018-07-06T16:18:25Z</timestamp>
+      <contributor>
+        <username>MASturm</username>
+        <id>10271</id>
+      </contributor>
+      <comment>{{Airbus am Frankfurter Flughafen}}</comment>
+      <text xml:space="preserve" bytes="35">{{Airbus am Frankfurter Flughafen}}</text>
+      <sha1>accvkr71mpdfnjgguz5o63bnq5c1kho</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Folder.png</title>
+    <ns>6</ns>
+    <id>1677</id>
+    <revision>
+      <id>3284</id>
+      <timestamp>2006-03-09T22:47:40Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="210">http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Football-1406106 340.jpg</title>
+    <ns>6</ns>
+    <id>5551</id>
+    <revision>
+      <id>23460</id>
+      <timestamp>2018-09-12T13:39:32Z</timestamp>
+      <contributor>
+        <username>Wiki12</username>
+        <id>10364</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="144">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>k7gmmm90qjus8t0hxrrfce8q42ahssd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Formel 1.jpeg</title>
+    <ns>6</ns>
+    <id>5982</id>
+    <revision>
+      <id>25133</id>
+      <timestamp>2022-05-17T10:25:59Z</timestamp>
+      <contributor>
+        <username>KOIGSRO32</username>
+        <id>10496</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Formel 1
+|Quelle = Pixabay 
+|Urheber = Michael4Wien
+|Datum =29.06.2019 
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="183">{{Information ohne UploadWizard
+|Beschreibung = Formel 1
+|Quelle = Pixabay 
+|Urheber = Michael4Wien
+|Datum =29.06.2019 
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>qn04ew7uw65iqk2zgpn9j1s75yhzx4l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fossilie.jpg</title>
+    <ns>6</ns>
+    <id>3302</id>
+    <revision>
+      <id>12164</id>
+      <timestamp>2009-06-17T15:54:55Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Quelle: de.wikipedia.org</comment>
+      <text xml:space="preserve" bytes="24">Quelle: de.wikipedia.org</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Foto Wiki.jpg</title>
+    <ns>6</ns>
+    <id>5378</id>
+    <revision>
+      <id>22533</id>
+      <timestamp>2018-06-12T09:06:18Z</timestamp>
+      <contributor>
+        <username>Wgse01</username>
+        <id>10176</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung =Wollnashohrn und ein mann 
+|Quelle =pixabay.de 
+|Urheber =hansbenn 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung =Wollnashohrn und ein mann 
+|Quelle =pixabay.de 
+|Urheber =hansbenn 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj450l4jbj5d5yp1uzbwnzq1hewambi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Foto wiki.jpg</title>
+    <ns>6</ns>
+    <id>5379</id>
+    <revision>
+      <id>22534</id>
+      <timestamp>2018-06-12T09:06:22Z</timestamp>
+      <contributor>
+        <username>Wgse07</username>
+        <id>10182</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung =das Mammut ist nicht echt 
+|Quelle = Pixabay.de 
+|Urheber = unbekant 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="182">{{Information ohne UploadWizard
+|Beschreibung =das Mammut ist nicht echt 
+|Quelle = Pixabay.de 
+|Urheber = unbekant 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>eedy83zyy1ix7ltf3zbu75slupg0cd3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:FragFinn mit schrift.gif</title>
+    <ns>6</ns>
+    <id>2537</id>
+    <revision>
+      <id>7512</id>
+      <timestamp>2008-01-02T17:02:28Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Logo von fragfinn.de
+
+Partner von Grundschulwiki.de</comment>
+      <text xml:space="preserve" bytes="51">Logo von fragfinn.de
+
+Partner von Grundschulwiki.de</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:FragFinn mit schrift.png</title>
+    <ns>6</ns>
+    <id>5001</id>
+    <revision>
+      <id>20934</id>
+      <timestamp>2016-11-26T11:53:07Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fragezeichen.jpg</title>
+    <ns>6</ns>
+    <id>1525</id>
+    <revision>
+      <id>2784</id>
+      <timestamp>2006-01-26T15:49:47Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst angefertigt.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen d</comment>
+      <text xml:space="preserve" bytes="527">Selbst angefertigt.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fragezeichen.png</title>
+    <ns>6</ns>
+    <id>1701</id>
+    <revision>
+      <id>3423</id>
+      <timestamp>2006-03-12T17:26:00Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Selbst angefertigt.
+
+GNU_white.png Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation</comment>
+      <text xml:space="preserve" bytes="489">Selbst angefertigt.
+
+GNU_white.png Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Freiburger Münster2.jpg</title>
+    <ns>6</ns>
+    <id>3177</id>
+    <revision>
+      <id>11351</id>
+      <timestamp>2009-03-30T16:21:44Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Tim B. , vom 24.03.2009</comment>
+      <text xml:space="preserve" bytes="33">Bild von: Tim B. , vom 24.03.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Frieda.jpg</title>
+    <ns>6</ns>
+    <id>3336</id>
+    <revision>
+      <id>12448</id>
+      <timestamp>2009-09-28T11:23:59Z</timestamp>
+      <contributor>
+        <username>MAtest</username>
+        <id>190</id>
+      </contributor>
+      <comment>Das ist Viktors Hamster Frieda</comment>
+      <text xml:space="preserve" bytes="30">Das ist Viktors Hamster Frieda</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Froschkoenig.jpg</title>
+    <ns>6</ns>
+    <id>2056</id>
+    <revision>
+      <id>5030</id>
+      <timestamp>2007-01-29T16:33:44Z</timestamp>
+      <contributor>
+        <username>MABauer</username>
+        <id>127</id>
+      </contributor>
+      <comment>Der Froschkönig, gemalt von einem Kind aus der 3.Klasse.</comment>
+      <text xml:space="preserve" bytes="57">Der Froschkönig, gemalt von einem Kind aus der 3.Klasse.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Froschkönig.jpeg</title>
+    <ns>6</ns>
+    <id>5214</id>
+    <revision>
+      <id>21763</id>
+      <timestamp>2017-09-03T19:16:12Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Frühling2.jpg</title>
+    <ns>6</ns>
+    <id>5550</id>
+    <revision>
+      <id>23457</id>
+      <timestamp>2018-09-12T13:33:33Z</timestamp>
+      <contributor>
+        <username>Wiki18</username>
+        <id>10370</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Ftp.png</title>
+    <ns>6</ns>
+    <id>1678</id>
+    <revision>
+      <id>3285</id>
+      <timestamp>2006-03-09T22:47:55Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="210">http://www.zum.de/grundschulwiki/GNU_white.png Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht. 
+
+Copyright (c) 2003-2004 David Vignoni. 
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fuchs.jpg</title>
+    <ns>6</ns>
+    <id>2533</id>
+    <revision>
+      <id>7481</id>
+      <timestamp>2008-01-02T15:57:01Z</timestamp>
+      <contributor>
+        <username>MAJenni</username>
+        <id>388</id>
+      </contributor>
+      <comment>Das Bild habe ich selbst gemalt.</comment>
+      <text xml:space="preserve" bytes="32">Das Bild habe ich selbst gemalt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fuchs1.jpg</title>
+    <ns>6</ns>
+    <id>2534</id>
+    <revision>
+      <id>7483</id>
+      <timestamp>2008-01-02T15:59:57Z</timestamp>
+      <contributor>
+        <username>MAChristina</username>
+        <id>393</id>
+      </contributor>
+      <comment>Das Bild habe ich selbst gemalt.</comment>
+      <text xml:space="preserve" bytes="32">Das Bild habe ich selbst gemalt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fuchs2.jpg</title>
+    <ns>6</ns>
+    <id>4164</id>
+    <revision>
+      <id>17131</id>
+      <timestamp>2013-05-14T12:21:12Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fussel.jpg</title>
+    <ns>6</ns>
+    <id>3337</id>
+    <revision>
+      <id>12450</id>
+      <timestamp>2009-09-28T15:17:45Z</timestamp>
+      <contributor>
+        <username>MAtest</username>
+        <id>190</id>
+      </contributor>
+      <comment>Das ist Vickys Hamster Fussel.</comment>
+      <text xml:space="preserve" bytes="30">Das ist Vickys Hamster Fussel.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Fußball.docx</title>
+    <ns>6</ns>
+    <id>4751</id>
+    <revision>
+      <id>19495</id>
+      <parentid>19494</parentid>
+      <timestamp>2016-01-22T09:52:15Z</timestamp>
+      <contributor>
+        <username>GSLue4a</username>
+        <id>10121</id>
+      </contributor>
+      <comment>GSLue4a lud eine neue Version von „[[Datei:Fußball.docx]]“ hoch: Zurückgesetzt auf die Version vom 22. Januar 2016, 09:41 Uhr</comment>
+      <text xml:space="preserve" bytes="208">{{Information ohne UploadWizard
+|Beschreibung = Informationen über Fußballspieler
+|Quelle = Fernsehen
+|Urheber = Marcel,Emil,Mattes
+|Datum =15.1.2016 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>f907ypc5yl2dbsuk28obpb27zfq6svi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GASKatharina01.jpg</title>
+    <ns>6</ns>
+    <id>4124</id>
+    <revision>
+      <id>16885</id>
+      <timestamp>2013-05-06T06:29:27Z</timestamp>
+      <contributor>
+        <username>GSAKatharina</username>
+        <id>1010</id>
+      </contributor>
+      <comment>Baum Zaun Berg Unterschöneberg
+Quelle: GASKatharina</comment>
+      <text xml:space="preserve" bytes="52">Baum Zaun Berg Unterschöneberg
+Quelle: GASKatharina</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSAArianeK.jpg</title>
+    <ns>6</ns>
+    <id>4494</id>
+    <revision>
+      <id>18345</id>
+      <timestamp>2014-06-04T06:40:49Z</timestamp>
+      <contributor>
+        <username>GSAArianeK</username>
+        <id>10021</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSABenediktM.jpg</title>
+    <ns>6</ns>
+    <id>4493</id>
+    <revision>
+      <id>18344</id>
+      <timestamp>2014-06-04T06:40:47Z</timestamp>
+      <contributor>
+        <username>GSABenediktM</username>
+        <id>10032</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSABernadetteM.jpg</title>
+    <ns>6</ns>
+    <id>4495</id>
+    <revision>
+      <id>18346</id>
+      <timestamp>2014-06-04T06:40:50Z</timestamp>
+      <contributor>
+        <username>GSABernadetteM</username>
+        <id>10020</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSACarolin01.jpg</title>
+    <ns>6</ns>
+    <id>4137</id>
+    <revision>
+      <id>16943</id>
+      <timestamp>2013-05-06T08:07:42Z</timestamp>
+      <contributor>
+        <username>GSACarolin</username>
+        <id>1000</id>
+      </contributor>
+      <comment>Kirche
+Quelle:GSACarolin01</comment>
+      <text xml:space="preserve" bytes="26">Kirche
+Quelle:GSACarolin01</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSACatarinaF.jpg</title>
+    <ns>6</ns>
+    <id>4505</id>
+    <revision>
+      <id>18394</id>
+      <timestamp>2014-06-04T09:07:04Z</timestamp>
+      <contributor>
+        <username>GSACatarinaF</username>
+        <id>10027</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSAClemens01.jpg</title>
+    <ns>6</ns>
+    <id>4156</id>
+    <revision>
+      <id>17041</id>
+      <timestamp>2013-05-08T06:34:11Z</timestamp>
+      <contributor>
+        <username>GSAClemens</username>
+        <id>991</id>
+      </contributor>
+      <comment>Bräustüble
+Quelle:GSAClemens</comment>
+      <text xml:space="preserve" bytes="30">Bräustüble
+Quelle:GSAClemens</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSACorinna01.jpg</title>
+    <ns>6</ns>
+    <id>4126</id>
+    <revision>
+      <id>16887</id>
+      <timestamp>2013-05-06T06:29:28Z</timestamp>
+      <contributor>
+        <username>GSACorinna</username>
+        <id>1007</id>
+      </contributor>
+      <comment>Wallfahrtskirche Violau
+Quelle: GSACorinna</comment>
+      <text xml:space="preserve" bytes="42">Wallfahrtskirche Violau
+Quelle: GSACorinna</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSADominikB.jpg</title>
+    <ns>6</ns>
+    <id>4508</id>
+    <revision>
+      <id>18430</id>
+      <timestamp>2014-06-06T06:27:49Z</timestamp>
+      <contributor>
+        <username>GSADominikB</username>
+        <id>10039</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSAFlorianM.jpg</title>
+    <ns>6</ns>
+    <id>4503</id>
+    <revision>
+      <id>18385</id>
+      <timestamp>2014-06-04T08:14:40Z</timestamp>
+      <contributor>
+        <username>GSAFlorianM</username>
+        <id>10035</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:GSAHannahV.jpg</title>
+    <ns>6</ns>
+    <id>4498</id>
+    <revision>
+      <id>18365</id>
+      <timestamp>2014-06-04T07:56:02Z</timestamp>
+      <contributor>
+        <username>GSAHannahV</username>
+        <id>10043</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,3168 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vorlage:Shortcut</title>
+    <ns>10</ns>
+    <id>4311</id>
+    <revision>
+      <id>17657</id>
+      <parentid>17656</parentid>
+      <timestamp>2014-02-08T21:09:43Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="101">&lt;div id=&quot;shortcut&quot; class=&quot;shortcut&quot; align=&quot;right&quot;&gt;[[ZUM-Wiki:Abkürzungen|Abkürzung]]: {{{1}}}&lt;/div&gt;</text>
+      <sha1>ph13m3zx0cifukpicv7u1us5kpcdw76</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Siehe</title>
+    <ns>10</ns>
+    <id>4267</id>
+    <revision>
+      <id>17813</id>
+      <parentid>17567</parentid>
+      <timestamp>2014-02-08T21:37:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="153">: ''→&amp;nbsp;[[{{{1}}}]]''&lt;noinclude&gt;
+
+;Das schreibt man:
+&lt;pre&gt;{{siehe|&lt;Name der Seite&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Seitenbausteine|Siehe]]
+&lt;/noinclude&gt;</text>
+      <sha1>32hj28vb5wocudfqz0wnjc2xmv1oa0a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stunde</title>
+    <ns>10</ns>
+    <id>4354</id>
+    <revision>
+      <id>17743</id>
+      <parentid>17742</parentid>
+      <timestamp>2014-02-08T21:10:02Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="498">&lt;!--- Hinweis: Vorlage so nutzen: {{Stunde|Thema|Erläuterung|Lernziele}} ---&gt;
+&lt;div style=&quot;border: 1px solid #dfdfdf; background-color:#dfdfdf; font-size:1px; height:8px; border-bottom:1px solid #dfdfdf;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;border:1px solid #dfdfdf; background-color:#FEFEFE; align:center; padding:7px;&quot;&gt;
+[[Bild:Uhr20px.gif]]''' Unterrichtsstunde zum Thema:''''' {{{1}}}
+----
+;Erläuterung
+{{{2}}}
+----
+;Lernziele
+{{{3}}}
+&lt;/div&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Stunde]]&lt;/noinclude&gt;</text>
+      <sha1>4kxhq1r0ie3pijvnu4lvbotfs4rm11e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stundenverlauf/Form</title>
+    <ns>10</ns>
+    <id>4355</id>
+    <revision>
+      <id>17745</id>
+      <parentid>17744</parentid>
+      <timestamp>2014-02-08T21:10:09Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1704">&lt;onlyinclude&gt;{{#switch: {{{1}}} | Plenum = [[Datei:Farm-Fresh plenum.png|50px|verweis=]] | | Alle = [[Datei:Farm-Fresh all.png|49px|verweis=]] | Gruppe5 = [[Datei:Farm-Fresh_gruppe5.png|40px|verweis=]] | Gruppe4 = [[Datei:Farm-Fresh_gruppe4.png|40px|verweis=]] | Gruppe3 = [[Datei:Farm-Fresh_gruppe3.png|40px|verweis=]] | Tandem = [[Datei:Farm-Fresh_tandem.png|verweis=]] | Einzel = [[Datei:Farm-Fresh_user.png|verweis=]] | {{{1|}}} }} &lt;/onlyinclude&gt;&lt;noinclude&gt;
+
+
+Diese Vorlage ist ein Baustein von [[:Vorlage:Stundenverlauf]] und sollte nicht unabhängig davon eingesetzt werden.
+
+Diese Vorlage ersetzt die Schlüsselworte in der Variablen (form) durch Piktogramme. Die Schlüsselworte sind:
+{| class=&quot;wikitable sortable&quot; 
+|-
+!Schlüsselwort !! Piktogramm !! Bedeutung
+|-
+|Plenum || [[Datei:Farm-Fresh plenum.png|50px|verweis=]] || Frontalunterricht
+|-
+|Alle || [[Datei:Farm-Fresh_all.png|49px|verweis=]] || Alle gemeinsam
+|-
+|Gruppe5 || [[Datei:Farm-Fresh gruppe5.png|40px|verweis=]] || 5er-Gruppen
+|-
+|Gruppe4 || [[Datei:Farm-Fresh gruppe4.png|40px|verweis=]] || 4er-Gruppen
+|-
+|Gruppe3 || [[Datei:Farm-Fresh gruppe3.png|40px|verweis=]] || 3er-Gruppen
+|-
+|Tandem || [[Datei:Farm-Fresh tandem.png|verweis=]] || Partnerarbeit
+|-
+|Einzel || [[Datei:Farm-Fresh_user.png|verweis=]] || Einzelarbeit
+|}
+
+Es ist dabei darauf zu achten, dass pro Zeile nur exakt ein Schlüsselbegriff stehen darf. Stehen mehrere Schlüsselbegriffe da, kann das Wiki das leider nicht erkennen. (Wer das durch ergänzen eines regulären Ausdrucks ändern kann ist dazu herzlich eingeladen - allerdings fürchte ich, dass das Wiki das derzeit noch nicht kann).&lt;br /&gt;
+
+[[Kategorie:Vorlage:Stundenverlauf|Sozialform]]
+
+
+&lt;/noinclude&gt;</text>
+      <sha1>mkgaypvssrkkyyk3c4o5ehyslcmm0zi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stundenverlauf/Fuss</title>
+    <ns>10</ns>
+    <id>4356</id>
+    <revision>
+      <id>17747</id>
+      <parentid>17746</parentid>
+      <timestamp>2014-02-08T21:10:10Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="581">&lt;noinclude&gt;{|
+|-
+|Hier steht die Unterrichtsplanung&lt;/noinclude&gt;
+&lt;onlyinclude&gt;
+|}
+&lt;span class=&quot;_toggler-table1&quot; style=&quot;font-size:xx-small;&quot;&gt;Bearbeitungshilfe ein- bzw. ausblenden.
+&lt;/span&gt;
+{| class=&quot;toptextcells table1&quot; style=&quot;text-indent:0px; width:100%; background-color:#4682B4; display:none;&quot;
+{{Vorlage:Stundenverlauf/Legende}}
+&lt;/onlyinclude&gt;&lt;noinclude&gt;
+
+[[Kategorie:Vorlage:Stundenverlauf|!]]
+Diese Seite ist Teil der [[:Vorlage:Stundenverlauf]] und sollte nicht einzeln genutzt werden.&lt;br /&gt;
+Diese Vorlage schließt die Tabelle und fügt die Bearbeitungshilfe ein.
+&lt;/noinclude&gt;</text>
+      <sha1>tk51axzvewfiyqg3yeh0n88ol08yt10</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stundenverlauf/Kopf</title>
+    <ns>10</ns>
+    <id>4357</id>
+    <revision>
+      <id>17749</id>
+      <parentid>17748</parentid>
+      <timestamp>2014-02-08T21:10:16Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1328">&lt;onlyinclude&gt;{| class=&quot;toptextcells&quot; style=&quot;width:100%; border-spacing:1px; border:1px solid #4682B4;&quot;
+|- style=&quot;background-color: #B0C4DE; vertical-align:middle;&quot;
+|style=&quot;width:2em;padding:4px;vertical-align:middle; border:2px solid #4682B4;&quot;|[[Datei:Farm-Fresh time.png|24px|verweis=]]||style=&quot;width:6em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;&quot;|[[Datei:Farm-Fresh_database.png|24px|verweis=]] Phase||style=&quot;padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;&quot;|[[Datei:Progressbar.png|verweis=]] Unterrichtsschritt||style=&quot;width: 8em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;&quot;|[[Datei:Farm-Fresh_group_gear.png|24px|verweis=]] Sozialform||style=&quot;width: 8em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;&quot;|[[Datei:Farm-Fresh_multitool.png|verweis=]] Methode||style=&quot;width: 10em; padding:4px; vertical-align:middle; font-weight: bold; border:2px solid #4682B4;&quot;|[[Datei:Farm-Fresh_film.png|24px|verweis=]] Medium&lt;/onlyinclude&gt;&lt;noinclude&gt;
+|}
+Diese Vorlage ist Teil der [[:Vorlage:Stundenverlauf]] und sollte nicht einzeln genutzt werden.
+
+Diese Vorlage erstellt den Tabellenkopf.
+[[Kategorie:Vorlage:Stundenverlauf]]
+&lt;/noinclude&gt;&lt;onlyinclude&gt;[[Kategorie:Stundenverlauf]]&lt;/onlyinclude&gt;</text>
+      <sha1>h0z5nx5lnpriax2a2z1ijmqhgolj5zh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stundenverlauf/Legende</title>
+    <ns>10</ns>
+    <id>4358</id>
+    <revision>
+      <id>17751</id>
+      <parentid>17750</parentid>
+      <timestamp>2014-02-08T21:10:53Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="4324">&lt;noinclude&gt;
+{| class=&quot;toptextcells table1&quot; style=&quot;text-indent:0px; width:100%; background-color:#4682B4;&quot;
+&lt;/noinclude&gt;&lt;onlyinclude&gt;
+|- style=&quot;vertical-align:middle; font-weight: bold; background-color: #B0C4DE;&quot;
+| style=&quot; padding: 2px;&quot;| Feld || style=&quot; padding: 2px;&quot;| mögliche Parameter mit Vorschau
+|- style=&quot;background-color: #eee; font-size:small;&quot;
+| style=&quot; padding: 2px; font-weight:bold;&quot;|form
+| style=&quot; padding: 2px;&quot;|Plenum&amp;nbsp;[[Datei:Farm-Fresh plenum.png|30px|verweis=]] &amp;nbsp; Alle&amp;nbsp;[[Datei:Farm-Fresh all.png|30px|verweis=]] &amp;nbsp; Gruppe5&amp;nbsp;[[Datei:Farm-Fresh_gruppe5.png|25px|verweis=]] &amp;nbsp; Gruppe4&amp;nbsp;[[Datei:Farm-Fresh_gruppe4.png|25px|verweis=]] &amp;nbsp; Gruppe3&amp;nbsp;[[Datei:Farm-Fresh_gruppe3.png|25px|verweis=]] &amp;nbsp; Tandem&amp;nbsp;[[Datei:Farm-Fresh_tandem.png|25px|verweis=]] &amp;nbsp; Einzel&amp;nbsp;[[Datei:Farm-Fresh_user.png|20px|verweis=]]
+
+|- style=&quot;background-color: #eee; font-size:small;&quot;
+| style=&quot; padding: 2px; font-weight:bold;&quot;|medium - medium7
+| style=&quot; padding: 2px;&quot;|Atlas&amp;nbsp;[[Datei:Farm-Fresh book atlas.png|18px|verweis=]] &amp;nbsp; Bild&amp;nbsp;[[Datei:Farm-Fresh_picture.png|18px|verweis=]] &amp;nbsp; Buch&amp;nbsp;[[Datei:Farm-Fresh_books.png|18px|verweis=]] &amp;nbsp; Card&amp;nbsp;[[Datei:Farm-Fresh_index-cards.png|18px|verweis=]] &amp;nbsp; Computer&amp;nbsp;[[Datei:Farm-Fresh_terminal.png|18px|verweis=]] &amp;nbsp; Cut&amp;nbsp;[[Datei:Farm-Fresh_cut.png|18px|verweis=]] &amp;nbsp; Edding&amp;nbsp;[[Datei:Farm-Fresh_marker.png|18px|verweis=]] &amp;nbsp; Film&amp;nbsp;[[Datei:Farm-Fresh_film.png|18px|verweis=]] &amp;nbsp; Flip&amp;nbsp;[[Datei:Flipchart.svg|12px|verweis=]] &amp;nbsp; Folder&amp;nbsp;[[Datei:Farm-Fresh_open_folder.png|20px|verweis=]] &amp;nbsp; Pin&amp;nbsp;[[Datei:Pin blue right.png|10px|verweis=]] &amp;nbsp; Placemat&amp;nbsp;[[Datei:Placemat.jpg|20px|verweis=]] &amp;nbsp; SB&amp;nbsp;[[Datei:Smartboard.png|20px|verweis=]] &amp;nbsp; Tafel&amp;nbsp;[[Datei:Farm-Fresh_blackboard_drawing.png|18px|verweis=]] &amp;nbsp; Key&amp;nbsp;[[Datei:Farm-Fresh_keyboard.png|18px|verweis=]] &amp;nbsp; WS&amp;nbsp;[[Datei:Farm-Fresh Document image ver.png|18px|verweis=]]
+
+|- style=&quot;background-color: #eee; font-size:small;&quot;
+| style=&quot; padding: 2px; font-weight:bold;&quot;|methode
+| style=&quot; padding: 2px;&quot;| Placemat&amp;nbsp;[[Datei:Placemat.jpg|20px|verweis=]]
+
+|- style=&quot;background-color: #eee; font-size:small;&quot;
+| style=&quot; padding: 2px; font-weight:bold;&quot;|phase
+| style=&quot; padding: 2px;&quot;|Hinweis&amp;nbsp;[[Datei:Farm-Fresh_note.png|18px|verweis=]] &amp;nbsp; Pause&amp;nbsp;[[Datei:Farm-Fresh_cup.png|18px|verweis=]] &amp;nbsp; PW&amp;nbsp;[[Datei:Farm-Fresh_routing_intersection_right.png|18px|verweis=]] &amp;nbsp; GS&amp;nbsp;[[Datei:Farm-Fresh_routing_intersection_right.png|18px|verweis=]] &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Agenda&amp;nbsp;[[Datei:Farm-Fresh sheduled task.png|18px|verweis=]] &amp;nbsp; WarmUp&amp;nbsp;[[Datei:Farm-Fresh_temperature_4.png|18px|verweis=]] &amp;nbsp; Einstieg&amp;nbsp;[[Datei:Farm-Fresh_door_in.png|18px|verweis=]] &amp;nbsp; Auftrag&amp;nbsp;[[Datei:Farm-Fresh_pencil_add.png|18px|verweis=]] &amp;nbsp; Erarbeitung&amp;nbsp;[[Datei:Farm-Fresh_brain.png|18px|verweis=]] &amp;nbsp; Vertiefung&amp;nbsp;[[Datei:Farm-Fresh_arrow_down.png|18px|verweis=]] &amp;nbsp; Sicherung&amp;nbsp;[[Datei:Farm-Fresh_lock.png|18px|verweis=]] &amp;nbsp;  &amp;nbsp; Leistung&amp;nbsp;[[Datei:Farm-Fresh_speedometer.png|18px|verweis=]] &amp;nbsp; Würdigung&amp;nbsp;[[Datei:Farm-Fresh_rosette.png|18px|verweis=]] &amp;nbsp; Übung&amp;nbsp;[[Datei:Farm-Fresh_link_add.png|18px|verweis=]] &amp;nbsp; Vorschau&amp;nbsp;[[Datei:Gnome-edit-find.svg|28px|verweis=]] &amp;nbsp; Wdh&amp;nbsp;[[Datei:Farm-Fresh_arrow_rotate_clockwise.png|18px|verweis=]] &amp;nbsp; HA&amp;nbsp;[[Datei:Farm-Fresh_house.png|18px|verweis=]] &amp;nbsp; nachholen&amp;nbsp;[[Datei:Farm-Fresh_clock_history_frame.png|18px|verweis=]] &amp;nbsp; Ausstieg&amp;nbsp;[[Datei:Farm-Fresh_door_out.png|18px|verweis=]]
+
+|- style=&quot;background-color: #eee; font-size:small;&quot;
+| style=&quot; padding: 2px; font-weight:bold;&quot;|step
+| style=&quot; padding: 2px;&quot;| Eine Aufgabe eingeben:  &lt;pre&gt;{{Stundenverlauf/Aufgaben|1=GGF. NUMMER DER AUFGABE|2=TEXT DER AUFGABE}}&lt;/pre&gt;
+Eine Hausaufgabe eingeben:  &lt;pre&gt;{{Stundenverlauf/Hausaufgaben|1=GGF. NUMMER DER HausaufgabeUFGABE|2=TEXT DER AUFGABE}}&lt;/pre&gt;
+
+|}
+
+&lt;/onlyinclude&gt;&lt;noinclude&gt;
+
+[[Kategorie:Vorlage:Stundenverlauf|!]]
+Diese Seite ist Teil der [[:Vorlage:Stundenverlauf]] und sollte nicht einzeln genutzt werden.&lt;br /&gt;
+Diese Vorlage fügt die Legende mit Bearbeitungshilfe ein.
+&lt;/noinclude&gt;</text>
+      <sha1>a2uz4bydmhvvktgvmuz6rscenqv96il</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stundenverlauf/Medium</title>
+    <ns>10</ns>
+    <id>4359</id>
+    <revision>
+      <id>17753</id>
+      <parentid>17752</parentid>
+      <timestamp>2014-02-08T21:11:05Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="3186">&lt;onlyinclude&gt;{{#switch: {{{1}}} | Atlas = [[Datei:Farm-Fresh book atlas.png|verweis=]] |Bild = [[Datei:Farm-Fresh_picture.png|verweis=]] | Buch = [[Datei:Farm-Fresh_books.png|verweis=]] | Card = [[Datei:Farm-Fresh_index-cards.png|verweis=]] | Computer = [[Datei:Farm-Fresh_terminal.png|verweis=]] | Cut = [[Datei:Farm-Fresh_cut.png|verweis=]] | Edding = [[Datei:Farm-Fresh_marker.png|verweis=]] | Film = [[Datei:Farm-Fresh_film.png|verweis=]] | Flip = [[Datei:Flipchart.svg|22px|verweis=]] | Folder = [[Datei:Farm-Fresh_open_folder.png|verweis=]] | Mappe = [[Datei:Farm-Fresh_open_folder.png|verweis=]] | Key = [[Datei:Farm-Fresh_keyboard.png|verweis=]] |Leistung = [[Datei:Farm-Fresh_speedometer.png|verweis=]] | Pin = [[Datei:Pin blue right.png|16px|verweis=]] | Placemat = [[Datei:Placemat.jpg|40px|verweis=]] | SB = [[Datei:Smartboard.png|40px|verweis=]] | Tafel = [[Datei:Farm-Fresh_blackboard_drawing.png|verweis=]] | WS = [[Datei:Farm-Fresh Document image ver.png|verweis=]] | {{{1|}}} }} &lt;/onlyinclude&gt;&lt;noinclude&gt;
+
+
+Diese Vorlage ist ein Baustein von [[:Vorlage:Stundenverlauf]] und sollte nicht unabhängig davon eingesetzt werden.
+
+Diese Vorlage ersetzt die Schlüsselworte in den Variablen (medien1, ... , medien5) durch Piktogramme. Die Schlüsselworte sind:
+{| class=&quot;wikitable sortable&quot; 
+|-
+!Schlüsselwort !! Piktogramm !! Bedeutung
+|-
+|Atlas || [[Datei:Farm-Fresh book atlas.png|verweis=]] || Atlas
+|-
+|Bild || [[Datei:Farm-Fresh_picture.png|verweis=]] ||Bild
+|-
+|Buch || [[Datei:Farm-Fresh_books.png|verweis=]] || Buch
+|-
+|Card || [[Datei:Farm-Fresh_index-cards.png|verweis=]] || Karteikarten
+|-
+|Computer || [[Datei:Farm-Fresh_terminal.png|verweis=]] || Computer (-Raum)
+|-
+|Cut || [[Datei:Farm-Fresh_cut.png|verweis=]] || Schere 
+|-
+|Edding || [[Datei:Farm-Fresh_marker.png|verweis=]] || Eddinge
+|-
+|Film || [[Datei:Farm-Fresh_film.png|verweis=]] || Film
+|-
+|Flip || [[Datei:Flipchart.svg|22px|verweis=]] || Flipchart
+|-
+|Folder || [[Datei:Farm-Fresh_open_folder.png|verweis=]] || Mappe
+|-
+|Pin || [[Datei:Pin blue right.png|16px|verweis=]] || Pinnwand
+|-
+|Placemat || [[Datei:Placemat.jpg|40px|verweis=]] || Placemat
+|-
+|SB || [[Datei:Smartboard.png|40px|verweis=]] || SmartBoard
+|-
+|Tafel || [[Datei:Farm-Fresh_blackboard_drawing.png|verweis=]] || Tafel
+|-
+|Key || [[Datei:Farm-Fresh_keyboard.png|verweis=]] || (Funk-) Tastatur
+|-
+|WS || [[Datei:Farm-Fresh Document image ver.png|verweis=]] || Arbeitsblatt (Worksheet)
+|}
+
+Es ist dabei darauf zu achten, dass pro Zeile nur exakt ein Schlüsselbegriff stehen darf. Stehen mehrere Schlüsselbegriffe da, kann das Wiki das leider nicht erkennen. (Wer das durch ergänzen eines regulären Ausdrucks ändern kann ist dazu herzlich eingeladen - allerdings fürchte ich, dass das Wiki das derzeit noch nicht kann).&lt;br /&gt;
+Benötigt man mehrere Medien in einer Phase, so kann man weitere Medien mit dem folgenden Code einfügen:&lt;br /&gt;
+&lt;pre&gt;|medium1=Beispiel
+|medium2=Fernseher
+...
+|medium5=Mappe
+&lt;/pre&gt;
+Will man mehrere Medien nutzen, die nicht als Schlüsselbegriff existieren, so kann man diese in einem Eintrag zusammenfassen und dort einfach per Komma trennen.
+
+[[Kategorie:Vorlage:Stundenverlauf|Medium]]
+
+
+&lt;/noinclude&gt;</text>
+      <sha1>3nj0cfqhqc2rvzwguyaj7p86f759f6x</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stundenverlauf/Methode</title>
+    <ns>10</ns>
+    <id>4360</id>
+    <revision>
+      <id>17755</id>
+      <parentid>17754</parentid>
+      <timestamp>2014-02-08T21:11:05Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="922">&lt;onlyinclude&gt;{{#switch: {{{1}}} | Placemat = [[Datei:Placemat.jpg|40px|verweis=]] | {{{1|}}} }} &lt;/onlyinclude&gt;&lt;noinclude&gt;
+
+
+Diese Vorlage ist ein Baustein von [[:Vorlage:Stundenverlauf]] und sollte nicht unabhängig davon eingesetzt werden.
+
+Diese Vorlage ersetzt die Schlüsselworte in der Variablen methode durch Piktogramme. Die Schlüsselworte sind:
+{| class=&quot;wikitable sortable&quot; 
+|-
+!Schlüsselwort !! Piktogramm !! Bedeutung
+|-
+|Placemat || [[Datei:Placemat.jpg|40px|verweis=]] || Placemat
+|-
+| ||yet to come ||
+|}
+
+Es ist dabei darauf zu achten, dass pro Zeile nur exakt ein Schlüsselbegriff stehen darf. Stehen mehrere Schlüsselbegriffe da, kann das Wiki das leider nicht erkennen. (Wer das durch ergänzen eines regulären Ausdrucks ändern kann ist dazu herzlich eingeladen - allerdings fürchte ich, dass das Wiki das derzeit noch nicht kann).&lt;br /&gt;
+
+[[Kategorie:Vorlage:Stundenverlauf|Medium]]
+
+
+&lt;/noinclude&gt;</text>
+      <sha1>i6qdj4h5pm6as7541yrsregre22a145</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stundenverlauf/Phase</title>
+    <ns>10</ns>
+    <id>4361</id>
+    <revision>
+      <id>17757</id>
+      <parentid>17756</parentid>
+      <timestamp>2014-02-08T21:11:19Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="3178">&lt;includeonly&gt;
+{{#switch: {{{1}}} | Agenda = [[Datei:Farm-Fresh sheduled task.png|verweis=]] | WarmUp = [[Datei:Farm-Fresh_temperature_4.png|verweis=]] | Einstieg = [[Datei:Farm-Fresh_door_in.png|verweis=]] | Auftrag = [[Datei:Farm-Fresh_pencil_add.png|25px|verweis=]] | Erarbeitung = [[Datei:Farm-Fresh_brain.png|verweis=]] | Vertiefung = [[Datei:Farm-Fresh_arrow_down.png|verweis=]] | Sicherung = [[Datei:Farm-Fresh_lock.png|verweis=]] | Leistung = [[Datei:Farm-Fresh_speedometer.png|verweis=]] | Würdigung = [[Datei:Farm-Fresh_rosette.png|verweis=]] | Übung = [[Datei:link_add|verweis=]] | Vorschau = [[Datei:Gnome-edit-find.svg|32px|verweis=]] | Wdh = [[Datei:Farm-Fresh_arrow_rotate_clockwise.png|verweis=]] | HA = [[Datei:Farm-Fresh_house.png|verweis=]] | nachholen = [[Datei:Farm-Fresh_clock_history_frame.png|verweis=]] | Ausstieg = [[Datei:Farm-Fresh_door_out.png|verweis=]] | {{{1|}}} }} &lt;/includeonly&gt;&lt;noinclude&gt;
+
+
+Diese Vorlage ist ein Baustein von [[:Vorlage:Stundenverlauf]] und sollte nicht unabhängig davon eingesetzt werden.
+
+Diese Vorlage ersetzt die Schlüsselworte in der Variablen (Phase) durch Piktogramme - wenn dies nicht bereits vorher passiert ist. Die Schlüsselworte sind:
+{| class=&quot;wikitable sortable&quot; 
+|-
+!Schlüsselwort !! Piktogramm !! Bedeutung
+|- 
+| Hinweis || [[Datei:Farm-Fresh_note.png|verweis=]] || Ein Hinweis
+|- 
+| Pause || [[Datei:Farm-Fresh_cup.png|verweis=]] || Eine Pause
+|-
+| PW || [[Datei:Farm-Fresh_routing_intersection_right.png|verweis=]] || Ein Phasenwechsel
+|-
+| GS || [[Datei:Farm-Fresh_routing_intersection_right.png|verweis=]] || Eine Gelenkstelle
+|-
+| Agenda || [[Datei:Farm-Fresh sheduled task.png|verweis=]] || Begrüßung, Planung 
+|-
+| WarmUp || [[Datei:Farm-Fresh_temperature_4.png|verweis=]] || Aufwärmen
+|-
+| Einstieg || [[Datei:Farm-Fresh_door_in.png|verweis=]] ||Einstieg
+|-
+| Auftrag || [[Datei:Farm-Fresh_pencil_add.png|25px|verweis=]] || Arbeitsauftrag erteilen
+|-
+| Erarbeitung || [[Datei:Farm-Fresh_brain.png|verweis=]] || Erarbeitung
+|-
+| Vertiefung || [[Datei:Farm-Fresh_arrow_down.png|verweis=]] || Vertiefung
+|-
+| Sicherung || [[Datei:Farm-Fresh_lock.png|verweis=]] || Sicherung
+|-
+|Leistung || [[Datei:Farm-Fresh_speedometer.png|verweis=]] || Leistung
+|-
+| Würdigung || [[Datei:Farm-Fresh_rosette.png|verweis=]] || Würdigung
+|-
+| Übung || [[Datei:Farm-Fresh_link_add.png|verweis=]] || Übungsphase
+|-
+| Vorschau || [[Datei:Gnome-edit-find.svg|32px|verweis=]] || Ausblick
+|-
+| Wdh || [[Datei:Farm-Fresh_arrow_rotate_clockwise.png|verweis=]] || Wiederholung
+|-
+| HA || [[Datei:Farm-Fresh_house.png|verweis=]] || Hausaufgabe erteilen
+|-
+| nachholen || [[Datei:Farm-Fresh_clock_history_frame.png|verweis=]] || Nacharbeiten
+|-
+| Ausstieg || [[Datei:Farm-Fresh_door_out.png|verweis=]] || Stundenende
+|}
+
+Es ist dabei darauf zu achten, dass pro Zeile nur exakt ein Schlüsselbegriff stehen darf. Stehen mehrere Schlüsselbegriffe da, kann das Wiki das leider nicht erkennen. (Wer das durch ergänzen eines regulären Ausdrucks ändern kann ist dazu herzlich eingeladen - allerdings fürchte ich, dass das Wiki das derzeit noch nicht kann).&lt;br /&gt;
+
+[[Kategorie:Vorlage:Stundenverlauf|Phase]]
+
+
+&lt;/noinclude&gt;</text>
+      <sha1>4kse5mewemk2cg9qvgbbcdew52mq1s5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stundenverlauf/Zeile</title>
+    <ns>10</ns>
+    <id>4362</id>
+    <revision>
+      <id>17759</id>
+      <parentid>17758</parentid>
+      <timestamp>2014-02-08T21:11:19Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="4442">&lt;includeonly&gt;|-style=&quot;background-color:#fff;&quot;
+{{#if: {{{phase}}} |
+  {{#switch: {{{phase}}} 
+  | Pause= {{!}} style=&quot;background-color:#eee; vertical-align:middle; text-align:center; padding:2px; border:1px solid #4682B4; page-break-inside:avoid;&quot;{{!}} {{#if: {{{t|}}} | {{{t}}} | 5'}}  {{!}}{{!}} colspan=&quot;5&quot; style=&quot;background-color:#eee; text-align:center; vertical-align:middle; font-weight:bold; padding:20px 2px; border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}}  [[Datei:Farm-Fresh_cup.png|24px|verweis=]] &amp;nbsp; Pause
+  | PW=  {{!}} style=&quot;background-color:#eee; vertical-align:middle; text-align:center; padding:2px; border:1px solid #4682B4; page-break-inside:avoid;&quot;{{!}} [[Datei:Farm-Fresh_routing_intersection_right.png|24px|verweis=]] {{!}}{{!}} colspan=&quot;5&quot; style=&quot;background-color:#eee; text-align:center; vertical-align:middle; font-weight:bold; padding:2px; border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}} Phasenwechsel &lt;br /&gt; {{#if:{{{step|}}}| (&lt;span style=&quot;font-weight:normal;&quot;&gt;{{{step}}}&lt;/span&gt;)|}}
+  | GS= {{!}} style=&quot;background-color:#eee; vertical-align:middle; text-align:center; padding:2px; border:1px solid #4682B4; page-break-inside:avoid;&quot;{{!}} {{{t}}} {{!}}{{!}} style=&quot;background-color:#eee; vertical-align:middle; text-align:center; padding:2px; border:1px solid #4682B4; page-break-inside:avoid;&quot;{{!}} [[Datei:Farm-Fresh_routing_intersection_right.png|24px|verweis=]] {{!}}{{!}} colspan=&quot;4&quot; style=&quot;background-color:#eee; vertical-align:middle; padding:2px; border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}} '''Gelenkstelle:'''&lt;br /&gt; {{#if:{{{step|}}}| {{{step}}} |}}
+  | Hinweis=  {{!}} class=&quot;lehrerhinweis&quot; style=&quot;background-color:#eee; text-align:center; vertical-align:middle; padding:2px; border:1px solid #4682B4; page-break-inside:avoid;&quot;{{!}} [[Datei:Farm-Fresh_note.png|24px|verweis=]] {{!}}{{!}} colspan=&quot;5&quot; style=&quot;background-color:#eee; text-align:left; vertical-align:middle; font-weight:bold; padding:2px; border:1px solid #4682B4; page-break-inside:avoid; padding-left:7.3em;&quot; {{!}} Hinweis {{#if:{{{step|}}}| (&lt;span style=&quot;font-weight:normal;&quot;&gt;{{{step}}}&lt;/span&gt;)|}}
+  | {{Stundenverlauf/Zeileninhalt
+      |t={{#if:{{{t|}}}|{{{t}}}|}}
+      |phase={{#if:{{{phase|}}}|{{Stundenverlauf/Phase|{{{phase}}} }} }}
+      |step={{{step}}}
+      |form={{#if:{{{form|}}}|{{Stundenverlauf/Form|{{{form}}} }} }}
+      |methode={{#if:{{{methode|}}}|{{Stundenverlauf/Methode|{{{methode}}} }} }}
+      |medium={{#if:{{{medium|}}}|{{Stundenverlauf/Medium|{{{medium}}} }} }}
+      |medium1={{#if:{{{medium1|}}}|{{Stundenverlauf/Medium|{{{medium1}}} }} }}
+      |medium2={{#if:{{{medium2|}}}|{{Stundenverlauf/Medium|{{{medium2}}} }} }}
+      |medium3={{#if:{{{medium3|}}}|{{Stundenverlauf/Medium|{{{medium3}}} }} }}
+      |medium4={{#if:{{{medium4|}}}|{{Stundenverlauf/Medium|{{{medium4}}} }} }}
+      |medium5={{#if:{{{medium5|}}}|{{Stundenverlauf/Medium|{{{medium5}}} }} }}
+      |medium6={{#if:{{{medium6|}}}|{{Stundenverlauf/Medium|{{{medium6}}} }} }}
+      |medium7={{#if:{{{medium7|}}}|{{Stundenverlauf/Medium|{{{medium7}}} }} }}
+    }}
+  }} 
+| {{Stundenverlauf/Zeileninhalt
+      |t={{#if:{{{t|}}}|{{{t}}}|}}
+      |phase={{#if:{{{phase|}}}|{{Stundenverlauf/Phase|{{{phase}}} }} }}
+      |step={{{step}}}
+      |form={{#if:{{{form|}}}|{{Stundenverlauf/Form|{{{form}}} }} }}
+      |methode={{#if:{{{methode|}}}|{{{methode}}} }}
+      |medium={{#if:{{{medium|}}}|{{Stundenverlauf/Medium|{{{medium}}} }} }}
+      |medium1={{#if:{{{medium1|}}}|{{Stundenverlauf/Medium|{{{medium1}}} }} }}
+      |medium2={{#if:{{{medium2|}}}|{{Stundenverlauf/Medium|{{{medium2}}} }} }}
+      |medium3={{#if:{{{medium3|}}}|{{Stundenverlauf/Medium|{{{medium3}}} }} }}
+      |medium4={{#if:{{{medium4|}}}|{{Stundenverlauf/Medium|{{{medium4}}} }} }}
+      |medium5={{#if:{{{medium5|}}}|{{Stundenverlauf/Medium|{{{medium5}}} }} }}
+      |medium6={{#if:{{{medium6|}}}|{{Stundenverlauf/Medium|{{{medium6}}} }} }}
+      |medium7={{#if:{{{medium7|}}}|{{Stundenverlauf/Medium|{{{medium7}}} }} }}
+  }}
+}}&lt;/includeonly&gt;&lt;noinclude&gt;
+
+Deise Vorlage ist ein Baustein der [[:Vorlage:Stundenverlauf]] und sollte nicht unabhängig davon genutzt werden.&lt;br/ &gt;
+Diese Vorlage erzeugt eine neue Spalte, stellt fest, ob es sich um eine spezielle Phase handelt (Pause, Phasenwechsel) und fügt diese dann ein oder ruft die [[:Vorlage:Stundenverlauf/Zeileninhalt]] auf.
+
+
+[[Kategorie:Vorlage:Stundenverlauf|Zeile]]
+&lt;/noinclude&gt;</text>
+      <sha1>lizvlbca8fd2tufm28o7u3crcwrjajo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Stundenverlauf/Zeileninhalt</title>
+    <ns>10</ns>
+    <id>4363</id>
+    <revision>
+      <id>17761</id>
+      <parentid>17760</parentid>
+      <timestamp>2014-02-08T21:11:19Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1785">&lt;includeonly&gt;
+{{#if: {{{t}}} | {{!}} style=&quot;padding:2px; text-align:center; border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}} {{{t}}} | {{!}} style=&quot;padding:2px; text-align:center; border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}} 0' }}
+
+{{#if: {{{phase}}} |
+{{!}} style=&quot;padding:2px; border:1px solid #4682B4; page-break-inside:avoid; text-align:center;&quot; {{!}} {{{phase}}} | {{!}} style=&quot;border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}}
+}}
+
+{{#if: {{{step}}} |
+{{!}} style=&quot;padding:2px; border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}} {{{step}}} | {{!}} style=&quot;border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}}
+}}
+
+{{#if: {{{form}}} |
+{{!}} style=&quot;padding:2px; border:1px solid #4682B4; page-break-inside:avoid; text-align:center;&quot; {{!}} {{{form}}} | {{!}} style=&quot;border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}}
+}}
+
+{{#if: {{{methode}}} |
+{{!}} style=&quot;padding:2px; text-align:center; border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}} {{{methode}}} | {{!}} style=&quot;border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}}
+}}
+
+{{#if: {{{medium}}} | {{!}} style=&quot;padding:2px; border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}} {{{medium}}} | {{!}} style=&quot;border:1px solid #4682B4; page-break-inside:avoid;&quot; {{!}} }} {{#if: {{{medium1}}} | {{{medium1}}} | }} {{#if: {{{medium2}}} | {{{medium2}}} | }} {{#if: {{{medium3}}} | {{{medium3}}} | }} {{#if: {{{medium4}}} | {{{medium4}}} | }} {{#if: {{{medium5}}} | {{{medium5}}} | }} {{#if: {{{medium6}}} | {{{medium6}}} | }} {{#if: {{{medium7}}} | {{{medium7}}} | }} 
+&lt;/includeonly&gt;&lt;noinclude&gt;
+
+Diese Vorlage ist ein Baustein von [[:Vorlage:Stundenverlauf]] und sollte nicht unabhängig davon eingesetzt werden.
+
+
+[[Kategorie:Vorlage:Stundenverlauf|Zeileninhalt]]
+&lt;/noinclude&gt;</text>
+      <sha1>ldlvhe47e2pww8ab0wfp8kfgalx9w6q</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Tippfehler</title>
+    <ns>10</ns>
+    <id>2996</id>
+    <revision>
+      <id>10088</id>
+      <timestamp>2008-12-22T07:53:37Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>vorlage angelegt</comment>
+      <text xml:space="preserve" bytes="631">&lt;br style=&quot;clear:both;&quot;/&gt;
+&lt;div style=&quot;float:left; border:solid 4px red; margin:1px; width:100%&quot;&gt;
+{| cellpadding=&quot;1&quot; cellspacing=&quot;0&quot; style=&quot;width:100%; background-color:white&quot;
+| style=&quot;width:20%; height:50px; background-color: white; text-align:center&quot;|
+[[Bild:Rufzeichen.gif]]
+| style=&quot;width:60%; font-size:18px; padding:0.47em; line-height:1.25em; text-align: center&quot;| Dieser Artikel enthält noch Tippfehler!&lt;br&gt;'''Hilf mit''', das ZUM-Grundschulwiki noch besser zu machen!&lt;br&gt;Korrigiere die Fehler, die Du findest!
+| style=&quot;width:20%; height:50px; background-color: white; text-align:center&quot;|
+[[Bild:Rufzeichen.gif]]
+|
+|}
+&lt;/div&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Tl</title>
+    <ns>10</ns>
+    <id>4374</id>
+    <revision>
+      <id>17783</id>
+      <parentid>17782</parentid>
+      <timestamp>2014-02-08T21:11:25Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="434">{{#switch:{{{incl}}}|1=&amp;#123;|2=|&amp;#123;&amp;#123;}}[[:{{#if:{{{3|{{{lang|}}}}}}|{{{3|{{{lang}}}}}}:}}{{ns:10}}:{{#if:{{{1|}}}|{{{1}}}|Tl}}|{{#switch:{{{incl}}}|1=&amp;#123;|2=&amp;#123;&amp;#123;}}{{#if:{{{code|}}}|&lt;code&gt;}}{{#if:{{{2|}}}|{{{2}}}|{{#if:{{{1|}}}|{{{1}}}|Tl}}}}{{{parm|}}}{{#if:{{{code|}}}|&lt;/code&gt;}}{{#switch:{{{incl}}}|1=&amp;#125;|2=&amp;#125;&amp;#125;}}]]{{#switch:{{{incl}}}|1=&amp;#125;|2=|&amp;#125;&amp;#125;}}&lt;noinclude&gt;
+{{documentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>kuwht3k13d09doyg7cgc93r3r2fo24z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Unterricht</title>
+    <ns>10</ns>
+    <id>4364</id>
+    <revision>
+      <id>17763</id>
+      <parentid>17762</parentid>
+      <timestamp>2014-02-08T21:11:19Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1013">&lt;div style=&quot;float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em&quot;&gt;
+&lt;div style=&quot;font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;&quot;&gt;
+[[Datei:ZUM-Logo.png|right|25px]] '''[[Hilfe:Unterricht|Unterricht]]'''
+&lt;/div&gt;
+&lt;div style=&quot;background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;&quot;&gt;
+
+* [[Hilfe:Kurs- und Klassenseiten|Kurs- und Klassenseiten]]
+* [[Hilfe:Lehrer|Hinweise für Lehrer/innen]]
+* [[Hilfe:Schüler|Hinweise für Schüler/innen]]
+----
+* [[Hilfe:Interaktive Übungen|Interaktive Übungen]]
+* [[Hilfe:Transklusion|Transklusion (Verkettung)]]	
+* [[Hilfe:Verstecken und Anzeigen|Verstecken und Anzeigen]]
+* [[Hilfe:Vorlagen für die Schule|Vorlagen für die Schule]]
+&lt;/div&gt;
+&lt;div style=&quot;font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;&quot;&gt;
+* [[Hilfe:MediaWiki|Handbuch zur Software]]
+&lt;/div&gt;&lt;/div&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Benutzerbausteine|.]]&lt;/noinclude&gt;</text>
+      <sha1>40zpnrhfclk84dn8dozu7q2nisizw27</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Uwl</title>
+    <ns>10</ns>
+    <id>4258</id>
+    <revision>
+      <id>17531</id>
+      <parentid>17530</parentid>
+      <timestamp>2014-02-03T22:38:52Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1096">&lt;noinclude&gt;
+This template (uploaded without license tag) is used to tag files uploaded (but not by using the basic form apparently). Usually [[:User:Nikbot]] (it ignores this template) will come by after some time and add a {{tl|no license since}} and inform the uploader.
+
+This template is added (substed) by UW (but not by the basic upload form) for uploads without a license: {{tl|Remove this line and insert a license instead}} with time parameters filled in (see below). Files are categorized in [[:Category:Media uploaded without a license]]
+
+*Current ({{ISOdate|2011-11-25}}) discussion: [[Commons_talk:Upload_Wizard#New UW version deployed (Multi-file selection and more)]]
+* {{see also cat|Media uploaded without a license|banner=no}}
+
+[[Category:Problem tags|{{PAGENAME}}]]
+
+
+This is added to files:&lt;br /&gt;
+&lt;/noinclude&gt;&lt;includeonly&gt;{&lt;/includeonly&gt;&lt;noinclude&gt;&amp;#123;&lt;/noinclude&gt;{Remove this line and insert a license instead|year={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;CURRENTYEAR}}|month={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;CURRENTMONTH}}|day={{&lt;includeonly&gt;subst:&lt;/includeonly&gt;CURRENTDAY2}}}}</text>
+      <sha1>exo2arnx2aqgsm79rzocodnn3hyorbv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Uwlsubst</title>
+    <ns>10</ns>
+    <id>4268</id>
+    <revision>
+      <id>17569</id>
+      <parentid>17568</parentid>
+      <timestamp>2014-02-08T21:09:09Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1025">&lt;noinclude&gt;&lt;!--{{protected template}}--&gt;
+
+== Appearance ==
+&lt;!--
+
+YOU'RE EDITING THE WRONG THING!
+
+Please go back and edit the file page (click &quot;edit&quot; at the top of that page), not this template.
+
+--&gt;&lt;/noinclude&gt;{{autotranslate|base=Uwlsubst|1={{{year|}}}|2={{{month|}}}|3={{{day|}}}}}
+&lt;includeonly&gt;{{Nuke|No license since {{{year|}}}-{{{month|}}}-{{{day|}}}. Please read the intro of [[COM:L]], about [[Commons:Essential information|essential information]] and about [[COM:CB#Internet_images|Internet images]].}}{{{category|[[Category:{{ParmAnd3|1={{{day|}}}|2={{{month|}}}|3={{{year|}}}|4=Media uploaded without a license {{#ifexist: Category:Media uploaded without a license as of {{{year}}}-{{{month}}}|as of {{{year}}}-{{{month}}}|}}|5=Media uploaded without a license as of unknown date}}|{{#expr:100- {{padleft:{{{day|}}}|2|0}}}}-{{#expr:10^16-{{REVISIONTIMESTAMP}}}}]]}}}&lt;!-- in case the year or month are given incorrectly --&gt;&lt;/includeonly&gt;&lt;noinclude&gt;
+
+&lt;!--{{documentation}}--&gt;
+
+[[Category:Problem tags]]
+&lt;/noinclude&gt;</text>
+      <sha1>pa8wos14faaishhl4shk77awhr5sms6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Verstecken</title>
+    <ns>10</ns>
+    <id>2628</id>
+    <redirect title="Vorlage:Versteckt" />
+    <revision>
+      <id>7998</id>
+      <timestamp>2008-02-27T22:29:02Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Vorlage:Verstecken wurde nach Vorlage:Versteckt verschoben: Vereinheitlichung mit ZUM-Wiki</comment>
+      <text xml:space="preserve" bytes="31">#REDIRECT [[Vorlage:Versteckt]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Versteckt</title>
+    <ns>10</ns>
+    <id>2625</id>
+    <revision>
+      <id>8004</id>
+      <parentid>8001</parentid>
+      <timestamp>2008-02-28T09:50:13Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>zweite Klammer eingefügt</comment>
+      <text xml:space="preserve" bytes="565">&lt;includeonly&gt;&lt;span class=&quot;_togglegroup _toggle_initshow _toggle _toggler toggle-visible&quot; style=&quot;display:none;&quot;&gt;[Anzeigen]&lt;/span&gt;&lt;span class=&quot;_toggle_inithide _toggle _toggler toggle-hidden&quot; style=&quot;display:none;&quot;&gt;[Verstecken]&lt;/span&gt;
+&lt;div class=&quot;_toggle_inithide _toggle toggle-hidden&quot;&gt;
+{{{1}}}&lt;/div&gt;&lt;/includeonly&gt;&lt;noinclude&gt;
+==Anwendung==
+&lt;nowiki&gt;{{Versteckt|Text zum Verstecken}}&lt;/nowiki&gt; 
+
+oder &lt;nowiki&gt;{{Versteckt|1=Text zum Verstecken}}&lt;/nowiki&gt;. 
+
+Die zweite Schreibweise braucht man, wenn der &quot;Text zum Verstecken&quot; ein Gleichheitszeichen enthält.
+&lt;/noinclude&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Versuch</title>
+    <ns>10</ns>
+    <id>4365</id>
+    <revision>
+      <id>17765</id>
+      <parentid>17764</parentid>
+      <timestamp>2014-02-08T21:11:20Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="724">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#9acd32}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Nuvola apps edu science.png|30px]] &amp;nbsp; Versuch
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+;Syntax: &lt;nowiki&gt;{{Versuch|&lt;Versuchsbeschreibung&gt;}}&lt;/nowiki&gt;
+
+;Hinweis: Während diese Vorlage eine feste Seitenbreite hat, ist die Breite der [[Vorlage:Versuch float]] flexibel und passt sich Beispiel einem Bild am Seitenrand an.
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Versuch]]&lt;/noinclude&gt;</text>
+      <sha1>q8c6e7jg8swhaj0mtzvobp36hy3y7am</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Versuch float</title>
+    <ns>10</ns>
+    <id>4366</id>
+    <revision>
+      <id>17767</id>
+      <parentid>17766</parentid>
+      <timestamp>2014-02-08T21:11:21Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="752">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#9acd32}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; float:left; --&gt;background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Nuvola apps edu science.png|30px]] &amp;nbsp; Versuch
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;br&gt;
+;Das schreibt man: &lt;pre&gt;{{Versuch float|&lt;Versuchsbeschreibung&gt;}}&lt;/pre&gt;
+
+;Hinweis: Während diese Vorlage eine flexible Breite hat und sich zum Beispiel einem Bild am Seitenrand anpasst, hat die [[Vorlage:Versuch]] eine feste Seitenbreite.
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Versuch float]]&lt;/noinclude&gt;</text>
+      <sha1>80qffdd80395u4m5j468adolii68iee</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Verwendung</title>
+    <ns>10</ns>
+    <id>4234</id>
+    <revision>
+      <id>17479</id>
+      <parentid>17478</parentid>
+      <timestamp>2014-01-08T18:33:59Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="311">&lt;includeonly&gt;&lt;span class=&quot;plainlinks&quot;&gt;[{{fullurl:Spezial:Linkliste|limit=200&amp;hideredirs=1&amp;hidelinks=1&amp;target={{#if: {{{seite|}}}|{{urlencode:{{{seite}}} }}|{{FULLPAGENAMEE}} }}&amp;namespace={{{ns|0}}}}} {{{text|Verwendung}}}]&lt;/span&gt;&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Tausendfach verwendet}}
+{{Dokumentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>2dbcq0xwz40231q101j9k98l6x69v1v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Vorlagen</title>
+    <ns>10</ns>
+    <id>4367</id>
+    <revision>
+      <id>17769</id>
+      <parentid>17768</parentid>
+      <timestamp>2014-02-08T21:11:21Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1158">&lt;div style=&quot;float:right;background:#ffffff;margin-left:5px; padding:0px; border:1px solid #aaaaaa; width:13em&quot;&gt;
+&lt;div style=&quot;font-size:100%; line-height:120%; padding: .5em; background-color:#f9f9f9; border-bottom:1px solid #aaaaaa;&quot;&gt;
+[[Datei:ZUM-Logo.png|right|25px]]'''[[ZUM-Wiki:Vorlagen|Vorlagen (Bausteine)]]'''
+&lt;/div&gt;
+&lt;div style=&quot;background:#fff;padding: .5em; padding-bottom: 1em; font-size: 90%;&quot;&gt;
+'''[[Vorlage:Kasten-Hinweis|Kasten-Hinweis]]''' beachten!
+----
+* [[ZUM-Wiki:Vorlagen/Augenmerk|Augenmerk]]
+* [[ZUM-Wiki:Vorlagen/Baukastendesign|Baukastendesign]]
+* [[ZUM-Wiki:Vorlagen/Formatierungshilfen|Formatierungshilfen]]
+* [[ZUM-Wiki:Vorlagen für die Schule|Für die Schule]]
+* [[ZUM-Wiki:Vorlagen/Hinweise|Hinweise]] 
+* [[ZUM-Wiki:Vorlagen/Kästen|Kästen]]
+* [[Hilfe:Kurzinfo|Kurzinfo]]
+* [[ZUM-Wiki:Vorlagen/Links|Links]]
+* [[ZUM-Wiki:Vorlagen/Medien|Medien &amp; Symbole]]
+* [[ZUM-Wiki:Vorlagen/Navigation|Navigation]]
+----
+* [[Hilfe:Listen und Tabellen|Listen und Tabellen]]
+&lt;/div&gt;
+&lt;div style=&quot;font-size:90%; padding: .5em; background-color:#f9f9f9; border-top:1px solid #aaaaaa;&quot;&gt;
+* [[ZUM-Wiki:Richtlinien|Regeln und Konventionen]]
+&lt;/div&gt;&lt;/div&gt;</text>
+      <sha1>f7zu3hwwljs62jvhxnzifvd7dm5kla6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Wappenrecht</title>
+    <ns>10</ns>
+    <id>4312</id>
+    <revision>
+      <id>17659</id>
+      <parentid>17658</parentid>
+      <timestamp>2014-02-08T21:09:43Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="753">&lt;div id=&quot;Vorlage_Wappenrecht&quot;&gt;
+{| {{Lizenzdesign4}}
+| Diese Datei oder Bestandteile davon stellen eine {{wpde|Flagge}}, ein {{wpde|Wappen}}, ein {{wpde|Siegel}} oder ein anderes {{wpde|Hoheitszeichen}} dar. 
+
+Auch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.
+|}
+&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|
+[[Kategorie:Datei:Hoheitszeichen|{{PAGENAME}}]]
+}}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]{{Commons|Template:Coat of Arms}}{{Commons|Template:Insignia}}
+&lt;/noinclude&gt;</text>
+      <sha1>hspbydumiymqas14irzaydewx7h708u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Welcome</title>
+    <ns>10</ns>
+    <id>4383</id>
+    <revision>
+      <id>18076</id>
+      <parentid>17803</parentid>
+      <timestamp>2014-05-11T08:35:09Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Datei:Button - Unterschrift.png</comment>
+      <text xml:space="preserve" bytes="1434">&lt;div style=&quot;margin:0; margin-right:4px; margin-left:4px; border:5px solid #FFC125; padding: 1em 1em 1em 1em; background-color:#FFFFFF; align:left;&quot;&gt;
+&lt;big&gt;&lt;span style=&quot;color:#FFC125&quot;&gt;&amp;nbsp;'''Herzlich Willkommen im {{SITENAME}} '''&lt;/span&gt; &lt;/big&gt;
+
+
+* Bitte stelle Dich doch [[Benutzer:{{PAGENAME}}|auf Deiner Benutzerseite]] vor. 
+** Bist Du Schüler/in (Studierende/r), dann nenne auch Deine Schule (Institution) und Deine Lehrkraft, in deren Unterricht Du das ''{{SITENAME}}'' nutzt.
+** Bist Du Lehrer/in (Lehrende/r), dann nenne auch Deine Schule (Institution) und/oder Unterrichtsfächer bzw. Kurse oder Projekte, in denen Du das ''{{SITENAME}}'' nutzt.
+* Die wichtigsten Hilfen findest du unter: [http://wikis.zum.de/projektwiki/images/8/86/Kurzanleitung_Projektwiki_2012.pdf Kurzanleitung] - [[Hilfe:Layout|Layout]] - [[Hilfe:Multimedia|Multimedia]] -  [[Hilfe:Quiz|Quiz]] - [[Hilfe:Tabellen|Tabellen]]
+* Wenn du nicht mehr weiter weißt, helfen wir gerne weiter. Bitte stell deine Fragen bei einem [[Spezial:Benutzer/sysop|Admin]] unter {{Register|Diskussion}}. Unterschreibe deine Beiträge mit einem Klick auf das Symbol [[Datei:Button - Unterschrift.png|Signatur und Zeitstempel]] im WikiEditor unter &quot;Erweitert&quot;.
+* Bitte beachte die [[Hilfe:Richtlinien im Wiki|Richtlinien im Wiki]].
+
+
+
+'''Viel Spaß''' und eine '''gute Zusammenarbeit ''' wünschen die '''''[[Spezial:Benutzer/sysop|Admins]]''''' im ''{{SITENAME}}''
+
+&lt;/div&gt;</text>
+      <sha1>2hu1jbr64f84jwvr8e5t3ws45chc2ul</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:WeltmeisterschaftFußball2014</title>
+    <ns>10</ns>
+    <id>4541</id>
+    <revision>
+      <id>18488</id>
+      <timestamp>2014-06-11T17:51:17Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Kastendesign| BORDER = #AE0000| BACKGROUND = #AE4C4B| BREITE =100%| BILD = Kcmpartitions.png|48px| ÜBERSCHRIFT =Fußball-Weltmeisterschaft 2014| INHALT=&lt;big…“</comment>
+      <text xml:space="preserve" bytes="629">{{Kastendesign|
+BORDER = #AE0000|
+BACKGROUND = #AE4C4B|
+BREITE =100%|
+BILD = Kcmpartitions.png|48px|
+ÜBERSCHRIFT =Fußball-Weltmeisterschaft 2014|
+INHALT=&lt;big&gt;'''18.06.2014'''&lt;/big&gt;
+
+Am 18.06.2014 ist es wieder soweit: Die ganze Welt schaut gespannt auf die Fußballstadion einer Nation, denn hier messen sich die größten Fußball-Teams der Welt! In diesem Jahr findet die Weltmeisterschaft in Brasilien statt! Im ZUM-Grundschulwiki hast Du die Möglichkeit, von der Fußball-Weltmeisterschaft 2014 gemeinsam mit anderen Interessierten zu berichten! Mach mit unter [[FIFA-WorldCup 2014]]! Wir freuen uns auf Deinen Artikel!|}}</text>
+      <sha1>tt8r9nbajimnb3d14wd69xbhmn66spr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:WikisinanderenLaendernListe</title>
+    <ns>10</ns>
+    <id>2425</id>
+    <revision>
+      <id>19034</id>
+      <parentid>19033</parentid>
+      <timestamp>2015-05-15T14:37:09Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>miniatur</comment>
+      <text xml:space="preserve" bytes="371">[[Datei:Map_children_wiki_encyclopedias_in_Europe_Jan_2015.pdf|miniatur|Kinder-Wiki-Lexika in Europa, Januar 2015]]
+* [http://fr.vikidia.org/wiki/Accueil Vikidia] - ein französisches Kinderwiki
+* [http://es.vikidia.org/wiki/Vikidia:Portada Vikidia] - ein spanisches Kinderwiki
+* [http://wikikids.wiki.kennisnet.nl/Hoofdpagina WikiKids] - ein niederländisches Kinderwiki</text>
+      <sha1>ce3t9b0yxzdkppt5wlwjxik3ldu1rhn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Wpd</title>
+    <ns>10</ns>
+    <id>4313</id>
+    <redirect title="Vorlage:Wpde" />
+    <revision>
+      <id>17661</id>
+      <parentid>17660</parentid>
+      <timestamp>2014-02-08T21:09:44Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="31">#WEITERLEITUNG [[Vorlage:Wpde]]</text>
+      <sha1>6tn844tbz5dbszvwmy9ehmmwlgv4f8r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Wpde</title>
+    <ns>10</ns>
+    <id>4314</id>
+    <revision>
+      <id>17663</id>
+      <parentid>17662</parentid>
+      <timestamp>2014-02-08T21:09:44Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="270">[[wikipedia:de:{{{1}}}|{{#if: {{{2|}}} | {{{2}}} | {{{1}}} }}]]&lt;sup&gt;[[Bild:W-Logo.gif|12px]]&lt;/sup&gt;&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{wpde|&lt;Artikelname in der Wikipedia#ggf. mit Sprungziel&gt;|&lt;ggf. Linktext&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Linkbausteine|Wpde]]&lt;/noinclude&gt;</text>
+      <sha1>hio697t4uq23wh9k36gykbc347t3i31</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Währung</title>
+    <ns>10</ns>
+    <id>4315</id>
+    <revision>
+      <id>17665</id>
+      <parentid>17664</parentid>
+      <timestamp>2014-02-08T21:09:44Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="606">&lt;div id=&quot;Vorlage_Währung&quot;&gt;
+{| {{Lizenzdesign4}}
+| Diese Datei oder Bestandteile davon stellen ein {{wpde|Zahlungsmittel}} dar. 
+
+Auch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.
+|}
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}| [[Kategorie:Datei:Währung|{{PAGENAME}}]] }}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>t5mq8qm3ul4mdnnr5q5z839sdpzvull</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:ZUM-Wiki</title>
+    <ns>10</ns>
+    <id>4023</id>
+    <revision>
+      <id>17571</id>
+      <parentid>16285</parentid>
+      <timestamp>2014-02-08T21:09:09Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="397">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#F2C18C}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#f4f0e4}}}&quot;
+|- 
+|
+{{{1}}}
+|}&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{ZUM-Wiki|&lt;Text&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Artikelbausteine|ZUM-Wiki]]
+[[Kategorie:ZUM-Wiki]]
+&lt;/noinclude&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:ZUM-Wiki-Kasten</title>
+    <ns>10</ns>
+    <id>3768</id>
+    <revision>
+      <id>17423</id>
+      <parentid>14961</parentid>
+      <timestamp>2013-11-27T22:22:48Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>aktualisiert</comment>
+      <text xml:space="preserve" bytes="247">&lt;div style=&quot;border: 2px solid #F2C18C; background-color:#f4f0e4;padding:7px;&quot;&gt;
+&lt;center&gt;{{{1}}}&lt;/center&gt;
+&lt;/div&gt;&lt;noinclude&gt;
+;Syntax: &lt;nowiki&gt;{{ZUM-Wiki-Kasten|&lt;Text&gt;}}&lt;/nowiki&gt;
+[[Kategorie:Vorlage:Kastenbausteine]]
+[[Kategorie:ZUM-Wiki]]&lt;/noinclude&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Zitat</title>
+    <ns>10</ns>
+    <id>3428</id>
+    <revision>
+      <id>13116</id>
+      <parentid>13113</parentid>
+      <timestamp>2010-01-30T15:45:14Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Schützte „[[Vorlage:Zitat]]“: soll nicht geändert werden [edit=sysop:move=sysop]</comment>
+      <text xml:space="preserve" bytes="672">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}&quot;
+|- 
+|{{{1}}}
+----
+[[Bild:Cquote2.svg|12px]] &lt;tt&gt;{{{2}}}&lt;/tt&gt; [[Bild:Cquote2.svg|12px]]
+|}&lt;noinclude&gt;
+
+'''Das schreibt man:'''
+&lt;pre&gt;
+{{Zitat|&lt;Text&gt;|&lt;Quelle&gt;}}
+&lt;/pre&gt;
+
+;Achtung: Diese Vorlage nimmt immer die ganze Seitenbreite ein. Wenn eine flexible Breite gewünscht ist, damit z.B. ein Bild diese Vorlage umfließen kann, verwende [[Vorlage:Zitat float]].
+
+&lt;!--von Wiki.ZUM, verändert auf CommonsBilder, A.Burgermeister --&gt;
+
+&lt;/noinclude&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Zitat float</title>
+    <ns>10</ns>
+    <id>3429</id>
+    <revision>
+      <id>13115</id>
+      <parentid>13114</parentid>
+      <timestamp>2010-01-30T15:44:51Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <minor/>
+      <comment>Schützte „[[Vorlage:Zitat float]]“: soll nicht geändert werden [edit=sysop:move=sysop]</comment>
+      <text xml:space="preserve" bytes="649">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|silver}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; &lt;!--width: {{{Breite|100%}}}; --&gt;background-color: {{{Hintergrund|#efefef}}}&quot;
+|- 
+|{{{1}}}
+----
+[[Bild:Cquote2.svg|12px]] &lt;tt&gt;{{{2}}}&lt;/tt&gt; [[Bild:Cquote2.svg|12px]]
+|}&lt;noinclude&gt;
+
+Das schreibt man:
+
+&lt;pre&gt;
+{{Zitat|&lt;Text&gt;|&lt;Quelle&gt;}}
+&lt;/pre&gt;
+
+;Achtung: Diese Vorlage passt sich in der Seitenbreite z.B. einem rechts stehenden Bild an. Wenn eine feste Breite gewünscht ist, verwende [[Vorlage:Zitat]].
+
+&lt;!--Nach ZUM-Wiki, verändert mit Bildchen aus Commons, A.Burgermeister --&gt;
+&lt;/noinclude&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Zum-wiki</title>
+    <ns>10</ns>
+    <id>4387</id>
+    <revision>
+      <id>17815</id>
+      <parentid>17814</parentid>
+      <timestamp>2014-02-08T21:37:59Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="242">[[Datei:ZUM-Wiki-Logo.png|20px|ZUM-Wiki|verweis=:zum-wiki:]]&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{zum-wiki}}&lt;/pre&gt;
+
+;Achtung: Schreibe bitte mit Kleinbuchstaben.
+
+[[Kategorie:Vorlage:Logo-Link|ZUM-Wiki]]
+&lt;/noinclude&gt;&lt;noinclude&gt;
+
+&lt;/noinclude&gt;</text>
+      <sha1>f41n8mfe52cw11tjg5ofa9js1e4tbvv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Zusatz</title>
+    <ns>10</ns>
+    <id>1606</id>
+    <revision>
+      <id>19457</id>
+      <parentid>19456</parentid>
+      <timestamp>2015-11-30T20:34:36Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1660">{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;10&quot;
+| style=&quot;width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;float:right; margin:8px; margin-top:5px&quot;&gt;[[Bild:Kfm_home.png|48px]]&lt;/div&gt;
+&lt;div style=&quot;background-color:#B0C4DE; height:22px; border-bottom:1px solid #8898BF;font-family:Verdana; color:darkblue; padding-left:10px&quot;&gt;Administration des ZUM-Grundschulwiki&lt;/div&gt;
+
+{{Achtung|Ab dem 1. Januar 2015 gilt im ZUM-Grundschulwiki generell nur noch die Lizenzierung &quot;[http://creativecommons.org/licenses/by-sa/3.0/de/ Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)]&quot;, soweit nicht im Einzelfall eine andere Lizenz angegeben ist. Dies entspricht den [[:family:Wiki-Family:Über_Wiki-Family#Lizenzbestimmungen|Lizenzbedingungen, wie sie in der gesamten ZUM-Wiki-Family gültig sind]].
+
+Wenn ein eigener Beitrag nicht unter der CC BY-SA 3.0 DE veröffentlicht bleiben soll, sende bitte einen kurzen Hinweis darauf an [[Spezial:E-Mail_senden/Karl_Kirst|diese Adresse]].}} 
+
+{| width=&quot;100%&quot; style=&quot;background-color:#FFFFFF&quot; 
+|valign=&quot;top&quot; |
+&lt;div style=&quot;padding-left:8px; font-family:Arial;&quot;&gt;
+* [[ZUM-Grundschul-Wiki:Administratoren|Hilfe für Administratoren]]
+&lt;!--* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]--&gt;
+* [[ZUM-Grundschul-Wiki:Blog|Blog]]
+* [[Hilfe:Vorlagen|Vorlagen, Bilder und Töne]]&lt;/div&gt;
+| width=&quot;50%&quot; valign=&quot;top&quot; |
+&lt;div style=&quot;padding-left:8px; font-family:Arial;&quot;&gt;
+&lt;!--* [[ZUM-Grundschul-Wiki:Technik|Technik]]--&gt;
+* [[Spielwiese]] für alle Neulinge im Grundschulwiki
+* [[Wikis in anderen Ländern]]
+&lt;/div&gt;
+|}
+|}</text>
+      <sha1>raww30wolfbm0fvjmwablprrkap8uxl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Überschriftensimulation 4</title>
+    <ns>10</ns>
+    <id>4226</id>
+    <revision>
+      <id>17463</id>
+      <parentid>17462</parentid>
+      <timestamp>2014-01-08T18:33:57Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="629">{{Anker|{{{1}}}}}&lt;div class=&quot;Vorlage_Ueberschriftensimulation_4&quot; style=&quot;margin:0; margin-bottom:.3em; padding-top:.5em; padding-bottom:.17em; background:none; font-size:116%; color:black; font-weight:bold&quot;&gt;{{{1}}}&lt;/div&gt;&lt;noinclude&gt;
+
+----
+Simuliert in ''Diskussionseiten'' eine Überschrift, die nicht im Inhaltsverzeichnis erscheinen soll. In ''Artikeln'' darf diese Vorlage nicht verwendet werden; dafür gibt es andere Lösungen, siehe [[Hilfe:Inhaltsverzeichnis]].
+
+Für Syntax und Anwendung siehe [[Wikipedia:Textbausteine/Formatierungshilfen]].
+
+[[Kategorie:Vorlage:Formatierungshilfe|Uberschriftensimulation 4]]
+&lt;/noinclude&gt;</text>
+      <sha1>k0hzkr9zpmd67tj5rz4nmykiokzf6p4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Übung</title>
+    <ns>10</ns>
+    <id>4368</id>
+    <revision>
+      <id>17771</id>
+      <parentid>17770</parentid>
+      <timestamp>2014-02-08T21:11:22Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="639">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#8E8CF2}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}};background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Hand.gif|30px]] &amp;nbsp; Übung 
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+
+{{Quellcode}}&lt;pre&gt;{{Übung|&lt;Text der Übung&gt;}}&lt;/pre&gt;
+
+;Hinweis: Diese Vorlage beansprucht immer die volle Seitenbreite. - Eine flexible Breite hat die [[Vorlage:Übung float]].
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Übung]]&lt;/noinclude&gt;</text>
+      <sha1>7edd9cx90hr77ttpo9s3ks2c2h5q7ib</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Bearbeiten</title>
+    <ns>12</ns>
+    <id>5559</id>
+    <revision>
+      <id>23524</id>
+      <timestamp>2018-11-27T12:19:34Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == Farbmäuse ==  Farbmäuse sind wechselaktiv. Es gibt sie in verschiedenen Farben. Sie brauchen Mehlwürmer wegen des Eiweiß. Man kann ihnen stattdessen au…“</comment>
+      <text xml:space="preserve" bytes="326">
+== Farbmäuse ==
+
+Farbmäuse sind wechselaktiv.
+Es gibt sie in verschiedenen Farben.
+Sie brauchen Mehlwürmer wegen des Eiweiß.
+Man kann ihnen stattdessen auch manchmal Quark geben,
+aber die Mehlwürmer fressen sie einfach viel lieber.
+
+Sie werden bis zu drei Jahre alt, selten 3-5 Jahre.
+Man darf ihnen keinen Zucker geben!</text>
+      <sha1>rix7gcjtceebl7ungm6j2ynd7z9rpjn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Fragenkiste</title>
+    <ns>12</ns>
+    <id>1521</id>
+    <revision>
+      <id>18975</id>
+      <parentid>18970</parentid>
+      <timestamp>2015-05-08T19:08:10Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- font-size:9pt;</comment>
+      <text xml:space="preserve" bytes="1544">{{Kastendesign|
+   BORDER = #AE0000|
+   BACKGROUND = #AE4C4B|
+   BREITE =100%|
+   INHALT='''Was ist eigentlich ein ''Fuder''?''' oder '''Wie funktioniert eigentlich eine ''Pumpe''?'''
+
+Kennst du das nicht auch, du möchtest gerne etwas wissen, findest aber keine Antwort? Diese Fragenkiste kann dir dabei helfen! 
+
+Wenn du solch eine Frage hast, dann schreibe sie einfach hier auf. Irgendjemand liest sie und kann dir eine Antwort geben. Bestimmt!
+
+Klicke dafür unten auf &quot;''neu einfügen''&quot; und füge deine Frage ein! Aber '''VORSICHT!''': Lösche keine der anderen Fragen, damit die noch beantwortet werden können!
+
+Wenn du eine Antwort weißt, schreibe diese nicht hierhin, sondern in den eigentlichen Text!|
+   BILD=Fragezeichen.png|
+   ÜBERSCHRIFT=Fragenkiste|
+ }}
+
+{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width:100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; margin:12px; margin-top:10px&quot;&gt;[[Bild:Fragezeichen.png|48px]]&lt;/div&gt;
+&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Beiträge &amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;small&gt;[http://www.zum.de/grundschulwiki/index.php?title=Vorlage:Fragen&amp;action=edit neu einfügen!]&lt;/small&gt;&lt;/small&gt;&lt;/div&gt;
+&lt;div style=&quot;padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=3 width=100%
+|align=left valign=top width=100%|
+{{Fragen}}
+|}
+&lt;/div&gt;
+|}</text>
+      <sha1>83m3vbg58iu9iw0dq1gzs56imj6iecd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Hilfe</title>
+    <ns>12</ns>
+    <id>3905</id>
+    <revision>
+      <id>15569</id>
+      <parentid>15568</parentid>
+      <timestamp>2012-04-07T05:22:26Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="210">{{Kastendesign2|
+BORDER = #AE0000|
+BACKGROUND = #AE4C4B|
+BREITE =100%|
+BILD = Rettungsring.png|48px|
+ÜBERSCHRIFT =Hilfe|
+INHALT1=* [[Hilfe für Kinder]]|
+INHALT2=* [[Hilfe für Eltern, Erzieher und Lehrer]]|}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Hilfe für Eltern, Erzieher und Lehrer</title>
+    <ns>12</ns>
+    <id>1314</id>
+    <revision>
+      <id>20932</id>
+      <parentid>19454</parentid>
+      <timestamp>2016-11-26T11:49:18Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="9301">{{Kastendesign|
+   BORDER = #AE0000|
+   BACKGROUND = #AE4C4B|
+   BREITE =100%|
+   INHALT===Liebe Eltern, Erzieher und Lehrer!==
+
+Die ZUM (Zentrale für Unterrichtsmedien im Internet e.V. [http://www.zum.de (www.zum.de)]) will mit der Bereitstellung des Grundschul-Wikis einen weiteren Beitrag zur Schulung unserer heranwachsenden Gesellschaftsmitglieder in Sachen Medienkompetenz leisten. Ziel ist es, Schülern im Primarbereich, darüber hinaus aber auch für Kinder der angrenzenden Altersstufen, ein sinnvolles Angebot zur Mitarbeit anzubieten. Schüler entwickeln im Laufe ihrer ersten Schuljahre bereits häufig Vorlieben für wissenschaftliche Themen und wollen diese ergründen. Auf dieser Plattform bietet sich ihnen die Chance, diese kindliche natürliche Neugierde nicht nur zu befriedigen, sondern sie können darüber hinaus ihr angesammeltes Wissen an andere Interessierte weitergeben, indem sie diese Seite mitgestalten.
+
+Sie kennen als Internetuser sicherlich andere Internetlexika, die nach dem selben Prinzip funktionieren. Daher wissen Sie, dass das gemeinsame Arbeiten an einem Artikel oder einem Thema zu fruchtbaren Ergebnissen führen kann, da Kompetenzen kombiniert werden können. Hier soll das selbe Prinzip angewendet werden, nur sollen Kinder die Zielgruppe und die Autoren sein. Gerne können sich Gruppen an der Gestaltung des Lexikons beteiligen.
+
+Die Artikel sind anfangs häufig kurz und bestehen aus einem oder zwei Sätzen. Es ist wünschenswert, dass ein solcher Artikelanfang von anderen Kindern aufgegriffen, überarbeitet und ergänzt wird (z.B. mit Bildern), so dass sich mit der Zeit mehr Informationen zu einem Thema ansammeln. Auf diese Weise wird auch deutlich, dass das Grundschul-Wiki ein gemeinsames Gut der Kinder ist und gleichsam allen gehört.
+
+==Warum ein Wiki für Kinder?==
+
+Die Medienpädagogik, die Medienforschung und vor allem die Allgemeinheit stecken in einer großen, lang andauernden Diskussion: '''Sollen Kinder bereits im Grundschulalter Medien nutzen oder sollen wir sie davor bewahren?''' Die Forschungslage zu diesem Thema ist sehr widersprüchlich und für die verschiedenen Theorien können kaum Beweise gefunden werden.
+
+Ein altes chinesisches Sprichwort sagt: &quot;Wenn der Wind der Veränderung weht, dann bauen einige Menschen Mauern, andere Windmühlen!&quot; Die ZUM versteht sich als Windmühlenbauer! Wir wollen die positiven Effekte einer Mediennutzung von Grundschülern aufgreifen und sie animieren, sich am WWW zu beteiligen.
+
+Kinder, unsere zukünftigen Erwachsenen, müssen lernen, die Neuen Medien sinnvoll einzusetzen, sie für ihren Lernprozess zu nutzen und das Beste aus ihnen zu gewinnen!
+
+==Anmelden beim ZUM-Grundschulwiki==
+
+Während unserer bisherigen Erfahrungen hat es sich als sinnvoll herausgestellt, dass nur angemeldete Kinder und Gruppen mitschreiben können. Wenn Sie Interesse haben, schreiben Sie uns einfach eine [mailto:email@grundschulwiki.de E-Mail], wir senden Ihnen dann gegebenenfalls umgehend einen Anmeldenamen zu, über den Sie - wenn Sie Leiter einer Gruppe sind - auch beliebig viele weitere Mitglieder anmelden können. Die Mitarbeit ist selbstverständlich nicht nur freiwillig, sondern auch kostenlos! Die Anmeldeprozedur soll kein Hindernis für Ihr Engagement und das Ihrer Kinder darstellen!
+
+==Neu im ZUM-Grundschulwiki?==
+
+Wenn Sie im Grundschulwiki neu sind, dann können Sie auf der [[Spielwiese]] den Umgang mit dem WIKI üben! Bitte schreiben Sie nicht in den Artikeln selbst, da diese für die Schüler gedacht sind. Danke!
+
+==Regeln im ZUM-Grundschulwiki==
+
+Da Erklärungszusammenhänge immer komplexer werden, sind einige Regeln für das Verfassen von Texten, das Einbinden von Bildern und das allgemeine Verhalten in einem WIKI für Schüler im Grundschulalter sehr schwer zu verstehen. Wir haben deshalb versucht, sie kindgerecht und verständlich zu formulieren. Damit das Grundschul-WIKI richtig funktioniert und sinnvoll eingesetzt werden kann, müssen die Teilnehmer die Regeln verstehen und beachten. Sie können uns helfen, indem Sie sie noch einmal erklären und besprechen. Die bestehenden [[Hilfe:Regeln|Regeln]] für Schüler leiten sich von diesen ab (siehe auch [[ZUM-Grundschul-Wiki:Lizenzbestimmungen|Lizenzbestimmungen]]):
+
+&lt;div style=&quot;margin: 0; margin-right:10px; border:2px solid #dfdfdf; padding: 0em 1em 1em 1em; background-color:#FCFFC9; align:left;&quot;&gt; 
+Du versicherst hiermit, dass du den Text selbst verfasst hast, dass er gemeinfrei ist oder dass der Rechtsinhaber der Lizenzierung unter der Creative Commons-Lizenz bzw. der GNU-FDL zugestimmt hat. Bitte gib im Artikel oder in der Zusammenfassung deine Quellen an und weise auf der Diskussionsseite darauf hin, wenn dieser Text bereits anderswo veröffentlicht wurde. Alle Beiträge im ZUM-Grundschulwiki fallen unter die Creative Commons Lizenz &quot;[http://creativecommons.org/licenses/by-sa/3.0/de/ Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland (CC BY-SA 3.0 DE)]&quot;. Sollten Beiträge aus anderer Quelle unter die GNU-Lizenz für freie Dokumentation fallen, so gilt diese hier weiterhin. Falls du nicht möchtest, dass dein Text verändert und verbreitet wird, dann speichere ihn nicht. Das Kopieren urheberrechtlich geschützter Werke ohne Erlaubnis des Autors ist verboten. Ohne dokumentierte Erlaubnis z. B. von anderen Webseiten übernommene Texte werden gelöscht. Beachte auch, dass deine IP-Adresse bzw. dein Benutzername in der Versionsgeschichte öffentlich mitprotokolliert wird.
+&lt;/div&gt;
+
+==Hilfe bei der Bedienung des ZUM-Grundschulwiki==
+
+Wenn Sie noch Hilfe bei der Bedienung des ZUM-Grundschulwiki benötigen, schauen Sie bitte auf der Seite &quot;[[Hilfe:Hilfe für Kinder|Hilfe für Kinder]]&quot; nach. Außerdem erhalten Sie Unterstützung bei der Einrichtung neuer Nutzerkonten für Ihre Schüler. Dazu rufen Sie bitte die Seite der &quot;[[ZUM-Grundschul-Wiki:Administratoren|Administratoren des ZUM-Grundschulwiki]]&quot; auf.
+
+Wenn Sie noch keine Erfahrungen in der Benutzung eines WIKI haben und nicht genau wissen, wie eine Seite aussehen kann, dann schauen Sie sich bereits fertige Seiten an (siehe das [[Streifenhörnchen]] oder [[SuDoku]]). Auch an diesen Seiten darf noch gearbeitet und verändert werden, sie entsprechen allerdings den Mindestanforderungen, die wir uns wünschen.
+
+Außerdem steht für Sie eine komplette Arbeitsblattsammlung zum ZUM-Grundschulwiki zur Verfügung, die Sie selbstverständlich kostenlos herunterladen und nutzen können. Sie finden sie auf der Seite &quot;[http://www.zum.de/Faecher/grund/leupold/Praxis/Einheiten/grundschulwiki/grundschulwiki.html TiP@Gs - Theorie und Praxis des Computer- und Interneteinsatzes an Grundschulen]&quot;
+
+==Mitgliedschaft bei der Zentrale für Unterrichtsmedien e.V.==
+
+Wenn Sie als Administrator (Sysop) des ZUM-Grundschulwiki zum Ausbau des Angebotes beitragen, unterstützen Sie gleichzeitig auch die ZUM bei ihrem Auftrag, möglichst vielen Kollegen, Erziehern und Eltern die Arbeit mit den Neuen Medien im Unterricht oder in ihren sonstigen Bildungsveranstaltungen zu erleicherten und ihnen zu helfen, mit ihren Schülern und Kinder zu arbeiten. Die ZUM ist ein Verein, der sich auf vielfältige Weise diesem Ziel verschrieben hat. Alle Mitglieder sind freiwillig und ehrenamtlich dabei, sie zahlen weder Mitgliedsbeitrag noch haben sie anderweitige Verpflichtungen gegenüber den anderen Mitgliedern. Aber jeder Kollege erhält Vorteile, wenn er Mitglied wird: Nicht nur, dass er dem Team des ältesten deutschen ehrenamtlichen Bildungsservers angehört und damit auf die Hilfe von vielen Kollegen zurückgreifen kann, er erhält auch bei seinen Veröffentlichungen im Wiki oder auf den Seiten der ZUM eine Absicherung: Sollte es zu Komplikationen auf Grund rechtlicher Fragen kommen, dann tritt die ZUM gerne im Rahmen ihrer Möglichkeiten für Sie ein. Wenn Sie sich also im Grundschul-Wiki engagieren wollen, dann denken Sie doch auch über eine Mitgliedschaft bei der ZUM nach. Diese kostet Sie nichts, bringt aber Vorteile. Und darüber hinaus: &quot;Wir ZUMler beißen nicht!&quot; Melden Sie sich für eine Mitgliedschaft gerne bei [mailto:email@grundschulwiki.de uns]! Außerdem finden Sie mehr Informationen zum Beitritt in die ZUM auf [http://www.zum.de/portal/über/mitarbeit diesen Seiten] der ZUM!
+
+==Diskussion==
+
+Sie haben Fragen, Wünsche oder Anregungen zum ZUM-Grundschulwiki. Kein Problem, diskutieren Sie mit uns über die Zukunft des Wikis. Nutzen sie dafür die [[Hilfe Diskussion:Hilfe für Eltern, Erzieher und Lehrer|Diskussion]]sseite.
+
+==Helfen Sie mit==
+
+Bei der Erstellung und Pflege des ZUM-Grundschulwiki achten wir auf die Jugendmedienschutzbestimmungen. Das erfordert sehr viel zeitlichen Aufwand, weil das Projekt sehr vielfältig und umfangreich ist und alle Seiten &quot;mit Hand&quot; von Ehrenamtlichen gepflegt werde müssen. Helfen Sie deshalb auch mit, teilen Sie uns Unstimmigkeiten mit, weisen Sie uns auf Fehler hin. Wir freuen uns über jede Hilfe, das Internet noch besser für Kinder zu machen.
+
+
+==Wenn ich nicht mehr weiter weiß...==
+Mehr Hilfe bekommen Sie bei den [[ZUM-Grundschul-Wiki:Administratoren|Administratoren]] und [[ZUM-Grundschul-Wiki:Bürokraten|Bürokraten]] des ZUM-Grundschulwiki.|
+   BILD=Rettungsring.png|
+   ÜBERSCHRIFT=Hilfe für Eltern, Erzieher und Lehrer|
+ }}</text>
+      <sha1>gh14xwoc06pdb90gfxaxaucefroy3pq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Hilfe für Kinder</title>
+    <ns>12</ns>
+    <id>1304</id>
+    <revision>
+      <id>18981</id>
+      <parentid>18973</parentid>
+      <timestamp>2015-05-08T19:35:37Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- Achim</comment>
+      <text xml:space="preserve" bytes="16130">{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width: 100%; vertical-align: top; border:1px solid #AE0000; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#AE4C4B; font-size:1px; height:8px; border-bottom:1px solid #AE0000;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; margin:8px; margin-top:5px&quot;&gt;[[Image:Rettungsring.png|48px]]&lt;/div&gt;
+&lt;div style=&quot;font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Hilfe für Kinder&lt;/div&gt;
+&lt;div style=&quot;padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=5 width=100%
+|align=left valign=top width=100%|
+Du bist neu hier und weißt nicht so richtig, wie ein WIKI funktioniert? Kein Problem, hier sind die wichtigsten Fragen mit einer Antwort!&lt;br&gt;Sollte deine Frage nicht dabei sein oder du hast noch ein ganz anderes Problem, dann schreib uns einfach eine [mailto:email@grundschulwiki.de E-Mail].
+
+
+==Was ist ein WIKI?==
+
+[[Bild:Muster.jpg|thumb|120px|Eingefügtes Bild]]
+
+Ein WIKI ist eine Internetseite, an der jeder frei mitgestalten kann. Jeder kann Autor sein, jeder kann etwas verbessern, jeder kann etwas dazu schreiben aber auch etwas herausnehmen. Außerdem kann man Bilder zu etwas hinzufügen. Diese Bilder kann man selber malen, sie fotografieren oder von einer anderen Quelle nehmen. Aber '''VORSICHT!''': Du darfst nicht jedes Bild einfach so nehmen. Dabei gibt es bestimmte [[Hilfe:Regeln|Regeln]]! Lies sie Dir genau durch und beachte sie, wenn du hier mitmachen möchtest.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+Da jeder auf dieser Internetseite alles darf und kann, schafft man gemeinsam sehr viel! Viel Spaß beim Mitmachen!
+
+==Wie kann ich mitmachen?==
+
+Beim Grundschul-WIKI der ZUM darf eigentlich jeder mitmachen. Bislang ist es so, dass immer eine Gruppe von Kindern durch einen Lehrer oder einen Erzieher angemeldet wird. Dafür muss uns ein Erwachsener eine [mailto:email@grundschulwiki.de E-Mail] schreiben. Dann bekommt er ein Passwort und kann dann beliebig viele Kinder anmelden. Das ganze kostet natürlich gar nichts!!
+
+
+
+===Einloggen in das Wiki===
+
+[[Bild:einloggen.jpg|thumb|180px|Zum Einloggen oben rechts auf ''&quot;Einloggen&quot;'' klicken]]
+[[Bild:einloggen2.jpg|thumb|180px|Deinen Namen und dein Passwort eingeben]]
+[[Bild:ausloggen.jpg|thumb|180px|Zum Ausloggen oben rechts auf ''&quot;Ausloggen&quot;'' klicken]]
+Wenn du beim Grundschul-WIKI über einen Lehrer, einen Erzieher oder deine Eltern angemeldet bist, musst du dich mit deinem Benutzernamen und deinem Passwort erst einmal auf der Internetseite einloggen (Steht am oberen rechten Rand!), damit du schreiben kannst.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+
+
+
+===Passwort ändern===
+
+[[Bild:PWaendern.jpg|thumb|180px|So sieht der Kasten zum Ändern des Passwortes aus.]]
+Als erstes Passwort bekommst du oft eine merkwürdige Buchstaben- und Zahlenkombination. Wenn du es ändern möchtest, klicke ganz oben rechts auf ''&quot;Einstellungen&quot;''. Dort findest du dann den Kasten mit ''&quot;Passwort ändern&quot;''. Wundere dich nicht, deine Eingabe wird nur als eine Reihe von Sternchen sichtbar!&lt;br&gt;
+Manchmal ist es wichtig, aus Sicherheitsgründen sein Passwort zu ändern. &lt;br&gt;Tipp: Wähle ein Passwort, dass du dir gut merken kannst!
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+===Passwort vergessen!?===
+
+[[Bild:PWvergessen.jpg|thumb|180px|Direkt beim Einloggen findest du den Button ''&quot;Passwort vergessen?&quot;'']]
+Wenn du dein Passwort vergessen hast, kannst du es dir per E-mail zuschicken lassen. Direkt im Fenster für das Einloggen findest du den Button dazu. Dein Passwort wird an die E-mail-Adresse geschickt, dass du bei der Anmeldung für das Grundschulwiki angegeben hast. Das muss nicht deine eigene sein, es kann auch die Adresse von dem Erwachsenen sein, der dich angemeldet hat. Tipp: Wenn du dein Passwort vergessen hast, ändere es im Anschluss in eines, dass du dir besser merken kannst! (o:
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+==Wie kann ich einen Text schreiben?==
+
+===Du willst einen neuen Artikel schreiben?===
+
+[[Bild:Textschreiben1.jpg|thumb|180px]]
+Wenn du dich eingeloggt hast, gibt es zwei Möglichkeiten: Du schreibst einen neuen Artikel oder du veränderst oder bearbeitest einen vorhandenen Artikel: Du hast einen neuen Begriff, den es bei uns nicht gibt und möchtest ihn im Lexikon richtig ins Alphabet einfügen. Wir zeigen es dir am Wort &quot;''Banane''&quot;. Du gehst zuerst einmal auf die Seite mit dem richtigen Buchstaben, also dem &quot;''B''&quot;. Es erscheint die Buchstaben-Seite mit dem &quot;''B''&quot;, auf dem ein Kasten mit dem Alphabet ist und ein weiterer Kasten mit allen Wörtern, die es schon mit diesem Anfangsbuchstaben gibt. In diesem Kasten steht das Wort &quot;''bearbeiten''&quot; am linken Rand gleich unter Inhalt. Dort klickst du und es erscheint ein neues Fenster.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:textschreiben2.jpg|thumb|180px]]
+Da bei &quot;''B''&quot; bei unserem Beispiel noch kein Wort ist, ist die Liste ganz leer. Wenn bei einem anderen Buchstaben schon Wörter stehen, darfst du sie aber auf keinen Fall löschen, sonst gehen die Hinweise zu anderen Beiträgen verloren. Füge dein Wort nun alphabetisch an die richtige Stelle. Achte darauf, dass Namenwörter zuerst stehen, dahinter der Begleiter: &quot;''Banane, die''&quot;.
+Wenn du willst, kannst du einen kleinen Stern (Tasten: &quot;Shift&quot; und &quot;+&quot;) vor das Wort ''Banane'' machen, daraus wird später ein Aufzählungszeichen.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:textschreiben3.jpg|thumb|180px]]
+Da wir den eigentlichen Text für &quot;''Banane''&quot; auf einer anderen Seite schreiben wollen, markierst du das Wort und fügst einen &quot;''internen Link''&quot; ein. Den Knopf dafür findest du am oberen Rand von dem Fenster, in dem du gerade schreibst ([[Bild:textschreibenminiinternerlink.jpg]])! Nun hat der Computer automatisch die eckigen Klammern um das Wort &quot;''Banane''&quot; gemacht. Schon bist du hier fertig.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:textschreiben4.jpg|thumb|180px]]
+'''VORSICHT!:''' Nun musst du nur noch die veränderte Internetseite speichern. Klicke dafür auf &quot;''Artikel speichern''&quot;!
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:textschreiben5.jpg|thumb|180px]]
+Nun siehst du vor dir wieder eine Seite mit den Wörtern von &quot;''Buchstabe B''&quot;, nur ist jetzt dein eingefügtes Wort dabei. Da du noch keinen Text über die Banane geschrieben hast, ist das Wort aber noch rot. Nun klicke einfach dieses rote Wort an...
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:textschreiben6.jpg|thumb|180px]]
+...und schon öffnet sich ein Fenster, in dem du den eigentlichen Text über die Banane schreiben kannst. Achte darauf, dass wir [[Hilfe:Regeln|Regeln]] für das Schreiben von Artikeln haben. Die musst du unbedingt beachten, wenn du einen neuen Artikel schreibst.
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+===Du willst an einem schon vorhandenen Artikel etwas verändern?===
+
+Wenn du einen Artikel findest, den ein anderes Kind geschrieben hat und du merkst, dass sich irgendwo ein Fehler eingeschlichen hat oder dass etwas wichtiges fehlt, dann kannst du einen vorhandenen Artikel verändern. Das ist so ähnlich, als wenn du einen neuen Artikel schreibst.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:artikelaendern1.jpg|thumb|180px]]
+Du klickst erstmal auf den Artikel. Dann findest du oben am Rand das Wort ''&quot;bearbeiten&quot;''.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:artikelaendern2.jpg|thumb|180px]]
+Wenn du darauf klickst, öffnet sich ein Fenster, in dem du den bereits geschriebenen Text findest. Jetzt musst du nur noch an der richtigen Stelle den Text verändern.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:Textschreiben4.jpg|thumb|180px]]
+Zum Abschluss nicht vergessen auf ''&quot;Artikel speichern&quot;'' klicken!!
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+==Wie kann ich die Schrift im Text verändern?==
+
+In deinem Artikel kannst du das Aussehen vom Text ein bisschen verändern. Dabei helfen dir die Knöpfe am oberen Rand des Kastens, in dem du geschrieben hast. Am besten, du probierst es einmal aus!!
+
+Hier sind die wichtigsten Knöpfe noch eimal mit Erklärung:
+
+
+'''Bei diesen Knöpfen muss der Text markiert sein, den du verändern möchtest!'''
+{|
+| [[Bild:textschreibenminifett.jpg]] || Wenn du hier klickst, wird der Text '''fett'''!
+|-
+| [[Bild:textschreibenminikursiv.jpg]] || Wenn du hier klickst, wird der Text ''kursiv''!
+|-
+| [[Bild:textschreibenminiueberschrift.jpg]] || Wenn du hier klickst, wird der Text zu einer '''Überschrift'''! (siehe oben &quot;Wie kann ich die Schrift im Text verändern?&quot;. Diese wurde so gestaltet.)
+|-
+| [[Bild:textschreibenminiinternerlink.jpg]] || Wenn du hier klickst, kannst du einen Hinweise zu einer anderen Seite vom Grundschul-WIKI einfügen! 
+|-
+| [[Bild:textschreibenminiexternerlink.jpg]] || Wenn du hier klickst, kannst du einen Hinweis zu einer anderen Internetseite einfügen.
+|}
+
+
+'''Bei diesen Knöpfen muss der Text nicht markiert sein:'''
+{|
+| [[Bild:textschreibenminilinie.jpg]] || Wenn du hier klickst, fügt der Computer eine Linie ein. Das solltest du nicht zu häufig tun, manchmal hilft sie aber, damit der Text übersichtlicher bleibt.
+|-
+| [[Bild:textschreibenminibild.jpg]] || Wenn du hier klickst, fügt der Computer ein Bild ein. Weiter unten auf dieser Seite findest du mehr dazu!!
+|}
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+==Wie kann ich ein Bild einfügen?==
+
+===Bilder hochladen===
+
+Damit du ein Bild im Grundschul-Wiki verwenden kannst, musst du es erstmal herstellen und dann zum Wiki übertragen. Das heißt in der Computersprache ''&quot;hochladen&quot;''.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:Bildeinfuegen1.jpg|thumb|180px]]
+Auf der linken Seite einer jeden Seite des Grundschul-Wiki findest du bei ''&quot;Werkzeuge&quot;'' einen Link ''&quot;Hochladen&quot;''. Klicke darauf!
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:Bildeinfuegen2.jpg|thumb|180px]]
+Nun suchst du mit ''&quot;Durchsuchen&quot;'' das richtige Bild auf deinem Computer. Schreibe nun noch eine kurze Beschreibung zum Bild und klicke auf ''&quot;Hochladen&quot;''. Fertig! '''VORSICHT!:''' Wenn du deinem Bild einen Dateinamen gibst, musst du aufpassen, dass nicht ein anderes Bild, das es schon gibt, den selben Namen hat. Sonst wird das Bild gelöscht. Das wäre nicht gut!
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+[[Bild:Bildeinfuegen3.jpg|thumb|180px]]
+Ab jetzt kannst du das Bild in deinen Artikeln verwenden. Dafür musst du genau den richtigen Namen eingeben, den du deinem Bild beim Hochladen vorher gegeben hast.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+===Bilder in Originalgröße ohne Rahmen===
+
+Bilder kannst du mit dem Knopf (Icon) [[Bild:Textschreibenminibild.jpg]] einfügen. In der Computersprache sieht das im Text dann so aus: &lt;tt&gt;&lt;nowiki&gt;[[Bild:Dateiname|Beschreibung]]&lt;/nowiki&gt;&lt;/tt&gt;. 
+Das Bild wird dann in Originalgröße links im Artikel angezeigt. Ein beschreibender Text wird angezeigt, wenn die Maus darüber fährt. Da große Bilder sehr lange zum Anzeigen brauchen, solltest du das Bild anders darstellen (siehe ''Bilder als Vorschaubild mit Rahmen'') oder nur kleine Bilder verwenden.
+
+{| border=&quot;1&quot; style=&quot;border-collapse:collapse&quot; 
+!Eingabe
+!Ergebnis
+|-
+|style=&quot;background:#efefef;&quot; valign=&quot;top&quot; |
+&lt;pre&gt;&lt;nowiki&gt;
+[[Bild:Kid.jpg|Kind]]
+&lt;/nowiki&gt;&lt;/pre&gt;
+|
+[[Bild:Kid.jpg|Kind]]
+|}
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+===Bilder als Vorschaubild mit Rahmen===
+
+[[Bild:Kid2.png|thumbnail|Zeichnung von Microsoft]] Das Programm hier zur Darstellung des Grundschul-Wikis kann automatisch kleine Vorschaubilder erzeugen, die nicht so lange brauchen, bis sie angezeigt werden. Dazu fügt man den Zusatz &lt;tt&gt;thumb&lt;/tt&gt; zwischen Dateiname und den beschreibenden Text ein, zum Beispiel
+
+&lt;tt&gt;&lt;nowiki&gt;[[Bild:Kid2.png|thumb|Zeichnung von Microsoft]]&lt;/nowiki&gt;&lt;/tt&gt;. 
+
+Das erzeugte Vorschaubild wird rechts angezeigt. Der beschreibende Text wird unter dem Bild angezeigt. Über die Lupe springt man zur großen Version des Bildes auf seiner Beschreibungsseite. Das kannst du probieren.
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+== Wie kann ich eine Tondatei einbauen?==
+===Tondatei hochladen===
+Im ZUM-Grundschulwiki kannst Du auch Töne einbauen. Das können Tierstimmen sein, Lieder, die Du selbst mit Deinem Instrument aufgenommen hast oder etwas, das Du gesprochen hast. Wenn Du eine Tondatei im Wiki verwenden möchtest, dann lade die Datei so hoch, wie ein Bild. Genauso kannst Du sie dann in den Text einbinden. Das ZUM-Grundschulwiki kann nur Dateien vom Format ''ogg'' verwenden. Frage auch Deinen Lehrer oder Deine Eltern, wie Du so eine Datei herstellen kannst.
+&lt;br style=&quot;clear:both;&quot;/&gt;
+[[Bild:Bildeinfuegen1.jpg|thumb]]
+Wie bei den Bildern klickst Du zum Einfügen einer Tondatei erst auf &quot;'''Hochladen'''&quot;.
+
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+[[Bild:Bildeinfuegen2.jpg|thumb]]
+Nun suchst du mit &quot;Durchsuchen&quot; die richtige Tondatei auf deinem Computer. Schreibe noch eine kurze Beschreibung zur Datei und klicke auf &quot;Hochladen&quot;. Fertig! VORSICHT!: Wenn du der Datei einen Namen gibst, musst du aufpassen, dass nicht eine andere Datei, die es schon gibt, den selben Namen hat. Sonst wird die nämlich gelöscht. Das wäre nicht gut!
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+[[Bild:Audioeinfuegen1.jpg|thumb]]
+Ab jetzt kannst du die Tondatei in deinen Artikeln verwenden. Dafür musst du genau den richtigen Namen eingeben, den du der Tondatei beim Hochladen vorher gegeben hast.
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+===Tondatei im Text===
+Wie oben beschrieben, kannst Du Deine Tondatei einfach so im Text anzeigen lassen. Das sieht dann so aus:
+
+{| border=&quot;1&quot; style=&quot;border-collapse:collapse&quot; 
+!Eingabe
+!Ergebnis
+|-
+|style=&quot;background:#efefef;&quot; valign=&quot;top&quot; |
+&lt;pre&gt;&lt;nowiki&gt;
+[[Bild:Moo.ogg]]
+&lt;/nowiki&gt;&lt;/pre&gt;
+|
+[[Bild:Moo.ogg]]
+|}
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+===Tondatei am rechten Bildrand===
+[[Bild:Moo.ogg|thumb|Eine Kuh singt.]]
+Oder Du verschiebst Deine Tondatei an den rechten Rand. Das kannst Du machen, damit Du auch noch einen Text dazu schreiben kannst. Dafür muss Du zum Beispiel dies schreiben:
+
+&lt;tt&gt;&lt;nowiki&gt;[[Bild:Moo.ogg|thumb|Eine Kuh singt.]]&lt;/nowiki&gt;&lt;/tt&gt;
+
+Wie bei einem Bild wird dann die Tondatei ganz rechts angezeigt und Du kannst den Text klein darunter lesen.
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+===Tondatei mit kleinem Knopf===
+Wenn Dir der Knopf der Tondatei zu groß ist, dann kannst Du zum Beispiel noch dies machen:
+
+&lt;tt&gt;&lt;nowiki&gt;[[Bild:Moo.ogg|noicon|30px]]&lt;/nowiki&gt;&lt;/tt&gt;
+
+Das sieht dann so aus:
+
+[[Bild:Moo.ogg|noicon|30px]]
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+===Probleme beim Abspielen von Tondateien===
+ACHTUNG: Vielleicht merkst du beim Ausprobieren, dass deine Tondatei nicht abgespielt wird. Das liegt sicher daran, dass auf dem Computer &quot;Java&quot; nicht aktiviert ist. Du musst dafür bei deinem Browser '''Extras''' anklicken. Dann wählst du '''Einstellungen''' und klickst dann auf '''Inhalt'''. Hier klickst du auf die leeren Kästchen bei '''JavaScript''' und '''Java'''. Dabei solltest du dir helfen lassen.
+
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+==Wie kann ich einen Text über mich schreiben?==
+
+Wenn du beim ZUM - Grundschul-Wiki angemeldet bist, bekommst du einen Benutzernamen. Wenn du einen Text schreibst, dann kann jeder sehen, dass er von dir ist. Wenn du willst, kannst du also auch noch etwas mehr über dich schreiben. Wie du heißt, warum du gerne hier mitschreibst oder was dich besonders interessiert! '''VORSICHT!:''' Du darfst aber nie deine richtige Adresse oder deine Telefonnummer eintragen!!
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+[[Bild:Benutzerprofil1.jpg|thumb|180px]]
+Um einen Text über dich selbst schreiben zu können, musst du dich erst einmal mit deinem Namen einloggen. Wenn du eingeloggt bist, klickst du am oberen rechten Rand auf deinen Namen und es öffnet sich eine neue Seite!
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+[[Bild:Benutzerprofil2.jpg|thumb|180px]]
+Dort klickst du auf ''bearbeiten'' und es öffnet sich wieder ein neues Fenster.
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+[[Bild:Benutzerprofil3.jpg|thumb|180px]]
+Dort trägst du wie üblich alle Sachen ein, die du schreiben möchtest. '''VORSICHT!:''' Denke daran, dass du nicht deine richtige Adresse angibst.
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+[[Bild:Textschreiben4.jpg|thumb|180px]]
+Zum Schluss darfst du nicht vergessen, deine Änderungen zu speichern!
+
+&lt;br style=&quot;clear:both;&quot;/&gt;
+
+==Ich weiß trotz der Hilfe nicht weiter!!==
+
+Du weißt trotz unserer Hilfethemen nicht weiter? Kein Problem!
+
+Schreib uns einfach eine [mailto:email@grundschulwiki.de E-Mail], dann helfen wir dir gerne weiter!
+
+Viel Spaß wünscht
+
+MArtin Leupold
+|}
+&lt;/div&gt;
+|}</text>
+      <sha1>hhmyksudq3nblpfbusi3361rx42a4q2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Kurzinfo</title>
+    <ns>12</ns>
+    <id>4378</id>
+    <revision>
+      <id>17791</id>
+      <parentid>17790</parentid>
+      <timestamp>2014-02-08T21:37:43Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="438">Diese Seite hier ist aus dem [[:zum-wiki:|ZUM-Wiki]] eingebunden, und zwar mit dem folgenden Quellcode:
+
+&lt;pre&gt;{{:zum-wiki:Hilfe:Kurzinfo}}&lt;/pre&gt;
+
+Die aktuelle Lösung ist vorläufig und noch unbefriedigend, da die Seite noch soweit angepasst werden müsste, dass sie (einschließlich der eingebundenen Grafiken) sowohl im ZUM-Wiki wie auch hier sinnvoll, also mit passenden Verlinkungen angezeigt wird.
+
+----
+
+{{:zum-wiki:Hilfe:Kurzinfo}}</text>
+      <sha1>80isb03lmwbmkr83a889crpcallgy89</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Layout</title>
+    <ns>12</ns>
+    <id>4379</id>
+    <revision>
+      <id>17793</id>
+      <parentid>17792</parentid>
+      <timestamp>2014-02-08T21:37:43Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="2177">__NOTOC__
+{| class=&quot;wikitable&quot;  style=&quot;clear:right; margin-top:1em;&quot;
+| colspan=&quot;2&quot; style=&quot;background-color:#8DB6CD; text-align:center; padding:0.3em&quot; | '''Textgestaltung''' 
+|- class=&quot;hintergrundfarbe8&quot;
+! width=&quot;50%&quot; | Was du schreibst
+! width=&quot;50%&quot; | Wie es dargestellt wird
+|-
+|&lt;tt&gt;Normaler Text wird so dargestellt, wie du ihn eingibst. Mit einer Leerzeile&lt;br /&gt;&lt;br /&gt;erzeugst du einen Absatz.&lt;/tt&gt;
+|
+Normaler Text wird so 
+dargestellt, wie du ihn eingibst. 
+Mit einer Leerzeile
+
+erzeugst du einen Absatz. 
+|-
+|&lt;tt&gt;&amp;lt;[[:zum-wiki:Hilfe:LaTeX|math]]&amp;gt;c = \sqrt{a^2 + b^2}&amp;lt;/math&amp;gt;&lt;/tt&gt;
+|&lt;math&gt;c = \sqrt{a^2 + b^2}&lt;/math&gt;
+|-
+|
+&lt;tt&gt;&lt;nowiki&gt;== Überschrift 2 ==&lt;/nowiki&gt;&lt;/tt&gt;
+
+&lt;tt&gt;&lt;nowiki&gt;=== Überschrift 3 ===&lt;/nowiki&gt;&lt;/tt&gt;
+
+&lt;tt&gt;&lt;nowiki&gt;==== Überschrift 4 ====&lt;/nowiki&gt;&lt;/tt&gt;
+|
+
+== Überschrift 2 ==
+=== Überschrift 3 ===
+==== Überschrift 4 ====
+
+|-
+|&lt;tt&gt;&lt;nowiki&gt;
+* eins&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+* zwei&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+** zwei-eins&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+&lt;/nowiki&gt;&lt;/tt&gt;
+|
+* eins
+* zwei
+** zwei-eins
+
+|-
+|&lt;tt&gt;&lt;nowiki&gt;
+# eins&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+# zwei&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+## zwei-eins&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+&lt;/nowiki&gt;&lt;/tt&gt;
+|
+# eins
+# zwei
+## zwei-eins
+
+|-
+|&lt;tt&gt;&lt;nowiki&gt;
+Vom normalen Text&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+: eingerückt&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+:: doppelt eingerückt&lt;/nowiki&gt;&lt;br/&gt;&lt;/tt&gt;
+|
+Vom normalen Text
+: eingerückt
+:: doppelt eingerückt
+|-
+|
+&lt;tt&gt;&lt;nowiki&gt;
+;Begriff&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+:Definition des Begriffs
+&lt;/nowiki&gt;&lt;/tt&gt;
+| 
+;Begriff
+: Definition des Begriffs
+|-
+|
+&lt;tt&gt;&lt;nowiki&gt;
+&amp;nbsp;vorformatierter Text&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+&amp;nbsp;&amp;nbsp;mit einem Leerzeichen&lt;/nowiki&gt;&lt;br/&gt;&lt;nowiki&gt;
+&amp;nbsp;# am Zeilenanfang  
+&lt;/nowiki&gt;&lt;/tt&gt;
+|
+ vorformatierter Text
+   mit einem Leerzeichen 
+ # am Zeilenanfang
+|-
+|
+&lt;tt&gt;Für Gedichte und ähnliche Texte:&lt;br /&gt;
+&lt;nowiki&gt;&lt;poem&gt;&lt;/nowiki&gt;&lt;br /&gt;&lt;nowiki&gt;
+Ob ich Biblio- was bin?&lt;/nowiki&gt;&lt;br /&gt;&lt;nowiki&gt;
+phile? „Freund von Büchern“ meinen Sie?&lt;/nowiki&gt;&lt;br /&gt;&lt;nowiki&gt;
+Na, und ob ich das bin!&lt;/nowiki&gt;&lt;br /&gt;&lt;nowiki&gt;
+Ha! und wie!&lt;/nowiki&gt;&lt;br /&gt;&lt;nowiki&gt;
+&lt;/poem&gt;&lt;/nowiki&gt;&lt;br /&gt;&lt;nowiki&gt;
+&lt;/nowiki&gt;&lt;/tt&gt;
+|
+&lt;poem&gt;
+Ob ich Biblio- was bin?
+phile? „Freund von Büchern“ meinen Sie?
+Na, und ob ich das bin!
+Ha! und wie!
+&lt;/poem&gt;
+
+|}</text>
+      <sha1>tqnpkrqme3ehv86bv4jaxwhj13nwybu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Lernspiele</title>
+    <ns>12</ns>
+    <id>4380</id>
+    <revision>
+      <id>17795</id>
+      <parentid>17794</parentid>
+      <timestamp>2014-02-08T21:37:52Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="5834">=== [[Hilfe:Lernspiele Grundschule|Lernspiele Grundschule]] ===
+
+=== Lückentext-Quiz ===
+{|
+|width=500px; valign=&quot;top&quot; |
+&lt;div class=&quot;lueckentext-quiz&quot;&gt;
+Beim '''Erweitern''' und Kürzen muss man Zähler und '''Nenner''' mit der gleichen Zahl multiplizieren bzw. dividieren.
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;lueckentext-quiz&quot;&gt;
+
+Beim '''Erweitern''' und Kürzen muss man
+Zähler und '''Nenner''' mit der gleichen
+Zahl multiplizieren bzw. dividieren.
+
+&lt;/div&gt;&lt;/pre&gt;
+
+Andere Möglichkeit:
+
+&lt;pre&gt;&lt;div class=&quot;lueckentext-quiz&quot;&gt;
+
+Beim '''Erweitern''' und Kürzen muss man
+Zähler und '''Nenner''' mit der gleichen
+Zahl multiplizieren bzw. dividieren.
+
+&lt;/div&gt;&lt;/pre&gt;
+|}
+
+;Beachte: Lücken werden durch die Formatierung als '''fett''' (&lt;nowiki&gt;'''   '''&lt;/nowiki&gt;) erzeugt.
+
+=== Zuordnungs-Quiz ===
+
+{|
+|width=500px|
+&lt;div class=&quot;zuordnungs-quiz&quot; &gt;
+{| 
+| Adjektive || schön || klein|| gelb
+|-
+| Verben || gehen || schwimmen|| lachen
+|-
+| Nomen || Haus || Glück || Sonne
+|}
+
+&lt;/div&gt;
+
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;zuordnungs-quiz&quot;&gt;
+
+{| 
+| Adjektive || schön || klein|| gelb
+|-
+| Verben || gehen || schwimmen|| lachen
+|-
+| Nomen || Haus || Glück || Sonne
+|}
+
+&lt;/div&gt;&lt;/pre&gt;
+
+|}
+
+
+=== Multiplechoice-Quiz ===
+{|
+|width=500px|
+&lt;div class=&quot;multiplechoice-quiz&quot;&gt;
+
+Was ergibt 1 + 1? (!2,2)  (2) (!1,9) (!3)
+
+Welches Tier ist ein Säugetier? (!Hai) (Wal) (Känguru) (!Meise) (Maus) (!Biene)
+
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;multiplechoice-quiz&quot;&gt;
+
+Was ergibt 1 + 1? 
+(!2,2)  (2) (!1,9) (!3)
+
+Welches Tier ist ein Säugetier?
+(!Hai) (Wal) (Känguru) (!Meise) (Maus) (!Biene)
+
+&lt;/div&gt;&lt;/pre&gt;
+Beachte: Das &quot;!&quot; in den Klammern kennzeichnet die falschen Antworten. 
+|}
+
+
+===Schüttelwörter===
+{|
+|width=500px; valign=&quot;top&quot; |
+&lt;div class=&quot;schuettel-quiz&quot;&gt;
+
+Finden Sie die unverdrehte Lösung zu den verdrehten Wörtern!
+
+When I get up in the '''morning''' I love to drink '''coffee'''.
+
+My dad makes  '''toast''' for me and then I go to '''school'''.
+
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;schuettel-quiz&quot;&gt;
+
+Finden Sie die unverdrehte Lösung zu den verdrehten Wörtern!
+
+When I get up in the '''morning''' I love to drink '''coffee'''.
+My dad makes  '''toast''' for me and then I go to '''school'''.
+
+&lt;/div&gt;
+&lt;/pre&gt;
+|}
+
+
+=== Kreuzworträtsel===
+{|
+|width=500px; valign=&quot;top&quot; |
+&lt;div class=&quot;kreuzwort-quiz&quot;&gt;
+{|  
+|- 
+| brother || My mother's son is my ...
+|-
+| chair || You sit on a ... when you are in the classroom.
+|-
+| black || opposite of &quot;white&quot;
+|-
+| winter|| ... is the opposite of summer
+|}
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;kreuzwort-quiz&quot;&gt;
+{|  
+|- 
+| brother || My mother's son is my ...
+|-
+| chair || You sit on a ... when you are in the classroom.
+|-
+| black || opposite of &quot;white&quot;
+|-
+| winter|| ... is the opposite of summer
+|}
+&lt;/div&gt;&lt;/pre&gt;
+
+|}
+
+
+===Suchsel===
+{|
+|width=500px; valign=&quot;top&quot;|
+&lt;div class=&quot;suchsel-quiz&quot;&gt;
+Finde die Wörter! ''(Waagrecht, senkrecht und schräg)''
+{|
+|Musik
+|-
+|Mathe
+|-
+|Chemie
+|}
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;suchsel-quiz&quot;&gt;
+Finde die Wörter! ''(Waagrecht, senkrecht und schräg)''
+{|
+|Musik
+|-
+|Mathe
+|-
+|Chemie
+|}
+&lt;/div&gt;&lt;/pre&gt;
+
+|}
+
+
+=== Memo-Quiz ===
+{|
+|width=500px|
+&lt;div class=&quot;memo-quiz&quot; &gt;
+
+{| 
+| Hund || dog
+|-
+| Katze || cat
+|-
+| Vogel ||bird 
+|}
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;memo-quiz&quot; lang=&quot;es&quot;&gt;
+
+{| 
+| Hund || dog
+|-
+| Katze || cat
+|-
+| Vogel ||bird 
+|}
+&lt;/div&gt;&lt;/pre&gt;
+
+|}
+
+
+=== Memo-Quiz mit Bildern (Formeldeditor)===
+{|
+|width=500px|
+&lt;div class=&quot;memo-quiz&quot; &gt;
+{| 
+|[[Bild:Deut.4.Armee-Abzeichen1941.gif|100px]] |
+| &lt;math&gt;A = \frac{g \cdot h}{2}&lt;/math&gt;
+|-
+| [[Bild:Disc Plain yellow.svg|100px]] |
+| &lt;math&gt;A = r^2 \cdot \pi &lt;/math&gt;
+|-
+| [[Bild:Wikijunior rectangle.svg|100px]] |
+| &lt;math&gt;A = a \cdot b&lt;/math&gt; 
+|}
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;memo-quiz&quot; &gt;
+
+{| 
+|[[Bild:Deut.4.Armee-Abzeichen1941.gif|100px]] |
+| &lt;math&gt;A = \frac{g \cdot h}{2}&lt;/math&gt;
+|-
+| [[Bild:Disc Plain yellow.svg|100px]] |
+| &lt;math&gt;A = r^2 \cdot \pi &lt;/math&gt;
+|-
+| [[Bild:Wikijunior rectangle.svg|100px]] |
+| &lt;math&gt;A = a \cdot b&lt;/math&gt; 
+|}
+&lt;/div&gt;&lt;/pre&gt;
+
+|}
+
+
+=== Ordne der Größe nach (Formeleditor) ===
+{|
+|width=500px; valign=&quot;top&quot; |
+&lt;div class=&quot;lueckentext-quiz&quot; &gt;
+''' &lt;math&gt;\frac{6}{32}&lt;/math&gt; ''' &lt; ''' &lt;math&gt;\frac{7}{15}&lt;/math&gt;  ''' &lt;  ''' &lt;math&gt;\frac{3}{7} &lt;/math&gt; ''' &lt;  ''' &lt;math&gt;\frac{18}{26}&lt;/math&gt; ''' 
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;lueckentext-quiz&quot; &gt;
+
+'''&lt;math&gt;\frac{6}{32}&lt;/math&gt;''' &lt; 
+'''&lt;math&gt;\frac{7}{15}&lt;/math&gt;''' &lt;  
+'''&lt;math&gt;\frac{3}{7}&lt;/math&gt;''' &lt;  
+'''&lt;math&gt;\frac{18}{26}&lt;/math&gt;''' 
+
+&lt;/div&gt;&lt;/pre&gt;
+
+|}
+
+=== Addieren und Multiplizieren von Brüchen (Formeleditor)===
+{|
+|width=500px|
+&lt;div class=&quot;zuordnungs-quiz&quot;&gt;
+
+{| 
+| &lt;math&gt;x \cdot\frac{1}{2}=\frac{3}{8}&lt;/math&gt; || &lt;math&gt;\frac{3}{4} &lt;/math&gt; || &lt;math&gt;\frac{6}{8}      &lt;/math&gt;  
+|-
+| &lt;math&gt;x +\frac{1}{2}=\frac{3}{4}&lt;/math&gt; || &lt;math&gt;\frac{1}{4} &lt;/math&gt; || &lt;math&gt;\frac{2}{8} &lt;/math&gt;
+|-
+| &lt;math&gt;x\cdot\frac{2}{4}=\frac{8}{8}&lt;/math&gt; || &lt;math&gt;\frac{4}{2} &lt;/math&gt; ||&lt;math&gt;\frac{6}{3} &lt;/math&gt;
+|}
+
+&lt;/div&gt;
+
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;zuordnungs-quiz&quot;&gt;
+
+{| 
+| &lt;math&gt;x \cdot\frac{1}{2}=\frac{3}{8}&lt;/math&gt; |
+| &lt;math&gt;\frac{3}{4} &lt;/math&gt; |
+| &lt;math&gt;\frac{6}{8} &lt;/math&gt;  
+|-
+| &lt;math&gt;x +\frac{1}{2}=\frac{3}{4}&lt;/math&gt; |
+| &lt;math&gt;\frac{1}{4} &lt;/math&gt; |
+| &lt;math&gt;\frac{2}{8} &lt;/math&gt;
+|-
+| &lt;math&gt;x\cdot\frac{2}{4}=\frac{8}{8}&lt;/math&gt; |
+| &lt;math&gt;\frac{4}{2} &lt;/math&gt; |
+|&lt;math&gt;\frac{6}{3} &lt;/math&gt;
+|}
+
+&lt;/div&gt;&lt;/pre&gt;
+|}
+
+=== Zuordnungs-Quiz mit Bildern ===
+{|
+|width=500px|
+&lt;div class=&quot;zuordnungs-quiz&quot;&gt;
+{| 
+| [[Datei:Quader.svg|120px]] || Quader 
+|-
+| [[Datei:Cylinder (geometry).png|120px]] || Zylinder
+|}
+
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;zuordnungs-quiz&quot;&gt;
+{| 
+| [[Datei:Quader.svg|120px]] || Quader 
+|-
+| [[Datei:Cylinder (geometry).png|120px]] || Zylinder
+|}
+
+&lt;/div&gt;&lt;/pre&gt;
+
+|}</text>
+      <sha1>lzxth5cq4g6ir5p283fpr46bp0pn8xc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Lernspiele Grundschule</title>
+    <ns>12</ns>
+    <id>4381</id>
+    <revision>
+      <id>17797</id>
+      <parentid>17796</parentid>
+      <timestamp>2014-02-08T21:37:52Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="3027">=== Zuordnungs-Quiz ===
+
+{|
+|width=500px|
+&lt;div class=&quot;zuordnungs-quiz&quot; &gt;
+{| 
+| Adjektive || schön || klein|| gelb
+|-
+| Verben || gehen || schwimmen|| lachen
+|-
+| Nomen || Haus || Glück || Sonne
+|}
+
+&lt;/div&gt;
+
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;zuordnungs-quiz&quot;&gt;
+
+{| 
+| Adjektive || schön || klein|| gelb
+|-
+| Verben || gehen || schwimmen|| lachen
+|-
+| Nomen || Haus || Glück || Sonne
+|}
+
+&lt;/div&gt;&lt;/pre&gt;
+
+|}
+
+
+=== Lückentext-Quiz ===
+&lt;div class=&quot;lueckentext-quiz&quot;&gt;
+In der &lt;strong&gt; Schule&lt;/strong&gt; können die &lt;strong&gt; Kinder&lt;/strong&gt; viele wichtige Sachen &lt;strong&gt;lernen&lt;/strong&gt;.
+&lt;/div&gt;
+{|
+|
+&lt;pre&gt;&lt;div class=&quot;lueckentext-quiz&quot;&gt;
+
+In der &lt;strong&gt; Schule&lt;/strong&gt; können die &lt;strong&gt; Kinder&lt;/strong&gt; viele wichtige Sachen &lt;strong&gt;lernen&lt;/strong&gt;.
+
+&lt;/div&gt;&lt;/pre&gt;
+
+Andere Möglichkeit:
+
+&lt;pre&gt;&lt;div class=&quot;lueckentext-quiz&quot;&gt;
+
+In der '''Schule''' können die '''Kinder''' viele wichtige Sachen '''lernen'''.
+
+&lt;/div&gt;&lt;/pre&gt;
+|}
+
+=== Multiplechoice-Quiz ===
+{|
+|width=500px|
+&lt;div class=&quot;multiplechoice-quiz&quot;&gt;
+
+Was ergibt 1 + 1? (!10)  (2) (!19) (!3)
+
+Welches Tier ist ein Säugetier? (!Hai) (Wal) (Känguru) (!Meise) (Maus) (!Biene)
+
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;multiplechoice-quiz&quot;&gt;
+
+Was ergibt 1 + 1? 
+(!10)  (2) (!19) (!3)
+
+Welches Tier ist ein Säugetier?
+(!Hai) (Wal) (Känguru) (!Meise) (Maus) (!Biene)
+
+&lt;/div&gt;&lt;/pre&gt;
+Beachte: Das &quot;!&quot; in den Klammern kennzeichnet die falschen Antworten. 
+|}
+
+&lt;br&gt;
+&lt;br&gt;
+
+===Schüttelwörter===
+{|
+|width=500px; valign=&quot;top&quot; |
+&lt;div class=&quot;schuettel-quiz&quot;&gt;
+
+Finde die unverdrehte Lösung zu den verdrehten Wörtern!
+
+Der '''BvB''' spielt in der '''Bundesliga'''. Die '''Mannschaft''' wird von Jürgen '''Klopp''' trainiert.
+&lt;/div&gt;
+&lt;br&gt;
+&lt;br&gt;
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;schuettel-quiz&quot;&gt;
+
+Finden Sie die unverdrehte Lösung zu den verdrehten Wörtern!
+
+Der '''BvB''' spielt in der '''Bundesliga'''. Die '''Mannschaft''' wird von Jürgen '''Klopp''' trainiert.
+
+
+&lt;/div&gt;
+&lt;/pre&gt;
+|}
+
+
+=== Kreuzworträtsel===
+{|
+|width=400px; valign=&quot;top&quot; |
+&lt;div class=&quot;kreuzwort-quiz&quot;&gt;
+{|  
+|- 
+| Emma|| Maskottchen vom BvB
+|-
+| Signal Iduna Park|| Name des Stadions vom BvB
+|-
+| Klopp|| Trainer beim BvB
+|-
+|}
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;kreuzwort-quiz&quot;&gt;
+{|  
+|- 
+| Emma|| Maskottchen vom BvB
+|-
+| Signal Iduna Park|| Name des Stadions vom BvB
+|-
+| Klopp|| Trainer beim BvB
+|-
+|}
+&lt;/div&gt;&lt;/pre&gt;
+
+|}
+
+
+
+===Suchsel===
+{|
+|width=500px; valign=&quot;top&quot;|
+&lt;div class=&quot;suchsel-quiz&quot;&gt;
+Finde die Wörter! ''(Waagrecht, senkrecht und schräg)''
+{|
+|Mathe
+|-
+|Englisch
+|-
+|Deutsch
+|}
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;suchsel-quiz&quot;&gt;
+Finde die Wörter! ''(Waagrecht, senkrecht und schräg)''
+{|
+|Mathe
+|-
+|Englisch
+|-
+|Deutsch
+|}
+&lt;/div&gt;&lt;/pre&gt;
+
+|}
+
+=== Memo-Quiz ===
+{|
+|width=500px|
+&lt;div class=&quot;memo-quiz&quot; &gt;
+
+{| 
+| Deutschland|| Berlin
+|-
+| England|| London
+|-
+| Frankreich ||Paris
+|}
+&lt;/div&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+&lt;pre&gt;&lt;div class=&quot;memo-quiz&quot;&gt;
+
+{| 
+| Deutschland|| Berlin
+|-
+| England|| London
+|-
+| Frankreich ||Paris 
+|}
+&lt;/div&gt;&lt;/pre&gt;
+
+|}</text>
+      <sha1>12f746fec6nyat91epdy31xrbl7oh7u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Lizenzvorlagen für Dateien</title>
+    <ns>12</ns>
+    <id>4260</id>
+    <revision>
+      <id>17549</id>
+      <parentid>17548</parentid>
+      <timestamp>2014-02-08T21:09:03Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="13256">{{Shortcut|ZW:LFB, ZW:LVB}}
+{| class=&quot;hintergrundfarbe2 rahmenfarbe1&quot; style=&quot;padding: 7.5pt; font-size: 100%; margin-right:3.75pt; border-style: solid; width:100%;&quot;
+| style=&quot;vertical-align:middle;&quot; |&lt;span style=&quot;float: left; margin: 30px 10px 10px;&quot;&gt;
+[[Datei:Checked copyright icon.svg|right|150px|&amp;nbsp;]]&lt;/span&gt;
+{{Portal-head2|547892|Willkommen bei den Lizenzvorlagen für Bilder und Dateien}}
+Mit '''Lizenzvorlagen''' müssen im {{SITENAME}} (wie in der deutschsprachigen [[Wikipedia]]) alle '''Bilder''' und '''Dateien''' gekennzeichnet sein, um den rechtlichen Status darzustellen.
+
+* '''[[Hilfe:Vorlagen]]''' erklärt, wie Vorlagen technisch funktionieren und wie sie eingefügt werden.
+&lt;!--* '''[[Hilfe:FAQ zu Bildern]]''' beantwortet typische Anfängerfragen zu Lizenzen.--&gt;
+&lt;!--* '''[[Wikipedia:Musikrechte]]''' enthält die Richtlinien für Musikdateien.--&gt;
+&lt;!--* '''[[Wikipedia:Bildrechte]]''' enthält die Richtlinien für Bilder.--&gt;
+&lt;!--* '''[[Wikipedia:Dateiüberprüfung/Anleitung]]''' erklärt, wie man eine Datei mit nicht ausreichender Lizenzierung markiert.--&gt;
+
+
+{{Kasten grau|Die Lizenzangaben für Dateien im {{SITENAME}} orientieren sich an denen in der deutschsprachigen {{wpde|Wikipedia:Hauptseite|Wikipedia}}, da dort mehr Ressourcen für die Überprüfung der Lizenzbedingungen und deren Formulierung zur Verfügung stehen.}}
+|}
+
+__FORCETOC__&lt;br style=&quot;clear:both;&quot; /&gt;
+
+== [[Gemeinfreiheit]] ==
+
+{| class=&quot;prettytable&quot; width=&quot;100%&quot;
+|- class=&quot;hintergrundfarbe6&quot;
+! width=&quot;25%&quot; | Baustein
+! width=&quot;75%&quot; | Ergebnis
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-PD-alt-100|Bild-PD-alt-100]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;{{wpd|Public domain}} – Für Bilder, die über 100 (aber weniger als 150) Jahre alt sind und deren Urheber bzw. dessen Todesdatum unbekannt ist&lt;/small&gt;
+| {{Bild-PD-alt-100}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-PD-§134|Bild-PD-§134]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[[Public domain]] – Für von {{wpd|Juristische Person#Juristische Person des öffentlichen Rechts|jur. Personen ''des öffentlichen Rechts''}} vor 1. Juli 1966 veröffentlichte Werke, deren Schutzfrist nach alter Berechnung abgelaufen ist. &lt;br /&gt;&lt;br /&gt; Nach Diskussionen wurden bislang nur bestimmte Gruppen von Abbildungen festgelegt, für die diese Regelungen zutreffen, siehe {{wpd|Wikipedia:Bildrechte#Sonderfall: Juristische Person als Urheber (bis 1965)}}. Weitere Anwendungsbereiche müssen vorher auf {{wpd|WP:UF}} diskutiert werden.&lt;/small&gt;
+| {{Bild-PD-§134}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-PD-§134-KUG|Bild-PD-§134-KUG]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;{{wpd|Public domain}} – Für von {{wpd|Juristische Person#Juristische Person des öffentlichen Rechts|jur. Personen ''des öffentlichen Rechts''}} vor 1. Juli 1966 herausgegebene Werke, deren Schutzfrist nach alter Berechnung abgelaufen ist. &lt;br /&gt;&lt;br /&gt; Nach Diskussionen wurden bislang nur bestimmte Gruppen von Abbildungen festgelegt, für die diese Regelungen zutreffen, siehe {{wpd|Wikipedia:Bildrechte#Sonderfall: Juristische Person als Urheber (bis 1965)}}. Weitere Anwendungsbereiche müssen vorher auf {{wpd|WP:UF}} diskutiert werden.&lt;/small&gt;
+| {{Bild-PD-§134-KUG}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-PD-alt-1923|Bild-PD-alt-1923]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;{{wpd|Public domain}} – Für Bilder, die vor dem Jahr 1923 veröffentlicht wurden und deren Urheber unbekannt ist&lt;br&gt;&lt;br&gt;Der Grund für die Einfügung dieser Lizenz und ein Nachweis für vergebliche Recherche sollte unter {{wpd|Wikipedia:Dateiüberprüfung/1923}} dargelegt werden.&lt;/small&gt;
+| {{Bild-PD-alt-1923}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-PD-Schöpfungshöhe|Bild-PD-Schöpfungshöhe]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;{{wpd|Public domain}} – Für Bilder, die nicht die für urheberrechtlichen Schutz nötige {{wpd|Schöpfungshöhe}} erreichen und auch nicht als Lichtbilder zu werten sind&lt;/small&gt;
+| {{Bild-PD-Schöpfungshöhe}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-PD-Amtliches Werk|Bild-PD-Amtliches Werk]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;{{wpd|Public domain}} – Für {{wpd|Amtliches Werk|amtliche Werke}} (z.&amp;nbsp;B. {{wpd|Amtliche Briefmarke}}, {{wpd|Amtliches Wappen}})&lt;/small&gt;
+| {{Bild-PD-Amtliches Werk}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-PD-alt|Bild-PD-alt]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[[Public domain]] – Für Bilder, deren {{wpd|Regelschutzfrist|Schutzdauer}} abgelaufen ist&lt;/small&gt;
+| {{Bild-PD-alt}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-PD-US|Bild-PD-US]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;{{wpd|Public domain}} – Für Bilder, die von einem Bediensteten einer Behörde der Bundesregierung der Vereinigten Staaten in Ausübung seiner dienstlichen Pflichten angefertigt wurden (s. {{wpd|Wikipedia:Bildrechte#Bilder von US-Regierungsbehörden (NASA und andere)|Werk der Regierung der Vereinigten Staaten}})&lt;/small&gt;
+| {{Bild-PD-US}}
+|}
+
+== [[Creative Commons#Die sechs aktuellen Lizenzen|Creative-Commons-Lizenzen]] ==
+
+{| width=&quot;100%&quot; class=&quot;prettytable&quot;
+|- class=&quot;hintergrundfarbe6&quot;
+! width=&quot;25%&quot; | Baustein
+! width=&quot;75%&quot; | Ergebnis
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by-sa/3.0|Bild-CC-by-sa/3.0]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by-sa/3.0/deed.de Creative Commons – Namensnennung-Weitergabe unter gleichen Bedingungen 3.0]&lt;/small&gt;
+| {{Bild-CC-by-sa/3.0}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by-sa/3.0/de|Bild-CC-by-sa/3.0/de]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by-sa/3.0/de/deed.de Creative Commons – Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland]&lt;/small&gt;
+| {{Bild-CC-by-sa/3.0/de}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by-sa/2.5|Bild-CC-by-sa/2.5]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by-sa/2.5/deed.de Creative Commons – Namensnennung-Weitergabe unter gleichen Bedingungen 2.5]&lt;/small&gt;
+| {{Bild-CC-by-sa/2.5}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by-sa/2.0/de|Bild-CC-by-sa/2.0/de]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by-sa/2.0/de/deed.de Creative Commons – Namensnennung-Weitergabe unter gleichen Bedingungen 2.0 Deutschland]&lt;/small&gt;
+| {{Bild-CC-by-sa/2.0/de}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by-sa/2.0|Bild-CC-by-sa/2.0]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by-sa/2.0/deed.de Creative Commons – Namensnennung-Weitergabe unter gleichen Bedingungen 2.0]&lt;/small&gt;
+| {{Bild-CC-by-sa/2.0}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by/3.0/de|Bild-CC-by/3.0/de]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by/3.0/de/deed.de Creative Commons – Namensnennung 3.0 Deutschland]&lt;/small&gt;
+| {{Bild-CC-by/3.0/de}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by/3.0|Bild-CC-by/3.0]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by/3.0/deed.de Creative Commons – Namensnennung 3.0]&lt;/small&gt;
+| {{Bild-CC-by/3.0}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by/2.5|Bild-CC-by/2.5]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by/2.5/deed.de Creative Commons – Namensnennung 2.5]&lt;/small&gt;
+| {{Bild-CC-by/2.5}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by/2.0/de|Bild-CC-by/2.0/de]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by/2.0/de/deed.de Creative Commons – Namensnennung 2.0 Deutschland]&lt;/small&gt;
+| {{Bild-CC-by/2.0/de}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-by/2.0|Bild-CC-by/2.0]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/licenses/by/2.0/deed.de Creative Commons – Namensnennung 2.0]&lt;/small&gt;
+| {{Bild-CC-by/2.0}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-CC-0|Bild-CC-0]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;[http://creativecommons.org/publicdomain/zero/1.0/deed.de Creative Commons – CC0 1.0 Universell, Public Domain Dedication]&lt;/small&gt;
+| {{Bild-CC-0}}
+|}
+
+== Weitere Lizenzen ==
+
+{| width=&quot;100%&quot; class=&quot;prettytable&quot;
+|- class=&quot;hintergrundfarbe6&quot;
+! width=&quot;25%&quot; | Baustein
+! width=&quot;75%&quot; | Ergebnis
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-GFDL/1.3|Bild-GFDL/1.3]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;{{wpde|GNU-Lizenz für freie Dokumentation|GNU Free Documentation License}}, Version 1.3 oder jede spätere Version&lt;/small&gt;
+| {{Bild-GFDL/1.3}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-GFDL-Neu|Bild-GFDL-Neu]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;{{wpde|GNU-Lizenz für freie Dokumentation|GNU Free Documentation License}}, Version 1.2 oder jede spätere Version&lt;/small&gt;
+{{Achtung|1='''Dieser Bausstein gilt für Dateien, für die die Relizenzierung gemäß {{wpd|Wikipedia:Lizenzumstellung bei Dateien}} nicht möglich ist. Das sind insbesondere solche, die ab dem 1. August 2009 hochgeladen worden sind. Sobald der Lizenzumstellungsprozess beendet sein wird, werden beide GFDL-Bausteine wieder zusammengefasst.}}
+| {{Bild-GFDL-Neu}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-frei|Bild-frei]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;{{wpd|Public domain}} – Für Bilder, die von ihrem Urheber in die Gemeinfreiheit entlassen wurden '''und/oder''' für die ein unbeschränktes Nutzungsrecht für jedermann gewährt wurde (für Benutzer aus Deutschland)&lt;/small&gt;
+| {{Bild-frei}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-by|Bild-by]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Freie Nutzung, wenn der Urheber genannt wird&lt;/small&gt;
+| {{Bild-by}}
+|}
+
+== Hinweisbausteine ==
+ '''Diese Bausteine sind keine Lizenzen, sie enthalten nur Hinweistexte.
+{| width=&quot;100%&quot; class=&quot;prettytable&quot;
+|- class=&quot;hintergrundfarbe6&quot;
+! width=&quot;25%&quot; | Baustein
+! width=&quot;75%&quot; | Ergebnis
+|-
+| &lt;code&gt;{{[[Vorlage:Panoramafreiheit|Panoramafreiheit]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf Beschränkungen für die Nutzung des Bildes durch §§ 62, 63 UrhG&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{Panoramafreiheit}}
+|-
+| &lt;code&gt;{{[[Vorlage:Wappenrecht|Wappenrecht]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf nicht-urheberrechtliche Beschränkungen für die Nutzung des Bildes durch namensrechtlichen Bestimmungen ({{wpd|Hoheitszeichen}})&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{Wappenrecht}}
+|-
+| &lt;code&gt;{{[[Vorlage:Währung|Währung]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf nicht-urheberrechtliche Beschränkungen für die Nutzung des Bildes durch § 148 ff StGB. Es kann ein Parameter für die Sortierung in der Kategorie angegeben werden.&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{Währung}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-WikimediaCopyright|Bild-WikimediaCopyright]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Von [[Wikimedia]] urheberrechtlich geschützte Logos&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Lizenzbaustein darf nur für Wikimedia-Logos bei Screenshots verwendet werden. Andere Inhalte des Screenshots müssen allerdings weiterhin frei lizenziert sein.'''}}
+| {{Bild-WikimediaCopyright}}
+|-
+| &lt;code&gt;{{[[Vorlage:Bild-LogoSH|Bild-LogoSH]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Für Logos unter dem Schutz des Namensrechts/Markenrechts, jedoch ohne urheberrechtliche {{wpd|Schöpfungshöhe}}.&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Lizenzbaustein ist nicht für Fotografien oder Dateien mit anderen Lizenzbausteinen gedacht (dafür ggf. &lt;code&gt;{{[[Vorlage:Logo|Logo]]}}&lt;/code&gt; verwenden).}}
+| {{Bild-LogoSH}}
+|-
+| &lt;code&gt;{{[[Vorlage:Logo|Logo]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf nicht-urheberrechtliche Beschränkungen für die Nutzung des Bildes durch Marken- bzw. Namensrecht.&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{Logo}}
+|-
+| &lt;code&gt;{{[[Vorlage:Kennzeichen verfassungswidriger Organisationen|Kennzeichen verfassungswidriger Organisationen]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf nicht-urheberrechtliche Beschränkungen für die Nutzung des Bildes durch § 86 StGB&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{Kennzeichen verfassungswidriger Organisationen}}
+|-
+| &lt;code&gt;{{[[Vorlage:Recht am eigenen Bild|Recht am eigenen Bild]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf nicht-urheberrechtliche Beschränkungen für die Nutzung des Bildes durch § 22 ff KunstUrhG&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{Recht am eigenen Bild}}
+|-
+| &lt;code&gt;{{[[Vorlage:Olympische Ringe|Olympische Ringe]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf nicht-urheberrechtliche Beschränkungen für die Nutzung des Bildes durch § 2 ff OlympSchG&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{Olympische Ringe}}
+|-
+| &lt;code&gt;{{[[Vorlage:Schutzzeichen|Schutzzeichen]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf nicht-urheberrechtliche Beschränkungen für die Nutzung des Bildes durch das Völkerrecht&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{Schutzzeichen}}
+|-
+| &lt;code&gt;{{[[Vorlage:Schutzlandprinzip|Schutzlandprinzip]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf die Anwendung des Schutzlandprinzips&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{Schutzlandprinzip}}
+|-
+| &lt;code&gt;{{[[Vorlage:NoCommons (Benutzerbild)|NoCommons (Benutzerbild)]]}}&lt;/code&gt;&lt;br /&gt;
+&lt;small&gt;Hinweis auf den Benutzerwunsch, sein Benutzerbild nicht auf Commons zu verschieben (bitte vom Uploader setzen oder auf einen entsprechenden Text vom Uploader verweisen)&lt;/small&gt;
+{{Achtung|1='''Achtung: Dieser Hinweisbaustein ersetzt keinen Lizenzbaustein.'''}}
+| {{NoCommons (Benutzerbild)}}
+|}
+
+== Linkliste ==
+
+* {{wpd|Wikipedia:Lizenzvorlagen für Bilder}}
+
+* {{wpd|Wikipedia:Bildrechte}}
+* {{wpd|Wikipedia:Musikrechte}}
+
+== Siehe auch ==
+
+* [[Hilfe:Bilder]]
+* [[Urheberrecht]]
+
+{{SORTIERUNG:{{PAGENAME}}}}
+[[Kategorie:Hilfe:Lizenzen]]
+[[Kategorie:Hilfe:Dateien]]
+
+
+{{Kopie wpde|Wikipedia:Lizenzvorlagen für Bilder|03.01.2013}}</text>
+      <sha1>nfe8bigicu9ugipgg95g8d0sk0cjywt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Multimedia</title>
+    <ns>12</ns>
+    <id>4382</id>
+    <revision>
+      <id>17799</id>
+      <parentid>17798</parentid>
+      <timestamp>2014-02-08T21:37:55Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="9085">=== YouTube-Video ===
+
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#widget:YouTube|id=3jjufIV8CpI}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;{{#widget:YouTube|id=3jjufIV8CpI}}&lt;/pre&gt;
+|-
+|
+{{#ev:youtube |Kl87tJcB4Io|350}}
+|
+&lt;pre&gt;{{#ev:youtube |Kl87tJcB4Io|350}}&lt;/pre&gt;
+|}
+
+Die Daten: '''3jjufIV8CpI''' findet man bei YouTube unter: (More info)
+
+ http://www.youtube.com/watch?v=Teil der YouTube URL  →   http://www.youtube.com/watch?v=3jjufIV8CpI
+
+=== Google Maps ===
+
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#widget:Google Maps
+|key=
+|width=600
+|height=400
+|lat=50.0381
+|lng=10.524731
+}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+{{#widget:Google Maps
+|key=
+|width=600
+|height=400
+|lat=50.0381
+|lng=10.524731
+}}
+&lt;/pre&gt;
+|-
+| width=&quot;50%&quot; |
+{{#widget:Google Maps
+|key=
+|maptype=satellite
+|width=650
+|height=400
+|lat=24.627045
+|lng=29.157715
+|maptypecontrol=yes
+|largemapcontrol=yes
+|overviewmapcontrol=yes
+|scalecontrol=yes
+|zoom=5
+|hierarchicalmaptypecontrol=yes
+}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+{{#widget:Google Maps
+|key=
+|maptype=satellite
+|width=650
+|height=400
+|lat=24.627045
+|lng=29.157715
+|maptypecontrol=yes
+|largemapcontrol=yes
+|overviewmapcontrol=yes
+|scalecontrol=yes
+|zoom=5
+|hierarchicalmaptypecontrol=yes
+}}
+&lt;/pre&gt;
+|}
+
+{{Siehe|:zum-wiki:Hilfe:Google Maps}}
+
+=== Google-Kalender ===
+
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#widget:Google Calendar
+|id=si8ocqn3duj6f8int3h57jm8qeunplut@import.calendar.google.com
+|color=528800
+|width=80%
+|id=p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com
+|color=2952A3
+|id=usa@holiday.calendar.google.com
+|color=B1440E
+|title=...
+}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+{{#widget:Google Calendar
+|id=si8ocqn3duj6f8int3h57jm8qeunplut@import.calendar.google.com
+|color=528800
+|width=80%
+|id=p2m2av9dhrh4n1ub7jlsc68s7o@group.calendar.google.com
+|color=2952A3
+|id=usa@holiday.calendar.google.com
+|color=B1440E
+|title=...
+}}
+&lt;/pre&gt;
+|}
+
+:{{rmg-wiki}} [[:rmg:Hilfe:Google Kalender|Hilfe:Google Kalender - im RMG-Wiki]]
+
+:Ein erster Test im {{rmg-wiki}} [[:rmg:P-Seminar/Physik 2010-12|P-Seminar/Physik 2010-12 - im RMG-Wiki]]
+
+=== Google-Document ===
+
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#Widget:Google Document
+|id=1h-JpTUVx3YyOpuRQL8xEQMFDn1bN2slplukkAuAkAmI
+|height=300
+|width=350
+}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+{{#Widget:Google Document
+|id=1h-JpTUVx3YyOpuRQL8xEQMFDn1bN2slplukkAuAkAmI
+|height=300
+|width=350
+}}
+&lt;/pre&gt;
+|-
+|
+{{#widget:Google Document
+|id=1h-JpTUVx3YyOpuRQL8xEQMFDn1bN2slplukkAuAkAmI
+|height=300
+|width=650
+}}
+|
+&lt;pre&gt;
+{{#widget:Google Document
+|id=1h-JpTUVx3YyOpuRQL8xEQMFDn1bN2slplukkAuAkAmI
+|height=300
+|width=650
+}}
+&lt;/pre&gt;
+|}
+
+=== Google - Picasa === 
+
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#widget:Picasa
+|user=RMG.Wiki
+|album=5535974178301413153
+|width=350
+|height=250
+|captions=1
+|autoplay=0
+}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+{{#widget:Picasa
+|user=RMG.Wiki
+|album=5535974178301413153
+|width=350
+|height=250
+|captions=1
+|autoplay=0
+}}
+&lt;/pre&gt;
+|}
+
+:{{rmg-wiki}} [[:rmg:Hilfe:Picasa|Hilfe:Picasa - im RMG-Wiki]]
+
+:Erstellt mit: [http://picasaweb.google.com/home Google - Picasa Webalbum]
+
+=== SlideShare ===
+
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#widget:SlideShare|doc=zum2-131110083140-phpapp02}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;{{#widget:SlideShare|doc=zum2-131110083140-phpapp02}}&lt;/pre&gt;
+|}
+
+;Mehr:
+{{zum-wiki}} [[:zum-wiki:Hilfe:SlideShare|Hilfe:SlideShare - im ZUM-Wiki]]
+
+=== Geogebra-Dateien ===
+{|
+|width=500px|
+&lt;ggb_applet width=&quot;350&quot; height=&quot;274&quot;  version=&quot;3.2&quot; ggbBase64=&quot;UEsDBBQACAAIAKdWZT0AAAAAAAAAAAAAAAAMAAAAZ2VvZ2VicmEueG1sxZhbc6M2FMefu59Cw0Mn2a2JLmCgtbOTZG+Z2XY9k7QPfcNGtmkweEEkeD99jyRksJM4vqQ1L4Akjo5+55w/oN77apage54XcZb2LWJjC/F0lEVxOulbpRh3fOv9+ZvehGcTPsxDNM7yWSj6FrOpJdvL+PzNT71imj2gMFFD/or5Q98ah0nBLVTMcx5GxZRzsdIellWcxGG++Db8h49E0XRoI9fpvIRZRF5C22gWfY0Lc3smJxxnqUCoiH9wcLor23pnypceL0dJHMVhKudTvsEghB7iSEzB7W5goSmPJ1MwRz2qrY2yLI9uFoXgM1T9zfMMjLqBTXHrcC20qLuob7usdcAyR2ECnjBmM7bas3i2S83M72+4EAC7QGHFC7PiSR5H7evr4jJLoiWkeRan4iqcizJXcWJ1041YyLkghrlc4UU6SXjdRgHjlI/uhll1o6kxbfp2MVePKHeGk6ssyXKUwwMurHhSn4f6rMZIP5ejsBqD1YjahjS67CcuUyPUeajPalQSp9q1et3ELBqbWeIC6Xsks8vQSMIhT/qWhco0Fl/NjYhHd/VCiR7/RzkbQla3c2ZpkrySyd7ZWrL17nie8kSnVAphLbOyQPdhYiKn/Ij4KJ7Bre4gtXMyVn+CA7o14pOcG791SWhaqhe307ZpJtop44T0oQBfRwJqG9Yj5Fpk6YlplsurKBSyRRZNBXVaSA3QNBA4DEJQzeF8Up2iPsI2QW/RSYXeIWqzU33dgWbqLm+o3Vw7cK3c4QmfcShWofJsXKbKnSX1sbWaDWIK3FPwpW9B3ol2ciqRyZRerIWuiTF0P5mbFDtSW+bTEFrs2mASLni+QlTZ+z2LVjmHKcRLQQSFmEsDMiPmnEe1Yho30RxMqopshXuLtUEiaUoqaLNZmEYoDWfQPZBlrRDFUhFRiCUyvdRSmJaBNlI/+gi60oYlrIG1P0xTxi7Zmua38bjgAlV9ywc17FvBbqQxJngH2KokCjlbh9o06KopO2CGMRKA6voucxxQc5DDH9qeekyrp3xRKG/czUG5hWLlj8IyACTkqeiEm6Mj82MJP3yNcmjxaIdQ1cCyIvYKoRtooMR7Mop0PQi+TT3mBMQPHBbAoVNAhVHiD2xMA8KwR33sdb3A2bpi4M35PdVjCi3SIFZJPIrFeujWpa1vXdTKdtI5oTY+/QWN66vTU2u1Yh7r12opXexVSl0dBnka6tPOcehQR5N0N1XTSjHgOnJ24DnMcwJzbCwE52Wal0uaYESxJBLljiQvj0WSKizU2ZIjMRyZDZ+BhDYcnUNBXhmQWHPEe2C8OhbG3dIRG4rY7jpd33MPZffBsKtzcJ8U/HC0YtaqyDZ+gzTwTAoSeL8F7HB2nww7qtnRPdh9Op4QEg1j42dFA8/oILYDB3db5XuwDn42GJnGyPbA+PnY7xPKtsPImtcJDhih7vI3mRzK8UvD0dMcvZ05fjkaR6LTkfrbcvSWr2Xfa+83sEM5fmwkkblaE5m7M8mP/y/JjbLH3Fr3HNdx2Cso37VB5OiSdfYo2etjpZpOnGc+xB/Rc5qC9Tzie68ofLe8ErQm+fP3MhO/1f9H/FeEdAN6h8KnUAp41Fq1sw9Ns1VltqH2zrZxXPFIt6xtNRY8j8fNrqbaQYNFF2aDSP+RiTAX6o8d6a8c1m3vIGKtDa58b7ePdgBeRs1WUA/K9E6gQZv0YCvS7AXSz/xD7r0N8N+zdp5g7djMb7fS51iftffK1GZyveF9/i9QSwcI1YLgqyQFAAAiFwAAUEsBAhQAFAAIAAgAp1ZlPdWC4KskBQAAIhcAAAwAAAAAAAAAAAAAAAAAAAAAAGdlb2dlYnJhLnhtbFBLBQYAAAAAAQABADoAAABeBQAAAAA=&quot; framePossible = &quot;false&quot; showResetIcon = &quot;false&quot; showAnimationButton = &quot;true&quot; enableRightClick = &quot;false&quot; errorDialogsActive = &quot;true&quot; enableLabelDrags = &quot;false&quot; showMenuBar = &quot;false&quot; showToolBar = &quot;false&quot; showToolBarHelp = &quot;false&quot; showAlgebraInput = &quot;false&quot; allowRescaling = &quot;true&quot; useLocalJar=&quot;true&quot;/&gt;
+
+|width=5px|
+|valign=&quot;top&quot; |
+ggb hochladen, einbinden mit
+&lt;pre&gt;&lt;ggb_applet height=&quot;300&quot; width=&quot;350&quot;
+filename=&quot;Lokale Änderungsrate.ggb&quot; /&gt;&lt;/pre&gt;
+&lt;u&gt;oder&lt;/u&gt; in GeoGebra:
+:--&gt; Datei 
+:--&gt; Export 
+:--&gt; Dynamisches Arbeitsblatt als Webseite 
+:--&gt; Datei (Zwischenablage Media Wiki wählen)
+
+|}
+
+=== Audio-Dateien ===
+
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+[[Datei:Ejemplos castellano.ogg]]
+| width=&quot;50%&quot; |
+&lt;pre&gt;[[Datei:Ejemplos castellano.ogg]]&lt;/pre&gt;
+|-
+|
+[[Datei:Ejemplos castellano.ogg]]
+*''español'' – Spanisch
+*''castellano'' – Kastilisch
+*''hola'' – hallo
+*''buenos días'' – guten Tag/Morgen (wörtlich: gute Tage)
+*''buenas tardes'' – guten Tag/Nachmittag (wörtlich: gute Nachmittage)
+*''buenas noches'' – guten Abend/Nacht (wörtlich: gute Nächte)
+*''adiós'' – auf Wiedersehen
+*''por favor'' – bitte (in einer Bitte) (wörtlich: aufgrund (eines) Gefallens)
+*''gracias'' – danke
+|
+&lt;pre&gt;
+[[Datei:Ejemplos castellano.ogg]]
+*''español'' – Spanisch
+*''castellano'' – Kastilisch
+*''hola'' – hallo
+*''buenos días'' – guten Tag/Morgen (wörtlich: gute Tage)
+*''buenas tardes'' – guten Tag/Nachmittag (wörtlich: gute Nachmittage)
+*''buenas noches'' – guten Abend/Nacht (wörtlich: gute Nächte)
+*''adiós'' – auf Wiedersehen
+*''por favor'' – bitte (in einer Bitte) (wörtlich: aufgrund (eines) Gefallens)
+*''gracias'' – danke
+&lt;/pre&gt;
+|}
+
+{{Achtung|Im Browser Safari unter OS X können die OGG-Dateien aktuell (Februar 2014) nicht gehört werden. - Bitte einen anderen Browser benutzen!}}
+
+=== Noten einbinden ===
+
+;Noten und Text:
+ 
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+&lt;score&gt;
+\relative c''
+{ 
+  g2 es8( c4.) f8 f es d c2 
+}
+\addlyrics
+{ 
+ Li ly, got me on my knees 
+}
+&lt;/score&gt;
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+&lt;score&gt;
+\relative c''
+{ 
+  g2 es8( c4.) f8 f es d c2 
+}
+\addlyrics
+{ 
+ Li ly, got me on my knees 
+}
+&lt;/score&gt;
+&lt;/pre&gt;
+|}
+
+;Noten, Text und Ton:
+ 
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+&lt;score  vorbis=&quot;1&quot;&gt;
+\relative c''
+{ 
+  g2 es8( c4.) f8 f es d c2 
+}
+\addlyrics
+{ 
+ Li ly, got me on my knees 
+}
+&lt;/score&gt;
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+&lt;score  vorbis=&quot;1&quot;&gt;
+\relative c''
+{ 
+  g2 es8( c4.) f8 f es d c2 
+}
+\addlyrics
+{ 
+ Li ly, got me on my knees 
+}
+&lt;/score&gt;
+&lt;/pre&gt;
+|}
+
+;Mehr:
+{{zum-wiki}} [[:zum-wiki:Hilfe:Notensatz|Hilfe:Notensatz - im ZUM-Wiki]]
+
+=== Twitter ===
+
+;Twitter-Benutzer (user):
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#widget:Twitter|user=ZUMTeam|id=283915409315479553}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+{{#widget:Twitter|user=ZUMTeam|id=283915409315479553}}
+&lt;/pre&gt;
+|}
+
+;Suche (query):
+
+Das Aussehen kann unter [http://twitter.com/about/resources/widgets/widget_profile  Widget Profile] verändert werden. Insbesondere die Farben und die entsprechenden Felder sind dort anpassbar.
+{| class=&quot;wikitable&quot; width=&quot;100%&quot;
+|-
+! Das sieht man !! Das schreibt man
+|-
+| width=&quot;50%&quot; |
+{{#widget:Twitter|query=OER|id=421054040974192640}}
+| width=&quot;50%&quot; |
+&lt;pre&gt;
+{{#widget:Twitter|query=OER|id=421054040974192640}}
+&lt;/pre&gt;
+|}</text>
+      <sha1>l5e8cjbe8vy0ossi81285cfi96m1hi8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Hilfe:Quiz</title>
+    <ns>12</ns>
+    <id>4390</id>
+    <redirect title="Hilfe:Lernspiele" />
+    <revision>
+      <id>17819</id>
+      <timestamp>2014-02-12T21:45:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Weiterleitung nach [[Hilfe:Lernspiele]] erstellt</comment>
+      <text xml:space="preserve" bytes="35">#WEITERLEITUNG [[Hilfe:Lernspiele]]</text>
+      <sha1>1tts4tc47kl1ley99q7qm6a6a6fk6px</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

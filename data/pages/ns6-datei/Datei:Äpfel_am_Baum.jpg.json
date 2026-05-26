@@ -1,0 +1,24 @@
+{
+  "pageid": 5549,
+  "ns": 6,
+  "title": "Datei:Äpfel am Baum.jpg",
+  "revisions": [
+    {
+      "revid": 23463,
+      "parentid": 23456,
+      "user": "Wiki15",
+      "timestamp": "2018-09-12T13:44:28Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = Äpfel am Baum\n|Quelle = https://upload.wikimedia.org/wikipedia/commons/e/e3/Calvados_Apfel_0596.jpg\n|Urheber = Harald Bischoff\n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 23456,
+      "parentid": 0,
+      "user": "Wiki15",
+      "timestamp": "2018-09-12T13:32:19Z",
+      "comment": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    }
+  ],
+  "categories": []
+}

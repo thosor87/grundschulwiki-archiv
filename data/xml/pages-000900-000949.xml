@@ -1,0 +1,1983 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Müller, Thomas</title>
+    <ns>0</ns>
+    <id>4555</id>
+    <revision>
+      <id>18911</id>
+      <parentid>18675</parentid>
+      <timestamp>2015-05-04T09:13:58Z</timestamp>
+      <contributor>
+        <username>MALeupold</username>
+        <id>710</id>
+      </contributor>
+      <text xml:space="preserve" bytes="700">{{Babel-1|Schüler_Verfasser}}
+Thomas Müller ist ein berühmter und sehr beliebter Fussballspieler des [[FC Bayern München]],der auch für die Deutsche Nationalmannschaft im Sturm spielt.Er ist 1,86m groß und wurde am 13.9.1989 in Weilheim geboren. Thomas Müller ist ein sehr berühmter deutscher Fußballspieler. Er spielt für FC Bayern und die deutsche Nationalmannschaft. Sein Spitzname ist Müller. Seine Muttersprache ist Deutsch. Er hat am dreizehnten September Geburtstag. Er ist in Weilheim geboren und wohnt heute in München. Seine Eltern heißen Claudia Und Gerhard, und er hat einen Bruder, Simon. Simon ist zweieinhalb Jahre jünger als Müller. Von Noah und Kevin
+{{Rücksprung|M}}</text>
+      <sha1>2udjlp9vq87qex1khp4br97q3zddj4i</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>N</title>
+    <ns>0</ns>
+    <id>1285</id>
+    <revision>
+      <id>19013</id>
+      <parentid>16066</parentid>
+      <timestamp>2015-05-08T20:33:54Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- font-size:9pt;</comment>
+      <text xml:space="preserve" bytes="790">{{Lexikonaufruf}}
+
+{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; margin:12px; margin-top:10px&quot;&gt;[[Bild:Buchstabe-N.gif]]&lt;/div&gt;
+&lt;div style=&quot;font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Beiträge &amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;small&gt;[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteN&amp;action=edit neuen Beitrag hinzufügen!]&lt;/small&gt;&lt;/small&gt;&lt;/div&gt;
+&lt;div style=&quot;padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=3 width=100%
+|align=left valign=top width=100%|
+{{InhalteN}}
+|}
+&lt;/div&gt;
+|}</text>
+      <sha1>cmc3saaiizrl9r1jxngzj82wis79rgl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>NTI AG</title>
+    <ns>0</ns>
+    <id>4188</id>
+    <revision>
+      <id>17373</id>
+      <parentid>17350</parentid>
+      <timestamp>2013-10-20T13:43:41Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>hat „[[Nti-ag.com]]“ nach „[[NTI AG]]“ verschoben: Schreibweise#</comment>
+      <text xml:space="preserve" bytes="206">{{Babel-1|Schüler_Verfasser}}
+Nti-ag ist eine berühmte Solarfirma sie haben richtig viele Häuser sogar Hotels mit Solaranlagen bedeckt.Der Geschäftsführer heißt Dr.Bernhard Menner.
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nageldesingerin</title>
+    <ns>0</ns>
+    <id>4720</id>
+    <revision>
+      <id>19406</id>
+      <parentid>19405</parentid>
+      <timestamp>2015-07-22T19:45:02Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1653">==Aufgaben==
+
+[[Datei:Gseaylineg.jpg|miniatur|rechts|Nageldesign]]
+
+Bevor man die Nägel lackieren kann, kommt die Nagel- und Handpflege dran. Man muss die Nägel und Hände reinigen, die Nagelhaut zurückschieben und die Nägel vorbereiten, bevor man sie bearbeiten kann.
+
+Als nächstes schneidet man die Nägel und feilt sie mit einer Nagelfeile in die Form, die der Kunde wünscht.
+
+Beim Nägel lackieren kann man sich verschiedene Farben und Muster aussuchen und sie schön gestalten lassen.
+
+Airbrush bezeichnet eine kleine Variante einer Spritzpistole, welche nur etwas größer als ein Kugelschreiber ist. Man kann die Nägel damit schön besprühen und gestalten, wie es der Kunde wünscht.
+
+==Ausbildung==
+Wenn man eine Nageldesignerin werden will, reicht ein Mittelschulabschluss.
+
+Um Nageldesignerin zu werden, muss man auf eine Kosmetikschule gehen oder auf eine Nageldesign-Schule. Es gibt verschiedene Stufen, z.B. Gelnägel machen, mit Airbrush arbeiten, Nägel feilen und auch schneiden.
+
+Man muss auch eine Hand- und Nagelpflege-Ausbildung machen, dies kann man gleich in der Kosmetik- oder Nageldesign-Schule machen. Zur Hand- und Nagelpflege gehören auch viele Dinge, wie z.B. Nagelhaut zurückschieben oder Hände und Nägel desinfizieren, und vieles mehr.
+
+==Arbeitsmittel==
+Mit der Nagelfeile kann mann Nägel kürzen, runden sowie polieren.
+
+Mit dem Nagelgel kann man künstliche Nägel auf dem echten Nagel befestigen.
+
+Mit dem Nagellack kann man Nägel in verschiedenen Farben lackieren, außerdem kann man auch viele verschiedene Muster darauf malen.
+
+Mit dem Nagellackentferner kann man den Nagellack wieder sauber entfernen.</text>
+      <sha1>gx9ov7z49b68xuecvcko8fjeiopb4en</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Naidoo, Xavier Kurt</title>
+    <ns>0</ns>
+    <id>2288</id>
+    <revision>
+      <id>13245</id>
+      <parentid>6317</parentid>
+      <timestamp>2010-03-06T19:37:23Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1250">{{Babel-1|Schüler_Verfasser}}
+Xavier Naidoo wurde am 2.Oktober in Mannheim geboren. Heute wohnt er in Mannheim. Seine Eltern kommen aus dem Ausland. Xaviers Mutter Eugene ist Südafrikanerin ägyptischer Abstammung. Sein Vater  hat südafrikanische und tamilisch-indische Vorfahren. Seine Texte befassen sich mit Religiösem und dem Weltuntergang. Xavier wurde in der Realschule oft wegen seiner Hautfarbe gehänselt. Deshalb lernte er die Sportart Kickboxen,so konnte er sich im Notfall besser verteidigen. Dort in der Schule sang er im Kirchenchor. Heute ist er ein deutscher Soul and R n b Sänger, das heißt dass er dunkle religiöse Texte schreibt. R n b ist eine Abkürzung und heißt &quot;rapp and Black Music&quot;. Für die Nationalmannschaft sang er das Lied &quot;Danke&quot;, das eigentlich nur im Internet veröffentlicht werden sollte. Aber er kam sofort an die Spitzten der Charts. In der Kabine der WM-Spieler kamen die Hits von Xavier vor. Auf der Fanmeile sang er auch noch. Außerdem  ist Xavier Gründungsmitglied der Band &quot;Söhne Mannheims&quot;, die auch eine sehr erfolgreiche Band ist. Sein Album &quot;Telegramm für X&quot; veröffentlichte er im Dezember 2005, das sich sehr gut verkauft hat, wie die meisten anderen Alben von ihm auch.
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Narnia</title>
+    <ns>0</ns>
+    <id>2139</id>
+    <revision>
+      <id>13244</id>
+      <parentid>8890</parentid>
+      <timestamp>2010-03-06T19:37:11Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel</comment>
+      <text xml:space="preserve" bytes="875">{{Babel-1|Schüler_Verfasser}}
+==Die Bücher von Narnia==
+
+Es gibt diese Bücher:
+
+* Das Wunder von Narnia, im englsischen: Der Neffe des Zauberers,
+* Der König von Narnia,
+* Der Ritt nach Narnia,
+* Prinz Kaspian von Narnia,
+* Die Reise auf der &lt;Morgenröte&gt;,
+* Der silberne Sesel und 
+* Der Letzte Kampf.  
+
+Das waren die Bücher von Narnia.
+
+Und auch die ISBN Nummern:
+
+
+* ISBN 3-87067-726-0 Ist das erste Buch,
+* ISBN 3-87067-735-x ist das zweite Buch,
+* ISBN 3-87067-758-9 Ist das tritte Buch,
+* ISBN 3-87067-773-2 ist das vierte Buch,
+* ISBN 3-87067-802-x ist das fünfte Buch,
+* ISBN 3-87067-827-5 ist das sechste Buch und
+* ISBN 3-87067-828-3 ist das siebte Buch.
+
+Ihr Müst unbedinkt zwei Bücher: ''Das Wunder von Narnia'' und ''Der König von Narnia'', kaufen, weil im ersten keine '''ISBN Nummern gibt''''''!!!'''
+
+Der Autor heißt C.S.LEWIS.
+
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Naruto</title>
+    <ns>0</ns>
+    <id>6187</id>
+    <revision>
+      <id>25536</id>
+      <timestamp>2023-02-13T09:49:02Z</timestamp>
+      <contributor>
+        <username>MATim2</username>
+        <id>10575</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Mein Thema  ist  Naruto Naruto ist ein Ninja. Es ist eine Anime-Serie, zu der es auch Mangas gibt. Es gibt 10 Hokage- Häuser. Naruto muss gegen andere böse N…“</comment>
+      <text xml:space="preserve" bytes="304">Mein Thema  ist  Naruto
+Naruto ist ein Ninja. Es ist eine Anime-Serie, zu der es auch Mangas gibt. Es gibt 10 Hokage- Häuser. Naruto muss gegen andere böse Ninja kämpfen. Sein Lehrer und Freund heißt Kakashi, seine Freundin heißt Sakura und sein Freund heißt Sasuke. Boruto ist der Sohn von Naruto.</text>
+      <sha1>diu1nbcub0zdh8pl6ebq2evqyp8oy57</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nasenbär</title>
+    <ns>0</ns>
+    <id>5904</id>
+    <revision>
+      <id>24940</id>
+      <timestamp>2021-06-29T06:30:58Z</timestamp>
+      <contributor>
+        <username>WILkreidefinger</username>
+        <id>10462</id>
+      </contributor>
+      <comment>Im text</comment>
+      <text xml:space="preserve" bytes="1330">Die Nasenbären oder Rüsselbären sind eine in Mittel- und Südamerika verbreitete Gattung der Kleinbären. Sie sind nach ihrer rüsselartig verlängerten Schnauze mit beweglicher Nase benannt. Der Gattungsname bezieht sich auf das lateinische Wort für Nase „nasus“.Nasenbären erreichen Kopf-Rumpf länge von 43 bis 70 cm. Der abwechselnd gelb und braun gebänderte Schwanz ist mit 42 bis 68 cm etwa ebenso lang. Ihre Schulterhöhe wird mit bis zu 30,5 cm, ihr Gewicht mit 3,5 bis 6 kg angegeben. Die Vorderbeine sind kurz, die Hinterbeine lang. Gewöhnlich sind die Männchen größer als die Weibchen. Der Nelson Nasenbär ist relativ klein, seine Größe überlappt sich aber mit der der Festlandpopulationen.Die Behaarung des Nelson-Nasenbärs ist kurz, recht weich und seidig. Bei anderen Populationen beider Arten ist das Haar länger und etwas rau.Adulte Männchen sind oft in der Nacht aktiv, hauptsächlich sind Nasenbären aber am Tage rege. Der Südamerikanische Nasenbär (Nasua nasua)  Kolumbien bis nördliches Argentinien und Urugay NasenbärDer Weißrüssel-Nasenbär (nasua narica) Arizona bis zum Golf von Uraba im nordwestlichen Kolumbien.der Nelson-Nasenbär  (Nasua nelsoni) – Insel Cozumel. Artstatus umstritten , wird auch als Unterart des Weißrüssel-Nasenbären angesehen (Nasua narica nelsoni).</text>
+      <sha1>ovrcp02776bggaay51hpkmiwqx96e5u</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nashorn</title>
+    <ns>0</ns>
+    <id>3506</id>
+    <revision>
+      <id>13708</id>
+      <parentid>13605</parentid>
+      <timestamp>2010-06-25T10:23:50Z</timestamp>
+      <contributor>
+        <username>Schülerteam9</username>
+        <id>788</id>
+      </contributor>
+      <text xml:space="preserve" bytes="689">{{Babel-1|Schüler_Verfasser}}
+Das Nashorn ist ungefähr ein 3000kg schweres Tier.Heute gibt es nur noch 5 Nashornarten Weltweit.In Afrika sind 2Arten vorhanden:
+*das Breitmaulnashorn
+*das Spitzmaulnashorn. 
+Aus Asien sind noch das Panzernashorn, das Javanashorn und das Sumatranashorn bekannt,allerdings fast augestorben.Das Panzernashorn und das Javanashorn verfügen nur über ein Horn,alle übrigen über zwei Hörner.Wie alle Nashörner sind auch Panzernashörner reine Planzenfresser.Sie ernähren sich von jungen Gräsern und Zweigen.
+
+
+
+&lt;span style=&quot;color: green&quot;&gt;
+* Reihe:Landwirbeltiere
+* Klasse:Säugetiere
+* Unterklasse:Höhere Säugetiere&lt;/span&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Natur</title>
+    <ns>0</ns>
+    <id>2579</id>
+    <revision>
+      <id>7786</id>
+      <parentid>7785</parentid>
+      <timestamp>2008-01-19T12:52:01Z</timestamp>
+      <contributor>
+        <username>MALiliana</username>
+        <id>150</id>
+      </contributor>
+      <text xml:space="preserve" bytes="282">{{Babel-1|Schüler_Verfasser}}
+Die  Natur  besteht  aus  Pflanzen  und  Tieren.  Manchmal  wachsen  in  '''Naturschutzgebieten'''  seltene  Pflanzen.  Dort  gibt  es  auch  viele  seltene  [[Tier]]e.  Siehe  auch  [[Naturphänomen]]  oder  [[Naturkatastrophe]].
+
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Naturkatastrophe</title>
+    <ns>0</ns>
+    <id>2233</id>
+    <revision>
+      <id>18158</id>
+      <parentid>6334</parentid>
+      <timestamp>2014-06-02T12:54:07Z</timestamp>
+      <contributor>
+        <username>MAAlina3</username>
+        <id>10016</id>
+      </contributor>
+      <text xml:space="preserve" bytes="244">Naturkatastrophen sind eine der gefährlichsten Zufälle der Erde, weil sie große Auswirkungen auf die Menschheit haben können. Es gibt Tsunamis, Erdbeben, Hochwasser, Tornados, Waldbrände, Vulkanausbrüche und Lawinen.
+
+
+
+
+{{Rücksprung|N}}</text>
+      <sha1>d0puiol6v8ri56ojo56qrg15rdgpiwg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Naturmaß</title>
+    <ns>0</ns>
+    <id>3392</id>
+    <revision>
+      <id>12956</id>
+      <parentid>12954</parentid>
+      <timestamp>2009-12-16T09:43:27Z</timestamp>
+      <contributor>
+        <username>MALeupold</username>
+        <id>710</id>
+      </contributor>
+      <text xml:space="preserve" bytes="221">{{Babel-1|Schüler_Verfasser}}
+==Naturmaße==
+Es gibt verschiedene Naturmaße, zum beispiel die [[Handspanne]]. es gibt natürlich auch andere Naturmaße wie zum beispiel die [[Elle]] und der [[Fuß]].
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Naturphänomen</title>
+    <ns>0</ns>
+    <id>2580</id>
+    <revision>
+      <id>7758</id>
+      <parentid>7757</parentid>
+      <timestamp>2008-01-18T14:58:34Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Naturphänomene wurde nach Naturphänomen verschoben: einzahl statt mehrzahl</comment>
+      <text xml:space="preserve" bytes="364">{{Babel-1|Schüler_Verfasser}}
+== Naturphänomene ==
+sind  außergewöhnliche  Dinge  in  der  Natur,  z.b.  [[Naturkatastrophe]]n.  aber  auch  das  '''Wasser'''  ist  ein  Naturphänomen.
+
+
+== Naturphänomene  als  Fach ==
+
+Naturphänomene  ist  ein  schönes  Fach.  Dort  lernt  man  durch  Experimente  Dinge  über  die  Naturphänomene.
+
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Navigationsgerät</title>
+    <ns>0</ns>
+    <id>1765</id>
+    <revision>
+      <id>12877</id>
+      <parentid>4032</parentid>
+      <timestamp>2009-12-11T14:31:34Z</timestamp>
+      <contributor>
+        <username>Konstantin</username>
+        <id>345</id>
+      </contributor>
+      <text xml:space="preserve" bytes="254">{{Babel-1|Schüler_Verfasser}}
+Das Navigationsgerät ist ein Gerät das einem anzeigt, wo man ist. Man benutzt es auch zum Vermessen von Straßen. Bekannte Anbieter dieser Geräte sind Garmin, TomTom, Becker, Navigo und viele weitere.
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Neandertaler</title>
+    <ns>0</ns>
+    <id>4758</id>
+    <revision>
+      <id>19533</id>
+      <parentid>19532</parentid>
+      <timestamp>2016-01-28T10:46:50Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1050">{{Babel-1|Schüler_Verfasser}}
+Gelebt hat der '''Neandertaler''' in Europa. Sie lebten von der Jagd auf Tiere. Gejagt haben sie meistens mit Speeren, Bögen und Äxten. Das war vor 10.000 Jahren. Neandertaler waren kleiner als wir Menschen heute, dafür waren sie viel stärker. Sie lebten überwiegend in Höhlen. Die Neandertaler begruben auch ihre Verstorbenen, wie wir es heute tun. Als die Eiszeit begann erfand der Neandertaler den Vorläufer der heutigen Kleidung. Bei Kälte war der Mensch ohne sein Fell nicht mehr geschützt. Gegen Ende der Neandertaler, kamen die Homosapiens in die Heimat der Neandertaler. Sie entwickelten große Stämme. Dadurch fanden die Neandertaler aber kaum noch Nahrung. Dazu kam noch, dass das Volk der Homosapiens immer größer wurde. Es wurden immer weniger Neandertaler. Seinen Namen hat der Neandertaler dadurch das seine Knochen im Neandertal gefunden wurden, dies liegt in der Nähe von Frankfurt.
+
+Unsere Inforationen stammen u.a. aus der Internetseite www.FragFinn.de. Wir sind Liamh,
+
+{{Rücksprung|N}}</text>
+      <sha1>fmg8on1brdqn7vu7opuv4thc7edub65</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nebelhöhle</title>
+    <ns>0</ns>
+    <id>2276</id>
+    <revision>
+      <id>6333</id>
+      <parentid>6313</parentid>
+      <timestamp>2007-04-24T16:36:00Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>{{Rücksprung|N}}</comment>
+      <text xml:space="preserve" bytes="1035">Die Nebelhöhle ist eine Tropfsteinhöhle auf der Schwäbischen Alb. Sie hat eine Gesamtlänge von 803m, wovon 430m für Besucher erschlossen sind. 
+Tropfsteine sind Steine, die durch tropfendes Wasser enstehen. Sie wachsen alle 100 Jahre 8 -15mm. Doch bevor die Nebelhöhle entdeckt wurde, fand man das Nebelloch. Das Nebelloch ist eine Felsspalte in der Höhlendecke, in die Tageslicht fällt. Im Winter steigt aus dem Nebelloch Nebel auf. 
+Die Nebelhöhle wurde durch einen Jäger entdeckt. Denn als ein Jäger ein Reh jagte und das mit seinem Pfeil traf, fiel das Reh in das Nebelloch. Der Jäger stieg in das Loch hinein und entdeckte so die Nebelhöhle. 
+Im Jahr besuchen die Nebelhöhle 50 000-60 000 Besucher, also halb so viele wie in der benachbarten Bärenhöhle. Das Nebelhöhlenfest entstand durch einen Fürst. Als Kurfürst Friedrich I. vom Württemberg 1803 die Nebelhöhle besuchte, machte man daraus ein Nebelhöhlenfest. Es ist immer am Pfingstmontag und das gibt es schon seit so vielen Jahren.
+
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nebelparder</title>
+    <ns>0</ns>
+    <id>5905</id>
+    <revision>
+      <id>24943</id>
+      <parentid>24942</parentid>
+      <timestamp>2021-06-29T06:39:33Z</timestamp>
+      <contributor>
+        <username>WILkreidefinger</username>
+        <id>10462</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2270">DER NEBELPARDER
+
+Der Nebelparder gehört zur Gattung der Großkatzen. Er besitzt ein gold- bis hellbronzefarbenes Fell. Außerdem hat er ein giraffenähnliches Fellmuster, was an den Rändern schwarz und innendrin grau bis hellbraun ist. Seine oben spitz zulaufenden Ohren, sind im Vergleich zum Kopf eher klein und meist einfarbig schwarz. Der Nebelparder hat einen runden Kopf und eine hellrosa Nase. Er hat eine kräftige Statur und relativ kurze Beine, die ideal zum klettern sind. Seine Tatzen sind groß und breit und er hat ungewöhnlich lange Krallen, mit denen er Bäume kopfüber herunterklettern kann.
+
+Die Kopf-Rumpf-Länge des Nebelparders beträgt ungefähr 60-100 cm. Sein Schwanz, der fast nochmal so lang wie der Körper ist, ist 60-90 cm lang. Der Nebelparder hat eine Schulterhöhe von etwa 41 cm und er wiegt 16-23 kg. Seine 4,5 cm langen oberen Eckzähne sind im Vergleich zur Körpergröße, größer als bei allen anderen lebenden Katzenarten.
+
+Der Nebelparder bewohnt verschiedene Waldtypen und steigt im Gebirge bis zu etwa 2000 m hoch. So findet man ihn in tropischen und subtropischen Primär- und Sekundärwäldern, unter anderem auch in Buschwäldern, hohem Grasland und in den Mangrovensümpfen. Er ist im Südosten Asiens beheimatet.
+
+Der Nebelparder ist ein Einzelgänger und hält sich vorwiegend im Geäst auf. Meistens geht er erst nachts auf die Jagd. Seine Beutetiere sind Hirsche, Schweine, Stachelschweine, Affen und Vögel, aber auch Schlangen und andere Kleintiere.
+
+Der Nebelparder bringt pro Wurf etwa 1-5 meistens aber 2-4 Junge auf die Welt. Die Tragzeit dauert 87-102 Tage. Die Jungen sind Anfangs blind und wiegen rund 140-170 g. Nach etwa zehn bis elf Tagen öffnen sie die Augen. Obwohl sie nach zehneinhalb Wochen erste feste Nahrung zu sich nehmen, werden sie etwa fünf Monate lang von ihrer Mutter gesäugt. Die Flecken sind bei der Geburt völlig schwarz und hellen sich dann in den Zentren immer mehr auf, bis sie nach einem halben Jahr dem Muster der erwachsenen Tiere entsprechen. Man nimmt an, dass Nebelparder mit etwa neun Monaten selbstständig sind. Sowohl Männchen als auch Weibchen sind mit 26 Monaten fortpflanzungsfähig.
+
+Die durchschnittliche Lebenserwartung des Nebelparders liegt bei etwa 11 Jahren.</text>
+      <sha1>gqa49y64hls1a3bsbnd9f5mb2zifpjg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Neideck</title>
+    <ns>0</ns>
+    <id>2922</id>
+    <revision>
+      <id>9674</id>
+      <parentid>9671</parentid>
+      <timestamp>2008-11-05T13:17:32Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="711">{{Babel-1|Schüler_Verfasser}}
+[[Bild:RuineNeideck2008.jpg|thumb|Burgruine Neideck mit der Flagge der Familie von Schlüsselberg]]
+Die Burgruine Neideck befindet sich auf einem  Berg bei Streitberg in der Fränkischen Schweiz. Die Ruinenmauern sind zum Teil 900 Jahre alt. Die ehemalige Burg war im Besitz der Familie von Schlüsselberg. Deswegen befindet sich in der Flagge ein Schlüssel (siehe Bild). Leider wurde die Burg 1553 vollkommen zerstört. Seitdem ist es eine Ruine. Heutzutage kann man die Ruine umsonst besichtigen. Dieser Bericht wurde von meiner Freundin Anna verfasst mit der ich heute auf der Ruine war.
+'''--&amp;nbsp;von Alina&amp;nbsp;&lt;small&gt;20:00, 3. Nov. 2008 (UTC)&lt;/small&gt;'''
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nemo</title>
+    <ns>0</ns>
+    <id>4079</id>
+    <revision>
+      <id>17260</id>
+      <parentid>16542</parentid>
+      <timestamp>2013-05-21T23:13:15Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="483">{{Babel-1|Schüler_Verfasser}}
+Nemo ist  ein '''Clownfisch'''. Er Hat die ''Farben Orange, Schwarz und weiß''. Seine ''Augenfarbe ist braun''. Er ist 10cm groß. Der Fisch ist bekannt aus dem Film &quot;'''Findet Nemo'''&quot;. Zuhause ist er im Meer. Seine beste Freundin ist Dori. Seine Hobbys sind schwimmen und spielen. Seine Besonderheit ist eine kleine Flosse an der rechten Seite, mit der er trotzdem sehr gut schwimmen kann. Er versteckt sich immer in der Annemone.
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nepomukbrücke</title>
+    <ns>0</ns>
+    <id>3123</id>
+    <revision>
+      <id>11306</id>
+      <parentid>11234</parentid>
+      <timestamp>2009-03-28T16:08:37Z</timestamp>
+      <contributor>
+        <username>MAMniclas</username>
+        <id>574</id>
+      </contributor>
+      <text xml:space="preserve" bytes="605">{{Babel-1|Schüler_Verfasser}}
+Nepomukbrücke
+
+An der Nepomukbrücke in [[Bad Krozingen]] steht folgender Text:
+
+Schon zur Zeit der Römer (ca.50-260 n.Chr) führte an dieser Stelle eine Brücke über den 
+Neumagen.Die steinerne Brücke von 1753-54 wurde 1945 zerstört. Gerettet und später wieder aufgestellt wurden die Figuren des Hl. Johann Nepomuck und der Immaculaten. Werke des Barockbildhauers Johann Baptist Selinger (1714-1779).
+
+[[Bild:nepomuk3.JPG|thumb|]]
+[[Bild:nepomuk2.JPG|thumb|]]
+[[Bild:nepomuk1.JPG|thumb|]]
+[[Bild:gina-maria.jpg|thumb|]]
+[[Bild:nepomuk4.JPG|thumb]]
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Neptun</title>
+    <ns>0</ns>
+    <id>2190</id>
+    <revision>
+      <id>17946</id>
+      <parentid>17944</parentid>
+      <timestamp>2014-03-18T07:43:23Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>/* Der Neptun */</comment>
+      <text xml:space="preserve" bytes="1765">{{Babel-1|Schüler_Verfasser}}
+==Der Neptun==
+[[Bild:PlanetNeptun.png|thumb|Der Planet Neptun mit seinen Stürmen]]
+Neptun ist von der Sonne 4,501 Milliarden Kilometer entfernt. Er ist der achte Planet von der Sonne aus gesehen. Er wurde im Jahr 1846 von Bahnströmungen des Uranus entdeckt. Der Durchmesser beträgt 49,532 Kilometer, fast 4x so groß wie die Erde. Neptun ist der 4. größte Planet in unserem Sonnensystem. Neptun hat 11-13 Monde. Der Kern des Neptuns besteht aus Fels und Eis. Das Zentrum
+ist ungefähr 7.000 Grad heiß. Der Mantel besteht aus Ammoniak. Die Kreisbahnen vom Neptun und Pluto 
+kreuzen sich. Der Neptun bestet aus Methan dieses Gas lässt den Planeten blau erscheinen. 1612 wurde der Planet Neptun von Galileo Galiei endeckt . Es sind auf  dem Neptun -210°C. Noch keine Menschen waren auf dem Neptun, weil er so weit entfernt ist. Ein paar Ringe hat der Neptun. Weil der Neptun so viele verschiedene Gase hat gibt es keine Lebewesen auf dem Planeten. Er wird von der Sonne angestrahlt. Außerdem hat Neptun dunkle Flecken. Die dunklen Flecken auf Neptun sind Stürme.
+
+==Der Gott Neptun==
+[[Bild:DreizackNeptun.png|thumb|Der Dreizack von Neptun]]
+Das Zeichen von Neptun ist der Dreizack. Bei den alten Römer wurde Neptun Neptunus genannt.
+
+==Das Musikstück==
+Es gab auch ein Musikstück (Neptun, der Mystiker), das vom Komponisten Gustav Holst
+komponirt wurde. Man wusste damals nicht, was hinter dem Neptun ist. Deswegen hat Holst
+das Musikstück mystisch und unbekannt geschrieben. Man hört einen Frauenchor im Lied, der auch
+an das Welltall erinnert. Gustav Holst wurde am 21. September 1874 in Cheltenham, England, geboren. 
+
+
+
+
+
+
+
+{{Rücksprung|N}}
+[[Kategorie:Artikel_Tag_des_Digitalen_Lernens_2010]]
+{{Autor|9-10|4|GS|4}}</text>
+      <sha1>9898wlt1zznpyi5o52bf37sdsqn1rye</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Neue schule</title>
+    <ns>0</ns>
+    <id>6224</id>
+    <revision>
+      <id>25624</id>
+      <timestamp>2025-03-27T13:26:49Z</timestamp>
+      <contributor>
+        <username>FZgrete</username>
+        <id>10600</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Es ist meistens richtig doof wenn man aus irgend einem Grund auf eine andere schule muss aber es gibt ja verschiedene Auslöser da für zum Beispiel:  Du gehst…“</comment>
+      <text xml:space="preserve" bytes="1030">Es ist meistens richtig doof wenn man aus irgend einem Grund auf eine andere schule muss aber es gibt ja verschiedene Auslöser da für zum Beispiel:
+
+Du gehst auf die weiter führende schule.
+du hast grade die 4 oder die 6 oder vielleicht auch die 7 klasse abgeschlossen und gehst im nächsten Jahr auf eine neue schule wo du dann auch normaler weise bis zur 12 oder 13 Klasse bleibt. es gibt verschiedene Schultypen zum Beispiel die Hauptschule die Realschule und das Gymnasium.
+-Oder du musst um ziehen und in einem anderen Land auf die schule gehen. 
+dann ist es manchmal richtig schwer. denn manchmal gibt es keine schulen in der Sprache die ihr sprecht dann müsst ihr euch richtig anstrengen und versuchen die Sprache zulernen. Aber manchmal hat man glück und man kann die Sprache oder es gibt eine schule in eurer Sprache sonnst gibt es auch die Option auf eine Englische schule zu gehen 
+-Du könntest dich auch nicht wohl gefühlt haben. 
+
+-Oder du wurdest von der schule geschmissen. 
+
+Also es gibt ganz viele gründe.</text>
+      <sha1>4jzx60rc91n0vghfbvmh7yl4vr5ajwp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Neumünster</title>
+    <ns>0</ns>
+    <id>4105</id>
+    <revision>
+      <id>17192</id>
+      <parentid>17120</parentid>
+      <timestamp>2013-05-21T22:09:34Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>rücksprung, bild angepasst</comment>
+      <text xml:space="preserve" bytes="1539">{{Babel-1|Schüler_Verfasser}}
+
+== Wappen==
+Auf der oberen Seite sieht man eine Reuthaue,was bedeutet,&lt;br /&gt;dass das Gebiet von Neumünster zuerst Wald war
+und dann vom Kloster Oberschönefeld abgerodet wurde.&lt;br /&gt;
+Unten auf dem roten Vierberg steht ein schwarzer Wolf.&lt;br /&gt;
+Das bedeutet,dass auch die Herren von Wolfsberg in Neumünster einen Besitz hatten.
+
+== Entstehung==
+[[Bild:Gsapatrick01.jpg|thumb|Das ist das Wappen von Neumünster.]]
+Die Gründungsurkunde von Neumünster stammt aus dem Jahre 1346.&lt;br /&gt;
+Damals gehörte Neumünster zum Kloster Oberschönefeld.&lt;br /&gt;
+Bevor Neumünster entstand,war die Fläche des Ortes nur Wald.&lt;br /&gt;
+Das Dorf wurde als Angerdorf durch planmäßige Rodung angelegt.
+
+== Vereine==
+In Neumünster gibt es den Skiclub.&lt;br /&gt;
+Er bietet Skigymnastik und im Winter Skifahren an.&lt;br /&gt;
+Der SSV Neumünster-Unterschöneberg ist ein Fußballverein.&lt;br /&gt;
+Im Schützenverein Jägerblut schießt man mit Gewehren und anderen Waffen.&lt;br /&gt;
+Es gibt aber auch die Gaststätte Wollmann in Neumünster.&lt;br /&gt;
+
+== Firmen==
+In Neumünster gibt es den Baggerbetrieb Steppe,&lt;br /&gt;
+dort kann man Bagger ausleihen oder bestellen zur Hilfe&lt;br /&gt;
+beim Hausbau und anderen Bauarbeiten.
+
+== Besonderheiten==
+In Neumünster gibt es neben der Dorfkirche ein Wappen aus Stein.&lt;br /&gt;
+Das Wappen ist mit vielen Blumen umrandet.&lt;br /&gt;
+Auf dem Wappen ist der rote Vierberg,der Wolf,die Reuthaue und der Krummstab zu sehen.&lt;br /&gt;
+Ein paar Meter weiter steht eine alte Kastanie neben dem Dorfbrunnen.&lt;br /&gt;
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nick</title>
+    <ns>0</ns>
+    <id>1763</id>
+    <revision>
+      <id>4027</id>
+      <parentid>4021</parentid>
+      <timestamp>2006-07-19T14:14:03Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="244">{{Babel-1|Schüler_Verfasser}}
+Nick (auch Nikola und Nicola) ist eine Abkürzung von Nikolaus und stammt ursprünglich aus Griechenland.
+
+Der Name kommt auch in Nicklodeon (ein Fernsehsender) und Nickname (Benutzername) vor.
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nico Santos</title>
+    <ns>0</ns>
+    <id>5429</id>
+    <revision>
+      <id>23214</id>
+      <parentid>23044</parentid>
+      <timestamp>2018-07-02T05:52:18Z</timestamp>
+      <contributor>
+        <username>Wgsa32</username>
+        <id>10167</id>
+      </contributor>
+      <text xml:space="preserve" bytes="317">== Personen ==
+Nico Santos ist im Jahre 1993 Geboren und somit 25 Jahre Alt
+
+== Karriere ==
+Im Jahre 2008 und 2009 war Nico Santos bei verschiedenen Werbespot für C&amp;A
+
+
+== Hits ==
+Nico Santos hat die lieder Rooftop und Goodbye to Love
+
+
+== Besonderheiten ==
+Er singt zwar Englishe lieder aber er ist Deutschersänger</text>
+      <sha1>6iusvyvspeag9l6orpxbevgc1u8dpgi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Niederlande</title>
+    <ns>0</ns>
+    <id>2773</id>
+    <revision>
+      <id>22315</id>
+      <parentid>22287</parentid>
+      <timestamp>2018-05-14T08:32:15Z</timestamp>
+      <contributor>
+        <username>Wgsad70</username>
+        <id>10339</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1349">{{Babel-1|Schüler_Verfasser}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[[Datei:Flagge Niederlande.jpg|miniatur|Niederlande]]
+== Daten und Fakten ==
+Es gibt 17,139,856 Einwohner.Die Hauptstadt der Niederlande ist Amsterdam. Die Nachbarländer sind Deutschland und Belgien. Die Sprachen sind Niederländisch, Westfriesisch, Englisch, Papiamenta. Die Währunge sind Euro und US Dollar.
+
+==Sehenswürdigkeiten==
+De Holandsee: Dort läuft die Zulldirsche in viele verschiedene Richtungen.
+
+==Speisen und Getränke==
+Es gibt morgens Schokoflakes und noch andere Sachen. Mittags wird nicht viel gegessen dafür gibt es eine warme Mahlzeit .
+
+==Berühmte Persönlichkeiten==
+Die Königsfamilie ist sozusagen das Wahrzeichen der Niederlande
+
+==Interessantes==
+Manche Menschen leben in Hausbooten, weil es in den Niederlanden viele Gewässer gibt.
+
+
+
+
+===Interessante Internetseiten zu Niederlande===
+
+: http://www.unicef.de
+: http://www.internet-abc.de
+: http://www.t-online.de
+: http://www.wikipedia.de
+: http://www.google.de
+: http://www.medienwerkstatt.de
+: http://www.seitenstark.de
+
+
+{{Rücksprung|N}}</text>
+      <sha1>ga5waef91jv9hrd4k4jttmg9fn2mkh3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Niedersachsen</title>
+    <ns>0</ns>
+    <id>5486</id>
+    <revision>
+      <id>23366</id>
+      <parentid>23365</parentid>
+      <timestamp>2018-07-10T14:29:38Z</timestamp>
+      <contributor>
+        <username>Wgsad65</username>
+        <id>10334</id>
+      </contributor>
+      <comment>/* Interessantes */</comment>
+      <text xml:space="preserve" bytes="1636">[[Datei:Wappen Niedersachsen.png|miniatur]]
+===Daten und Fakten ===
+Niedersachsen hat 7.962.923 Einwohner. Die Landeshauptstadt von Niedersachsen ist Hannover.Niedersachsen grenzt an: Niederlande,Belgien,Hamburg,Nordrhein-Westfalen,Hessen, Thüringen,Sachsen,Schleswig-Holstein und Mecklenburg-Vorpommern.In Niedersachsen redet man Plattdeutsch.Niedersachsen hat eine Fläche von 47.618 km².
+=== Sehenswürdigkeiten ===
+In Niedersachsen gibt es die Lüneburger Heide. Das ist ein großes Waldgebiet. Dann gibt es den Heide Park mit vielen Fahrgeschäften. Der große National Park Harz ist beliebt mit seinen vielen Wanderwegen.Die Ostfriesischen Inseln sind eine Gruppe von Deutscher Nordseeinseln.
+[[Datei:Birnen  Bohnen und Speck.jpg|miniatur]]
+
+=== Speisen und Getränke ===
+Man isst viel Birnen Bohnen und Speck. Emsländer(Buchweizenpfannenkuchen) ist eine Spezialität, sie essen auch viel Spargel und Kartoffeln. Tee trinken ist in Ostfriesland mehr als nur Durststillen.
+
+=== Berühmte Persönlichkeiten ===
+Berühmte Persönlichkeiten in Niedersachsen sind Carl Friedrich Gauß(Mathematiker), Robert Koch (Deutscher Mediziner, Mikrobiologe und Hygieniker ), Dieter Bohlen (Moderator DSDS ) und Otto Waalkes( Komiker ).
+
+=== Interessantes ===
+Niedersachsen liegt an der Nordsee. Es gibt viel Wind. Perfekt für Surfer und Segler. In Hannover feiert man jedes Jahr das größte Schützenfest Deutschlands. Es gibt riesige Umzüge. In Niedersachsen liegt der Harz. Das ist ein Mittelgebirge. Dort wurde früher Gold und Silber sowie Erz angebaut. Darüber gibt es heute ein Museum.
+[[Datei:Harz resin-2366374  340.jpg|miniatur]]</text>
+      <sha1>sqew5bnliuuf9akmw3p5reza0dzj7z4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nikolaus</title>
+    <ns>0</ns>
+    <id>4551</id>
+    <revision>
+      <id>18863</id>
+      <parentid>18862</parentid>
+      <timestamp>2015-04-13T19:17:10Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Änderung 18862 von [[Special:Contributions/MALeupold|MALeupold]] ([[User talk:MALeupold|Diskussion]]) rückgängig gemacht.</comment>
+      <text xml:space="preserve" bytes="244">{{Babel-1|Schüler_Verfasser}}
+== Der Nikolaus ==
+Der Nikolaus kommt am 6. Dezember.
+Er bringt Süßigkeiten und kleine Geschenke. Diese steckt er in Stiefel, aber sie müssen sauber sein.
+(als Tipp große Stiefel hinstellen)
+
+{{Rücksprung|N}}</text>
+      <sha1>2ieygdq72arv84kxh6b7jfsh7l7oytq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nintendo</title>
+    <ns>0</ns>
+    <id>4148</id>
+    <revision>
+      <id>17221</id>
+      <parentid>17005</parentid>
+      <timestamp>2013-05-21T22:31:05Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="362">{{Babel-1|Schüler_Verfasser}}
+Nintendo ist eine firma die handhelds (spielekonsolen) und spiele herrstellt.Sie haben eine reihe von gameboys (spielekonsolen,sprich:gembois ), den DS, den DS light, den DSI, den DSi xl, den 3DS und den 3DS xl erfunden und herrgestellt. Dazu haben sie auch DS und 3DS-spiele wie z.B  Super mario bros erfunden.
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>No Angels</title>
+    <ns>0</ns>
+    <id>2378</id>
+    <revision>
+      <id>6728</id>
+      <parentid>6726</parentid>
+      <timestamp>2007-06-05T16:12:58Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>{{Rücksprung|S}}</comment>
+      <text xml:space="preserve" bytes="77">die No Angels sind die erfolgreichste  deutsche girlband
+
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Norddeich</title>
+    <ns>0</ns>
+    <id>5838</id>
+    <revision>
+      <id>24777</id>
+      <timestamp>2020-11-14T22:36:11Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Norddeich  In Norddeich ist es sehr schön. Man kann mit der Bimmelbahn fahren oder an den Strand gehen. Neben dem Stunde ist ein großes Haus namens: Haus des…“</comment>
+      <text xml:space="preserve" bytes="841">Norddeich
+
+In Norddeich ist es sehr schön. Man kann mit der Bimmelbahn fahren oder an den Strand gehen. Neben dem Stunde ist ein großes Haus namens: Haus des Gastes. Dort kann man essen, etwas kaufen oder sich nach draußen setzen und dem Sonnenuntergang zuschauen. In Norddeich gibt es auch Urlaubshäuser. Ein großes Schwimmbad steht nah an den Wohnungen. Im Schwimmbad gibt es auch ein Wellenbad. Dort im Schwimmbad kann man auch etwas essen. Das muss man aber bezahlen. Die Seehundstation ist auch sehr toll. Man  kann bei den Fütterungen zuschauen. Es gibt sogar Heuler. Heuler sind die kleinen Seehunde. Es gibt dort eine Treppe die in einen kleinen Raum führt. Unten ist ein großes Fenster. Dadurch sieht man die Seehunde wie sie im Wasser herum schwimmen.  Ein paar Räume weiter ist in einem Raum ein kleiner Tunnelspielplatz.</text>
+      <sha1>gqf7iejzs55dnoeaoutg502l0za1x8d</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nordendorf</title>
+    <ns>0</ns>
+    <id>4108</id>
+    <revision>
+      <id>18203</id>
+      <parentid>18201</parentid>
+      <timestamp>2014-06-02T17:43:08Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Änderung 18201 von [[Special:Contributions/MAWiedemann|MAWiedemann]] ([[User talk:MAWiedemann|Diskussion]]) rückgängig gemacht.</comment>
+      <text xml:space="preserve" bytes="918">{{Babel-1|Schüler_Verfasser}}
+== Wappen==
+
+Die Farben des Wappens von Nordendorf sind Rot, Weiß und Blau.
+
+== Entstehung==
+Nordendorf liegt zwar in Schwaben, ist aber eigentlich eine fränkische Siedlung.&lt;br /&gt;
+Bei Ausgrabungen wurden Grabbeigaben aus dem 6. Jahrhundert gefunden.
+
+== Verein==
+Es gibt viele Vereine:
+
+* Feuerwehrverein
+* Schützenverein
+* Theaterverein
+* Sportverein
+
+== Firmen==
+In Nordendorf gibt es 4 Autohändler, Bäcker, Metzger, Elektrofirmen, Stahlbaufirmen, Baufirmen und Fensterhersteller.
+
+== Besonderheiten==
+[[Bild:Mawiedemann01.jpg|thumb|Der Partnerschaftsbrunnen]]
+Seit 1973 gibt es eine Partnerschaft mit der französischen Gemeinde '''Biesles'''.&lt;br /&gt;
+Ehemalige französische Kriegsgefangene, die als Knechte auf einem Gutshof in Nordendorf arbeiten mussten,&lt;br /&gt; und die damaligen deutschen Knechte des Gutshofes haben gemeinsam diese Partnerschaft aufgebaut.
+
+
+{{Rücksprung|N}}</text>
+      <sha1>cp1niktyxkdij85ztz1399kdg33ejzf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nordkorea</title>
+    <ns>0</ns>
+    <id>3799</id>
+    <revision>
+      <id>15125</id>
+      <parentid>15102</parentid>
+      <timestamp>2011-12-13T19:45:21Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="603">{{Babel-1|Schüler_Verfasser}}
+== Nordkorea==
+Nordkorea ist ein Land in Asien.Früher war es mit Südkorea in einem Staat vereinigt.
+
+== Geographie==
+Das Land grenzt im Norden an China,im Süden an Südkorea,im Westen an das Gelbe Meer und im Osten an das Japanische Meer.Es hat 122,762 km².
+
+== Einwohner==
+Nordkorea hat 24.051.218 Einwohner.Die Bevölkerungsdichte beträgt 186 Einwohner je km².
+
+== Politik==
+Die Staatsform ist eine sozialistische Volksdemokratie.Das Staatsoberhaupt ist der Präsident Kim Il-sung.
+
+== Wirtschaft==
+In Nordkorea wird mit Won(=100Chon) gezahlt.
+
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nordrhein Westfalen</title>
+    <ns>0</ns>
+    <id>5832</id>
+    <revision>
+      <id>24769</id>
+      <parentid>24759</parentid>
+      <timestamp>2020-11-14T21:47:17Z</timestamp>
+      <contributor>
+        <username>MASchmitz2</username>
+        <id>10346</id>
+      </contributor>
+      <text xml:space="preserve" bytes="846">Nordrhein Westfalen ist ein deutsches Bundesland im Westen von Deutschland. 
+Nordrhein Westfalen liegt mit 16 anderen Bundesländern in Deutschland.
+
+Die Basisdaten von NRW sind:
+
+Gründung: 23. August 1946
+Fläche: 34.110,26 km2
+Sprache: deutsch
+Landeshauptstadt: Düsseldorf
+Einwohnerzahl: 17.947,221
+Größte Stadt: Köln mit ca. 1000000 Einwohnern
+Ministerpräsident: Armin Laschet
+Regierungspartei: CDU und FDP
+5 Regierungsbezirke: Arnsberg, Detmold, Köln, Münster und Düsseldorf
+angrenzende Bundesländer: Hessen, Niedersachsen und Rheinland Pfalz
+Webseite: www.land.nrw
+
+Wappen und Flagge von NRW: Der Fluss auf dem Wappen steht für den Rhein und das Rheinland. 
+Das Wappen ist rot, weiß und grün (als Hintergrund).
+Das springende weiße Pferd (altes Wort: &quot;Ross&quot;) steht für Westfalen.
+Rhein, Ross und Rose kann man sich gut merken!</text>
+      <sha1>5vm9tvfuzvvou77km5vogtvepee9jxq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Norwegen</title>
+    <ns>0</ns>
+    <id>4761</id>
+    <revision>
+      <id>23646</id>
+      <parentid>22249</parentid>
+      <timestamp>2019-05-10T12:50:36Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <comment>/* Speisen und Getränke */</comment>
+      <text xml:space="preserve" bytes="1137">{{Babel-1|Schüler_Verfasser}}
+== Daten und Fakten ==
+Die Größe von Norwegen beträgt: 323.759km2.&lt;br /&gt;
+Die Hauptstadt von Norwegen ist: Oslo.&lt;br /&gt;
+Oslo ist eine schöne Hafenstadt.&lt;br /&gt;
+Der längste Fluss in Norwegen ist: Glomma (601km).&lt;br /&gt;
+Der höchste Berg ist: Galhoppigen (2.469km).&lt;br /&gt;
+Die Währung (Das Geld) heißt: Norwegische Krone.
+[[Datei:Aurora.jpg|miniatur|Das Nordlicht in Norwegen]]
+
+== Sehenswürdigkeiten ==
+Die Dörfer(Sehenswürdigkeiten) Tomso wie auch Oslo,Bergen,Gelanger,Alesund und Stawanger würde ich sehr empfehlen.
+
+== Speisen und Getränke ==
+Das beliebteste Getränk in Norwegen ist Kaffee.&lt;br /&gt;
+Es wird zu jeder Tageszeit getrunken.&lt;br /&gt;
+Ein sehr beliebtes Fleisch ist Schaf,Ziege,Elche oder auch Rentiere.
+
+== Berühmte Persönlichkeiten ==
+Askel Lund Svindal ist ein sehr berühmter Ski Fahrer aus Norwegen. &lt;br /&gt;
+Prinz Mette-Martin Tjessen Höibi heiratete 25.8.01 in Oslo.
+
+== Interessantes ==
+Norwegen liegt ungefähr in Mitte von Europa.&lt;br /&gt;
+Die genaue Mitte Europas liegt im Norden Norwegens.&lt;br /&gt;
+Je näher du in Norwegen an den Nordpol kommst, desto länger werden die Tage.&lt;br /&gt;</text>
+      <sha1>5nm284vk2uz8ms7xci355j3sxw40zc2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nuvola-Icons</title>
+    <ns>0</ns>
+    <id>1604</id>
+    <revision>
+      <id>9938</id>
+      <parentid>4014</parentid>
+      <timestamp>2008-12-17T13:52:40Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>tippfehler angepasst</comment>
+      <text xml:space="preserve" bytes="2803">Gallerie der [[Galerie-Nuvola Nuvola-Icons]]
+
+Nach einem Hinweis aus dem SchWiki: 
+
+http://www.wikischool.de/wiki/WikiSchool:Iconset
+
+kann man unter der Adresse 
+
+http://www.kde-look.org/content/show.php?content=5358
+
+(Originaladresse: http://www.icon-king.com/)
+
+diese von David Vignoni entwickelten Icons downloaden und unter der [[GNU lgpl|GNU LESSER GENERAL PUBLIC LICENSE]] verwenden.
+
+Hier der '''Readme.txt''' der downgeloadeten Icons:
+
+----
+
+This copyright and license notice covers the images in this directory.
+Note the license notice contains an add-on.
+
+----
+
+TITLE:	NUVOLA ICON THEME for KDE 3.x
+
+AUTHOR:	David Vignoni | ICON KING
+
+SITE:	http://www.icon-king.com
+
+MAILING LIST: http://mail.icon-king.com/mailman/listinfo/nuvola_icon-king.com
+
+Copyright (c)  2003-2004  David Vignoni.
+
+This library is free software; you can redistribute it and/or
+modify it under the terms of the GNU Lesser General Public
+License as published by the Free Software Foundation,
+version 2.1 of the License.
+
+This library is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+Lesser General Public License for more details.
+You should have received a copy of the GNU Lesser General Public
+License along with this library (see the the license.txt file); if not, write to the Free Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+
+NOTE THIS ADD-ON
+
+The GNU Lesser General Public License or LGPL is written for software libraries
+in the first place. The LGPL has to be considered valid for this artwork
+library too.
+
+Nuvola icon theme for KDE 3.x is a special kind of software library, it is an
+artwork library, it's elements can be used in a Graphical User Interface, or
+GUI.
+
+Source code, for this library means: raster png image .
+
+The LGPL in some sections obliges you to make the files carry
+notices. With images this is in some cases impossible or hardly usefull.
+With this library a notice is placed at a prominent place in the directory
+containing the elements. You may follow this practice.
+
+The exception in section 6 of the GNU Lesser General Public License covers
+the use of elements of this art library in a GUI.
+dave [at] icon-king.com
+
+Date:		15 october 2004
+
+Version:	1.0
+
+DESCRIPTION:
+
+Icon theme for KDE 3.x. 
+
+Icons where designed using Adobe Illustrator, and then exported to PNG format.
+Icons shadows and minor corrections were done using Adobe Photoshop.
+Kiconedit was used to correct some 16x16 and 22x22 icons.
+
+LICENSE
+
+Released under GNU Lesser General Public License (LGPL)
+Look at the license.txt file.
+
+CONTACT
+
+David Vignoni	
+
+e-mail :		david [at] icon-king.com
+
+ICQ :			117761009
+
+http:           	http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nymphensittich</title>
+    <ns>0</ns>
+    <id>2394</id>
+    <revision>
+      <id>6861</id>
+      <parentid>6860</parentid>
+      <timestamp>2007-07-04T16:25:52Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Nymphensittiche wurde nach Nymphensittich verschoben: Einzahl statt Mehrzahl</comment>
+      <text xml:space="preserve" bytes="518">'''Das Aussehen der Nymphensittiche'''
+
+Es gibt graue, weiße und gelbe Nymphensittiche. Sie haben orange Backen und eine Haube. Wenn die Haube hochkommt sind sie aufgeregt.
+
+'''Das Futter der Nymphensittiche'''
+
+Die Nymphensittiche fressen Körner. Außerdem mögen sie auch Knabberstangen und Obst. Zum Beispiel Gurke und Weintrauben.
+
+'''Die Wohnung'''
+
+Die Nymphensittiche wohnen in einem Nest oder einem Käfig.
+
+
+'''von Felix und Niclas (1.Klasse)''' 
+
+
+--tomcatzwei 18:06, 2. Jul 2007 (CEST)
+
+
+{{Rücksprung|N}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Nürnberg</title>
+    <ns>0</ns>
+    <id>5018</id>
+    <revision>
+      <id>21054</id>
+      <parentid>21047</parentid>
+      <timestamp>2017-03-04T14:05:12Z</timestamp>
+      <contributor>
+        <username>GrupMA</username>
+        <id>10226</id>
+      </contributor>
+      <text xml:space="preserve" bytes="130">Nürnberg ist eine Stadt in Franken. Sie ist berühmt für ihre Burg. Spezialitäten aus Nürnberg sind Bratwürste und Lebkuchen.</text>
+      <sha1>hbf6xrby6f9kh11aimdf3il5nwxodnx</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>O</title>
+    <ns>0</ns>
+    <id>1350</id>
+    <revision>
+      <id>19014</id>
+      <parentid>16067</parentid>
+      <timestamp>2015-05-08T20:34:24Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- font-size:9pt;</comment>
+      <text xml:space="preserve" bytes="790">{{Lexikonaufruf}}
+
+{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; margin:12px; margin-top:10px&quot;&gt;[[Bild:Buchstabe-O.gif]]&lt;/div&gt;
+&lt;div style=&quot;font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Beiträge &amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;small&gt;[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteO&amp;action=edit neuen Beitrag hinzufügen!]&lt;/small&gt;&lt;/small&gt;&lt;/div&gt;
+&lt;div style=&quot;padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=3 width=100%
+|align=left valign=top width=100%|
+{{InhalteO}}
+|}
+&lt;/div&gt;
+|}</text>
+      <sha1>efkv5eiyik1klfue71f0vad9bm8yumy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Oboe</title>
+    <ns>0</ns>
+    <id>5134</id>
+    <revision>
+      <id>21676</id>
+      <parentid>21675</parentid>
+      <timestamp>2017-07-17T18:18:20Z</timestamp>
+      <contributor>
+        <username>Wgsa05</username>
+        <id>10140</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1050">[[Datei:Cu oboe.jpg|miniatur|Verschiedene Oboen]]
+== Aussehen ==
+Die Oboe hat eine Größe von ca. 65 cm und hat 23 Klappen mit 16-20 Seitenlöchern.&lt;br /&gt;Die Bestandteile sind Schilf, Faden, Zuckerrohr-Kork und Bambus.&lt;br /&gt;
+Das Holz stammt meistens aus Südfrankreich und Kalifornien.&lt;br /&gt; Die Oboe ist leicht kegelformig.
+
+== Funktion ==
+Die Oboe wird durch ein Mundstück mit doppelten Rohrblatt angeblasen, dadurch kommen die beiden Rohrenden ins schwingen.&lt;br /&gt;
+&lt;br /&gt;
+Die Töne sind bei der Oboe hell und scharf.&lt;br /&gt;Die Tonhöhe ist von b-a
+== Geschichte ==
+Schon vor 3.500 gab es in Ägypten schon Instrumente die der Oboe ähnelten und vor 600 Jahren war die Oboe sehr beliebt.&lt;br /&gt;Sie hieß Pommer und hatten auch schon Klappen und Löcher.&lt;br /&gt;Im 18.Jhrhundert erschienen weitere Formen zum Beispiel die Oboe d` amore.
+== Verwendung ==
+Die Oboe wird hauptsächlich im Orchester eingesetzt und ist ein fester Bestandteil des Sinfonieorchesters.&lt;br /&gt;Sie ist wegen ihrem leicht nestelnden Ton auch im vollbesetzten Orchester zu hören.</text>
+      <sha1>jy6wjy97t2q2oeasl7oc3vzts6ezqe6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Okapi</title>
+    <ns>0</ns>
+    <id>1722</id>
+    <revision>
+      <id>9569</id>
+      <parentid>9568</parentid>
+      <timestamp>2008-10-06T14:01:10Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>hergestellt</comment>
+      <text xml:space="preserve" bytes="660">{{Babel-1|Schüler_Verfasser}}
+[[Bild:okapibild.jpg|thumb|180px|Das ist ein Okapi]]
+Das Okapi ist ein seltenes Tier. Sein Lebensraum ist der Regenwald mit Lichtungen und Wasserläufen. Der   Okapi ernährt sich wie sein Verwandter, die Giraffe, von Blättern und Knospen, aber auch von Gräsern und Pilzen. Sein Gewicht liegt zwischen 210-280kg. Ein weibliches Okapi bekommt nur ein Junges. Das Okapiwird ca. 20 Jahre alt, in Menschenobhut sogar bis 33 Jahre. Sein Feind ist der Leopard. Das Okapi besitzt eine lange, bläuliche Zunge, die nicht nur zum Essen sondern auch zur Körperpflege dient. Mit der Zunge erreicht es Augen und Ohren.
+
+
+{{Rücksprung|O}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Olde English Bulldogge</title>
+    <ns>0</ns>
+    <id>2955</id>
+    <revision>
+      <id>9851</id>
+      <parentid>9849</parentid>
+      <timestamp>2008-11-29T08:39:41Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="1365">{{Babel-1|Schüler_Verfasser}}
+== Unterschiede  zum English  Bulldog  (Englische  Bulldogge)==
+Die  Olde  English  Bulldogge  hat  weniger  Falten  als  die  Englische  Bulldogge  und  wesentlich  leichter:
+Die  Englische  Bulldogge  wiegt  bei  einer  Schulterhöhe  von  ca.40cm  etwa  25kg.  Die  Olde  English  Bulldogge  wiegt bei  einer  Schulterhöhe  von  fast  50cm  etwa  genauso  viel  oder  etwas  mehr.
+
+== Olde  English  Bulldoggen  Typen/Rassen==
+Es  gibt  die  Leavitt  Olde  English  Bulldogge  und  die  Hermes  Olde  English  Bulldogge.  Die  Leavitt  Bulldogge  ist  der  leichtere,  die  Hermes  Bulldogge  der  schwerere  Typ.
+
+== Charakter  und  Haltungsinformationen==
+Olde  Enlish  Bulldoggen  sind  anhängliche  Hunde,  die  sich  mit  Konseqenz  auch  gut  erziehen  lassen.  Allerdings  müssen  sie  früh  an  andere  Hunde  gewöhnt  werden,  um  sich  mit  ihnen  zu  vertragen.  Sie  sind  pflegeleicht.  Sie  sind  sehr  kinderlieb  und  extrem  menschenfreundlich,  weshalb  man  sie  '''nicht'''  zu  den  Listen-/gefährlichen  Hunden  zählen  kann.
+
+== Verwendung==
+Die  Leavitt  Olde  English  Bulldogge  kann  man  als  Rettungs-  und  Therapiehund  ausbilden  und  außerdem  auch  im  Hundesport  einsetzen.  Bede  Typen/Rassen  kann  man  als  Begleit-  und  Familienhunde  ausbilden  (siehe  oben).
+
+
+
+{{Rücksprung|O}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Oldtimer</title>
+    <ns>0</ns>
+    <id>3030</id>
+    <revision>
+      <id>23486</id>
+      <parentid>23469</parentid>
+      <timestamp>2018-11-19T12:25:22Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="953">{{Babel-1|Schüler_Verfasser}}
+'''Oldtimer'''
+Oldtimer sind alte Autos. Oldtimer bedeutet auf Deutsch &quot;Altzeiter&quot;.
+Oft gelten Autos als Oldtimer wenn sie über 30 Jahre alt sind. 
+Vielen gefallen Oldtimer, weil sie sehr unterschiedlich aussehen, im Gegensatz zu den heutigen Autos, die sich sehr ähnlich sehen.   
+Wenn Viele ein bestimmtes Modell suchen, oder ein Modell sehr selten ist, kann der Wert stark ansteigen. 1987 wurde zum Beispiel auf einer Auktion in London ein Bugatti Royale, Baujahr 1931, für 9900000 Dollar versteigert. Viele Oldtimer werden heute noch gebaut. Es gibt viele verschiedene Hersteller, die die heutigen Oldtimer gebaut haben. Das sind beispielsweise Ferarri, Jaguar, Porsche, Mercedes, Skoda, MG, Corwette oder Ford.Ein Oldtimer hat H-Kennzeichen, welches für historisch steht.
+
+[[Bild:AlterFiat.jpg|thump|Alter Fiat Oldtimer]]
+{{Rücksprung|O}}
+[[Kategorie:Artikel_Tag_des_Digitalen_Lernens_2009]]
+
+
+{{Autor|9|4|GS|2}}</text>
+      <sha1>99p3b5am2z3du570pex8o0j35by0xq3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Olsen</title>
+    <ns>0</ns>
+    <id>1923</id>
+    <revision>
+      <id>4528</id>
+      <parentid>4526</parentid>
+      <timestamp>2006-07-21T21:09:39Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="801">{{Babel-1|Schüler_Verfasser}}
+Die beiden Zwillingsschwestern Mary-Kate und Ashley Olsen wurden am 13. Juni 1986 in Kalifornien geboren. Als Mary-Kate und Ashley Olsen sechs Monate alt waren, bekamen sie 1987 die Rolle als ''Michelle Tanner'' in der Serie '''Full House''', weil sie die einzigen Babies waren, die nicht geweint hatten, wenn man sie auf den Arm nahm. 1992 spielten beide im Film '''Kidnapping der Nervensäge''' mit. 1993 spielten die Olsentwins im Film '''Halloweentwins, jetzt Hexen sie doppelt''' und 1994 in '''Abenteuer auf der Wildwasser-Ranch''', 1995 in '''Eins und Eins macht Vier''', 1998 in '''Der beste Vater der Welt''', 1999 in '''Verliebt in Paris''', 1999 in '''Ein unschlagbares Doppel''' mit und noch in vielen anderen Filmen haben sie mitgespielt.
+
+{{Rücksprung|O}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Olympische Spiele, die</title>
+    <ns>0</ns>
+    <id>5949</id>
+    <revision>
+      <id>25060</id>
+      <timestamp>2022-04-05T07:16:03Z</timestamp>
+      <contributor>
+        <username>Jkstim</username>
+        <id>10488</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Olympische Spiele  Seit dem Jahr 1896 gibt es Olympische Spiele. Zu den Spielen im Sommer reisen etwa 10.000 Sportler an, Männer und Frauen.  Neben den Olympi…“</comment>
+      <text xml:space="preserve" bytes="400">Olympische Spiele
+
+Seit dem Jahr 1896 gibt es Olympische Spiele.
+Zu den Spielen im Sommer reisen etwa 10.000 Sportler an, Männer und Frauen. 
+Neben den Olympischen Spielen gibt es auch noch die Paralympischen Spiele für Menschen mit Behinderung.
+Olympische Spiele finden alle 4 Jahre statt. Es gibt sieben Sportarten, die 15 Disziplinen umfassen. Das Symbol der Olympischen Spiele sind die 5 Ringe.</text>
+      <sha1>7chfy3xsk875bifppofp4ovdk69dvqe</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Olympische Winterspiele</title>
+    <ns>0</ns>
+    <id>3201</id>
+    <revision>
+      <id>11521</id>
+      <parentid>11520</parentid>
+      <timestamp>2009-04-27T10:59:11Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2591">{{Babel-1|Schüler_Verfasser}} 
+Olympische  Winterspiele
+
+Entstehung:
+1924 in Chamonix waren die ersten Olympischen Winterspiele. Sie wurden aber erst nachträglich als Olympische Spiele anerkannt.1960 in Squaw Valley (USA) gab es keinen Eiskanal, deshalb vielen Bob, Rodeln und Skeleton aus. Die nächste Winterolympiade findet 2010 in Vancouver (Kanada) statt. Für 2014 ist Sotschi (Russland) ausgewählt worden 
+
+==Die Olympischen Disziplinen:==
+===Skispringen:===
+Skispringen auf der Großschanze ist seit 1924 immer dabei gewesen . Seit 1964 wird es auch auf einer kleineren Schanze (Normalschanze) ausgetragen . Frauenskispringen gibt es zwar , ist aber nicht Olympisch . 2006 gewannen der Österreicher Thomas Morgenstern auf der großen Schanze und Lars Brystöl (Norwegen) auf der Normalschanze .   
+
+[[Bild:skisprung.jpg]]
+
+===Nordische Kombination:===
+Hier wird zu erst im Skispringen angetreten . Die weiten , und Haltungsnoten werden in Vorsprünge Umgerechnet . Nordische Kombination gibt es in 3 Disziplinen : Sprint (kürzere Laufdistanz), Einzel (10 km )und im Team . Das Einzel ist seit 1924 dabei . 
+
+==Bob:==
+Es gibt 2 verschiedene Bobdisziplinen : 2er Bob und 4 er Bob . Bobs sehen aus wie Rodel ,  nur größer , vorne angespitzt und hinten frei . 4 oder 2 Leute schieben an . Einer schiebt von  hinten an , die anderen von der Seite . Männer- Bob war 1924 zum ersten mal dabei .  
+
+==Rodeln :==
+ 
+Hier liegt der Fahrer auf einem flachen Schlitten den Kopf nach hinten . Im Doppelsitzer fahren 2 Athleten . Frauen Zweisitzer gibt es nicht .
+
+[[Bild:Rodel2.jpg]]
+
+==Ski alpin:==
+
+Ski alpin wird in 5 Verschiedenen Disziplinen ausgetragen : Slalom , Riesenslalom , Super – G , Abfahrt und Alpine Kombination ( Super – Kombi ).
+
+===Abfahrt :===
+Bei Abfahrt sind die Strecken bis 3500 km lang . Auf der Strecke stehen Tore, die durchfahren werden müssen . Noch nie hat ein Deutscher Mann die Olympische Abfahrt gewonnen .    
+
+===Riesenslalom :===
+Beim Riesenslalom fährt man größere Bögen als beim Slalom . Auch die Strecken sind etwas länger .
+
+===Alpine – Super Kombination :===
+Hier wird der erste Durchgang Abfahrt und der Zweite Slalom gefahren.
+
+===Super-G:===
+Das Super- G ist die moderne Form von Slalom und Abfahrt . Die Strecken sind aber kürzer als bei Abfahrt .
+
+===Slalom :===
+Slalom ist die älteste Alpine Disziplin .  Die Strecken sind eher kurz . In keiner 
+Disziplin sind die Bögen so e
+
+===Weitere Disziplinen===
+Weitere Disziplinen sind : Biathlon , Langlauf , Eisschnelllauf , Eiskunstlauf , Curling und Skeletton.
+
+
+
+{{Rücksprung|F}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Omegawolf</title>
+    <ns>0</ns>
+    <id>2945</id>
+    <revision>
+      <id>9775</id>
+      <parentid>9762</parentid>
+      <timestamp>2008-11-19T11:36:07Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="236">{{Babel-1|Schüler_Verfasser}}
+Der  Omegawolf  ist  der  letzte  Wolf  in  der  Rangfolge  des  [[Wolf]]srudels  vor  den  [[Welpen]].  Häufig  gründet  er  ein  neues  Rudel  und  wird  somit  ein  [[Alphawolf]].
+
+
+
+{{Rücksprung|O}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Orang-Utan</title>
+    <ns>0</ns>
+    <id>2037</id>
+    <revision>
+      <id>4975</id>
+      <parentid>4960</parentid>
+      <timestamp>2007-01-22T18:10:34Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="776">'''Der Orang-Utan''' ist in den Wäldern von Malaysia und Indonesien zu finden. Dort lebt er fast nur auf Bäumen. Dieser Affe baut meist jeden Abend ein neues Schlafnest in den Baumwipfeln. Die Bäume bieten Schutz vor Feinden (z.B. Tigern). Er frisst Früchte und Blätter, aber auch Ameisen, Termiten, Eier, Vogelküken und nestjunge Eichhörnchen mag er gern. Dieser Menschenaffe lebt als Einzelgänger. Die Männchen und die Weibchen sind nur zur Paarungszeit zusammen. Das Männchen wird bis zu 180 cm groß. Das Weibchen ist kleiner. Beide haben zotteliges, rötliches Fell und eine helle Gesichtsfarbe. Das Orang-Utan-Baby lebt ein Jahr lang ständig bei seiner Mutter. Es bekommt zwei bis drei Jahre Entwöhnungszeit und hat keine Spielgefährten. 
+
+{{Rücksprung|O}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Orca</title>
+    <ns>0</ns>
+    <id>4587</id>
+    <revision>
+      <id>25475</id>
+      <parentid>25468</parentid>
+      <timestamp>2023-02-06T03:19:19Z</timestamp>
+      <contributor>
+        <username>FZFlips1219</username>
+        <id>10598</id>
+      </contributor>
+      <comment>/* Besonderheiten */</comment>
+      <text xml:space="preserve" bytes="1631">== Lateinischer Name ==
+Der lateinische Name ist Orcinus Orca. Andere Namen sind Schwertwal und Killerwal.
+
+== Daten und Fakten ==
+Der lateinische Name ist Orcinus Orca. Sie sind schwarz weiß. Orcas werden auch Schwertwal und Killerwal genannt. Sie werden 50-80 Jahre alt. Sie sind bis zu 45 km/h schnell. Sie werden bis zu 10 Meter lang. Orcas wiegen ungefähr 6600 kg (6Tonnen und 600kilogram.) Orcas sind Zahnwale und ernähren sich von Fleisch.
+
+== Lebensweise ==
+Orcas leben weltweit aber eher in kälteren Meeren. Orcas leben in sogenannten Schulen. Sie fressen Haie, Robben, Pinguine, Fische und kleinere Wale. Orcas sind vom Aussterben bedroht. Sie sind tagaktiv. Sie schlafen mit dem Kopf aus dem Wasser und mit dem Körper unter Wasser.
+
+== Besonderheiten ==
+[[Datei: Wgsa 3919.jpg|miniatur|Orca]]
+Die Orcas jagen in Gruppen. Der Orca hat keine Feinde. Sie bekommen 1 Baby pro Jahr. Der Orca hat 12 cm lange Zähne. Orcas können auch tolle Kunststücke vorführen.
+
+
+
+
+
+
+{{Babel-1|Schüler_Verfasser}}     
+Orcas sind schwarz-weiß. Sie werden auch Killerwale genannt. Orcas jagen in Gruppen, manche Jungen bleiben das ganze Leben bei ihrer Mutter. Sie senden Schallwellen,(Echo genannt) womit sie sich über kilometerlange Strecken unterhalten können. Als Orcas kann man auch Schallwellen orten. Sie leben im Meer, dort fressen sie sogar Haie, wenn sie hungrig und schlecht gelaunt sind. Man sollte schlecht gelaunten Orcas aus dem Weg gehen.
+
+Orcas können aber auch ganz  anders, man kann sie trainieren und ihn Kunststücke beibringen. Man kann mit ihnen auch spielen und sehr viel Spaß haben.
+
+
+{{Rücksprung|O}}</text>
+      <sha1>5lob8iqrzp2sh8vmx1s51xswgekoe46</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Orgel</title>
+    <ns>0</ns>
+    <id>4484</id>
+    <revision>
+      <id>18730</id>
+      <parentid>18433</parentid>
+      <timestamp>2015-01-11T21:32:47Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1066">{{Babel-1|Schüler_Verfasser}}
+== Teile ==
+Die wichtigen Teile der Orgel sind Pfeifen,Manuale auch Tasten oder Spieltisch genannt,Bälge,Windladen und Orgelgehäuse.
+[[Datei:GSANiklasR.jpg|miniatur|Orgel]]
+
+== Funktion ==
+Die Pfeifen erzeugen verschiedene Klänge,Töne und Klangfarben.&lt;br /&gt;
+
+Auf den Manualen drückt der Organist (Orgelspieler) Tasten und bringt so Pfeifen zum Klingen.&lt;br /&gt;
+
+Bälge:Eine Orgel funktioniert mit Luft!Ein Motor fördert Luft in ein Balg.&lt;br /&gt;
+Mit dem Balg kann mittels Gewichten oder Federn der Luftdruck
+(Winddruck) reguliert werden.&lt;br /&gt;
+
+Die Windladen sind das Herz der Orgel.&lt;br /&gt;
+Auf den Windladen stehen alle Pfeifen.&lt;br /&gt;
+Diese werden mittels Schleifen und Ventile angesteuert.&lt;br /&gt;
+
+Das Orgelgehäuse dient nicht nur zur Optik,sondern auch als Resonanzkörper ,wie auch als Schutz vor Schmutz.&lt;br /&gt;
+
+== Instrumentenart ==
+
+
+Die Orgel ist ein Tasteninstroment.
+
+== Musikstücke, Komponisten ==
+
+
+Auf der Orgel spielt man die Lieder Johannespasion,Weihnachsoratorium und Kirchenlieder z.B.Halleluja.
+
+
+{{Rücksprung|O}}</text>
+      <sha1>4ulco4ov3cc3ihcrgjiv4yxdvwbgwc8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

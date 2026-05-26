@@ -1,0 +1,26 @@
+{
+  "pageid": 4238,
+  "ns": 10,
+  "title": "Vorlage:Commons",
+  "revisions": [
+    {
+      "revid": 17487,
+      "parentid": 17486,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:34:04Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<onlyinclude><div class=\"sisterproject\" style=\"margin:0.1em 0 0 0;\">[[Datei:Commons-logo.svg|x16px|alt=|link=|Commons]]&nbsp;'''<span class=\"plainlinks\">[{{fullurl:Commons:{{#if:{{{1|}}}|{{{1}}}|{{PAGENAME}}}}|uselang={{INT:Lang}}}} Commons: {{#if:{{{2|}}}|{{{2}}}|{{#if:{{{1|}}}|{{{1}}}|{{PAGENAME}}}}}}]</span>'''{{#switch:{{{3|}}}\n|X|x=\n|= &nbsp;– {{#ifeq:{{NAMESPACE:{{{1|{{PAGENAME}}}}}}}|{{ns:14}}|Sammlung von|Album mit}} Bildern, Videos und Audiodateien\n|#default= &nbsp;– {{{3}}}\n}}</div></onlyinclude><noinclude>\n{{Dokumentation}}\n</noinclude>"
+    },
+    {
+      "revid": 17486,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-03T23:30:23Z",
+      "comment": "aktuelle Version aus der deutschen Wikipedia",
+      "wikitext": "<onlyinclude><div class=\"sisterproject\" style=\"margin:0.1em 0 0 0;\">[[Datei:Commons-logo.svg|x16px|alt=|link=|Commons]]&nbsp;'''<span class=\"plainlinks\">[{{fullurl:Commons:{{#if:{{{1|}}}|{{{1}}}|{{PAGENAME}}}}|uselang={{INT:Lang}}}} Commons: {{#if:{{{2|}}}|{{{2}}}|{{#if:{{{1|}}}|{{{1}}}|{{PAGENAME}}}}}}]</span>'''{{#switch:{{{3|}}}\n|X|x=\n|= &nbsp;– {{#ifeq:{{NAMESPACE:{{{1|{{PAGENAME}}}}}}}|{{ns:14}}|Sammlung von|Album mit}} Bildern, Videos und Audiodateien\n|#default= &nbsp;– {{{3}}}\n}}</div></onlyinclude><noinclude>\n{{Dokumentation}}\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:nicht dokumentiert"
+  ]
+}

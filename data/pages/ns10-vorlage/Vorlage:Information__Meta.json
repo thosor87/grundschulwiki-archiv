@@ -1,0 +1,24 @@
+{
+  "pageid": 4231,
+  "ns": 10,
+  "title": "Vorlage:Information/Meta",
+  "revisions": [
+    {
+      "revid": 17473,
+      "parentid": 17472,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-08T18:33:58Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<noinclude>{{Dokumentation/Metaseite}}\n</noinclude><includeonly>\n[[Kategorie:Vorlage:Hinweis für Bilder]]\n\n</includeonly>"
+    },
+    {
+      "revid": 17472,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-01-06T00:29:06Z",
+      "comment": "- Sprachversionen",
+      "wikitext": "<noinclude>{{Dokumentation/Metaseite}}\n</noinclude><includeonly>\n[[Kategorie:Vorlage:Hinweis für Bilder]]\n\n</includeonly>"
+    }
+  ],
+  "categories": []
+}

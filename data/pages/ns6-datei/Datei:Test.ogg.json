@@ -1,0 +1,32 @@
+{
+  "pageid": 2988,
+  "ns": 6,
+  "title": "Datei:Test.ogg",
+  "revisions": [
+    {
+      "revid": 10025,
+      "parentid": 10024,
+      "user": "Rodebraun",
+      "timestamp": "2008-12-19T11:01:10Z",
+      "comment": "hat eine neue Version von „[[Bild:Test.ogg]]“ hochgeladen: Zurückgesetzt auf die Version vom 19. Dezember 2008, 09:36 Uhr",
+      "wikitext": ""
+    },
+    {
+      "revid": 10024,
+      "parentid": 10023,
+      "user": "Rodebraun",
+      "timestamp": "2008-12-19T11:00:14Z",
+      "comment": "hat eine neue Version von „[[Bild:Test.ogg]]“ hochgeladen: eine Testdatei",
+      "wikitext": ""
+    },
+    {
+      "revid": 10023,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-12-19T09:36:44Z",
+      "comment": "",
+      "wikitext": ""
+    }
+  ],
+  "categories": []
+}

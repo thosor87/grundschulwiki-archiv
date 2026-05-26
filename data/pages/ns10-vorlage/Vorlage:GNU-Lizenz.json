@@ -1,0 +1,32 @@
+{
+  "pageid": 1717,
+  "ns": 10,
+  "title": "Vorlage:GNU-Lizenz",
+  "revisions": [
+    {
+      "revid": 3727,
+      "parentid": 3726,
+      "user": "Leupold",
+      "timestamp": "2006-04-01T16:37:22Z",
+      "comment": "",
+      "wikitext": "<div style=\"border: 2px solid #dfdfdf; background-color:#c5d5ff;padding:7px;\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=5%|\n[[Bild:65px-Heckert_GNU_white.png]]\n|align=left valign=top width=95%|\nDieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. \nEs ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.\n|}\n</div>"
+    },
+    {
+      "revid": 3726,
+      "parentid": 3725,
+      "user": "Leupold",
+      "timestamp": "2006-04-01T16:30:16Z",
+      "comment": "",
+      "wikitext": "{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=left valign=top width=5%|\n[[Bild:65px-Heckert_GNU_white.png]]\n|align=left valign=top width=95%|\nDieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. \nEs ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.\n|}"
+    },
+    {
+      "revid": 3725,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2006-04-01T16:27:07Z",
+      "comment": "",
+      "wikitext": "[[Bild:65px-Heckert_GNU_white.png|thumb]]\nDieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. \nEs ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext."
+    }
+  ],
+  "categories": []
+}

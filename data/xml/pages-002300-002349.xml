@@ -1,0 +1,1140 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Kuh1.jpg</title>
+    <ns>6</ns>
+    <id>1385</id>
+    <revision>
+      <id>1820</id>
+      <timestamp>2006-01-01T20:58:28Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Diese Datei wird direkt aus dem zentralen, mehrsprachigen Dateiarchiv Wikimedia Commons eingebunden.
+
+Die folgenden Quellen- und Lizenzangaben stammen von der Commons-Beschreibungsseite.
+
+Cattle, from http://redjar.org/gallery/wantastiquet_mountain_200411</comment>
+      <text xml:space="preserve" bytes="338">Diese Datei wird direkt aus dem zentralen, mehrsprachigen Dateiarchiv Wikimedia Commons eingebunden.
+
+Die folgenden Quellen- und Lizenzangaben stammen von der Commons-Beschreibungsseite.
+
+Cattle, from http://redjar.org/gallery/wantastiquet_mountain_20041108
+
+This file is licensed under Creative Commons Attribution ShareAlike 2.0 License</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kuhbild.jpg</title>
+    <ns>6</ns>
+    <id>2364</id>
+    <revision>
+      <id>6665</id>
+      <timestamp>2007-05-29T13:19:31Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Gemalt von MAalicia am 29.05.2007</comment>
+      <text xml:space="preserve" bytes="33">Gemalt von MAalicia am 29.05.2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kurparkkr1.JPG</title>
+    <ns>6</ns>
+    <id>3144</id>
+    <revision>
+      <id>11191</id>
+      <timestamp>2009-03-19T18:54:44Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kurparkkr2.JPG</title>
+    <ns>6</ns>
+    <id>3145</id>
+    <revision>
+      <id>11192</id>
+      <timestamp>2009-03-19T18:55:48Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kurparkkr3.JPG</title>
+    <ns>6</ns>
+    <id>3146</id>
+    <revision>
+      <id>11193</id>
+      <timestamp>2009-03-19T18:56:59Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kurparkkr4.JPG</title>
+    <ns>6</ns>
+    <id>3147</id>
+    <revision>
+      <id>11202</id>
+      <timestamp>2009-03-20T14:12:04Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kurparkkr5.JPG</title>
+    <ns>6</ns>
+    <id>3148</id>
+    <revision>
+      <id>11203</id>
+      <timestamp>2009-03-20T14:13:22Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kurparkkr6.JPG</title>
+    <ns>6</ns>
+    <id>3149</id>
+    <revision>
+      <id>11204</id>
+      <timestamp>2009-03-20T14:17:03Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kurparkkr7.JPG</title>
+    <ns>6</ns>
+    <id>3151</id>
+    <revision>
+      <id>11206</id>
+      <timestamp>2009-03-20T14:22:20Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kush kush.jpeg</title>
+    <ns>6</ns>
+    <id>5482</id>
+    <revision>
+      <id>23210</id>
+      <timestamp>2018-06-29T14:06:17Z</timestamp>
+      <contributor>
+        <username>Wgsa33</username>
+        <id>10168</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung =gezeichneter Hase 
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="158">{{Information ohne UploadWizard
+|Beschreibung =gezeichneter Hase 
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>o38fpi1f86bxzapnbu69g0p90xzbsft</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Köln Dom Jüngeres Bibelfenster85.JPG</title>
+    <ns>6</ns>
+    <id>5893</id>
+    <revision>
+      <id>24903</id>
+      <timestamp>2021-04-12T19:00:57Z</timestamp>
+      <contributor>
+        <username>MARaphael</username>
+        <id>10392</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Jüngeres Bibelfenster im Kölner Dom
+|Quelle = Wikipedia
+|Urheber = GFreihalter
+|Datum = 15-03-2011
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="204">{{Information ohne UploadWizard
+|Beschreibung = Jüngeres Bibelfenster im Kölner Dom
+|Quelle = Wikipedia
+|Urheber = GFreihalter
+|Datum = 15-03-2011
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>j1na33vq622o602eacixaapgquiv25l</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Königsegg.jpeg</title>
+    <ns>6</ns>
+    <id>5987</id>
+    <revision>
+      <id>25143</id>
+      <timestamp>2022-05-17T10:37:31Z</timestamp>
+      <contributor>
+        <username>KOIGSRO32</username>
+        <id>10496</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Pixabay
+|Urheber = Wutong 0628
+|Datum = 26.09.2019
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="173">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Pixabay
+|Urheber = Wutong 0628
+|Datum = 26.09.2019
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>40jcaovxiij73fui0wu8fo91w8m3sow</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Labra.jpg</title>
+    <ns>6</ns>
+    <id>3312</id>
+    <revision>
+      <id>12262</id>
+      <parentid>12261</parentid>
+      <timestamp>2009-07-14T17:04:48Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Labra.jpg]]“ hochgeladen: Foto von: Lorena, vom 14.07.2009</comment>
+      <text xml:space="preserve" bytes="32">Foto von: Lorena, vom 14.07.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lake-2746879 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5326</id>
+    <revision>
+      <id>22087</id>
+      <parentid>22071</parentid>
+      <timestamp>2018-05-09T06:53:07Z</timestamp>
+      <contributor>
+        <username>Wgsad57</username>
+        <id>10325</id>
+      </contributor>
+      <text xml:space="preserve" bytes="188">{{Information ohne UploadWizard
+|Beschreibung = Land und Berge
+|Quelle = www.pixabay.de
+|Urheber = lino9999 / frei Nutzung
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>km94didnv0f79kdc68ictiaqfn2fy8z</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lamborghini Veneno.jpeg</title>
+    <ns>6</ns>
+    <id>5240</id>
+    <revision>
+      <id>21816</id>
+      <timestamp>2018-04-09T13:43:05Z</timestamp>
+      <contributor>
+        <username>MAKnist</username>
+        <id>10269</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Lamborghini Veneno in silber
+|Quelle = http://www.supercarworld.com/cgi-bin/showgeneral.cgi?614
+|Urheber = Clément Bucco-Lechat 
+|Datum = 09.04.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="253">{{Information ohne UploadWizard
+|Beschreibung = Lamborghini Veneno in silber
+|Quelle = http://www.supercarworld.com/cgi-bin/showgeneral.cgi?614
+|Urheber = Clément Bucco-Lechat 
+|Datum = 09.04.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>k8o52d26u4ov8d47cfph4aiis5nhfru</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lammpl1.JPG</title>
+    <ns>6</ns>
+    <id>3132</id>
+    <revision>
+      <id>11162</id>
+      <timestamp>2009-03-18T16:13:54Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lammpl2.JPG</title>
+    <ns>6</ns>
+    <id>3140</id>
+    <revision>
+      <id>11172</id>
+      <timestamp>2009-03-18T18:20:33Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lammpl3.JPG</title>
+    <ns>6</ns>
+    <id>3133</id>
+    <revision>
+      <id>11163</id>
+      <timestamp>2009-03-18T16:15:48Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lammpl4.JPG</title>
+    <ns>6</ns>
+    <id>3134</id>
+    <revision>
+      <id>11164</id>
+      <timestamp>2009-03-18T16:16:19Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lammpl5.JPG</title>
+    <ns>6</ns>
+    <id>3135</id>
+    <revision>
+      <id>11165</id>
+      <timestamp>2009-03-18T16:16:51Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lammpl6.JPG</title>
+    <ns>6</ns>
+    <id>3136</id>
+    <revision>
+      <id>11166</id>
+      <timestamp>2009-03-18T16:17:19Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Landkreis Eichstätt.jpg</title>
+    <ns>6</ns>
+    <id>4742</id>
+    <revision>
+      <id>19472</id>
+      <timestamp>2016-01-13T08:08:08Z</timestamp>
+      <contributor>
+        <username>MALoesch</username>
+        <id>10118</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Landkreis Eichstätt
+|Quelle = http://images.google.de/imgres?imgurl=http%3A%2F%2Fwww.landkreis-eichstaett.de%2FDox.aspx%253Fdocid%253D%25257B63E7C9DD-70E4-4E05-A4B6-8ACE3C45E2BC%25257D&amp;imgrefurl=http%3A%…</comment>
+      <text xml:space="preserve" bytes="579">{{Information ohne UploadWizard
+|Beschreibung = Landkreis Eichstätt
+|Quelle = http://images.google.de/imgres?imgurl=http%3A%2F%2Fwww.landkreis-eichstaett.de%2FDox.aspx%253Fdocid%253D%25257B63E7C9DD-70E4-4E05-A4B6-8ACE3C45E2BC%25257D&amp;imgrefurl=http%3A%2F%2Fwww.landkreis-eichstaett.de%2FUnserLandkreisimUeberblick.aspx&amp;h=334&amp;w=502&amp;tbnid=sfBjf_QDagxNgM%3A&amp;docid=23z5AD7PgTuciM&amp;ei=6ASWVqPvCsHcPNKwivgF&amp;tbm=isch&amp;iact=rc&amp;uact=3&amp;dur=1255&amp;page=1&amp;start=0&amp;ndsp=46&amp;ved=0ahUKEwijg__iqabKAhVBLg8KHVKYAl8QrQMILTAF
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>6zx5y1ys2iss78a3m4l2fml69u7e4ii</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Landscape-2448761 1280.jpg</title>
+    <ns>6</ns>
+    <id>5348</id>
+    <revision>
+      <id>22225</id>
+      <timestamp>2018-05-10T08:18:21Z</timestamp>
+      <contributor>
+        <username>Wgsad55</username>
+        <id>10323</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Langschwert.jpg</title>
+    <ns>6</ns>
+    <id>2475</id>
+    <revision>
+      <id>7194</id>
+      <timestamp>2007-11-28T07:41:56Z</timestamp>
+      <contributor>
+        <username>MALeon</username>
+        <id>378</id>
+      </contributor>
+      <comment>www.Google.de</comment>
+      <text xml:space="preserve" bytes="13">www.Google.de</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lara HQ.jpg</title>
+    <ns>6</ns>
+    <id>6030</id>
+    <revision>
+      <id>25229</id>
+      <parentid>25228</parentid>
+      <timestamp>2023-01-11T17:47:53Z</timestamp>
+      <contributor>
+        <username>MAMontuori</username>
+        <id>10509</id>
+      </contributor>
+      <text xml:space="preserve" bytes="258">{{Information ohne UploadWizard
+|Beschreibung = Der Nikolaus kommt&lt;br /&gt;Wir bauen einen Schneemann&lt;br /&gt;Der Schal ist wichtig&lt;br /&gt;'''''(Lara)'''''
+|Quelle = eigene Darstellung
+|Urheber = Lara
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>s05a6bbktk7fdpqiyxidh7fyxeu6yh9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lara und Elisabeth.jpg</title>
+    <ns>6</ns>
+    <id>3741</id>
+    <revision>
+      <id>14836</id>
+      <parentid>14835</parentid>
+      <timestamp>2011-05-09T16:21:19Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Lara und Elisabeth.jpg]]“ hochgeladen</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:LaubfroschR1.jpg</title>
+    <ns>6</ns>
+    <id>4570</id>
+    <revision>
+      <id>18809</id>
+      <timestamp>2015-02-16T11:35:11Z</timestamp>
+      <contributor>
+        <username>MARabe1</username>
+        <id>10056</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Zeichnung eines Laubfrosches
+|Quelle = Natur
+|Urheber = selbst
+|Datum = 16.02.2014
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="186">{{Information ohne UploadWizard
+|Beschreibung = Zeichnung eines Laubfrosches
+|Quelle = Natur
+|Urheber = selbst
+|Datum = 16.02.2014
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>q7fvat8elgkjdgln3ylax5su0esqg28</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Laufender Eisbär01.JPG</title>
+    <ns>6</ns>
+    <id>4914</id>
+    <revision>
+      <id>20112</id>
+      <parentid>20105</parentid>
+      <timestamp>2016-07-07T07:19:54Z</timestamp>
+      <contributor>
+        <username>Wgsa14</username>
+        <id>10149</id>
+      </contributor>
+      <text xml:space="preserve" bytes="191">{{Information ohne UploadWizard
+|Beschreibung = Laufender Eisbär 
+|Quelle = Wikimedia
+|Urheber =von bass2001 (eigenes werk) 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>gjbpcdqljl2jrmngzurmrfydk14v23s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Laureen.JPG</title>
+    <ns>6</ns>
+    <id>2477</id>
+    <revision>
+      <id>7196</id>
+      <timestamp>2007-11-28T07:42:06Z</timestamp>
+      <contributor>
+        <username>MALaureen</username>
+        <id>375</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Leapferdewirtinwiki.jpg</title>
+    <ns>6</ns>
+    <id>3963</id>
+    <revision>
+      <id>15858</id>
+      <timestamp>2012-06-22T09:06:51Z</timestamp>
+      <contributor>
+        <username>GSALea</username>
+        <id>976</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Legionen.jpg</title>
+    <ns>6</ns>
+    <id>2653</id>
+    <revision>
+      <id>8188</id>
+      <timestamp>2008-04-28T19:20:18Z</timestamp>
+      <contributor>
+        <username>MANiclas</username>
+        <id>427</id>
+      </contributor>
+      <comment>Legionen unter Kaiser Augustus</comment>
+      <text xml:space="preserve" bytes="30">Legionen unter Kaiser Augustus</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Legionen.png</title>
+    <ns>6</ns>
+    <id>2655</id>
+    <revision>
+      <id>8191</id>
+      <timestamp>2008-04-28T19:31:36Z</timestamp>
+      <contributor>
+        <username>MANiclas</username>
+        <id>427</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lehrergeige.jpg</title>
+    <ns>6</ns>
+    <id>3668</id>
+    <revision>
+      <id>14403</id>
+      <timestamp>2011-02-15T20:19:52Z</timestamp>
+      <contributor>
+        <username>MAstockhausen</username>
+        <id>871</id>
+      </contributor>
+      <comment>Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;: Die Geige des Lehrers.</comment>
+      <text xml:space="preserve" bytes="234">Eigenes Foto (Daniel Schüttlöffel, GS Stockhausenstraße in Neustadt am Rübenberge). Es zeigt einen Ausschnitt aus dem im Heimatmuseum Seelze-Letter (bei Hannover) nachgebauten &quot;Klassenzimmer vor 100 Jahren&quot;: Die Geige des Lehrers.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lelaina1.jpg</title>
+    <ns>6</ns>
+    <id>2485</id>
+    <revision>
+      <id>7208</id>
+      <timestamp>2007-11-28T08:07:13Z</timestamp>
+      <contributor>
+        <username>MAPatricia</username>
+        <id>380</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lelaina2.jpg</title>
+    <ns>6</ns>
+    <id>2486</id>
+    <revision>
+      <id>7210</id>
+      <timestamp>2007-11-28T08:08:09Z</timestamp>
+      <contributor>
+        <username>MAPatricia</username>
+        <id>380</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lelaina 1.JPG</title>
+    <ns>6</ns>
+    <id>2482</id>
+    <revision>
+      <id>7205</id>
+      <timestamp>2007-11-28T08:03:09Z</timestamp>
+      <contributor>
+        <username>MAPatricia</username>
+        <id>380</id>
+      </contributor>
+      <comment>eine burg im mittelalter</comment>
+      <text xml:space="preserve" bytes="24">eine burg im mittelalter</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lemmingbild.jpg</title>
+    <ns>6</ns>
+    <id>3204</id>
+    <revision>
+      <id>11511</id>
+      <timestamp>2009-04-27T10:16:40Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lemmingbild1.JPG</title>
+    <ns>6</ns>
+    <id>3219</id>
+    <revision>
+      <id>11556</id>
+      <timestamp>2009-05-04T10:25:58Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lemmings.JPG</title>
+    <ns>6</ns>
+    <id>2498</id>
+    <revision>
+      <id>7301</id>
+      <timestamp>2007-12-12T07:47:00Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Ich habe meine Tiere selber fotografiert.</comment>
+      <text xml:space="preserve" bytes="41">Ich habe meine Tiere selber fotografiert.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lempel.gif</title>
+    <ns>6</ns>
+    <id>1691</id>
+    <revision>
+      <id>3386</id>
+      <timestamp>2006-03-11T21:20:23Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>aus ZUM-Wiki</comment>
+      <text xml:space="preserve" bytes="12">aus ZUM-Wiki</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:LenaErzieherinwiki.jpg</title>
+    <ns>6</ns>
+    <id>3967</id>
+    <revision>
+      <id>15946</id>
+      <timestamp>2012-06-25T06:22:19Z</timestamp>
+      <contributor>
+        <username>GSALena</username>
+        <id>975</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Leni HQ.jpg</title>
+    <ns>6</ns>
+    <id>6029</id>
+    <revision>
+      <id>25230</id>
+      <parentid>25227</parentid>
+      <timestamp>2023-01-11T17:58:50Z</timestamp>
+      <contributor>
+        <username>MAMontuori</username>
+        <id>10509</id>
+      </contributor>
+      <text xml:space="preserve" bytes="262">{{Information ohne UploadWizard
+|Beschreibung = Gefrorenes Eis&lt;br /&gt;
+Schneeflocken auf den Bäumen&lt;br /&gt;
+Eine Schneeballschlacht&lt;br /&gt;
+'''''(Leni)'''''
+|Quelle = eigene Darstellung
+|Urheber = Leni
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>94s72w12skgqw8j56sapumxiymfbaqv</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Leopard.jpeg</title>
+    <ns>6</ns>
+    <id>5963</id>
+    <revision>
+      <id>25089</id>
+      <timestamp>2022-05-02T07:27:56Z</timestamp>
+      <contributor>
+        <username>KOIGSRO42</username>
+        <id>10495</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Leopard
+|Quelle = Pixabay
+|Urheber = disignerpoint
+|Datum = 4.November.2014
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="187">{{Information ohne UploadWizard
+|Beschreibung = Leopard
+|Quelle = Pixabay
+|Urheber = disignerpoint
+|Datum = 4.November.2014
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>5dc4spguzq0kdw27zbpdhya0zo3f6wn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Licensing tutorial de.svg</title>
+    <ns>6</ns>
+    <id>4255</id>
+    <revision>
+      <id>18078</id>
+      <parentid>17525</parentid>
+      <timestamp>2014-05-11T10:40:23Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Karl Kirst lud eine neue Version von „[[Datei:Licensing tutorial de.svg]]“ hoch: == Beschreibung ==
+{{Information ohne UploadWizard
+|Beschreibung = Lizenztutorial für MediaWiki-Wikis, zum Einsatz im neuen Upload Wizard. Farb-SVG-Version in Deutsch. -</comment>
+      <text xml:space="preserve" bytes="499">== Beschreibung ==
+{{Information ohne UploadWizard
+|Beschreibung = Lizenztutorial für MediaWiki-Wikis, zum Einsatz im neuen Upload Wizard. Farb-SVG-Version in Deutsch.
+|Quelle = https://commons.wikimedia.org/wiki/File:Licensing_tutorial_de.svg
+|Urheber = Wikimedia Foundation. Aus dem Englischen übersetzt von Sandstein, Überschrift und Schlusshinweis angepasst von Retemirabile
+|Datum = 9. Januar 2014
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}
+== Lizenz ==
+{{Bild-CC-by-sa/3.0/de}}</text>
+      <sha1>680g12cmo0haug0k5belvr4rqr3oyjz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Licq.png</title>
+    <ns>6</ns>
+    <id>1665</id>
+    <revision>
+      <id>3268</id>
+      <timestamp>2006-03-09T21:45:24Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Liljana HQ.jpg</title>
+    <ns>6</ns>
+    <id>6031</id>
+    <revision>
+      <id>25231</id>
+      <timestamp>2023-01-11T17:59:34Z</timestamp>
+      <contributor>
+        <username>MAMontuori</username>
+        <id>10509</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Schneeflocken sind weiß​&lt;br /&gt;
+Schnee ist eisigkalt und weiß&lt;br /&gt;
+​Schnee ist kalt und weiß​​​​​​&lt;br /&gt;
+'''''(Liljana)'''''
+|Quelle = eigene Darstellung
+|Urheber = Liljana
+|Datum = 
+|G…</comment>
+      <text xml:space="preserve" bytes="305">{{Information ohne UploadWizard
+|Beschreibung = Schneeflocken sind weiß​&lt;br /&gt;
+Schnee ist eisigkalt und weiß&lt;br /&gt;
+​Schnee ist kalt und weiß​​​​​​&lt;br /&gt;
+'''''(Liljana)'''''
+|Quelle = eigene Darstellung
+|Urheber = Liljana
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lawki8mi9rqvgnuj0etjb8fc3few7uo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lipizzaner.jpg</title>
+    <ns>6</ns>
+    <id>2312</id>
+    <revision>
+      <id>6433</id>
+      <timestamp>2007-05-03T11:10:39Z</timestamp>
+      <contributor>
+        <username>AElisabeth</username>
+        <id>90</id>
+      </contributor>
+      <comment>Bild aus Wikipedia</comment>
+      <text xml:space="preserve" bytes="18">Bild aus Wikipedia</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lippizaner.jpg</title>
+    <ns>6</ns>
+    <id>2311</id>
+    <revision>
+      <id>6432</id>
+      <timestamp>2007-05-03T11:06:22Z</timestamp>
+      <contributor>
+        <username>AElisabeth</username>
+        <id>90</id>
+      </contributor>
+      <comment>Bild aus Wikipedia</comment>
+      <text xml:space="preserve" bytes="18">Bild aus Wikipedia</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lisa-Marie.PNG</title>
+    <ns>6</ns>
+    <id>2472</id>
+    <revision>
+      <id>7180</id>
+      <timestamp>2007-11-23T20:42:02Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Lisa-Marie.jpg</title>
+    <ns>6</ns>
+    <id>2471</id>
+    <revision>
+      <id>7179</id>
+      <timestamp>2007-11-23T20:40:20Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,24 @@
+{
+  "pageid": 1323,
+  "ns": 6,
+  "title": "Datei:Muster.jpg",
+  "revisions": [
+    {
+      "revid": 1663,
+      "parentid": 1565,
+      "user": "Leupold",
+      "timestamp": "2005-12-29T16:58:21Z",
+      "comment": "",
+      "wikitext": "Beispielbild\n\nDieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht. Es ist erlaubt das Bild zu kopieren, verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation, Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext."
+    },
+    {
+      "revid": 1565,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2005-12-29T12:12:31Z",
+      "comment": "Beispielbild",
+      "wikitext": "Beispielbild"
+    }
+  ],
+  "categories": []
+}

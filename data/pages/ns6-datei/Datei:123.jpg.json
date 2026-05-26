@@ -1,0 +1,24 @@
+{
+  "pageid": 5325,
+  "ns": 6,
+  "title": "Datei:123.jpg",
+  "revisions": [
+    {
+      "revid": 22084,
+      "parentid": 22070,
+      "user": "MAWiedemann",
+      "timestamp": "2018-05-09T06:52:56Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = Welle\n|Quelle = www.pixabay.de\n|Urheber = freie Nutzung\n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 22070,
+      "parentid": 0,
+      "user": "MAWiedemann",
+      "timestamp": "2018-05-09T06:39:38Z",
+      "comment": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = \n|Urheber = \n|Datum = \n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    }
+  ],
+  "categories": []
+}

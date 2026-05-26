@@ -1,0 +1,1318 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:ParalleleLinien.svg</title>
+    <ns>6</ns>
+    <id>4787</id>
+    <revision>
+      <id>19700</id>
+      <parentid>19658</parentid>
+      <timestamp>2016-05-23T17:31:44Z</timestamp>
+      <contributor>
+        <username>MATom-Tove</username>
+        <id>10130</id>
+      </contributor>
+      <text xml:space="preserve" bytes="194">{{Information ohne UploadWizard
+|Beschreibung = Parallele Linien
+|Quelle = Microsoft Office Visio
+|Urheber = Tom-Tove Hennig}} 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 1
+|Anmerkungen = 
+}}</text>
+      <sha1>eu4bzlwalokgm0tpqqgk99ul1569lxt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Patricia.JPG</title>
+    <ns>6</ns>
+    <id>2476</id>
+    <revision>
+      <id>7195</id>
+      <timestamp>2007-11-28T07:42:05Z</timestamp>
+      <contributor>
+        <username>MAPatricia</username>
+        <id>380</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Patricia.jpg</title>
+    <ns>6</ns>
+    <id>2480</id>
+    <revision>
+      <id>7201</id>
+      <timestamp>2007-11-28T07:58:30Z</timestamp>
+      <contributor>
+        <username>MAPatricia</username>
+        <id>380</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pauke.png</title>
+    <ns>6</ns>
+    <id>5163</id>
+    <revision>
+      <id>21628</id>
+      <parentid>21620</parentid>
+      <timestamp>2017-07-10T07:52:23Z</timestamp>
+      <contributor>
+        <username>Wgsa03</username>
+        <id>10138</id>
+      </contributor>
+      <text xml:space="preserve" bytes="151">{{Information ohne UploadWizard
+|Beschreibung = Pauke
+|Quelle = Wikimedia
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>3sc39nnnv1c5utntbthad7ka8x24arj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pausenhof.jpg</title>
+    <ns>6</ns>
+    <id>4744</id>
+    <revision>
+      <id>19477</id>
+      <timestamp>2016-01-13T08:38:07Z</timestamp>
+      <contributor>
+        <username>MALoesch</username>
+        <id>10118</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = http://vs-grossmehring.de/schule/
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="170">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = http://vs-grossmehring.de/schule/
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>4ezet8xbchzr2unzpxyxkyyh9ghmrm2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pexels-karol-d-409696.jpg</title>
+    <ns>6</ns>
+    <id>6196</id>
+    <revision>
+      <id>25559</id>
+      <timestamp>2023-03-13T12:24:35Z</timestamp>
+      <contributor>
+        <username>MANiefeldt</username>
+        <id>10618</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pfaubild.jpg</title>
+    <ns>6</ns>
+    <id>2363</id>
+    <revision>
+      <id>6663</id>
+      <timestamp>2007-05-29T13:17:41Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Gemalt von MAwinnrich am 29.05.2007</comment>
+      <text xml:space="preserve" bytes="35">Gemalt von MAwinnrich am 29.05.2007</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pfeilgiftfrosch.jpg</title>
+    <ns>6</ns>
+    <id>3279</id>
+    <revision>
+      <id>11998</id>
+      <timestamp>2009-06-15T10:31:26Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pferd1.jpg</title>
+    <ns>6</ns>
+    <id>1581</id>
+    <revision>
+      <id>3104</id>
+      <timestamp>2006-03-07T13:59:16Z</timestamp>
+      <contributor>
+        <username>MAtabea</username>
+        <id>37</id>
+      </contributor>
+      <comment>Hier hab ich ein grasendes Pferd gemalt.
+von: Tabea Sch.
+07.03.2006</comment>
+      <text xml:space="preserve" bytes="67">Hier hab ich ein grasendes Pferd gemalt.
+von: Tabea Sch.
+07.03.2006</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pferd schilk trans.gif</title>
+    <ns>6</ns>
+    <id>2634</id>
+    <revision>
+      <id>8026</id>
+      <timestamp>2008-03-04T14:43:02Z</timestamp>
+      <contributor>
+        <username>MABauer</username>
+        <id>127</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pferd von Jasmin.jpg</title>
+    <ns>6</ns>
+    <id>2489</id>
+    <revision>
+      <id>7238</id>
+      <timestamp>2007-12-01T10:16:26Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Jasmin hat dieses Bild gezeichnet und dann wurde es eingescannt.</comment>
+      <text xml:space="preserve" bytes="64">Jasmin hat dieses Bild gezeichnet und dann wurde es eingescannt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pferde.jpeg</title>
+    <ns>6</ns>
+    <id>5984</id>
+    <revision>
+      <id>25137</id>
+      <timestamp>2022-05-17T10:30:14Z</timestamp>
+      <contributor>
+        <username>KOIGSRO32</username>
+        <id>10496</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Pferd
+|Quelle = Pixabay 
+|Urheber = kudybadorota
+|Datum = 13.12.2017
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung = Pferd
+|Quelle = Pixabay 
+|Urheber = kudybadorota
+|Datum = 13.12.2017
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>o72myqdfhqwr5qt4dnmr9sf6dqpd4mh</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Philipp HQ.jpg</title>
+    <ns>6</ns>
+    <id>6035</id>
+    <revision>
+      <id>25235</id>
+      <timestamp>2023-01-11T18:03:17Z</timestamp>
+      <contributor>
+        <username>MAMontuori</username>
+        <id>10509</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Fußball macht mir Spaß&lt;br /&gt;
+Mit meinen Fußballfreunden​​​​​​​&lt;br /&gt;
+Mit meinen Freunden&lt;br /&gt;
+'''''(Philipp)'''''
+|Quelle = eigene Darstellung
+|Urheber = Philipp
+|Datum = 
+|Genehmigung …</comment>
+      <text xml:space="preserve" bytes="294">{{Information ohne UploadWizard
+|Beschreibung = Fußball macht mir Spaß&lt;br /&gt;
+Mit meinen Fußballfreunden​​​​​​​&lt;br /&gt;
+Mit meinen Freunden&lt;br /&gt;
+'''''(Philipp)'''''
+|Quelle = eigene Darstellung
+|Urheber = Philipp
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>3pl71ptn5yytpufzeq8quola1tkc610</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Philipp und Fynn.jpg</title>
+    <ns>6</ns>
+    <id>3745</id>
+    <revision>
+      <id>14845</id>
+      <timestamp>2011-05-09T16:30:24Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Philipp und Fynn 2.jpg</title>
+    <ns>6</ns>
+    <id>3746</id>
+    <revision>
+      <id>14847</id>
+      <timestamp>2011-05-09T16:31:34Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Philipp und Leon.jpg</title>
+    <ns>6</ns>
+    <id>3742</id>
+    <revision>
+      <id>14838</id>
+      <timestamp>2011-05-09T16:24:08Z</timestamp>
+      <contributor>
+        <username>MABraeuer</username>
+        <id>371</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pietro-Lombardi-Sarah-Engels.jpg</title>
+    <ns>6</ns>
+    <id>5465</id>
+    <revision>
+      <id>23038</id>
+      <timestamp>2018-06-22T10:30:20Z</timestamp>
+      <contributor>
+        <username>Wgsa36</username>
+        <id>10171</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Pietro Lombardi und Sarah Engels 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="174">{{Information ohne UploadWizard
+|Beschreibung = Pietro Lombardi und Sarah Engels 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>l7bcxva3rxwoliavf9jc3rn39uudoec</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pilz.jpg</title>
+    <ns>6</ns>
+    <id>4167</id>
+    <revision>
+      <id>17138</id>
+      <timestamp>2013-05-16T08:02:41Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Abgezeichnet aus: Lebendige Natur: Im Wald. Verlag Fleurus, S. 67</comment>
+      <text xml:space="preserve" bytes="65">Abgezeichnet aus: Lebendige Natur: Im Wald. Verlag Fleurus, S. 67</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pinguin.gif</title>
+    <ns>6</ns>
+    <id>5039</id>
+    <revision>
+      <id>21114</id>
+      <timestamp>2017-03-17T09:19:19Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pippi.jpg</title>
+    <ns>6</ns>
+    <id>2225</id>
+    <revision>
+      <id>5983</id>
+      <timestamp>2007-03-30T07:42:23Z</timestamp>
+      <contributor>
+        <username>LisaS</username>
+        <id>230</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetJupiter.png</title>
+    <ns>6</ns>
+    <id>4402</id>
+    <revision>
+      <id>17952</id>
+      <timestamp>2014-03-18T08:06:26Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetJupiter2.png</title>
+    <ns>6</ns>
+    <id>4407</id>
+    <revision>
+      <id>17967</id>
+      <timestamp>2014-03-19T10:22:06Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetMars.png</title>
+    <ns>6</ns>
+    <id>4404</id>
+    <revision>
+      <id>17959</id>
+      <timestamp>2014-03-19T10:12:15Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetMars2.png</title>
+    <ns>6</ns>
+    <id>4405</id>
+    <revision>
+      <id>17961</id>
+      <timestamp>2014-03-19T10:13:52Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetMars3.png</title>
+    <ns>6</ns>
+    <id>4406</id>
+    <revision>
+      <id>17964</id>
+      <parentid>17963</parentid>
+      <timestamp>2014-03-19T10:16:12Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Leupold lud eine neue Version von „[[Datei:PlanetMars3.png]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetMars4.jpg</title>
+    <ns>6</ns>
+    <id>4410</id>
+    <revision>
+      <id>17973</id>
+      <timestamp>2014-03-19T10:30:04Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetMars5.jpg</title>
+    <ns>6</ns>
+    <id>4412</id>
+    <revision>
+      <id>17976</id>
+      <timestamp>2014-03-19T10:34:59Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetMars6.jpg</title>
+    <ns>6</ns>
+    <id>4411</id>
+    <revision>
+      <id>17975</id>
+      <timestamp>2014-03-19T10:34:44Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetNeptun.png</title>
+    <ns>6</ns>
+    <id>4400</id>
+    <revision>
+      <id>17947</id>
+      <timestamp>2014-03-18T07:43:48Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetSaturn.png</title>
+    <ns>6</ns>
+    <id>4401</id>
+    <revision>
+      <id>17950</id>
+      <timestamp>2014-03-18T07:45:46Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetSaturn2.jpg</title>
+    <ns>6</ns>
+    <id>4408</id>
+    <revision>
+      <id>17969</id>
+      <timestamp>2014-03-19T10:25:44Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PlanetSaturn3.jpg</title>
+    <ns>6</ns>
+    <id>4409</id>
+    <revision>
+      <id>17971</id>
+      <timestamp>2014-03-19T10:28:01Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Planeten.jpg.jpg</title>
+    <ns>6</ns>
+    <id>2115</id>
+    <revision>
+      <id>5300</id>
+      <timestamp>2007-03-05T17:36:34Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <comment>[[Bild:Planeten.jpg|thumb|Diese Bild wurde von Jonathan selbst gemalt.</comment>
+      <text xml:space="preserve" bytes="70">[[Bild:Planeten.jpg|thumb|Diese Bild wurde von Jonathan selbst gemalt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Platypus Australia.jpg</title>
+    <ns>6</ns>
+    <id>2100</id>
+    <revision>
+      <id>5198</id>
+      <timestamp>2007-02-17T20:09:54Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>http://de.wikipedia.org/wiki/Schnabeltier</comment>
+      <text xml:space="preserve" bytes="41">http://de.wikipedia.org/wiki/Schnabeltier</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pluto.Fadua.jpg</title>
+    <ns>6</ns>
+    <id>3373</id>
+    <revision>
+      <id>12733</id>
+      <timestamp>2009-12-09T11:55:42Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <comment>Der Pluto gemalt von Fadua</comment>
+      <text xml:space="preserve" bytes="26">Der Pluto gemalt von Fadua</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pluto.Lena.jpg</title>
+    <ns>6</ns>
+    <id>3374</id>
+    <revision>
+      <id>12734</id>
+      <timestamp>2009-12-09T11:56:12Z</timestamp>
+      <contributor>
+        <username>MARaschke</username>
+        <id>706</id>
+      </contributor>
+      <comment>Der Pluto gemalt von Lena</comment>
+      <text xml:space="preserve" bytes="25">Der Pluto gemalt von Lena</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pluto von LORRI und Ralph, 13 July 2015.jpeg</title>
+    <ns>6</ns>
+    <id>6013</id>
+    <revision>
+      <id>25189</id>
+      <parentid>25188</parentid>
+      <timestamp>2022-06-13T13:52:44Z</timestamp>
+      <contributor>
+        <username>MAZueger</username>
+        <id>10493</id>
+      </contributor>
+      <text xml:space="preserve" bytes="273">{{Information ohne UploadWizard
+|Beschreibung = : Bild vom Pluto. Aufgenommen von der Raumsonde New Horizons
+|Quelle = : Von NASA/JHUAPL/SWRI - solarsystem.nasa.gov, Gemeinfrei, https://commons.wikimedia.org/w/index.php?curid=41581982
+|Urheber = NASA
+|Datum = 13.06.2022
+}}</text>
+      <sha1>qlvpxu25b0w1c2jpqa8sfcwrryx1piz</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pokemon.jpg</title>
+    <ns>6</ns>
+    <id>3311</id>
+    <revision>
+      <id>12260</id>
+      <timestamp>2009-07-14T17:02:31Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Foto von: Daniel und Niklas, vom 14.07.2009</comment>
+      <text xml:space="preserve" bytes="43">Foto von: Daniel und Niklas, vom 14.07.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pokemon3.jpg</title>
+    <ns>6</ns>
+    <id>3324</id>
+    <revision>
+      <id>12380</id>
+      <timestamp>2009-07-27T19:40:24Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Niklas und Daniel, vom 20.07.2009</comment>
+      <text xml:space="preserve" bytes="43">Bild von: Niklas und Daniel, vom 20.07.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pontneuf01.jpg</title>
+    <ns>6</ns>
+    <id>4923</id>
+    <revision>
+      <id>20151</id>
+      <parentid>20145</parentid>
+      <timestamp>2016-07-07T09:21:46Z</timestamp>
+      <contributor>
+        <username>Wgsa32</username>
+        <id>10167</id>
+      </contributor>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung = Pont Neuf
+|Quelle = Wikimedia
+|Urheber = von Mossot (Eigenes Werk)
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>dsq4m4s78otgqxjdw0p4aa9vkd9igx7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Post Malone.jpg</title>
+    <ns>6</ns>
+    <id>5446</id>
+    <revision>
+      <id>22965</id>
+      <timestamp>2018-06-22T07:23:15Z</timestamp>
+      <contributor>
+        <username>Wgsa14</username>
+        <id>10149</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Post Malone 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="153">{{Information ohne UploadWizard
+|Beschreibung = Post Malone 
+|Quelle = ??
+|Urheber = ??
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>sdmjqydvoe8ypce6x2pdilvcoqetdzb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pottwal22.jpg</title>
+    <ns>6</ns>
+    <id>4916</id>
+    <revision>
+      <id>20137</id>
+      <parentid>20132</parentid>
+      <timestamp>2016-07-07T08:04:38Z</timestamp>
+      <contributor>
+        <username>Wgsa22</username>
+        <id>10157</id>
+      </contributor>
+      <text xml:space="preserve" bytes="290">{{Information ohne UploadWizard
+|Beschreibung =Pottwal beim schwimmen. 
+|Quelle =Wikimedia 
+|Urheber =von Mother_and_baby_sperm_whale.jpg: Gabriel Barathieu derivative work: Tomer T [CC BY-SA 2.0 (http://creativecommons.... 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>c2ksoy05dgribrgc2a1rpcfsrq82m48</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Prinz schneew.jpg</title>
+    <ns>6</ns>
+    <id>2054</id>
+    <revision>
+      <id>5023</id>
+      <timestamp>2007-01-29T16:13:36Z</timestamp>
+      <contributor>
+        <username>MABauer</username>
+        <id>127</id>
+      </contributor>
+      <comment>Der treue und starke Prinz von Schneewittchen, gemalt von einem Kind aus der 3.Klasse</comment>
+      <text xml:space="preserve" bytes="85">Der treue und starke Prinz von Schneewittchen, gemalt von einem Kind aus der 3.Klasse</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Prinzessin.jpg</title>
+    <ns>6</ns>
+    <id>5051</id>
+    <revision>
+      <id>21155</id>
+      <timestamp>2017-04-05T08:14:50Z</timestamp>
+      <contributor>
+        <username>Burgschule5</username>
+        <id>10231</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="144">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = pixabay
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>k7gmmm90qjus8t0hxrrfce8q42ahssd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Prisma.JPG</title>
+    <ns>6</ns>
+    <id>3706</id>
+    <revision>
+      <id>14703</id>
+      <timestamp>2011-03-25T10:00:25Z</timestamp>
+      <contributor>
+        <username>MAStaudt</username>
+        <id>870</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Przewalskis-horse-1660918 960 720.jpg</title>
+    <ns>6</ns>
+    <id>5382</id>
+    <revision>
+      <id>22537</id>
+      <timestamp>2018-06-12T09:07:18Z</timestamp>
+      <contributor>
+        <username>Wgse04</username>
+        <id>10179</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Prewalski-Wildpferd in Wüste
+|Quelle = Pixabay
+|Urheber = Maky_Orel
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="182">{{Information ohne UploadWizard
+|Beschreibung = Prewalski-Wildpferd in Wüste
+|Quelle = Pixabay
+|Urheber = Maky_Orel
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>i5va7fux0dzu98yftsi5gmw2dicg9qf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Puma2.jpg</title>
+    <ns>6</ns>
+    <id>2375</id>
+    <revision>
+      <id>6741</id>
+      <parentid>6694</parentid>
+      <timestamp>2007-06-05T16:20:31Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>GNU</comment>
+      <text xml:space="preserve" bytes="608">Diese Datei wird direkt aus dem zentralen, mehrsprachigen Dateiarchiv Wikimedia Commons eingebunden.
+
+http://www.zum.de/Faecher/M/NRW/wikis/GNU_white.png
+Dieses Bild wurde unter der GNU-Lizenz für freie Dokumentation veröffentlicht.
+
+Es ist erlaubt das Bild zu kopieren, zu verbreiten und/oder zu modifizieren, unter den Bedingungen der GNU-Lizenz für freie Dokumentation (http://www.gnu.org/home.de.html), Version 1.2 oder einer späteren Version, veröffentlicht von der Free Software Foundation. Es gibt keine unveränderlichen Abschnitte, keinen vorderen Umschlagtext und keinen hinteren Umschlagtext.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pumabild1.jpg</title>
+    <ns>6</ns>
+    <id>2374</id>
+    <revision>
+      <id>6691</id>
+      <timestamp>2007-06-05T12:50:37Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Gemalt von MAnima, 05.06.07</comment>
+      <text xml:space="preserve" bytes="27">Gemalt von MAnima, 05.06.07</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Putzschwamm.jpg</title>
+    <ns>6</ns>
+    <id>1543</id>
+    <revision>
+      <id>2922</id>
+      <parentid>2921</parentid>
+      <timestamp>2006-02-11T14:22:25Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="69">Bild eines Putzschwammes, Aufgenommen von: MArtin Leupold, 09.02.2006</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Pyramide.JPG</title>
+    <ns>6</ns>
+    <id>3709</id>
+    <revision>
+      <id>14710</id>
+      <parentid>14708</parentid>
+      <timestamp>2011-03-25T14:08:41Z</timestamp>
+      <contributor>
+        <username>MAStaudt</username>
+        <id>870</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Pyramide.JPG]]“ hochgeladen: Foto einer Pyramide</comment>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

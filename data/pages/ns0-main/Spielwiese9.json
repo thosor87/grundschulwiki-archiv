@@ -1,0 +1,96 @@
+{
+  "pageid": 3346,
+  "ns": 0,
+  "title": "Spielwiese9",
+  "revisions": [
+    {
+      "revid": 17434,
+      "parentid": 17433,
+      "user": "Leupold",
+      "timestamp": "2013-12-12T13:55:50Z",
+      "comment": "Änderungen von [[Special:Contributions/Leupold|Leupold]] ([[User talk:Leupold|Diskussion]]) wurden auf die letzte Version von [[User:MARaschke|MARaschke]] zurückgesetzt",
+      "wikitext": ""
+    },
+    {
+      "revid": 17433,
+      "parentid": 17432,
+      "user": "Leupold",
+      "timestamp": "2013-12-12T13:54:24Z",
+      "comment": "",
+      "wikitext": "[[Datei:Testdatei.doc|SchulinternerArbeitsplan]]"
+    },
+    {
+      "revid": 17432,
+      "parentid": 17431,
+      "user": "Leupold",
+      "timestamp": "2013-12-12T13:49:55Z",
+      "comment": "",
+      "wikitext": "[[Datei:Testdatei|miniatur|Hans]]\n[[Datei:Testdatei|Dies ist die Datei \"Schriftsatz\"]]\n[[Datei:Testdatei.doc|SchulinternerArbeitsplan]]"
+    },
+    {
+      "revid": 17431,
+      "parentid": 12642,
+      "user": "Leupold",
+      "timestamp": "2013-12-12T13:49:37Z",
+      "comment": "",
+      "wikitext": "[[Datei:Testdatei|miniatur|Hans]]\n[[Datei:Testdatei|Dies ist die Datei \"Schriftsatz\"]]\n[[Datei:Testdatei.doc|miniatur|SchulinternerArbeitsplan]]"
+    },
+    {
+      "revid": 12642,
+      "parentid": 12542,
+      "user": "MARaschke",
+      "timestamp": "2009-12-04T12:30:58Z",
+      "comment": "Die Seite wurde geleert.",
+      "wikitext": ""
+    },
+    {
+      "revid": 12542,
+      "parentid": 12540,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:46:44Z",
+      "comment": "",
+      "wikitext": "== [[== schwarzes loch==]]==\n\nDas '''schwarze loch''' ist schwarz. \nDas ''schwarze loch wird'' immer ''größer.''"
+    },
+    {
+      "revid": 12540,
+      "parentid": 12537,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:46:12Z",
+      "comment": "",
+      "wikitext": "[[== schwarzes loch==]]\nDas '''schwarze loch''' ist schwarz. \nDas ''schwarze loch wird'' immer ''größer.''"
+    },
+    {
+      "revid": 12537,
+      "parentid": 12534,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:44:09Z",
+      "comment": "",
+      "wikitext": "Das '''schwarze loch''' ist schwarz. \nDas ''schwarze loch wird'' immer ''größer.''\n[[== schwarzes loch==]]"
+    },
+    {
+      "revid": 12534,
+      "parentid": 12529,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:42:33Z",
+      "comment": "",
+      "wikitext": "Das schwarze loch ist schwarz. \nDas schwarze loch wird immer größer."
+    },
+    {
+      "revid": 12529,
+      "parentid": 12528,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:23:22Z",
+      "comment": "Die Seite wurde geleert.",
+      "wikitext": ""
+    },
+    {
+      "revid": 12528,
+      "parentid": 0,
+      "user": "MARaschke",
+      "timestamp": "2009-12-03T07:22:58Z",
+      "comment": "Die Seite wurde neu angelegt: == Hallo==  wir sind die '''Klasse 4a''' aus Mehren",
+      "wikitext": "== Hallo== \nwir sind die '''Klasse 4a''' aus Mehren"
+    }
+  ],
+  "categories": []
+}

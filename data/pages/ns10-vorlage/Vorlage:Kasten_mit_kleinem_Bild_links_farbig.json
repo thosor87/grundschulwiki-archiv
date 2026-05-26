@@ -1,0 +1,24 @@
+{
+  "pageid": 4330,
+  "ns": 10,
+  "title": "Vorlage:Kasten mit kleinem Bild links farbig",
+  "revisions": [
+    {
+      "revid": 17695,
+      "parentid": 17694,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:49Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color:{{{HINTERGRUND}}}\"|\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:left; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|18px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div> \n<div style=\"font-size:9pt; padding:5px; background-color:{{{HINTERGRUND}}}\">\n{|valign=top cellpadding=0 cellspacing=5 width=100% style=\"background-color:{{{HINTERGRUND}}}; padding:0.3em\"\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    },
+    {
+      "revid": 17694,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2007-03-25T14:54:04Z",
+      "comment": "typo",
+      "wikitext": "{| width={{{BREITE}}} style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: {{{BREITE}}}; vertical-align: top; border:1px solid {{{BORDER}}}; background-color:{{{HINTERGRUND}}}\"|\n<div style=\"background-color:{{{BACKGROUND}}}; font-size:1px; height:8px; border-bottom:1px solid {{{BORDER}}};\"></div>\n<div style=\"float:left; margin:8px; margin-top:5px\">[[Image:{{{BILD}}}|18px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">{{{ÜBERSCHRIFT}}}</div> \n<div style=\"font-size:9pt; padding:5px; background-color:{{{HINTERGRUND}}}\">\n{|valign=top cellpadding=0 cellspacing=5 width=100% style=\"background-color:{{{HINTERGRUND}}}; padding:0.3em\"\n|align=left valign=top width=100%|\n{{{INHALT}}}\n|}\n</div>\n|}"
+    }
+  ],
+  "categories": []
+}

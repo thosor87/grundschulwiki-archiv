@@ -1,0 +1,1264 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:KN.jpg</title>
+    <ns>6</ns>
+    <id>3917</id>
+    <revision>
+      <id>15610</id>
+      <timestamp>2012-06-03T20:54:14Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>Ein Kniffel-Wurf</comment>
+      <text xml:space="preserve" bytes="16">Ein Kniffel-Wurf</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:KN1.jpg</title>
+    <ns>6</ns>
+    <id>3918</id>
+    <revision>
+      <id>15612</id>
+      <timestamp>2012-06-03T20:55:58Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>Das Kniffel Zubehör: Würfelblock, Würfelbecher und 5 Würfel</comment>
+      <text xml:space="preserve" bytes="63">Das Kniffel Zubehör: Würfelblock, Würfelbecher und 5 Würfel</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:KN2.jpg</title>
+    <ns>6</ns>
+    <id>3919</id>
+    <revision>
+      <id>15614</id>
+      <timestamp>2012-06-03T20:57:56Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>5 gleiche Augenzahlen der Würfel = Kniffel</comment>
+      <text xml:space="preserve" bytes="43">5 gleiche Augenzahlen der Würfel = Kniffel</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kaddressbook.png</title>
+    <ns>6</ns>
+    <id>1631</id>
+    <revision>
+      <id>3234</id>
+      <timestamp>2006-03-09T21:37:29Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kalarm.png</title>
+    <ns>6</ns>
+    <id>1632</id>
+    <revision>
+      <id>3235</id>
+      <timestamp>2006-03-09T21:37:42Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Karte Venezuela.jpg</title>
+    <ns>6</ns>
+    <id>3197</id>
+    <revision>
+      <id>11479</id>
+      <timestamp>2009-04-20T10:19:03Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Karten.jpg</title>
+    <ns>6</ns>
+    <id>3974</id>
+    <revision>
+      <id>16016</id>
+      <timestamp>2012-07-12T20:59:12Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>Die Karten von 1-20</comment>
+      <text xml:space="preserve" bytes="19">Die Karten von 1-20</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kate.png</title>
+    <ns>6</ns>
+    <id>1633</id>
+    <revision>
+      <id>3236</id>
+      <timestamp>2006-03-09T21:37:56Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kater.jpeg</title>
+    <ns>6</ns>
+    <id>5203</id>
+    <revision>
+      <id>21747</id>
+      <timestamp>2017-09-03T17:22:23Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Katy Perry.jpg</title>
+    <ns>6</ns>
+    <id>5440</id>
+    <revision>
+      <id>22947</id>
+      <timestamp>2018-06-22T06:56:58Z</timestamp>
+      <contributor>
+        <username>Wgsa17</username>
+        <id>10152</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Katy Perry
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="151">{{Information ohne UploadWizard
+|Beschreibung = Katy Perry
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>a3pmv70pqqpbkwicw20m2bpunjjck0c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Katzel.jpg</title>
+    <ns>6</ns>
+    <id>3039</id>
+    <revision>
+      <id>10485</id>
+      <timestamp>2009-02-15T11:21:41Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>BIld von M. Leupold, GNU-Lizenz!</comment>
+      <text xml:space="preserve" bytes="32">BIld von M. Leupold, GNU-Lizenz!</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Katzenbild.jpg</title>
+    <ns>6</ns>
+    <id>2373</id>
+    <revision>
+      <id>6690</id>
+      <timestamp>2007-06-05T12:49:59Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Aufgenommen von MAebru, 05.06.07</comment>
+      <text xml:space="preserve" bytes="32">Aufgenommen von MAebru, 05.06.07</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Katzenhai.jpg</title>
+    <ns>6</ns>
+    <id>5234</id>
+    <revision>
+      <id>21803</id>
+      <parentid>21802</parentid>
+      <timestamp>2018-04-09T10:38:12Z</timestamp>
+      <contributor>
+        <username>MAKnist</username>
+        <id>10269</id>
+      </contributor>
+      <text xml:space="preserve" bytes="256">{{Information ohne UploadWizard
+|Beschreibung = der Katzenhai im offenen Meer
+|Quelle = https://commons.wikimedia.org/wiki/File%3AScyliorhinus_canicula.jpg
+|Urheber = Hans Hillewaert
+|Datum = 9.4.2018
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>q0zbkkdl3sdaule8z02jzpl85j90iah</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kblackbox.png</title>
+    <ns>6</ns>
+    <id>1634</id>
+    <revision>
+      <id>3237</id>
+      <timestamp>2006-03-09T21:38:08Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kbounce.png</title>
+    <ns>6</ns>
+    <id>1635</id>
+    <revision>
+      <id>3238</id>
+      <timestamp>2006-03-09T21:38:24Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kbrunch.png</title>
+    <ns>6</ns>
+    <id>1636</id>
+    <revision>
+      <id>3239</id>
+      <timestamp>2006-03-09T21:38:37Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kcalc.png</title>
+    <ns>6</ns>
+    <id>1637</id>
+    <revision>
+      <id>3240</id>
+      <timestamp>2006-03-09T21:38:50Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kchart.png</title>
+    <ns>6</ns>
+    <id>1638</id>
+    <revision>
+      <id>3241</id>
+      <timestamp>2006-03-09T21:39:03Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kcmdf.png</title>
+    <ns>6</ns>
+    <id>1639</id>
+    <revision>
+      <id>3242</id>
+      <timestamp>2006-03-09T21:39:16Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kcmmidi.png</title>
+    <ns>6</ns>
+    <id>1640</id>
+    <revision>
+      <id>3243</id>
+      <timestamp>2006-03-09T21:39:29Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kcmpartitions.png</title>
+    <ns>6</ns>
+    <id>1641</id>
+    <revision>
+      <id>3244</id>
+      <timestamp>2006-03-09T21:39:42Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kcoloredit.png</title>
+    <ns>6</ns>
+    <id>1642</id>
+    <revision>
+      <id>3245</id>
+      <timestamp>2006-03-09T21:39:56Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kdict.png</title>
+    <ns>6</ns>
+    <id>1644</id>
+    <revision>
+      <id>3247</id>
+      <timestamp>2006-03-09T21:40:25Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kedit.png</title>
+    <ns>6</ns>
+    <id>1645</id>
+    <revision>
+      <id>3248</id>
+      <timestamp>2006-03-09T21:40:39Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kegel.JPG</title>
+    <ns>6</ns>
+    <id>3704</id>
+    <revision>
+      <id>14701</id>
+      <timestamp>2011-03-25T09:49:48Z</timestamp>
+      <contributor>
+        <username>MAStaudt</username>
+        <id>870</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kegelrobbe.jpg</title>
+    <ns>6</ns>
+    <id>4901</id>
+    <revision>
+      <id>20089</id>
+      <parentid>20077</parentid>
+      <timestamp>2016-07-07T06:27:58Z</timestamp>
+      <contributor>
+        <username>Wgsa20</username>
+        <id>10155</id>
+      </contributor>
+      <text xml:space="preserve" bytes="200">{{Information ohne UploadWizard
+|Beschreibung = Kegelrobbe am Strand
+|Quelle = Wikimedia
+|Urheber = von Andreas Trepte (Eigenes Werk) 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>km9zqcxofi33jb7uzv5cj7awaff92zy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:KenKen3x3(1).jpg</title>
+    <ns>6</ns>
+    <id>3437</id>
+    <revision>
+      <id>13147</id>
+      <timestamp>2010-02-04T16:09:08Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</comment>
+      <text xml:space="preserve" bytes="102">Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:KenKen3x3(2).jpg</title>
+    <ns>6</ns>
+    <id>3438</id>
+    <revision>
+      <id>13148</id>
+      <timestamp>2010-02-04T18:50:28Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</comment>
+      <text xml:space="preserve" bytes="102">Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:KenKen3x3(3).jpg</title>
+    <ns>6</ns>
+    <id>3439</id>
+    <revision>
+      <id>13149</id>
+      <timestamp>2010-02-04T18:51:19Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</comment>
+      <text xml:space="preserve" bytes="102">Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:KenKen3x3(4).jpg</title>
+    <ns>6</ns>
+    <id>3440</id>
+    <revision>
+      <id>13150</id>
+      <timestamp>2010-02-04T18:51:43Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</comment>
+      <text xml:space="preserve" bytes="102">Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:KenKen3x3(5).jpg</title>
+    <ns>6</ns>
+    <id>3441</id>
+    <revision>
+      <id>13151</id>
+      <timestamp>2010-02-04T18:52:05Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</comment>
+      <text xml:space="preserve" bytes="102">Screenshot, selbst erstellt, 4.2.2010, Achim Burgermeister
+
+KenKen ist ein geschütztes Markenzeichen!</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken00.jpg</title>
+    <ns>6</ns>
+    <id>3420</id>
+    <revision>
+      <id>13086</id>
+      <timestamp>2010-01-29T18:14:46Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot selbst erstellt. 
+29.1.2010
+A.Burgermeister</comment>
+      <text xml:space="preserve" bytes="54">Screenshot selbst erstellt. 
+29.1.2010
+A.Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken01.jpg</title>
+    <ns>6</ns>
+    <id>3417</id>
+    <revision>
+      <id>13082</id>
+      <timestamp>2010-01-29T18:00:44Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Als Screenshot selbst erstellt.
+29.1.2010
+
+A.Burgermeister</comment>
+      <text xml:space="preserve" bytes="58">Als Screenshot selbst erstellt.
+29.1.2010
+
+A.Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken02.jpg</title>
+    <ns>6</ns>
+    <id>3419</id>
+    <revision>
+      <id>13084</id>
+      <timestamp>2010-01-29T18:04:03Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot zu KenKen
+Selbst erstellt.
+29.1.2010
+A.Burgermeister</comment>
+      <text xml:space="preserve" bytes="63">Screenshot zu KenKen
+Selbst erstellt.
+29.1.2010
+A.Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken03.jpg</title>
+    <ns>6</ns>
+    <id>3421</id>
+    <revision>
+      <id>13089</id>
+      <timestamp>2010-01-29T21:24:20Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot 
+Selbst erstellt.
+29.1.2010
+Achim Burgermeister</comment>
+      <text xml:space="preserve" bytes="58">Screenshot 
+Selbst erstellt.
+29.1.2010
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken04.jpg</title>
+    <ns>6</ns>
+    <id>3422</id>
+    <revision>
+      <id>13092</id>
+      <parentid>13091</parentid>
+      <timestamp>2010-01-29T21:38:09Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>hat eine neue Version von „[[Bild:Kenken04.jpg]]“ hochgeladen</comment>
+      <text xml:space="preserve" bytes="58">Screenshot 
+Selbst erstellt.
+29.1.2010
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken05.jpg</title>
+    <ns>6</ns>
+    <id>3423</id>
+    <revision>
+      <id>13094</id>
+      <timestamp>2010-01-29T21:50:34Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot. 
+Selbst erstellt.
+29.1.10
+Achim Burgermeister</comment>
+      <text xml:space="preserve" bytes="57">Screenshot. 
+Selbst erstellt.
+29.1.10
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken06.jpg</title>
+    <ns>6</ns>
+    <id>3424</id>
+    <revision>
+      <id>13095</id>
+      <timestamp>2010-01-29T21:51:32Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot. 
+Selbst erstellt.
+29.1.10
+Achim Burgermeister</comment>
+      <text xml:space="preserve" bytes="57">Screenshot. 
+Selbst erstellt.
+29.1.10
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken07.jpg</title>
+    <ns>6</ns>
+    <id>3425</id>
+    <revision>
+      <id>13097</id>
+      <timestamp>2010-01-29T22:05:38Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot
+Selbst erstellt.
+29.1.10
+Achim Burgermeister</comment>
+      <text xml:space="preserve" bytes="55">Screenshot
+Selbst erstellt.
+29.1.10
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken08.jpg</title>
+    <ns>6</ns>
+    <id>3426</id>
+    <revision>
+      <id>13098</id>
+      <timestamp>2010-01-29T22:13:15Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot
+Selbst erstellt.
+29.1.10
+Achim Burgermeister</comment>
+      <text xml:space="preserve" bytes="55">Screenshot
+Selbst erstellt.
+29.1.10
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken09.jpg</title>
+    <ns>6</ns>
+    <id>3432</id>
+    <revision>
+      <id>13121</id>
+      <timestamp>2010-01-30T16:00:34Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot
+
+Selbst erstellt.
+
+30.1.10
+
+Achim Burgermeister</comment>
+      <text xml:space="preserve" bytes="58">Screenshot
+
+Selbst erstellt.
+
+30.1.10
+
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken10.jpg</title>
+    <ns>6</ns>
+    <id>3431</id>
+    <revision>
+      <id>13119</id>
+      <timestamp>2010-01-30T15:57:52Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot
+
+Selbst erstellt.
+
+30.1.10
+
+Achim Burgermeister</comment>
+      <text xml:space="preserve" bytes="58">Screenshot
+
+Selbst erstellt.
+
+30.1.10
+
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenken11.jpg</title>
+    <ns>6</ns>
+    <id>3433</id>
+    <revision>
+      <id>13122</id>
+      <timestamp>2010-01-30T16:04:53Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Screenshot
+
+Selbst erstellt.
+
+30.1.10
+
+Achim Burgermeister</comment>
+      <text xml:space="preserve" bytes="58">Screenshot
+
+Selbst erstellt.
+
+30.1.10
+
+Achim Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kenkenlogo 75dpi.JPG</title>
+    <ns>6</ns>
+    <id>3435</id>
+    <revision>
+      <id>13131</id>
+      <timestamp>2010-02-01T14:23:16Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Logo KenKen des Moses-Verlages.
+
+Bereitgestellt durch Mail vom 1.2.2010 von Frau Wehse an A.Burgermeister</comment>
+      <text xml:space="preserve" bytes="105">Logo KenKen des Moses-Verlages.
+
+Bereitgestellt durch Mail vom 1.2.2010 von Frau Wehse an A.Burgermeister</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kfm home.png</title>
+    <ns>6</ns>
+    <id>1646</id>
+    <revision>
+      <id>3249</id>
+      <timestamp>2006-03-09T21:40:53Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Khelpcenter.png</title>
+    <ns>6</ns>
+    <id>1647</id>
+    <revision>
+      <id>3250</id>
+      <timestamp>2006-03-09T21:41:05Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Khexedit.png</title>
+    <ns>6</ns>
+    <id>1648</id>
+    <revision>
+      <id>3251</id>
+      <timestamp>2006-03-09T21:41:22Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</comment>
+      <text xml:space="preserve" bytes="208">http://www.zum.de/grundschulwiki/GNU_white.png
+Dieses Bild wurde unter der GNU-LGPL Lizenz für freie Dokumentation veröffentlicht.
+
+Copyright (c) 2003-2004 David Vignoni.
+
+Homepage: http://www.icon-king.com</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kid.jpg</title>
+    <ns>6</ns>
+    <id>1386</id>
+    <revision>
+      <id>1825</id>
+      <timestamp>2006-01-01T21:27:07Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>aus Microsoft-Clipart</comment>
+      <text xml:space="preserve" bytes="21">aus Microsoft-Clipart</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kid.png</title>
+    <ns>6</ns>
+    <id>1703</id>
+    <revision>
+      <id>3520</id>
+      <timestamp>2006-03-13T20:48:19Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>von Microsoft zur Verfügung gestellt.</comment>
+      <text xml:space="preserve" bytes="38">von Microsoft zur Verfügung gestellt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Kid2.png</title>
+    <ns>6</ns>
+    <id>1387</id>
+    <revision>
+      <id>1831</id>
+      <timestamp>2006-01-01T21:43:02Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Kind aus Microsoft Clipart</comment>
+      <text xml:space="preserve" bytes="26">Kind aus Microsoft Clipart</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

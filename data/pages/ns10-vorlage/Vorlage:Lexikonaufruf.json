@@ -1,0 +1,144 @@
+{
+  "pageid": 1605,
+  "ns": 10,
+  "title": "Vorlage:Lexikonaufruf",
+  "revisions": [
+    {
+      "revid": 18635,
+      "parentid": 18634,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:09:43Z",
+      "comment": "Änderung 18634 von [[Special:Contributions/Leupold|Leupold]] ([[User talk:Leupold|Diskussion]]) rückgängig gemacht.",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:18px;font-family:Verdana\">\n<center>[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]</center>\n</div>\n<br>\n}}"
+    },
+    {
+      "revid": 18634,
+      "parentid": 18491,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:09:21Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-family:Verdana\">\n<center>[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]</center>\n</div>\n<br>\n}}"
+    },
+    {
+      "revid": 18491,
+      "parentid": 18490,
+      "user": "Leupold",
+      "timestamp": "2014-06-11T17:55:02Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:18px;font-family:Verdana\">\n<center>[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]</center>\n</div>\n<br>\n}}"
+    },
+    {
+      "revid": 18490,
+      "parentid": 18489,
+      "user": "Leupold",
+      "timestamp": "2014-06-11T17:54:31Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:20px;font-family:Verdana\">\n<center>[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]</center>\n</div>\n<br>\n}}"
+    },
+    {
+      "revid": 18489,
+      "parentid": 16388,
+      "user": "Leupold",
+      "timestamp": "2014-06-11T17:53:44Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:22px;font-family:Verdana\">\n<center>[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]</center>\n</div>\n<br>\n}}"
+    },
+    {
+      "revid": 16388,
+      "parentid": 16264,
+      "user": "Leupold",
+      "timestamp": "2012-12-29T11:01:09Z",
+      "comment": "kategorie entnommen",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:26px;font-family:Verdana\">\n<center>[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]</center>\n</div>\n<br>\n}}"
+    },
+    {
+      "revid": 16264,
+      "parentid": 16254,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-24T15:34:49Z",
+      "comment": "Y -> :Kategorie:Y",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:26px;font-family:Verdana\">\n<center>[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[:Kategorie:Y|Y]] [[Z]]</center>\n</div>\n<br>\n}}"
+    },
+    {
+      "revid": 16254,
+      "parentid": 3526,
+      "user": "Karl Kirst",
+      "timestamp": "2012-11-24T14:31:38Z",
+      "comment": "zentriert; nachfolgende Leerzeile",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:26px;font-family:Verdana\">\n<center>[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]</center>\n</div>\n<br>\n}}"
+    },
+    {
+      "revid": 3526,
+      "parentid": 3525,
+      "user": "Leupold",
+      "timestamp": "2006-03-14T11:15:17Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:26px;font-family:Verdana\">\n&nbsp;[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]\n</div>\n}}"
+    },
+    {
+      "revid": 3525,
+      "parentid": 3311,
+      "user": "Leupold",
+      "timestamp": "2006-03-14T11:14:56Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:27px;font-family:Verdana\">\n&nbsp;[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]\n</div>\n}}"
+    },
+    {
+      "revid": 3311,
+      "parentid": 3192,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T12:34:23Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:29px;font-family:Verdana\">\n&nbsp;[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]\n</div>\n}}"
+    },
+    {
+      "revid": 3192,
+      "parentid": 3191,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T10:54:57Z",
+      "comment": "",
+      "wikitext": "{|width=100%|\n|valign=top width=100%|\n{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"font-size:29px;font-family:Verdana\">\n&nbsp;[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]\n</div>\n}}"
+    },
+    {
+      "revid": 3191,
+      "parentid": 3189,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T10:54:06Z",
+      "comment": "",
+      "wikitext": "{|width=100%|\n|valign=top width=100%|\n{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = Exquisite-khelpcenter.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"height:15px;font-size:29px;font-family:Verdana\">\n&nbsp;[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]\n</div>\n}}"
+    },
+    {
+      "revid": 3189,
+      "parentid": 3184,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T10:51:12Z",
+      "comment": "",
+      "wikitext": "{|width=100%|\n|valign=top width=100%|\n{{Kastendesign|\nBORDER = #97BF87|\nBACKGROUND = #AADDAA|\nBREITE =100%|\nBILD = 48px-Nuvola apps bookcase.png|\nÜBERSCHRIFT =Lexikonseiten|\nINHALT=<div style=\"height:15px;font-size:29px;font-family:Verdana\">\n&nbsp;[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]\n</div>\n}}"
+    },
+    {
+      "revid": 3184,
+      "parentid": 3183,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T09:35:31Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"background-color:#B0C4DE;  border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nLexikonseiten</div>\n\n<div style=\"height:15px;font-size:29px;font-family:Verdana;background-color:lemonchiffon;\">\n&nbsp;[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]\n</div>\n|}"
+    },
+    {
+      "revid": 3183,
+      "parentid": 3174,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T09:15:17Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"background-color:#B0C4DE; height:12px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">\nLexikonseiten</div>\n\n<div style=\"height:30px;font-size:30px;background-color:lemonchiffon;\">\n'''&nbsp;''' '''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n|}"
+    },
+    {
+      "revid": 3174,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-09T08:26:36Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"background-color:#B0C4DE; font-size:1px; height:8px; border-bottom:1px solid #8898BF;\"></div>\n<div style=\"float:right; margin:8px; margin-top:5px\"></div>\n\n<div style=\"font-size:30px\">\n'''&nbsp;''' '''[[A]]''' '''[[B]]''' '''[[C]]''' '''[[D]]''' '''[[E]]''' '''[[F]]''' '''[[G]]''' '''[[H]]''' '''[[I]]''' '''[[J]]''' '''[[K]]''' '''[[L]]''' '''[[M]]''' '''[[N]]''' '''[[O]]''' '''[[P]]''' '''[[Q]]''' '''[[R]]''' '''[[S]]''' '''[[T]]''' '''[[U]]''' '''[[V]]''' '''[[W]]''' '''[[X]]''' '''[[Y]]''' '''[[Z]]'''\n</div>\n|}"
+    }
+  ],
+  "categories": []
+}

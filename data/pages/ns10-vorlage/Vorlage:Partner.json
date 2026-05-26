@@ -1,0 +1,384 @@
+{
+  "pageid": 2536,
+  "ns": 10,
+  "title": "Vorlage:Partner",
+  "revisions": [
+    {
+      "revid": 20936,
+      "parentid": 20935,
+      "user": "Leupold",
+      "timestamp": "2016-11-26T11:54:17Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:22px; border-bottom:1px solid green;font-family:Verdana; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | [[Bild:FragFinn_mit_schrift.png|80px]]<br>[http://www.fragFINN.de fragFINN.de] \n| width=33% align=\"center\" | [[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| width=33% align=\"center\" | [[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| width=33% align=\"center\" | [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| width=33% align=\"center\" | [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten<br>Seitenstark.de] \n| width=33% align=\"center\" | [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n|}\n|}"
+    },
+    {
+      "revid": 20935,
+      "parentid": 20933,
+      "user": "Leupold",
+      "timestamp": "2016-11-26T11:53:34Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:22px; border-bottom:1px solid green;font-family:Verdana; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | [[Bild:FragFinn_mit_schrift.png]]<br>[http://www.fragFINN.de fragFINN.de] \n| width=33% align=\"center\" | [[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| width=33% align=\"center\" | [[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| width=33% align=\"center\" | [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| width=33% align=\"center\" | [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten<br>Seitenstark.de] \n| width=33% align=\"center\" | [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n|}\n|}"
+    },
+    {
+      "revid": 20933,
+      "parentid": 18998,
+      "user": "Leupold",
+      "timestamp": "2016-11-26T11:51:38Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:22px; border-bottom:1px solid green;font-family:Verdana; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | [[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.fragFINN.de fragFINN.de] \n| width=33% align=\"center\" | [[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| width=33% align=\"center\" | [[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| width=33% align=\"center\" | [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| width=33% align=\"center\" | [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten<br>Seitenstark.de] \n| width=33% align=\"center\" | [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n|}\n|}"
+    },
+    {
+      "revid": 18998,
+      "parentid": 18938,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T20:14:29Z",
+      "comment": "- feste Schriftgröße",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:22px; border-bottom:1px solid green;font-family:Verdana; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | [[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] \n| width=33% align=\"center\" | [[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| width=33% align=\"center\" | [[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| width=33% align=\"center\" | [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| width=33% align=\"center\" | [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten<br>Seitenstark.de] \n| width=33% align=\"center\" | [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n|}\n|}"
+    },
+    {
+      "revid": 18938,
+      "parentid": 18937,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T22:22:28Z",
+      "comment": "Seitenstark zweizeilig (Vorschlag: feste Schriftgröße herausnehmen; Logos größer anzeigen lassen)",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:22px; border-bottom:1px solid green;font-family:Verdana; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] </div>\n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]</div>\n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] </div>\n|- \n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] </div>\n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten<br>Seitenstark.de]</div> \n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]</div>\n|}\n|}"
+    },
+    {
+      "revid": 18937,
+      "parentid": 18936,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T22:20:01Z",
+      "comment": "Rand oben höher: 22pt",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:22px; border-bottom:1px solid green;font-family:Verdana; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] </div>\n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]</div>\n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] </div>\n|- \n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] </div>\n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]</div> \n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]</div>\n|}\n|}"
+    },
+    {
+      "revid": 18936,
+      "parentid": 18643,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-05T22:18:47Z",
+      "comment": "Schrift größer (Seitennamen immer noch klein: 10pt)",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] </div>\n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]</div>\n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] </div>\n|- \n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] </div>\n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]</div> \n| width=33% align=\"center\" | <div style=\"font-size:10pt\">[http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]</div>\n|}\n|}"
+    },
+    {
+      "revid": 18643,
+      "parentid": 18642,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:26:11Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | <div style=\"font-size:9pt\">[[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] </div>\n| width=33% align=\"center\" | <div style=\"font-size:9pt\">[[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]</div>\n| width=33% align=\"center\" | <div style=\"font-size:9pt\">[[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] </div>\n|- \n| width=33% align=\"center\" | <div style=\"font-size:9pt\">[[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] </div>\n| width=33% align=\"center\" | <div style=\"font-size:9pt\">[[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]</div> \n| width=33% align=\"center\" | <div style=\"font-size:9pt\">[http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]</div>\n|}\n|}"
+    },
+    {
+      "revid": 18642,
+      "parentid": 18639,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:25:17Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | <div style=\"font-size:9pt\">[[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] \n| width=33% align=\"center\" | [[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| width=33% align=\"center\" | [[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| width=33% align=\"center\" | [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| width=33% align=\"center\" | [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de] \n| width=33% align=\"center\" | [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]</div>\n|}\n|}"
+    },
+    {
+      "revid": 18639,
+      "parentid": 18638,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:19:13Z",
+      "comment": "Änderung 18638 von [[Special:Contributions/Leupold|Leupold]] ([[User talk:Leupold|Diskussion]]) rückgängig gemacht.",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | [[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] \n| width=33% align=\"center\" | [[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| width=33% align=\"center\" | [[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| width=33% align=\"center\" | [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| width=33% align=\"center\" | [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de] \n| width=33% align=\"center\" | [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n|}\n|}"
+    },
+    {
+      "revid": 18638,
+      "parentid": 16359,
+      "user": "Leupold",
+      "timestamp": "2014-11-23T19:18:33Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:9px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | [[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] \n| width=33% align=\"center\" | [[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| width=33% align=\"center\" | [[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| width=33% align=\"center\" | [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| width=33% align=\"center\" | [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de] \n| width=33% align=\"center\" | [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n|}\n|}"
+    },
+    {
+      "revid": 16359,
+      "parentid": 16356,
+      "user": "Karl Kirst",
+      "timestamp": "2012-12-12T23:14:41Z",
+      "comment": "anders formatiert (ohne Ränder)",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| width=100% \n|- \n| width=33% align=\"center\" | [[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] \n| width=33% align=\"center\" | [[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| width=33% align=\"center\" | [[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| width=33% align=\"center\" | [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| width=33% align=\"center\" | [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de] \n| width=33% align=\"center\" | [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n|}\n|}"
+    },
+    {
+      "revid": 16356,
+      "parentid": 16355,
+      "user": "Karl Kirst",
+      "timestamp": "2012-12-12T23:00:12Z",
+      "comment": "gleich breite Kästchen",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| class=\"wikitable center\" \n|- \n| width=33% | [[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] \n| width=33% |[[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| width=33% |[[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de] \n| [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n|}\n|}"
+    },
+    {
+      "revid": 16355,
+      "parentid": 16043,
+      "user": "Karl Kirst",
+      "timestamp": "2012-12-12T22:58:19Z",
+      "comment": "Tabelle",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n\n{| class=\"wikitable center\" \n|- \n| [[Bild:FragFinn_mit_schrift.gif]]<br>[http://www.FragFinn.de FragFinn.de] \n| [[Bild:Blindekuh.gif]]<br>[http://www.blinde-kuh.de Blinde-Kuh.de]\n| [[Bild:Wikikoepfchen.jpg]]<br>[http://www.helles-koepfchen.de Helles-Köpfchen.de] \n|- \n| [[Bild:IABCLOGO.gif|110px]]<br> [http://www.internet-abc.de Internet-ABC] \n| [[Bild:Seitenstark.jpg|80px]]<br> [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de] \n| [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n|}\n|}"
+    },
+    {
+      "revid": 16043,
+      "parentid": 16042,
+      "user": "Karl Kirst",
+      "timestamp": "2012-08-16T08:10:22Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n* [[Bild:IABCLOGO.gif|110px]] [http://www.internet-abc.de Internet-ABC]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [[Bild:Seitenstark.jpg|80px]] [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n* [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 16042,
+      "parentid": 16041,
+      "user": "Karl Kirst",
+      "timestamp": "2012-08-16T08:08:56Z",
+      "comment": "link=",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif|link=http://www.FragFinn.de]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n* [[Bild:IABCLOGO.gif|110px]] [http://www.internet-abc.de Internet-ABC]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [[Bild:Seitenstark.jpg|80px]] [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n* [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 16041,
+      "parentid": 15565,
+      "user": "Karl Kirst",
+      "timestamp": "2012-08-16T08:08:35Z",
+      "comment": "verweis=",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif|verweis=http://www.FragFinn.de]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n* [[Bild:IABCLOGO.gif|110px]] [http://www.internet-abc.de Internet-ABC]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [[Bild:Seitenstark.jpg|80px]] [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n* [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 15565,
+      "parentid": 15559,
+      "user": "Leupold",
+      "timestamp": "2012-04-07T04:48:03Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n* [[Bild:IABCLOGO.gif|110px]] [http://www.internet-abc.de Internet-ABC]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [[Bild:Seitenstark.jpg|80px]] [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n* [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 15559,
+      "parentid": 13429,
+      "user": "Leupold",
+      "timestamp": "2012-03-31T07:35:10Z",
+      "comment": "bild eingefügt",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n* [[Bild:IABCLOGO.gif|110px]] [http://www.internet-abc.de Internet-ABC]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [[Bild:Seitenstark.jpg|80px]] [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n* [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 13429,
+      "parentid": 13078,
+      "user": "Leupold",
+      "timestamp": "2010-04-02T13:51:26Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n* [[Bild:IABCLOGO.gif|110px]] [http://www.internet-abc.de Internet-ABC]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n* [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 13078,
+      "parentid": 13015,
+      "user": "Leupold",
+      "timestamp": "2010-01-22T17:34:30Z",
+      "comment": "Änderung 13015 von [[Special:Contributions/Leupold|Leupold]] ([[User talk:Leupold|Diskussion]]) wurde rückgängig gemacht.",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n* [[Bild:IABCLOGO.gif|110px]] [http://www.internet-abc.de Internet-ABC]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 13015,
+      "parentid": 11445,
+      "user": "Leupold",
+      "timestamp": "2010-01-10T02:57:43Z",
+      "comment": "helles köpfchen entnommen",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:IABCLOGO.gif|110px]] [http://www.internet-abc.de Internet-ABC]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 11445,
+      "parentid": 9932,
+      "user": "Leupold",
+      "timestamp": "2009-04-16T09:24:04Z",
+      "comment": "Neuen Partner eingefügt",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n* [[Bild:IABCLOGO.gif|110px]] [http://www.internet-abc.de Internet-ABC]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 9932,
+      "parentid": 8018,
+      "user": "Leupold",
+      "timestamp": "2008-12-17T13:42:32Z",
+      "comment": "tippfehler",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschulwiki</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 8018,
+      "parentid": 8013,
+      "user": "Leupold",
+      "timestamp": "2008-03-01T12:07:53Z",
+      "comment": "linkanpassung",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 8013,
+      "parentid": 8012,
+      "user": "Leupold",
+      "timestamp": "2008-02-29T15:35:00Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [http://www.sitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten - Seitenstark.de]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 8012,
+      "parentid": 7829,
+      "user": "Leupold",
+      "timestamp": "2008-02-29T15:34:41Z",
+      "comment": "neuen Link eingefügt",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n* [http://www.sitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7829,
+      "parentid": 7531,
+      "user": "Leupold",
+      "timestamp": "2008-01-21T16:47:43Z",
+      "comment": "neues Bild",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Wikikoepfchen.jpg]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7531,
+      "parentid": 7530,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:44:02Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde-Kuh.de]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7530,
+      "parentid": 7527,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:29:02Z",
+      "comment": "absätze raus",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde Kuh]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7527,
+      "parentid": 7526,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:24:39Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]<br><br>\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]<br><br>\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde Kuh]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7526,
+      "parentid": 7525,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:24:13Z",
+      "comment": "Wiederhergestellt zur letzten Änderung von A.Burgermeister",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde Kuh]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7525,
+      "parentid": 7524,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:24:02Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]<br><br>\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]<br>\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde Kuh]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7524,
+      "parentid": 7523,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:23:01Z",
+      "comment": "absätze",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]<br><br>\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]<br><br>\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde Kuh]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7523,
+      "parentid": 7522,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:22:40Z",
+      "comment": "absatz",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]<br><br>\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde Kuh]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7522,
+      "parentid": 7521,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:22:24Z",
+      "comment": "absatz",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]<br>\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde Kuh]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7521,
+      "parentid": 7520,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-01-02T17:20:29Z",
+      "comment": "Bild von Blinde Kuh eingefügt.",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:Blindekuh.gif]][http://www.blinde-kuh.de Blinde Kuh]\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7520,
+      "parentid": 7519,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:19:03Z",
+      "comment": "rahmenhöhe",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:18px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* BlindeKuh.de\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7519,
+      "parentid": 7517,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:18:01Z",
+      "comment": "fontsize",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:15px; border-bottom:1px solid green;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* BlindeKuh.de\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7517,
+      "parentid": 7516,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:16:51Z",
+      "comment": "bild helles köpfchen",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:15px; border-bottom:1px solid green;font-family:Verdana; font-size:11px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* [[Bild:Helles_wiki_koepfchen.gif]][http://www.helles-koepfchen.de Helles-Köpfchen.de]\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* BlindeKuh.de\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7516,
+      "parentid": 7515,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-01-02T17:14:09Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:lightgreen; height:15px; border-bottom:1px solid green;font-family:Verdana; font-size:11px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* Helles-Köpfchen.de\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* BlindeKuh.de\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7515,
+      "parentid": 7514,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:05:14Z",
+      "comment": "anderes png",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Bug.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* Helles-Köpfchen.de\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* BlindeKuh.de\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7514,
+      "parentid": 7511,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-01-02T17:04:44Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Bild:FragFinn_mit_schrift.gif]][http://www.FragFinn.de FragFinn.de]\n* Helles-Köpfchen.de\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* BlindeKuh.de\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7511,
+      "parentid": 7508,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T17:02:14Z",
+      "comment": "Ende eingefügt",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* FragFinn.de\n* Helles-Köpfchen.de\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* BlindeKuh.de\n</div>\n|}\n|}"
+    },
+    {
+      "revid": 7508,
+      "parentid": 7505,
+      "user": "Leupold",
+      "timestamp": "2008-01-02T16:59:00Z",
+      "comment": "weiteren partner eingefüt",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* FragFinn.de\n* Helles-Köpfchen.de\n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* BlindeKuh.de\n</div>\n|}"
+    },
+    {
+      "revid": 7505,
+      "parentid": 7502,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-01-02T16:56:52Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Partner des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* FragFinn.de \n</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* BlindeKuh.de\n</div>\n|}"
+    },
+    {
+      "revid": 7502,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-01-02T16:53:12Z",
+      "comment": "",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"10\"\n| style=\"width: 50%; vertical-align: top; border:1px solid #8898BF; background-color: #FFFFFF\" |\n<div style=\"float:right; margin:8px; margin-top:5px\">[[Bild:Kfm_home.png|48px]]</div>\n<div style=\"background-color:#B0C4DE; height:18px; border-bottom:1px solid #8898BF;font-family:Verdana; font-size:12px; color:darkblue; padding-left:10px\">Administration des ZUM-Grundschul-WIKI</div>\n\n{| width=\"100%\" style=\"background-color:#FFFFFF\" \n|valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[ZUM-Wiki:Hilfe|Hilfe für Administratoren (sysop)]]\n* [[todo|To do]] \n* [[ZUM-Grundschul-Wiki:Editierhilfe|Editierhilfe]]\n* [[Blog]]</div>\n| width=\"50%\" valign=\"top\" |\n<div style=\"padding-left:8px;font-family:Arial;\">\n* [[Vorlagen]]\n* [[Technik]]\n* [[Spielwiese]] für alle Neulinge im Grundschulwiki\n* [[Wikis in anderen Ländern]]\n</div>\n|}"
+    }
+  ],
+  "categories": []
+}

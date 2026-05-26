@@ -1,0 +1,32 @@
+{
+  "pageid": 2018,
+  "ns": 6,
+  "title": "Datei:Rinde.jpg",
+  "revisions": [
+    {
+      "revid": 4878,
+      "parentid": 4874,
+      "user": "MAEckle",
+      "timestamp": "2006-12-15T13:35:01Z",
+      "comment": "",
+      "wikitext": "Rinde der Rotbuche. Bild ist von einem Schüler, aufgenommen Oktober 2006."
+    },
+    {
+      "revid": 4874,
+      "parentid": 4868,
+      "user": "MAEckle",
+      "timestamp": "2006-12-15T13:30:32Z",
+      "comment": "",
+      "wikitext": "Rinde der Rotbuche. Aufgenommen Oktober 2006 von einem Schüler."
+    },
+    {
+      "revid": 4868,
+      "parentid": 0,
+      "user": "MAEckle",
+      "timestamp": "2006-12-13T18:21:18Z",
+      "comment": "Rinde",
+      "wikitext": "Rinde"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,16 @@
+{
+  "pageid": 2626,
+  "ns": 10,
+  "title": "Vorlage:Hide",
+  "revisions": [
+    {
+      "revid": 7994,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2008-02-27T18:12:27Z",
+      "comment": "",
+      "wikitext": "<includeonly><span class=\"_togglegroup _toggle_initshow _toggle _toggler toggle-visible\" style=\"display:none;\">[show]</span><span class=\"_toggle_inithide _toggle _toggler toggle-hidden\" style=\"display:none;\">[hide]</span>\n<div class=\"_toggle_inithide _toggle toggle-hidden\">\n{{{1}}}</div></includeonly><noinclude>\n==Usage==\n<nowiki>{{hide|text to hide}}</nowiki> or <nowiki>{{hide|1=text to hide}}</nowiki>. The second form is required when \"text to hide\" contains an equals sign.\n\n== Bitte Vorlage:versteckt nutzen! ==\nDiese Vorlage ist übernommen aus: http://openwetware.org/wiki/Template:Hide \n\nFür das ZUM-Wiki bitte die angepasste '''[[Vorlage:versteckt]]''' nutzen!\n</noinclude>"
+    }
+  ],
+  "categories": []
+}

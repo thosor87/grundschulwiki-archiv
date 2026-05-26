@@ -1,0 +1,32 @@
+{
+  "pageid": 1548,
+  "ns": 10,
+  "title": "Vorlage:Kasten gelb",
+  "revisions": [
+    {
+      "revid": 2949,
+      "parentid": 2948,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-13T09:16:50Z",
+      "comment": "",
+      "wikitext": "<!--- Hinweis: Vorlage so nutzen: {{Kasten gelb|<Text>}} --->\n<div style=\"border: 2px solid #dfdfdf; background-color:#fafe78;padding:7px;\">\n{{{1}}}\n</div>"
+    },
+    {
+      "revid": 2948,
+      "parentid": 2941,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-13T09:16:42Z",
+      "comment": "",
+      "wikitext": "<!--- Hinweis: Vorlage so nutzen: {{Kasten gelb|<Text>}} --->\n<div style=\"border: 2px solid #dfdfdf; background-color:#fafe78;;padding:7px;\">\n{{{1}}}\n</div>"
+    },
+    {
+      "revid": 2941,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-13T08:55:08Z",
+      "comment": "",
+      "wikitext": "<!--- Hinweis: Vorlage so nutzen: {{Kasten gelb|<Text>}} --->\n<div style=\"border: 2px solid #dfdfdf; background-color:#FCFFC9;;padding:7px;\">\n{{{1}}}\n</div>"
+    }
+  ],
+  "categories": []
+}

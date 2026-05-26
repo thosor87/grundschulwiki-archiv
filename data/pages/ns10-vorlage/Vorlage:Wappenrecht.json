@@ -1,0 +1,26 @@
+{
+  "pageid": 4312,
+  "ns": 10,
+  "title": "Vorlage:Wappenrecht",
+  "revisions": [
+    {
+      "revid": 17659,
+      "parentid": 17658,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:43Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Wappenrecht\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen eine {{wpde|Flagge}}, ein {{wpde|Wappen}}, ein {{wpde|Siegel}} oder ein anderes {{wpde|Hoheitszeichen}} dar. \n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:Hoheitszeichen|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]{{Commons|Template:Coat of Arms}}{{Commons|Template:Insignia}}\n</noinclude>"
+    },
+    {
+      "revid": 17658,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-08T17:51:58Z",
+      "comment": "wpde-Links",
+      "wikitext": "<div id=\"Vorlage_Wappenrecht\">\n{| {{Lizenzdesign4}}\n| Diese Datei oder Bestandteile davon stellen eine {{wpde|Flagge}}, ein {{wpde|Wappen}}, ein {{wpde|Siegel}} oder ein anderes {{wpde|Hoheitszeichen}} dar. \n\nAuch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.\n|}\n</div><includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:Hoheitszeichen|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]{{Commons|Template:Coat of Arms}}{{Commons|Template:Insignia}}\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Hinweis für Bilder"
+  ]
+}

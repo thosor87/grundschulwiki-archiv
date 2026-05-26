@@ -1,0 +1,24 @@
+{
+  "pageid": 4374,
+  "ns": 10,
+  "title": "Vorlage:Tl",
+  "revisions": [
+    {
+      "revid": 17783,
+      "parentid": 17782,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:11:25Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{{#switch:{{{incl}}}|1=&#123;|2=|&#123;&#123;}}[[:{{#if:{{{3|{{{lang|}}}}}}|{{{3|{{{lang}}}}}}:}}{{ns:10}}:{{#if:{{{1|}}}|{{{1}}}|Tl}}|{{#switch:{{{incl}}}|1=&#123;|2=&#123;&#123;}}{{#if:{{{code|}}}|<code>}}{{#if:{{{2|}}}|{{{2}}}|{{#if:{{{1|}}}|{{{1}}}|Tl}}}}{{{parm|}}}{{#if:{{{code|}}}|</code>}}{{#switch:{{{incl}}}|1=&#125;|2=&#125;&#125;}}]]{{#switch:{{{incl}}}|1=&#125;|2=|&#125;&#125;}}<noinclude>\n{{documentation}}\n</noinclude>"
+    },
+    {
+      "revid": 17782,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T20:58:48Z",
+      "comment": "1 Version: UploadWizardp",
+      "wikitext": "{{#switch:{{{incl}}}|1=&#123;|2=|&#123;&#123;}}[[:{{#if:{{{3|{{{lang|}}}}}}|{{{3|{{{lang}}}}}}:}}{{ns:10}}:{{#if:{{{1|}}}|{{{1}}}|Tl}}|{{#switch:{{{incl}}}|1=&#123;|2=&#123;&#123;}}{{#if:{{{code|}}}|<code>}}{{#if:{{{2|}}}|{{{2}}}|{{#if:{{{1|}}}|{{{1}}}|Tl}}}}{{{parm|}}}{{#if:{{{code|}}}|</code>}}{{#switch:{{{incl}}}|1=&#125;|2=&#125;&#125;}}]]{{#switch:{{{incl}}}|1=&#125;|2=|&#125;&#125;}}<noinclude>\n{{documentation}}\n</noinclude>"
+    }
+  ],
+  "categories": []
+}

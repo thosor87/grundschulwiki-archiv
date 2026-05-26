@@ -1,0 +1,16 @@
+{
+  "pageid": 2926,
+  "ns": 10,
+  "title": "Vorlage:Hinweis",
+  "revisions": [
+    {
+      "revid": 9688,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2008-11-14T16:38:40Z",
+      "comment": "vorlage angepasst",
+      "wikitext": "{{Kastendesign|\n   BORDER = #97BF87|\n   BACKGROUND = #AADDAA|\n   BREITE =100%|\n   INHALT={{{1}}}|\n   BILD=Xmag.png|\n   ÜBERSCHRIFT=Schon gewusst?|\n }}"
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,136 @@
+{
+  "pageid": 1534,
+  "ns": 0,
+  "title": "Mathematik",
+  "revisions": [
+    {
+      "revid": 14085,
+      "parentid": 5742,
+      "user": "MALukas",
+      "timestamp": "2010-11-13T14:42:29Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3 + 5 = 8</math>\n\n<math>3 - 15 = -12</math>\n\n<math>3 \\cdot y+2^x</math>\n\n<math>\\sqrt{2}\\cdot \\int_{-2}^{3} e^x \\, dx\n\\left ( \\frac{a}{b} \\right )</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula\n\n----\n\nIn der Grundschule muss man z.B. 3 + 6 = 9 schreiben. Das geht auch ohne die '''Formeldarstellung'''. Wenn du aber auch 3 * 9 = 27 schreiben willst, dann stört das Sternchen als Malpunkt. Hier müsste dann die Formeldarstellung ein bisschen komplizierter aussehen: <math>3 \\cdot 9 = 27 </math>\n\nEine spezielle Erläuterung wird hier erstellt.\n\n{{Rücksprung|M}}"
+    },
+    {
+      "revid": 5742,
+      "parentid": 5741,
+      "user": "Leupold",
+      "timestamp": "2007-03-22T14:19:56Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3 + 5 = 8</math>\n\n<math>3 - 15 = -12</math>\n\n<math>3 \\cdot y+2^x</math>\n\n<math>\\sqrt{2}\\cdot \\int_{-2}^{3} e^x \\, dx\n\\left ( \\frac{a}{b} \\right )</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula\n\n----\n\nIn der Grundschule muss man z.B. 3 + 6 = 9 schreiben. Das geht auch ohne die '''Formeldarstellung'''. Wenn du aber auch 3 * 9 = 27 schreiben willst, dann stört das Sternchen als Malpunkt. Hier müsste dann die Formeldarstellung ein bisschen komplizierter aussehen: <math>3 \\cdot 9 = 27 </math>\n\nEine spezielle Erläuterung wird hier erstellt.\n\nHier geht es zurück zur [[M|Lexikonseite M]]!"
+    },
+    {
+      "revid": 5741,
+      "parentid": 4926,
+      "user": "Leupold",
+      "timestamp": "2007-03-22T14:19:38Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3 + 5 = 8</math>\n\n<math>3 - 15 = -12</math>\n\n<math>3 \\cdot y+2^x</math>\n\n<math>\\sqrt{2}\\cdot \\int_{-2}^{3} e^x \\, dx\n\\left ( \\frac{a}{f} \\right )</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula\n\n----\n\nIn der Grundschule muss man z.B. 3 + 6 = 9 schreiben. Das geht auch ohne die '''Formeldarstellung'''. Wenn du aber auch 3 * 9 = 27 schreiben willst, dann stört das Sternchen als Malpunkt. Hier müsste dann die Formeldarstellung ein bisschen komplizierter aussehen: <math>3 \\cdot 9 = 27 </math>\n\nEine spezielle Erläuterung wird hier erstellt.\n\nHier geht es zurück zur [[M|Lexikonseite M]]!"
+    },
+    {
+      "revid": 4926,
+      "parentid": 4925,
+      "user": "A.Burgermeister",
+      "timestamp": "2007-01-19T16:35:20Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3 + 5 = 8</math>\n\n<math>3 - 15 = -12</math>\n\n<math>3 \\cdot y+2^x</math>\n\n<math>\\sqrt{2}\\cdot \\int_{-2}^{3} e^x \\, dx\n\\left ( \\frac{a}{b} \\right )</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula\n\n----\n\nIn der Grundschule muss man z.B. 3 + 6 = 9 schreiben. Das geht auch ohne die '''Formeldarstellung'''. Wenn du aber auch 3 * 9 = 27 schreiben willst, dann stört das Sternchen als Malpunkt. Hier müsste dann die Formeldarstellung ein bisschen komplizierter aussehen: <math>3 \\cdot 9 = 27 </math>\n\nEine spezielle Erläuterung wird hier erstellt.\n\nHier geht es zurück zur [[M|Lexikonseite M]]!"
+    },
+    {
+      "revid": 4925,
+      "parentid": 4907,
+      "user": "A.Burgermeister",
+      "timestamp": "2007-01-19T16:16:10Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3-15=-12</math>\n\n<math>3 \\cdot y+2^x</math>\n\n<math>\\sqrt{2}\\cdot \\int_{-2}^{3} e^x \\, dx\n\\left ( \\frac{a}{b} \\right )</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula\n\n----\n\nIn der Grundschule muss man z.B. 3 + 6 = 9 schreiben. Das geht auch ohne die '''Formeldarstellung'''. Wenn du aber auch 3 * 9 = 27 schreiben willst, dann stört das Sternchen als Malpunkt. Hier müsste dann die Formeldarstellung ein bisschen komplizierter aussehen: <math>3 \\cdot 9 = 27 </math>\n\nEine spezielle Erläuterung wird hier erstellt.\n\nHier geht es zurück zur [[M|Lexikonseite M]]!"
+    },
+    {
+      "revid": 4907,
+      "parentid": 3640,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-12-27T13:12:54Z",
+      "comment": "Formeldarstellung testen. Geht nicht!",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3-15=-12</math>\n\n<math>3*y+2^x</math>\n\n<math>\\sqrt{2}\\cdot \\int_{-2}^{3} e^x \\, dx\n\\left ( \\frac{a}{b} \\right )</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula\n\n----\n\nIn der Grundschule muss man z.B. 3 + 6 = 9 schreiben. Das geht auch ohne die '''Formeldarstellung'''. Wenn du aber auch 3 * 9 = 27 schreiben willst, dann stört das Sternchen als Malpunkt. Hier müsste dann die Formeldarstellung ein bisschen komplizierter aussehen.\n\nHier geht es zurück zur [[M|Lexikonseite M]]!"
+    },
+    {
+      "revid": 3640,
+      "parentid": 3078,
+      "user": "Leupold",
+      "timestamp": "2006-03-21T18:32:46Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Lehrer_Verfasser}}\nHier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3-15=-12</math>\n\n<math>3*y+2^x</math>\n\n<math>\\sqrt{2}\\cdot \\int_{-2}^{3} e^x \\, dx\n\\left ( \\frac{a}{b} \\right )</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula\n\n\nHier geht es zurück zur [[M|Lexikonseite M]]!"
+    },
+    {
+      "revid": 3078,
+      "parentid": 2881,
+      "user": "Leupold",
+      "timestamp": "2006-03-01T11:49:44Z",
+      "comment": "",
+      "wikitext": "Hier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3-15=-12</math>\n\n<math>3*y+2^x</math>\n\n<math>\\sqrt{2}\\cdot \\int_{-2}^{3} e^x \\, dx\n\\left ( \\frac{a}{b} \\right )</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula\n\n\nHier geht es zurück zur [[M|Lexikonseite M]]!"
+    },
+    {
+      "revid": 2881,
+      "parentid": 2853,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-03T17:59:01Z",
+      "comment": "",
+      "wikitext": "Hier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3-15=-12</math>\n\n<math>3*y+2^x</math>\n\n<math>\\sqrt{2}\\cdot \\int_{-2}^{3} e^x \\, dx\n\\left ( \\frac{a}{b} \\right )</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula"
+    },
+    {
+      "revid": 2853,
+      "parentid": 2852,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-03T11:54:40Z",
+      "comment": "",
+      "wikitext": "Hier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3-15=-12</math>\n\n<math>3*y+2^x</math>\n\nHilfe dazu (nicht für Grundschüler): http://meta.wikimedia.org/wiki/Help:Formula"
+    },
+    {
+      "revid": 2852,
+      "parentid": 2851,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-03T11:51:15Z",
+      "comment": "Versuch mit Tex",
+      "wikitext": "Hier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3-15=-12</math>\n\n<math>3*y+2^x</math>"
+    },
+    {
+      "revid": 2851,
+      "parentid": 2850,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-03T10:44:58Z",
+      "comment": "",
+      "wikitext": "Hier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3-15=-12</math>"
+    },
+    {
+      "revid": 2850,
+      "parentid": 2849,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-03T10:44:12Z",
+      "comment": "",
+      "wikitext": "Hier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3*15=45</math>"
+    },
+    {
+      "revid": 2849,
+      "parentid": 2841,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-03T10:19:04Z",
+      "comment": "",
+      "wikitext": "Hier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>\n\n<math>3*5=15</math>"
+    },
+    {
+      "revid": 2841,
+      "parentid": 2840,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-01T13:16:49Z",
+      "comment": "",
+      "wikitext": "Hier werde ich dir etwas zu Mathematik erklären.\n\nDerzeit läuft hier nur der Test, ob man die Darstellung von solchen \"Formeln\" in dem Grundschulwiki machen kann.\n\n<math>3+5=8</math>"
+    },
+    {
+      "revid": 2840,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-01T12:47:05Z",
+      "comment": "",
+      "wikitext": "<math>3+x</math>"
+    }
+  ],
+  "categories": []
+}

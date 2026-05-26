@@ -1,0 +1,26 @@
+{
+  "pageid": 4314,
+  "ns": 10,
+  "title": "Vorlage:Wpde",
+  "revisions": [
+    {
+      "revid": 17663,
+      "parentid": 17662,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:44Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "[[wikipedia:de:{{{1}}}|{{#if: {{{2|}}} | {{{2}}} | {{{1}}} }}]]<sup>[[Bild:W-Logo.gif|12px]]</sup><noinclude>\n\n;Das schreibt man: <pre>{{wpde|<Artikelname in der Wikipedia#ggf. mit Sprungziel>|<ggf. Linktext>}}</pre>\n\n[[Kategorie:Vorlage:Linkbausteine|Wpde]]</noinclude>"
+    },
+    {
+      "revid": 17662,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-14T16:17:43Z",
+      "comment": "typo",
+      "wikitext": "[[wikipedia:de:{{{1}}}|{{#if: {{{2|}}} | {{{2}}} | {{{1}}} }}]]<sup>[[Bild:W-Logo.gif|12px]]</sup><noinclude>\n\n;Das schreibt man: <pre>{{wpde|<Artikelname in der Wikipedia#ggf. mit Sprungziel>|<ggf. Linktext>}}</pre>\n\n[[Kategorie:Vorlage:Linkbausteine|Wpde]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Linkbausteine"
+  ]
+}

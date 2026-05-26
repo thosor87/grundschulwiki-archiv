@@ -1,0 +1,1464 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Vorlage:Lernpfad Ethik</title>
+    <ns>10</ns>
+    <id>4337</id>
+    <revision>
+      <id>17709</id>
+      <parentid>17708</parentid>
+      <timestamp>2014-02-08T21:09:53Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="526">{{Kasten mit kleinem Bild links farbig| 
+BORDER = #808000|
+BACKGROUND = #808000|
+BREITE =100%|
+INHALT = 
+{{{1}}}|
+HINTERGRUND = #F5F5DC|
+BILD = Crystal 128 forward.png|
+ÜBERSCHRIFT = Lernpfad Ethik|
+}}
+
+&lt;includeonly&gt;[[Kategorie:Lernpfad für Ethik]]&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Quellcode}}
+&lt;pre&gt;{{Lernpfad-Ethik|&lt;text&gt;}}&lt;/pre&gt;
+
+;Hinweise:
+* Mit dem Einfügen dieser Vorlage in einen Artikel wird dieser auch der [[:Kategorie:Lernpfad für Ethik]] zugeordnet.
+[[Kategorie:Vorlage:Aufgabenbausteine|Lernpfad-Ethik]]
+&lt;/noinclude&gt;</text>
+      <sha1>ba9kdm25xs37xjr1cbztajpxkxh1csy</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lernpfadlink</title>
+    <ns>10</ns>
+    <id>4338</id>
+    <revision>
+      <id>17711</id>
+      <parentid>17710</parentid>
+      <timestamp>2014-02-08T21:09:54Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="202">[[Bild:Crystal 128 forward.png|16px]] [[{{{1}}}|{{{2}}}]]&lt;noinclude&gt;
+
+{{Quellcode}}
+&lt;pre&gt;{{Lernpfad-Link|&lt;interner Link&gt;|&lt;Linkname&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Linkbausteine|Lernpfad-Link]]&lt;/noinclude&gt;</text>
+      <sha1>mc5zdo3e85jv3qxix4b5u6bokrq065y</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lernpfadlink-Ethik</title>
+    <ns>10</ns>
+    <id>4339</id>
+    <revision>
+      <id>17713</id>
+      <parentid>17712</parentid>
+      <timestamp>2014-02-08T21:09:54Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="246">[[Bild:Crystal 128 forward.png|16px]] &amp;nbsp;[[Lernpfade Ethik/{{{1}}}|{{{1}}}]]&lt;noinclude&gt;
+
+{{Quellcode}} 
+&lt;pre&gt;{{Lernpfadlink-Ethik|&lt;Lernpfadname (ohne &quot;Lernpfade Ethik/&quot;&gt;}}&lt;/pre&gt;[[Kategorie:Vorlage:Linkbausteine|Lernpfadlink-Ethik]]&lt;/noinclude&gt;</text>
+      <sha1>lu47gqt0u5rbb0xgzcm4g2ugf211o8r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lernpfadlink-M</title>
+    <ns>10</ns>
+    <id>4340</id>
+    <redirect title="Vorlage:Lernpfadlink-M-digital" />
+    <revision>
+      <id>17715</id>
+      <parentid>17714</parentid>
+      <timestamp>2014-02-08T21:09:55Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="49">#WEITERLEITUNG [[Vorlage:Lernpfadlink-M-digital]]</text>
+      <sha1>ldc2w7uh3owbj9g8i1dvho49o5uz61h</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lernpfadlink-M-digital</title>
+    <ns>10</ns>
+    <id>4341</id>
+    <revision>
+      <id>17717</id>
+      <parentid>17716</parentid>
+      <timestamp>2014-02-08T21:09:55Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="266">[[Datei:Mathematik-digital Pfeil-3d.png|14px]] &amp;nbsp;[[Mathematik-digital/{{{1}}}|{{{1}}}]]&lt;noinclude&gt;
+
+;Das schreibt man
+&lt;pre&gt;{{Lernpfadlink-M|&lt;Lernpfadname (ohne &quot;Mathematik-digital/&quot;&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Linkbausteine|Lernpfadlink-M-digital]]&lt;/noinclude&gt;</text>
+      <sha1>7wymg64kixr8fuo0crnh09ib4lsmq9p</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lexikonaufruf</title>
+    <ns>10</ns>
+    <id>1605</id>
+    <revision>
+      <id>18635</id>
+      <parentid>18634</parentid>
+      <timestamp>2014-11-23T19:09:43Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>Änderung 18634 von [[Special:Contributions/Leupold|Leupold]] ([[User talk:Leupold|Diskussion]]) rückgängig gemacht.</comment>
+      <text xml:space="preserve" bytes="376">{{Kastendesign|
+BORDER = #97BF87|
+BACKGROUND = #AADDAA|
+BREITE =100%|
+BILD = Exquisite-khelpcenter.png|
+ÜBERSCHRIFT =Lexikonseiten|
+INHALT=&lt;div style=&quot;font-size:18px;font-family:Verdana&quot;&gt;
+&lt;center&gt;[[A]] [[B]] [[C]] [[D]] [[E]] [[F]] [[G]] [[H]] [[I]] [[J]] [[K]] [[L]] [[M]] [[N]] [[O]] [[P]] [[Q]] [[R]] [[S]] [[T]] [[U]] [[V]] [[W]] [[X]] [[Y]] [[Z]]&lt;/center&gt;
+&lt;/div&gt;
+&lt;br&gt;
+}}</text>
+      <sha1>ovfh569xyftq6yn5pvwju8c7twc71lq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lizenzdesign1</title>
+    <ns>10</ns>
+    <id>4297</id>
+    <revision>
+      <id>17629</id>
+      <parentid>17628</parentid>
+      <timestamp>2014-02-08T21:09:39Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="272">cellspacing=&quot;8&quot; cellpadding=&quot;0&quot;  class=&quot;hintergrundfarbe1 rahmenfarbe2&quot; style=&quot;clear:both; margin:0.5em auto; background-color:#F0FFF0; border:3px solid #E0EEE0; position:relative;&quot; width=&quot;80%&quot;&lt;noinclude&gt;
+
+[[Kategorie:Vorlage:Formatierungshilfe|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>euv23t5rwidrbgkfm623ui7ypd5432c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lizenzdesign2</title>
+    <ns>10</ns>
+    <id>4298</id>
+    <revision>
+      <id>17631</id>
+      <parentid>17630</parentid>
+      <timestamp>2014-02-08T21:09:39Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="232">cellspacing=&quot;8&quot; cellpadding=&quot;0&quot; style=&quot;clear:both; margin:0.5em auto; background-color:#B4EEB4; border:3px solid #9BCD9B; position:relative;&quot; width=&quot;80%&quot;&lt;noinclude&gt;
+
+[[Kategorie:Vorlage:Formatierungshilfe|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>25ox80s5i5zsey0zzmcon08gm7god9e</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lizenzdesign3</title>
+    <ns>10</ns>
+    <id>4299</id>
+    <revision>
+      <id>17633</id>
+      <parentid>17632</parentid>
+      <timestamp>2014-02-08T21:09:40Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="272">cellspacing=&quot;8&quot; cellpadding=&quot;0&quot; class=&quot;hintergrundfarbe1 rahmenfarbe2&quot; style=&quot;clear:both; margin:0.5em auto; background-color:#FFDDDD; border:3px solid #DD0000; position:relative;&quot; width=&quot;100%&quot;&lt;noinclude&gt;
+
+[[Kategorie:Vorlage:Formatierungshilfe|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>tgzjy28d2ip0ihgb1z55cmal7dera1j</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lizenzdesign4</title>
+    <ns>10</ns>
+    <id>4300</id>
+    <revision>
+      <id>17635</id>
+      <parentid>17634</parentid>
+      <timestamp>2014-02-08T21:09:40Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="271">cellspacing=&quot;8&quot; cellpadding=&quot;0&quot; class=&quot;hintergrundfarbe1 rahmenfarbe2&quot; style=&quot;clear:both; margin:0.5em auto; background-color:#f9f9f9; border:3px solid #e9e9e9; position:relative;&quot; width=&quot;80%&quot;&lt;noinclude&gt;
+
+[[Kategorie:Vorlage:Formatierungshilfe|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>obv55tf2s4u4wka3gvjskoi6e6y687b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lizenzdesign5</title>
+    <ns>10</ns>
+    <id>4301</id>
+    <revision>
+      <id>17637</id>
+      <parentid>17636</parentid>
+      <timestamp>2014-02-08T21:09:40Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="232">cellspacing=&quot;8&quot; cellpadding=&quot;0&quot; style=&quot;clear:both; margin:0.5em auto; background-color:#FFD5AA; border:3px solid #ff7f00; position:relative;&quot; width=&quot;80%&quot;&lt;noinclude&gt;
+
+[[Kategorie:Vorlage:Formatierungshilfe|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>79xntc89o4p6f5d8rjzlot3fo2t5meo</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Logo</title>
+    <ns>10</ns>
+    <id>4302</id>
+    <revision>
+      <id>17639</id>
+      <parentid>17638</parentid>
+      <timestamp>2014-02-08T21:09:40Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="678">&lt;div id=&quot;Vorlage_Logo&quot;&gt;
+{| {{Lizenzdesign4}}
+| Diese Datei oder Bestandteile davon stellen ein {{wpde|Logografie|Logo}} (z.&amp;nbsp;B. ein {{wpde|Unternehmenslogo|Firmenlogo}}) oder ein ähnliches Objekt dar.
+
+Auch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.
+|}&lt;/div&gt;
+{{#ifeq:{{lc:{{{Commons|}}}}}|ja||{{NoCommons}}}} 
+&lt;noinclude&gt;[[Kategorie:Vorlage:Hinweis für Bilder|{{SEITENNAME}}]]{{Commons|Template:Trademarked}}
+{{Logo/Meta}}
+&lt;/noinclude&gt;</text>
+      <sha1>kusgmjxl1le8w8winoi8lnd869g9ugr</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Löschen</title>
+    <ns>10</ns>
+    <id>4619</id>
+    <revision>
+      <id>19030</id>
+      <parentid>19029</parentid>
+      <timestamp>2015-05-08T22:54:28Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <text xml:space="preserve" bytes="830">&lt;div id=&quot;Vorlage_Löschen&quot;&gt;
+{| {{Bausteindesign4}}
+|- 
+| style=&quot;font-size: 95%;&quot; | Diese Seite sollten wir '''[[Hilfe:Seiten löschen|löschen]]'''. Eine kurze Begründung folgt unter diesem Hinweis. 
+
+Einen begründeten Widerspruch kannst du auf diese Seite unterhalb der Begründung schreiben.
+
+Erfolgt kein Einspruch, dann kann diese Seite in wenigen Tagen, spätestens nach einer Woche, gelöscht werden.
+|}'''Begründung:''' {{{1}}}
+----
+&lt;/div&gt;&lt;noinclude&gt;
+;Syntax: &lt;nowiki&gt;{{löschen|&lt;Begründung&gt;}} ~~~~&lt;/nowiki&gt;
+;Hinweis: Seiten, die zur Schnelllöschung vorgeschlagen wurden, erscheinen in der [[:Kategorie:Löschen]].
+
+&lt;!-- [[Kategorie:Vorlage:Wartungsbaustein|Löschen]] --&gt;
+
+&lt;/noinclude&gt;&lt;includeonly&gt;[[Kategorie:Löschen|{{PAGENAME}}]]&lt;/includeonly&gt;
+
+&lt;noinclude&gt;[[Kategorie:Vorlage:Bearbeitungsbausteine|.]]&lt;/noinclude&gt;</text>
+      <sha1>tfuitlahn53oxnmuh3mp261avuvzupp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lösung</title>
+    <ns>10</ns>
+    <id>4342</id>
+    <revision>
+      <id>17719</id>
+      <parentid>17718</parentid>
+      <timestamp>2014-02-08T21:09:56Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="627">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#8E8CF2}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Information icon.svg|20px]] '''{{#switch: {{{lang|{{SUBPAGENAME}}}}}
+ | de = Lösung
+ | en = Solution
+ | Lösung
+}}'''
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+
+{{Quellcode}}
+&lt;pre&gt;{{Lösung|&lt;Lösungstext&gt;}}&lt;/pre&gt;
+&lt;/noinclude&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Lösung]]&lt;/noinclude&gt;</text>
+      <sha1>ejfr2vr75w8dg3qq0ofap6alunoxd1t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Lösungen</title>
+    <ns>10</ns>
+    <id>4343</id>
+    <revision>
+      <id>17721</id>
+      <parentid>17720</parentid>
+      <timestamp>2014-02-08T21:09:56Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="583">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#8E8CF2}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Information icon.svg|20px]] '''Lösung''' {{{1}}}
+&lt;/div&gt;
+{{{2}}}
+|}&lt;noinclude&gt;
+
+{{Quellcode}}
+&lt;pre&gt;{{Lösungen|&lt;Nummer der Lösung&gt;|&lt;Lösungstext&gt;}}&lt;/pre&gt;
+&lt;/noinclude&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Lösungen]]&lt;/noinclude&gt;</text>
+      <sha1>44w4s1lf6o4c52ddioaa85ah8ijykxq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Meinung</title>
+    <ns>10</ns>
+    <id>4344</id>
+    <revision>
+      <id>17723</id>
+      <parentid>17722</parentid>
+      <timestamp>2014-02-08T21:09:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="854">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#F9FAD1}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#FCFCE8}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Noia_64_apps_kontour.png|20px]] &amp;nbsp; Meinung 
+&lt;/div&gt;
+{{{1}}}
+----
+&lt;small&gt;''Bitte ändere den Inhalt dieses Beitrags nicht. Denn er gibt eine [[ZUM-Wiki:Vorlagen/Kästen#Meinung|persönliche Meinung]] wieder.''&lt;/small&gt;
+|}&lt;noinclude&gt;
+
+{{Quellcode}}
+
+&lt;pre&gt;{{Meinung|&lt;Text des Beitrags und Unterschrift&gt;}}&lt;/pre&gt;
+
+;Hinweis: Diese Vorlage nimmt immer 100 % der Breite einer Artikelseite ein. 
+:Eine flexible Seitenbreite hat die [[Vorlage:Meinung float]].
+
+[[Kategorie:Vorlage:Artikelbausteine|Meinung]]&lt;/noinclude&gt;</text>
+      <sha1>isvwjs846rdp3r5pza0wz1uvunhp0g3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Meinungsseite</title>
+    <ns>10</ns>
+    <id>4345</id>
+    <revision>
+      <id>17725</id>
+      <parentid>17724</parentid>
+      <timestamp>2014-02-08T21:09:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="612">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#F9FAD1}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#FCFCE8}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Noia_64_apps_kontour.png|20px]] &amp;nbsp; '''Deine Meinung ist gefragt!'''
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+;Syntax: &lt;nowiki&gt;{{Meinungsseite|&lt;Text des Beitrags und Unterschrift&gt;}}&lt;/nowiki&gt;&lt;/noinclude&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Artikelbausteine|Meinungsseite]]&lt;/noinclude&gt;</text>
+      <sha1>macc89z28120ylent8p33n416dgw7zm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Merkbox</title>
+    <ns>10</ns>
+    <id>4346</id>
+    <revision>
+      <id>17727</id>
+      <parentid>17726</parentid>
+      <timestamp>2014-02-08T21:09:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1735">&lt;onlyinclude&gt;
+
+
+&lt;div style=&quot;border:none;margin:0 0 0 20pt;padding:4pt; width:{{{width}}}pt; min-width:120pt; float: right;&quot; id=&quot;{{{titel|Titel}}}&quot;&gt;
+
+&lt;div style=&quot;padding: 6pt; margin: 0 3pt 0 3pt;position:relative;top:18pt;color: #000000;font-size: 10pt;height: 10pt;background: #cccccc;
+background: -webkit-gradient(linear, left top, left bottom, from(#eeeeee), to(#cccccc));
+background: -moz-linear-gradient(top,  #eeeeee,  #cccccc);z-index:2; overflow:hidden;font-variant:small-caps;font-weight:bold;&quot;&gt;{{{titel}}}&lt;/div&gt;
+
+&lt;div style=&quot;height: 2pt;background:#cfcfcf; border-left-width: 3pt; border-left-style: double; border-left-color: #cccccc; border-right-width: 3pt; border-right-style: double; border-right-color: #cccccc; padding: 0pt; margin: 0 3pt 0 3pt;position:relative;top:18pt;z-index:2;&quot;&gt;&lt;/div&gt;
+
+&lt;div style=&quot;position:relative;top:-20pt;color:#000000;background:#ffffff; border: 3pt double #cfcfcf; padding: 15pt; margin: 0pt;z-index:1;border-top-right-radius:10pt;-moz-border-radius-topright:10pt;-webkit-border-top-right-radius:10pt;border-bottom-left-radius:10pt;-moz-border-radius-bottomleft:10pt;-webkit-border-bottom-left-radius:10pt;box-shadow: 3px 3px 4px #c0c0c0;-webkit-box-shadow: 3px 3px 4px #c0c0c0;-moz-box-shadow: 3px 3px 4px #c0c0c0;&quot;&gt;
+&lt;div style=&quot;height:30pt;padding:0pt;margin:0pt;overflow: hidden;&quot;&gt;&lt;/div&gt;
+{{{inhalt}}}
+&lt;/div&gt;&lt;/div&gt;&lt;/onlyinclude&gt;&lt;noinclude&gt;
+
+
+=== Benutzung ===
+
+
+&lt;b&gt;&lt;u&gt;Kopiervorlage&lt;/u&gt;&lt;/b&gt;
+&lt;code&gt;&lt;pre&gt;{{Vorlage:Merkbox
+|titel=Titel
+|width=Breite ohne Einheit
+|inhalt=Inhalt
+}}&lt;/pre&gt;&lt;/code&gt;
+
+
+
+=== Quelle ===
+Diese Vorlage ist von [http://wiki.piratenpartei.de/Vorlage:Textbox wiki.piratenpartei.de] übernommen und angepasst.
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Merkbox]]
+&lt;/noinclude&gt;</text>
+      <sha1>9xv5ezch1bgln31aiezanm051a20dq1</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Merke</title>
+    <ns>10</ns>
+    <id>4347</id>
+    <revision>
+      <id>17729</id>
+      <parentid>17728</parentid>
+      <timestamp>2014-02-08T21:09:59Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="622">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#ffd700}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Nuvola apps kig.png|30px]] &amp;nbsp; Merke
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{Merke|&lt;Merktext&gt;}}&lt;/pre&gt;
+
+;Hinweis:
+Die [[Vorlage:Merke float]] hat keine feste Seitenbreite und erlaubt umfließenden Text.
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Merke]]&lt;/noinclude&gt;</text>
+      <sha1>4nqvomiqp2xeg479cjov4pwxkmt05jf</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Merke-M</title>
+    <ns>10</ns>
+    <id>4348</id>
+    <revision>
+      <id>17731</id>
+      <parentid>17730</parentid>
+      <timestamp>2014-02-08T21:10:00Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="713">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border: 1px solid {{{Rand|#ca1321}}}; background-color: {{{Hintergrund|#ffffff}}}; border-left: 10px solid {{{RandLinks|#ca1321}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}&quot;
+|- 
+| &lt;div style=&quot;float:right; margin:0px; margin-top:5px&quot;&gt;[[Bild:Maehnrot.jpg|100px]]&lt;/div&gt;
+&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Merke:&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{Merke-M|&lt;Merktext&gt;}}&lt;/pre&gt;
+
+;Hinweis: Die [[Vorlage:Merke-M float]] hat keine feste Seitenbreite und erlaubt umfließenden Text.
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Merke-M]]&lt;/noinclude&gt;</text>
+      <sha1>7n2eod856h0tcs108fl1iyi4kw916dt</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Merke-M float</title>
+    <ns>10</ns>
+    <id>4349</id>
+    <revision>
+      <id>17733</id>
+      <parentid>17732</parentid>
+      <timestamp>2014-02-08T21:10:00Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="707">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border: 1px solid {{{Rand|#ca1321}}}; background-color: {{{Hintergrund|#ffffff}}}; border-left: 10px solid {{{RandLinks|#ca1321}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto&quot;
+|- 
+| &lt;div style=&quot;float:right; margin:0px; margin-top:5px&quot;&gt;[[Bild:Maehnrot.jpg|100px]]&lt;/div&gt;
+&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Merke:&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{Merke-M float|&lt;Merktext&gt;}}&lt;/pre&gt;
+
+;Hinweis: Die [[Vorlage:Merke-M]] hat eine feste Seitenbreite (100 %) und erlaubt keinen umfließenden Text.
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Merke-M float]]&lt;/noinclude&gt;</text>
+      <sha1>8lwemmsmevmbkk4rpzc6wxkecm4uibs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Merke-umrandet</title>
+    <ns>10</ns>
+    <id>4350</id>
+    <revision>
+      <id>17735</id>
+      <parentid>17734</parentid>
+      <timestamp>2014-02-08T21:10:01Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="272">&lt;div style=&quot;border: 1px solid #cc0000; background-color:#fffdf5; align:center; padding:4px;&quot;&gt;
+&lt;font&gt;'''Merke'''&lt;/font&gt;
+----
+{{{1}}}
+&lt;/div&gt;&lt;noinclude&gt;
+{{Quellcode}}
+&lt;pre&gt;{{Merke-umrandet|&lt;Merktext&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Merke-umrandet]]&lt;/noinclude&gt;</text>
+      <sha1>4mlxyjn8zl0xns68hnwi7putw1xdw6a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Merke float</title>
+    <ns>10</ns>
+    <id>4351</id>
+    <revision>
+      <id>17737</id>
+      <parentid>17736</parentid>
+      <timestamp>2014-02-08T21:10:01Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="616">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border-left: 10px solid {{{RandLinks|#ffd700}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; background-color: {{{Hintergrund|#ffffff}}}&quot;
+|- 
+|&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;[[Bild:Nuvola apps kig.png|30px]] &amp;nbsp; Merke
+&lt;/div&gt;
+{{{1}}}
+|}&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{Merke float|&lt;Merktext&gt;}}&lt;/pre&gt;
+
+;Hinweis:
+Die [[Vorlage:Merke]] hat eine feste Seitenbreite (100 %) und erlaubt keinen umfließenden Text.
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Merke float]]&lt;/noinclude&gt;</text>
+      <sha1>k5r1j36ceo2jxmcq6ybvc7epen2xxju</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Merksatz</title>
+    <ns>10</ns>
+    <id>4352</id>
+    <revision>
+      <id>17739</id>
+      <parentid>17738</parentid>
+      <timestamp>2014-02-08T21:10:02Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="620">{| border=&quot;0&quot; cellpadding=&quot;5&quot; cellspacing=&quot;2&quot; style=&quot;border: 1px solid {{{Rand|#ca1321}}}; background-color: {{{Hintergrund|#ffffff}}}; border-left: 5px solid {{{RandLinks|#ca1321}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}&quot;
+|- 
+| &lt;div style=&quot;float:right; margin:0px; margin-top:5px&quot;&gt;[[Bild:Maehnrot.jpg|100px]]&lt;/div&gt;
+&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Merke:&lt;/div&gt;
+{{{MERK}}}
+|}&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{Merksatz|MERK=&lt;Merktext&gt;}}&lt;/pre&gt;
+
+[[Kategorie:Vorlage:Aufgabenbausteine|Merksatz]]&lt;/noinclude&gt;</text>
+      <sha1>kn549k25c5th3o7tmepfyvlg7rbp1t9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Methode</title>
+    <ns>10</ns>
+    <id>4353</id>
+    <revision>
+      <id>17741</id>
+      <parentid>17740</parentid>
+      <timestamp>2014-02-08T21:10:02Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="457">&lt;!--- Hinweis: Vorlage so nutzen: {{Methode|interner Link zur Methode}} ---&gt;
+&lt;div style=&quot;border: 1px solid #dfdfdf; background-color:#dfdfdf; font-size:1px; height:8px; border-bottom:1px solid #dfdfdf;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;border:1px solid #dfdfdf; background-color:#FEFEFE; align:center; padding:7px;&quot;&gt;
+[[Bild:Vista-package settings.png|30px]]''' Methodenvorschlag:''''' {{{1}}}
+
+&lt;/div&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Aufgabenbausteine|Methode]]&lt;/noinclude&gt;</text>
+      <sha1>j5bqcg0rtjlwjdovv9jfhr9fm3868nj</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:NeueArtikel</title>
+    <ns>10</ns>
+    <id>2556</id>
+    <revision>
+      <id>24500</id>
+      <parentid>19606</parentid>
+      <timestamp>2020-06-07T09:49:08Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>NA</comment>
+      <text xml:space="preserve" bytes="508">{{Kastendesign3|
+BORDER = #8898BF|
+BACKGROUND = #A8D3FF|
+BREITE =100%|
+BILD = Xmag.png|48px|
+ÜBERSCHRIFT = Neue/Aktualisierte Artikel| 
+INHALT1=* [[Freiwillige Feuerwehr Unterschöneberg]], die
+* [[Freiwillige Feuerwehr Neumünster]], die
+* [[Freiwillige Feuerwehr Eppishofen]], die
+* [[Frau Holle (Märchen)]]|
+INHALT2=* [[Flusskrebs]], der
+* [[Fliege]], die
+* [[Flamingo]], der
+* [[Leichtathletik]]|
+INHALT3=* [[Elefant]], der
+* [[Eisvogel]], der
+* [[Einhorn]], das
+* [[Die weiße Schlange (Märchen)]]
+}}</text>
+      <sha1>f26h0fqfq6kpn7834an4swvxxqkk5rs</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:NeueProjekte</title>
+    <ns>10</ns>
+    <id>4540</id>
+    <revision>
+      <id>18486</id>
+      <parentid>18485</parentid>
+      <timestamp>2014-06-11T17:45:00Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>erstes projekt verlinkt</comment>
+      <text xml:space="preserve" bytes="195">{{Kastendesign3|
+BORDER = #8898BF|
+BACKGROUND = #A8D3FF|
+BREITE =100%|
+BILD = Krita.png |48px|
+ÜBERSCHRIFT = Neue/Aktualisierte Projekte| 
+INHALT1=* [[FIFA-WorldCup 2014]]|
+INHALT2=|
+INHALT3=
+}}</text>
+      <sha1>bjioxraq3zjw0w6vukut3yf0zppf49a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:NoCommons</title>
+    <ns>10</ns>
+    <id>4303</id>
+    <revision>
+      <id>17641</id>
+      <parentid>17640</parentid>
+      <timestamp>2014-02-08T21:09:41Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="622">&lt;div id=&quot;Vorlage_NoCommons&quot;&gt;
+{| {{Lizenzdesign4}}
+| [[Bild:NoCommons.svg|55px|alt=|link=|Do not move this file to Wikimedia Commons without an individual review]]
+| Diese Datei ist möglicherweise [[Wikipedia:Nicht commonsfähig|nicht mit den Richtlinien von Wikimedia Commons]] kompatibel.
+
+Es sollte individuell geprüft werden, ob sie nach Wikimedia Commons verschoben werden darf.
+-----
+&lt;big&gt;'''Do not transfer this file to Wikimedia Commons without an individual review!'''&lt;/big&gt;
+|}
+&lt;/div&gt;&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|Datei|[[Kategorie:Datei:NoCommons]]}}&lt;/includeonly&gt;&lt;noinclude&gt;
+{{Dokumentation}}
+&lt;/noinclude&gt;</text>
+      <sha1>ezkqaog6vjc4ukva4pe452c6xrvb6po</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:NoCommons (Benutzerbild)</title>
+    <ns>10</ns>
+    <id>4304</id>
+    <revision>
+      <id>17643</id>
+      <parentid>17642</parentid>
+      <timestamp>2014-02-08T21:09:42Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="872">&lt;div id=&quot;Vorlage_Benutzerbild&quot;&gt;
+{| {{Lizenzdesign4}}
+| [[Datei:NoCommons.svg|55px|This personal user image is requested not to be transferred to Wikimedia Commons.]]
+| Dieses Bild zeigt einen oder mehrere Benutzer dieses oder eines anderen Wikis. Der Hochlader der Datei bittet (nicht als lizenzrechtliche Bedingung, sondern als unverbindliche Bitte zu verstehen) darum, dass sie nicht auf Wikimedia Commons hochgeladen wird.
+-----
+This image depicts one or more users of this or another wiki. '''The file’s uploader is requesting that it doesn’t get transferred to Wikimedia Commons.''' This is not a required part of the licence but a non-binding personal request.
+|}
+&lt;/div&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Benutzerbild|{{PAGENAME}}]]}}&lt;noinclude&gt;
+[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]
+[[Kategorie:Benutzer:Benutzerbild]]&lt;/noinclude&gt;</text>
+      <sha1>16mgcqt7drl0c6or4e7aie3e5s1b98c</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Olympische Ringe</title>
+    <ns>10</ns>
+    <id>4305</id>
+    <revision>
+      <id>17645</id>
+      <parentid>17644</parentid>
+      <timestamp>2014-02-08T21:09:42Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="593">&lt;div id=&quot;Vorlage_Olympische_Ringe&quot;&gt;
+{| {{Lizenzdesign4}}
+| Diese Datei oder Bestandteile davon stellen das [http://bundesrecht.juris.de/olympschg/anlage_1_11.html olympische Emblem] (sog. {{wpde|Olympische Ringe}}) dar.
+
+Auch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.
+|}
+&lt;/div&gt;&lt;noinclude&gt;[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>7gwid3a7bd1dc18233w0eo5icvn7isq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Own</title>
+    <ns>10</ns>
+    <id>4219</id>
+    <revision>
+      <id>17447</id>
+      <parentid>17446</parentid>
+      <timestamp>2014-01-08T18:33:18Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="13">Eigene Arbeit</text>
+      <sha1>k95ddr1pm6t6wgmv8f82elhmm3ec5lu</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Panoramafreiheit</title>
+    <ns>10</ns>
+    <id>4306</id>
+    <revision>
+      <id>17647</id>
+      <parentid>17646</parentid>
+      <timestamp>2014-02-08T21:09:42Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="872">&lt;div id=&quot;Vorlage_Panoramafreiheit&quot;&gt;
+{| {{Lizenzdesign4}}
+| Diese Datei oder Bestandteile davon stellen wahrscheinlich ein urheberrechtlich geschütztes Werk dar, welches sich bleibend an öffentlichen Wegen, Straßen oder Plätzen befindet (vgl. {{wpde|Panoramafreiheit}}).
+
+Auch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.
+|}
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Panoramafreiheit|{{PAGENAME}}]] }}&lt;/includeonly&gt;
+&lt;noinclude&gt;Diese Vorlage sortiert Dateien automatisch in [[:Kategorie:Datei:Panoramafreiheit]] ein.[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]
+{{Commons|Template:FOP}}
+&lt;/noinclude&gt;</text>
+      <sha1>jg01iubwkm19ujdu0seiyw5sazzbdge</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:ParmPart</title>
+    <ns>10</ns>
+    <id>4233</id>
+    <revision>
+      <id>17477</id>
+      <parentid>17476</parentid>
+      <timestamp>2014-01-08T18:33:59Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="169">&lt;onlyinclude&gt;{{#ifeq:/{{{2|}}}
+|{{#titleparts:/{{{2|}}}|1|{{#expr:1+{{{1|1}}}}}}}
+|
+|{{#titleparts:/{{{2|}}}|1|{{#expr:1+{{{1|1}}}}}}}
+}}&lt;/onlyinclude&gt;
+{{Dokumentation}}</text>
+      <sha1>5cr9jfz1deneq6c8fkp244l6w6uh2gm</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Partner</title>
+    <ns>10</ns>
+    <id>2536</id>
+    <revision>
+      <id>20936</id>
+      <parentid>20935</parentid>
+      <timestamp>2016-11-26T11:54:17Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1226">{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;10&quot;
+| style=&quot;width: 50%; vertical-align: top; border:1px solid green; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;float:right; margin:8px; margin-top:5px&quot;&gt;[[Bild:Bug.png|48px]]&lt;/div&gt;
+&lt;div style=&quot;background-color:lightgreen; height:22px; border-bottom:1px solid green;font-family:Verdana; color:darkblue; padding-left:10px&quot;&gt;Partner des ZUM-Grundschulwiki - ACHTUNG: Durch Klick auf einen der Links verlässt Du das ZUM-Grundschulwiki!&lt;/div&gt;
+
+
+{| width=100% 
+|- 
+| width=33% align=&quot;center&quot; | [[Bild:FragFinn_mit_schrift.png|80px]]&lt;br&gt;[http://www.fragFINN.de fragFINN.de] 
+| width=33% align=&quot;center&quot; | [[Bild:Blindekuh.gif]]&lt;br&gt;[http://www.blinde-kuh.de Blinde-Kuh.de]
+| width=33% align=&quot;center&quot; | [[Bild:Wikikoepfchen.jpg]]&lt;br&gt;[http://www.helles-koepfchen.de Helles-Köpfchen.de] 
+|- 
+| width=33% align=&quot;center&quot; | [[Bild:IABCLOGO.gif|110px]]&lt;br&gt; [http://www.internet-abc.de Internet-ABC] 
+| width=33% align=&quot;center&quot; | [[Bild:Seitenstark.jpg|80px]]&lt;br&gt; [http://www.seitenstark.de Arbeitsgemeinschaft vernetzter Kinderseiten&lt;br&gt;Seitenstark.de] 
+| width=33% align=&quot;center&quot; | [http://www.medienwerkstatt-online.de Medienwerkstatt Mühlacker]
+|}
+|}</text>
+      <sha1>2thxprn2r25puloec4tzsdcecqxj9cc</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Portal-head2</title>
+    <ns>10</ns>
+    <id>4307</id>
+    <revision>
+      <id>17649</id>
+      <parentid>17648</parentid>
+      <timestamp>2014-02-08T21:09:42Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="1416">&lt;includeonly&gt;&lt;div style=&quot;padding:3px 3px 0px 3px; text-align: left; font-family: Gill Sans, Futura, sans-serif; font-size: {{#if:{{{5|}}}|#{{{5|}}}|120%}}; font-stretch: condensed; border-bottom: solid 1px #{{{1}}}; background-color: {{#if:{{{3|}}}|#{{{3|}}}|transparent}}; color: {{#if:{{{4|}}}|#{{{4|}}}|black}};&quot;&gt;{{{2}}}&lt;/div&gt;&lt;/includeonly&gt;&lt;noinclude&gt;
+
+Diese Vorlage erzeugt Überschriften für Portale wie in [[Portal:Halbleiter]]
+
+== Anwendung ==
+* 1. Parameter: Linienfarbe, hexadezimal ohne '#'
+* 2. Parameter: Überschrifttext
+* 3. Parameter: Hintergrundfarbe, hexadezimal ohne '#', optional, Standard: durchsichtig
+* 4. Parameter: Schriftfarbe, hexadezimal ohne '#', optional, Standard: schwarz
+* 5. Parameter: Schriftgröße, in Prozent, optional, Standard: 120%
+
+=== Beispiele ===
+* &lt;code&gt;&lt;nowiki&gt;{{Portal-head2|00a0cb|Überschrift ohne Hintergrundfarbe}}&lt;/nowiki&gt;&lt;/code&gt; erzeugt
+{{Portal-head2|00a0cb|Überschrift ohne Hintergrund}}
+
+
+* &lt;code&gt;&lt;nowiki&gt;{{Portal-head2|00a0cb|Überschrift mit Hintergrundfarbe|afd2db}}&lt;/nowiki&gt;&lt;/code&gt; erzeugt
+{{Portal-head2|00a0cb|Überschrift mit Hintergrund|afd2db}}
+
+
+* &lt;code&gt;&lt;nowiki&gt;{{Portal-head2|00a0cb|Überschrift mit Hintergrund- und Schriftfarbe|00a0cb|FFFFFF}}&lt;/nowiki&gt;&lt;/code&gt; erzeugt
+{{Portal-head2|00a0cb|Überschrift mit Hintergrund|00a0cb|FFFFFF}}
+
+&lt;!--[[Kategorie:Vorlage:Portal:|Head2]]--&gt;
+[[Kategorie:Vorlage:Formatierungshilfe|Portal-head2]]
+&lt;/noinclude&gt;</text>
+      <sha1>62ubpsroqija70zgoqhs8hqezilpel8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Prettytable</title>
+    <ns>10</ns>
+    <id>1551</id>
+    <revision>
+      <id>2945</id>
+      <timestamp>2006-02-13T09:07:58Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="194">border=&quot;2&quot; cellspacing=&quot;0&quot; cellpadding=&quot;4&quot; style=&quot;margin:1em 1em 1em 0; border:solid 1px #AAAAAA; border-collapse:collapse; background-color:#F9F9F9; empty-cells:show; font-size:95%&quot; rules=&quot;all&quot;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:RMG-Wiki</title>
+    <ns>10</ns>
+    <id>4385</id>
+    <revision>
+      <id>17809</id>
+      <parentid>17808</parentid>
+      <timestamp>2014-02-08T21:37:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="258">[[Datei:RMG.jpg|20px|RMG-Wiki|verweis=:rmgi:]]&lt;noinclude&gt;
+
+;Das schreibt man: &lt;pre&gt;{{rmg-wiki}}&lt;/pre&gt;
+
+;Achtung: Schreibe bitte mit Kleinbuchstaben.
+
+[[Kategorie:Vorlage:Logo-Link|RMG-Wiki]]
+&lt;/noinclude&gt;&lt;noinclude&gt;
+
+[[Kategorie:Vorlagen-Export]]
+&lt;/noinclude&gt;</text>
+      <sha1>1h0ynberx283ubjuob32gpa3libpt8m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Recht am eigenen Bild</title>
+    <ns>10</ns>
+    <id>4308</id>
+    <revision>
+      <id>17651</id>
+      <parentid>17650</parentid>
+      <timestamp>2014-02-08T21:09:42Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="786">&lt;div id=&quot;Vorlage_Recht_am_eigenen_Bild&quot;&gt;
+{| {{Lizenzdesign4}}
+| Diese Datei oder Bestandteile davon stellen ein Bildnis einer oder mehrerer lebenden oder seit weniger als 10 Jahren toten Person(en) dar. 
+
+Auch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.
+|}
+&lt;/div&gt;
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Recht am eigenen Bild|{{PAGENAME}}]] }}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]
+{{Commons|Template:Personality rights}}
+{{InterProjekt|commons=Template:Personality rights}}&lt;/noinclude&gt;</text>
+      <sha1>lo25kvjdi51uy79od54ga10gibgbw7f</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:RegelGroßschreibung</title>
+    <ns>10</ns>
+    <id>3007</id>
+    <revision>
+      <id>10171</id>
+      <parentid>10170</parentid>
+      <timestamp>2009-01-13T16:49:27Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>schriftgröße</comment>
+      <text xml:space="preserve" bytes="827">&lt;br style=&quot;clear:both;&quot;/&gt;
+&lt;div style=&quot;float:left; border:solid 4px blue; margin:1px; width:100%&quot;&gt;
+{| cellpadding=&quot;1&quot; cellspacing=&quot;0&quot; style=&quot;width:100%; background-color:white&quot;
+| style=&quot;width:20%; height:50px; background-color: white; text-align:center&quot;|
+[[Bild:Rufzeichen.gif]]
+| style=&quot;width:60%; font-size:12px; padding:0.47em; line-height:1.25em; text-align: center&quot;| Regel für Namenwörter/Nomen:
+
+Ein Namenwort, auch Nomen genannt, wird immer groß geschrieben. Wenn Du Dir nicht sicher bist, ob das Wort, das Du schreiben willst, ein Nomen ist, dann prüfe es so:
+
+* Kannst Du einen Begleiter davor setzen? (Haus - ''das'' Haus)
+* Kannst Du das Wort auch in der Mehrzahl sagen? (das Haus - ''die Häuser'')
+| style=&quot;width:20%; height:50px; background-color: white; text-align:center&quot;|
+[[Bild:Rufzeichen.gif]]
+|
+|}
+&lt;/div&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Register</title>
+    <ns>10</ns>
+    <id>4388</id>
+    <revision>
+      <id>17817</id>
+      <parentid>17816</parentid>
+      <timestamp>2014-02-08T21:37:59Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="686">&lt;span style=&quot;border-bottom: 0.04em solid #A0A0A0; spacing: 0; padding: 0;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: #000000;  border: 0.1em solid #A0A0A0; border-bottom-color: #A0A0A0; padding: 0 0.333em; background:{{{2|white}}};&quot;&gt;&amp;nbsp;{{{1|Register}}}&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;border-bottom: 0.04em solid #A0A0A0; spacing: 0; padding: 0;&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;noinclude&gt;
+
+;Das schreibt man:
+
+&lt;pre&gt;{{Register|&lt;Text&gt;}}&lt;/pre&gt;
+
+;Hinweis: Dieser Textbaustein soll Registerkarten darstellen. &lt;tt&gt;&lt;nowiki&gt;{{Register|Beobachten}}&lt;/nowiki&gt;&lt;/tt&gt; ergibt: {{Register|Beobachten}}
+
+[[Kategorie:Vorlage:Formatierungshilfe|Register]]
+&lt;/noinclude&gt;&lt;noinclude&gt;
+
+[[Kategorie:Vorlagen-Export]]
+&lt;/noinclude&gt;</text>
+      <sha1>djk5r0z1iatokfdsnwc5w9j7pgqwyg7</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Remove this line and insert a license instead</title>
+    <ns>10</ns>
+    <id>4266</id>
+    <redirect title="Vorlage:Uwlsubst" />
+    <revision>
+      <id>17565</id>
+      <parentid>17564</parentid>
+      <timestamp>2014-02-08T21:09:09Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="31">#REDIRECT [[Template:Uwlsubst]]</text>
+      <sha1>p3v7n1ugxbpz6u2abi0m4afk0uqdxun</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Rmg-wiki</title>
+    <ns>10</ns>
+    <id>4386</id>
+    <redirect title="Vorlage:RMG-Wiki" />
+    <revision>
+      <id>17811</id>
+      <parentid>17810</parentid>
+      <timestamp>2014-02-08T21:37:58Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="35">#WEITERLEITUNG [[Vorlage:RMG-Wiki]]</text>
+      <sha1>9iet48f07fe3rahyu6s4u60tsaqigzn</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Rubriken</title>
+    <ns>10</ns>
+    <id>1702</id>
+    <revision>
+      <id>18976</id>
+      <parentid>7265</parentid>
+      <timestamp>2015-05-08T19:10:13Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>linkfix</comment>
+      <text xml:space="preserve" bytes="349">* Bücher, die ich gelesen habe!
+* Was ich schon immer fragen wollte!
+
+Was haltet ihr davon?
+:Schreibt Eure Meinung hier gleich darunter (mit &quot;:&quot; am Anfang der Zeile wird euer Beitrag zum leichteren Lesen eingerückt).
+
+::Ich habe für Euch eine Seite [[Hilfe:Fragenkiste|Fragenkiste]] erstellt. Da könnt Ihr, wenn Ihr wollt, Eure Fragen schreiben!</text>
+      <sha1>29q37o0eqbru669jgsdans0l4fzx4f2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Rücksprung</title>
+    <ns>10</ns>
+    <id>1710</id>
+    <revision>
+      <id>16319</id>
+      <parentid>16318</parentid>
+      <timestamp>2012-12-03T20:56:54Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Trennlinien statt Leerzeilen</comment>
+      <text xml:space="preserve" bytes="801">&lt;br style=&quot;clear:both;&quot;/&gt;
+----
+&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Wenn du mehr zum Begriff &quot;{{PAGENAME}}&quot; wissen willst, dann findest du vielleicht auf den folgenden Seiten etwas:
+----
+&lt;center&gt;[[Bild:Finn_klein3.gif]] [http://www.fragfinn.de/kinderliste/suche?query={{PAGENAMEE}}&amp;x=0&amp;y=0 FragFinn.de] &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Bild:BlindeKuh.jpg]] [http://www.blinde-kuh.de/bksearch.cgi?query={{PAGENAMEE}} Blinde-Kuh.de] &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Bild:Helles_wiki_koepfchen.gif]] [http://www.helles-koepfchen.de/?suche={{PAGENAMEE}} Helles-Köpfchen.de] &lt;/center&gt;
+----
+Hier geht es zurück zur [[{{{1}}}|Lexikonseite {{{1}}}]] [[Bild:Buchstabe-{{{1}}}.gif]]!&lt;/div&gt;</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Rücksprung2</title>
+    <ns>10</ns>
+    <id>4432</id>
+    <revision>
+      <id>18091</id>
+      <timestamp>2014-05-13T09:18:56Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;br style=&quot;clear:both;&quot;/&gt; ---- &lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Wenn du mehr zum Begriff &quot;{{PAG…“</comment>
+      <text xml:space="preserve" bytes="757">&lt;br style=&quot;clear:both;&quot;/&gt;
+----
+&lt;div style=&quot;font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Wenn du mehr zum Begriff &quot;{{PAGENAME}}&quot; wissen willst, dann findest du vielleicht auf den folgenden Seiten etwas:
+----
+&lt;center&gt;[[Bild:Finn_klein3.gif]] [http://www.fragfinn.de/kinderliste/suche?query={{PAGENAMEE}}&amp;x=0&amp;y=0 FragFinn.de] &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Bild:BlindeKuh.jpg]] [http://www.blinde-kuh.de/bksearch.cgi?query={{PAGENAMEE}} Blinde-Kuh.de] &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; [[Bild:Helles_wiki_koepfchen.gif]] [http://www.helles-koepfchen.de/?suche={{PAGENAMEE}} Helles-Köpfchen.de] &lt;/center&gt;
+----
+Hier geht es zurück zur [[{{{1}}}|{{{1}}}]]!&lt;/div&gt;</text>
+      <sha1>7u15i5qx36nqln5f8z97xycfh16vohl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Schon gewusst</title>
+    <ns>10</ns>
+    <id>1594</id>
+    <revision>
+      <id>3154</id>
+      <timestamp>2006-03-08T17:53:30Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <text xml:space="preserve" bytes="150">''Konfuzius sagt:&lt;br&gt;
+''„Sage es mir, und ich vergesse es;&lt;br&gt;
+''zeige es mir, und ich erinnere mich;&lt;br&gt;
+''lass es mich tun, und ich behalte es.“</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Schutzlandprinzip</title>
+    <ns>10</ns>
+    <id>4309</id>
+    <revision>
+      <id>17653</id>
+      <parentid>17652</parentid>
+      <timestamp>2014-02-08T21:09:43Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="546">&lt;div id=&quot;Vorlage_Schutzlandprinzip&quot;&gt;
+{| {{Lizenzdesign4}}
+| Diese Datei ist im Entstehungsland wahrscheinlich urheberrechtlich geschützt.
+
+Nach den Bildrechte-Regeln der deutschsprachigen Wikipedia (insbesondere {{wpde|Schutzlandprinzip}}) kann die Datei jedoch in der Wikipedia und dementsprechend auch im {{SITENAME}} verbleiben.
+|}
+&lt;/div&gt;
+{{NoCommons}}
+&lt;includeonly&gt;{{#ifeq:{{NAMESPACE}}|{{ns:6}}|[[Kategorie:Datei:Schutzlandprinzip|{{PAGENAME}}]] }}&lt;/includeonly&gt;
+&lt;noinclude&gt;[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]&lt;/noinclude&gt;</text>
+      <sha1>6eh1bk9ipxqfecd1ucmcwmxhgotnfw2</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Schutzzeichen</title>
+    <ns>10</ns>
+    <id>4310</id>
+    <revision>
+      <id>17655</id>
+      <parentid>17654</parentid>
+      <timestamp>2014-02-08T21:09:43Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="822">&lt;div id=&quot;Vorlage_Schutzzeichen&quot;&gt;
+{| {{Lizenzdesign4}}
+| Diese Datei oder Bestandteile davon stellen ein {{wpde|Schutzzeichen}} nach verschiedenen Abkommen, insbesondere die {{wpde|Haager Landkriegsordnung|Haager Landkriegsordnung}} von 1899 und 1907, die {{wpde|Genfer Konventionen|Genfer Konventionen}} von 1949 sowie ihre Zusatzprotokolle von 1977 und 2005 und weitere Regeln des {{wpde|Humanitäres Völkerrecht|humanitären Völkerrechts}} dar.
+
+Auch wenn diese Datei unter einer {{wpde|Freie Lizenz|freien Lizenz}} steht oder nicht urheberrechtlich geschützt ist, kann ihre Verbreitung, Veränderung oder sonstige Verwertung durch besondere rechtliche Bestimmungen innerhalb und außerhalb des Urheberrechts eingeschränkt sein.
+|}
+&lt;/div&gt;&lt;noinclude&gt;[[Kategorie:Vorlage:Hinweis für Bilder|{{PAGENAME}}]]
+&lt;/noinclude&gt;</text>
+      <sha1>b7zri7hc718uxp23xy3f57fcd94fi4b</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:See also cat</title>
+    <ns>10</ns>
+    <id>4373</id>
+    <redirect title="Vorlage:Cat see also" />
+    <revision>
+      <id>17781</id>
+      <parentid>17780</parentid>
+      <timestamp>2014-02-08T21:11:24Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: Aktualisierung</comment>
+      <text xml:space="preserve" bytes="36">#Redirect [[:Template:cat see also]]</text>
+      <sha1>g0oxw7zcgrtc7nwkjyaiub46q9a6oqa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Vorlage:Self</title>
+    <ns>10</ns>
+    <id>4242</id>
+    <revision>
+      <id>17495</id>
+      <parentid>17494</parentid>
+      <timestamp>2014-01-09T21:05:21Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <minor/>
+      <comment>1 Version: UploadWizard</comment>
+      <text xml:space="preserve" bytes="379">&lt;br&gt;
+{| style=&quot;margin:0.5em auto; background-color: #f0f0f0; border: 2px solid #aaaaaa; padding: 2px&quot;
+| style=&quot;text-align:center&quot; | '''''Ich, der Urheber dieses Werkes,'''  veröffentliche es unter der folgenden Lizenz:''
+|---
+| style=&quot;text-align:center&quot; | {{{{{1}}}}}
+|}&lt;includeonly&gt;[[Category:Self-published work|{{PAGENAME}}]]&lt;/includeonly&gt;
+
+
+[[Kategorie:Self-published work]]</text>
+      <sha1>lgzhr5hi3d7aifsrggxp8t0pshyc5az</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

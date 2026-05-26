@@ -1,0 +1,48 @@
+{
+  "pageid": 5018,
+  "ns": 0,
+  "title": "Nürnberg",
+  "revisions": [
+    {
+      "revid": 21054,
+      "parentid": 21047,
+      "user": "GrupMA",
+      "timestamp": "2017-03-04T14:05:12Z",
+      "comment": "",
+      "wikitext": "Nürnberg ist eine Stadt in Franken. Sie ist berühmt für ihre Burg. Spezialitäten aus Nürnberg sind Bratwürste und Lebkuchen."
+    },
+    {
+      "revid": 21047,
+      "parentid": 21026,
+      "user": "GrupMA",
+      "timestamp": "2017-02-13T07:40:57Z",
+      "comment": "",
+      "wikitext": "Nürnberg ist eine Stadt in Franken. Sie ist berühmt für ihre Burg."
+    },
+    {
+      "revid": 21026,
+      "parentid": 21025,
+      "user": "GrupMA",
+      "timestamp": "2017-01-30T18:41:17Z",
+      "comment": "",
+      "wikitext": "Nürnberg ist eine Stadt in Franken."
+    },
+    {
+      "revid": 21025,
+      "parentid": 21024,
+      "user": "GrupMA",
+      "timestamp": "2017-01-30T18:40:15Z",
+      "comment": "Die Seite wurde geleert.",
+      "wikitext": ""
+    },
+    {
+      "revid": 21024,
+      "parentid": 0,
+      "user": "GrupMA",
+      "timestamp": "2017-01-30T18:39:25Z",
+      "comment": "Die Seite wurde neu angelegt: „Nürnberg ist eine Stadt in Franken.“",
+      "wikitext": "Nürnberg ist eine Stadt in Franken."
+    }
+  ],
+  "categories": []
+}

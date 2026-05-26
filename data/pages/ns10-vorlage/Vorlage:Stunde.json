@@ -1,0 +1,27 @@
+{
+  "pageid": 4354,
+  "ns": 10,
+  "title": "Vorlage:Stunde",
+  "revisions": [
+    {
+      "revid": 17743,
+      "parentid": 17742,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:10:02Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<!--- Hinweis: Vorlage so nutzen: {{Stunde|Thema|Erläuterung|Lernziele}} --->\n<div style=\"border: 1px solid #dfdfdf; background-color:#dfdfdf; font-size:1px; height:8px; border-bottom:1px solid #dfdfdf;\"></div>\n<div style=\"border:1px solid #dfdfdf; background-color:#FEFEFE; align:center; padding:7px;\">\n[[Bild:Uhr20px.gif]]''' Unterrichtsstunde zum Thema:''''' {{{1}}}\n----\n;Erläuterung\n{{{2}}}\n----\n;Lernziele\n{{{3}}}\n</div>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Stunde]]</noinclude>"
+    },
+    {
+      "revid": 17742,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2010-12-27T10:14:39Z",
+      "comment": "alphabet. Einordnung",
+      "wikitext": "<!--- Hinweis: Vorlage so nutzen: {{Stunde|Thema|Erläuterung|Lernziele}} --->\n<div style=\"border: 1px solid #dfdfdf; background-color:#dfdfdf; font-size:1px; height:8px; border-bottom:1px solid #dfdfdf;\"></div>\n<div style=\"border:1px solid #dfdfdf; background-color:#FEFEFE; align:center; padding:7px;\">\n[[Bild:Uhr20px.gif]]''' Unterrichtsstunde zum Thema:''''' {{{1}}}\n----\n;Erläuterung\n{{{2}}}\n----\n;Lernziele\n{{{3}}}\n</div>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Stunde]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

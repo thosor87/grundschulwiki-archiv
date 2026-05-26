@@ -1,0 +1,48 @@
+{
+  "pageid": 3589,
+  "ns": 0,
+  "title": "Werder Bremen",
+  "revisions": [
+    {
+      "revid": 14984,
+      "parentid": 14008,
+      "user": "MALukas",
+      "timestamp": "2011-09-30T08:48:21Z",
+      "comment": "Özil spielt nicht mehr bei Bremen",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Werder Bremen==\n\n=== Spieler===\n\nMarin,Mertesacker,Pizaro.\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 14008,
+      "parentid": 13999,
+      "user": "MALukas",
+      "timestamp": "2010-11-06T21:09:27Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Werder Bremen==\n\n=== Spieler===\n\nÖzil (nur bis 2010),Marin,Mertesacker,Pizaro.\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 13999,
+      "parentid": 13998,
+      "user": "Leupold",
+      "timestamp": "2010-11-06T08:54:14Z",
+      "comment": "babel ürcksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\n== Werder Bremen==\n\n=== Spieler===\n\nÖzil,Marin,Mertesacker,Pizaro.\n\n\n\n{{Rücksprung|W}}"
+    },
+    {
+      "revid": 13998,
+      "parentid": 13983,
+      "user": "Leupold",
+      "timestamp": "2010-11-06T08:53:30Z",
+      "comment": "überwschrift angepasst",
+      "wikitext": "== Werder Bremen==\n\n=== Spieler===\n\nÖzil,Marin,Mertesacker,Pizaro."
+    },
+    {
+      "revid": 13983,
+      "parentid": 0,
+      "user": "BKBenjamin",
+      "timestamp": "2010-11-05T08:26:30Z",
+      "comment": "Die Seite wurde neu angelegt: == Werder Bremen==  ==== Spieler  ==== Özil,Marin,Mertesacker,Pizaro.",
+      "wikitext": "== Werder Bremen==\n\n==== Spieler\n ====\nÖzil,Marin,Mertesacker,Pizaro."
+    }
+  ],
+  "categories": []
+}

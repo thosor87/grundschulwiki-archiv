@@ -1,0 +1,27 @@
+{
+  "pageid": 4352,
+  "ns": 10,
+  "title": "Vorlage:Merksatz",
+  "revisions": [
+    {
+      "revid": 17739,
+      "parentid": 17738,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:10:02Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border: 1px solid {{{Rand|#ca1321}}}; background-color: {{{Hintergrund|#ffffff}}}; border-left: 5px solid {{{RandLinks|#ca1321}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}\"\n|- \n| <div style=\"float:right; margin:0px; margin-top:5px\">[[Bild:Maehnrot.jpg|100px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Merke:</div>\n{{{MERK}}}\n|}<noinclude>\n\n;Das schreibt man: <pre>{{Merksatz|MERK=<Merktext>}}</pre>\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Merksatz]]</noinclude>"
+    },
+    {
+      "revid": 17738,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2011-12-15T23:23:00Z",
+      "comment": "Syntax; kat",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border: 1px solid {{{Rand|#ca1321}}}; background-color: {{{Hintergrund|#ffffff}}}; border-left: 5px solid {{{RandLinks|#ca1321}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}\"\n|- \n| <div style=\"float:right; margin:0px; margin-top:5px\">[[Bild:Maehnrot.jpg|100px]]</div>\n<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Merke:</div>\n{{{MERK}}}\n|}<noinclude>\n\n;Das schreibt man: <pre>{{Merksatz|MERK=<Merktext>}}</pre>\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Merksatz]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

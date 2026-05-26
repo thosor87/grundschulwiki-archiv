@@ -1,0 +1,26 @@
+{
+  "pageid": 4290,
+  "ns": 10,
+  "title": "Vorlage:Bild-PD-§134-KUG",
+  "revisions": [
+    {
+      "revid": 17615,
+      "parentid": 17614,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:31Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-134-KUG\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|link=|55px]]\n| Dieses Werk, das den Namen des Urhebers nicht angibt, hat vor dem Inkrafttreten des {{wpd|Gesetz über Urheberrecht und verwandte Schutzrechte|Urheberrechtsgesetzes}} am 1. Januar 1966 eine {{wpd|juristische Person des öffentlichen Rechts}} als Herausgeber erscheinen lassen ([http://www.fotorecht.de/publikationen/kug.html § 5 KUG]; zu Details siehe {{wpd|Wikipedia:Bildrechte#Sonderfall: Juristische Person als Urheber (bis 1965)|Wikipedia:Bildrechte}}). Für die Berechnung der Schutzfrist gilt daher nach [http://www.gesetze-im-internet.de/urhg/__134.html §&nbsp;134 Satz 2 UrhG], dass sie 70 Jahre nach Veröffentlichung läuft.\n| [[Datei:Flag of Germany.svg|link=|55px]]\n|-\n| valign=\"middle\" |\n| Nach dieser Berechnung der Schutzfrist ist diese Datei '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.\n|}\n</div>\n{| {{Lizenzdesign4}}\n|<small>Dieser Baustein ist in der Wikipedia derzeit (Stand Juli 2012) nur für folgende Werkarten zugelassen:\n* Briefmarken\nAndere Werkarten müssen zuvor {{wpd|Wikipedia:Urheberrechtsfragen|hier}} diskutiert werden und können erst nach positivem Diskussionsergebnis ergänzt werden.</small>\n\nIn jedem Fall müssen die Werke '''vor mindestens 70 Jahren veröffentlicht worden sein.'''\n|}\n{{NoCommons}}\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:Public Domain (§134 Satz 2 UrhG)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>\n Diese Vorlage fügt Dateien der [[:Kategorie:Datei:Public Domain (§134 Satz 2 UrhG)]] hinzu.\nDie Diskussion zur Einfügung des §-134-Abschnitts in [[Wikipedia:Bildrechte]] findet sich [http://de.wikipedia.org/w/index.php?title=Wikipedia:Urheberrechtsfragen&oldid=84447555#Schutz_f.C3.BCr_Karten_der_K.C3.B6niglich_Preu.C3.9Fischen_Landesaufnahme hier].\n[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]</noinclude>"
+    },
+    {
+      "revid": 17614,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-01-03T14:00:58Z",
+      "comment": "wpd-Link",
+      "wikitext": "<div id=\"Vorlage_Bild-PD-134-KUG\">\n{| {{Lizenzdesign2}}\n| [[Datei:PD-icon.svg|link=|55px]]\n| Dieses Werk, das den Namen des Urhebers nicht angibt, hat vor dem Inkrafttreten des {{wpd|Gesetz über Urheberrecht und verwandte Schutzrechte|Urheberrechtsgesetzes}} am 1. Januar 1966 eine {{wpd|juristische Person des öffentlichen Rechts}} als Herausgeber erscheinen lassen ([http://www.fotorecht.de/publikationen/kug.html § 5 KUG]; zu Details siehe {{wpd|Wikipedia:Bildrechte#Sonderfall: Juristische Person als Urheber (bis 1965)|Wikipedia:Bildrechte}}). Für die Berechnung der Schutzfrist gilt daher nach [http://www.gesetze-im-internet.de/urhg/__134.html §&nbsp;134 Satz 2 UrhG], dass sie 70 Jahre nach Veröffentlichung läuft.\n| [[Datei:Flag of Germany.svg|link=|55px]]\n|-\n| valign=\"middle\" |\n| Nach dieser Berechnung der Schutzfrist ist diese Datei '''{{wpd|Gemeinfreiheit|gemeinfrei}}'''.\n|}\n</div>\n{| {{Lizenzdesign4}}\n|<small>Dieser Baustein ist in der Wikipedia derzeit (Stand Juli 2012) nur für folgende Werkarten zugelassen:\n* Briefmarken\nAndere Werkarten müssen zuvor {{wpd|Wikipedia:Urheberrechtsfragen|hier}} diskutiert werden und können erst nach positivem Diskussionsergebnis ergänzt werden.</small>\n\nIn jedem Fall müssen die Werke '''vor mindestens 70 Jahren veröffentlicht worden sein.'''\n|}\n{{NoCommons}}\n<includeonly>{{#ifeq:{{NAMESPACE}}|{{ns:6}}|\n[[Kategorie:Datei:Public Domain (§134 Satz 2 UrhG)|{{PAGENAME}}]]\n}}</includeonly>\n<noinclude>\n Diese Vorlage fügt Dateien der [[:Kategorie:Datei:Public Domain (§134 Satz 2 UrhG)]] hinzu.\nDie Diskussion zur Einfügung des §-134-Abschnitts in [[Wikipedia:Bildrechte]] findet sich [http://de.wikipedia.org/w/index.php?title=Wikipedia:Urheberrechtsfragen&oldid=84447555#Schutz_f.C3.BCr_Karten_der_K.C3.B6niglich_Preu.C3.9Fischen_Landesaufnahme hier].\n[[Kategorie:Vorlage:Lizenz für Bilder|{{PAGENAME}}]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Lizenz für Bilder"
+  ]
+}

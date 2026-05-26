@@ -1,0 +1,24 @@
+{
+  "pageid": 5234,
+  "ns": 6,
+  "title": "Datei:Katzenhai.jpg",
+  "revisions": [
+    {
+      "revid": 21803,
+      "parentid": 21802,
+      "user": "MAKnist",
+      "timestamp": "2018-04-09T10:38:12Z",
+      "comment": "",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = der Katzenhai im offenen Meer\n|Quelle = https://commons.wikimedia.org/wiki/File%3AScyliorhinus_canicula.jpg\n|Urheber = Hans Hillewaert\n|Datum = 9.4.2018\n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    },
+    {
+      "revid": 21802,
+      "parentid": 0,
+      "user": "MAKnist",
+      "timestamp": "2018-04-09T10:37:38Z",
+      "comment": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = https://commons.wikimedia.org/wiki/File%3AScyliorhinus_canicula.jpg\n|Urheber = Hans Hillewaert\n|Datum = 9.4.2018\n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}",
+      "wikitext": "{{Information ohne UploadWizard\n|Beschreibung = \n|Quelle = https://commons.wikimedia.org/wiki/File%3AScyliorhinus_canicula.jpg\n|Urheber = Hans Hillewaert\n|Datum = 9.4.2018\n|Genehmigung = \n|Andere Versionen = \n|Anmerkungen = \n}}"
+    }
+  ],
+  "categories": []
+}

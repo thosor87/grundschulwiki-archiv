@@ -1,0 +1,26 @@
+{
+  "pageid": 4619,
+  "ns": 10,
+  "title": "Vorlage:Löschen",
+  "revisions": [
+    {
+      "revid": 19030,
+      "parentid": 19029,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T22:54:28Z",
+      "comment": "",
+      "wikitext": "<div id=\"Vorlage_Löschen\">\n{| {{Bausteindesign4}}\n|- \n| style=\"font-size: 95%;\" | Diese Seite sollten wir '''[[Hilfe:Seiten löschen|löschen]]'''. Eine kurze Begründung folgt unter diesem Hinweis. \n\nEinen begründeten Widerspruch kannst du auf diese Seite unterhalb der Begründung schreiben.\n\nErfolgt kein Einspruch, dann kann diese Seite in wenigen Tagen, spätestens nach einer Woche, gelöscht werden.\n|}'''Begründung:''' {{{1}}}\n----\n</div><noinclude>\n;Syntax: <nowiki>{{löschen|<Begründung>}} ~~~~</nowiki>\n;Hinweis: Seiten, die zur Schnelllöschung vorgeschlagen wurden, erscheinen in der [[:Kategorie:Löschen]].\n\n<!-- [[Kategorie:Vorlage:Wartungsbaustein|Löschen]] -->\n\n</noinclude><includeonly>[[Kategorie:Löschen|{{PAGENAME}}]]</includeonly>\n\n<noinclude>[[Kategorie:Vorlage:Bearbeitungsbausteine|.]]</noinclude>"
+    },
+    {
+      "revid": 19029,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T22:53:19Z",
+      "comment": "Kopie aus dem ZUM-Wiki",
+      "wikitext": "<div id=\"Vorlage_Löschen\">\n{| {{Bausteindesign4}}\n|- \n| style=\"font-size: 95%;\" | Diese Seite sollten wir '''[[Hilfe:Seiten löschen|löschen]]'''. Eine kurze Begründung folgt unter diesem Hinweis. \n\nEinen begründeten Widerspruch kannst du auf diese Seite unterhalb der Begründung schreiben.\n\nErfolgt kein Einspruch, dann kann diese Seite in wenigen Tagen, spätestens nach einer Woche, gelöscht werden.\n|}'''Begründung:''' {{{1}}}\n----\n</div><noinclude>\n;Syntax: <nowiki>{{löschen|<Begründung>}} ~~~~</nowiki>\n;Hinweis: Seiten, die zur Schnelllöschung vorgeschlagen wurden, erscheinen in der Kategorie [[:Kategorie:ZUM-Wiki:Löschen|ZUM-Wiki:Löschen]].\n\n<!-- [[Kategorie:Vorlage:Wartungsbaustein|Löschen]] -->\n\n</noinclude><includeonly>[[Kategorie:ZUM-Wiki:Löschen|{{PAGENAME}}]]</includeonly>\n\n<noinclude>[[Kategorie:Vorlage:Bearbeitungsbausteine|.]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Bearbeitungsbausteine"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "pageid": 1415,
+  "ns": 10,
+  "title": "Vorlage:InhalteY",
+  "revisions": [
+    {
+      "revid": 16389,
+      "parentid": 13042,
+      "user": "Leupold",
+      "timestamp": "2012-12-29T11:01:40Z",
+      "comment": "NA",
+      "wikitext": "* [[Yakari]], Titelfigur eines Buches\n* [[Yorkshire  Terrier]],  der\n* [[Yoshi]] (Mario Videospiel)"
+    },
+    {
+      "revid": 13042,
+      "parentid": 13025,
+      "user": "Leupold",
+      "timestamp": "2010-01-12T20:21:00Z",
+      "comment": "angepasst",
+      "wikitext": "* [[Yorkshire  Terrier]],  der\n* [[Yoshi]] (Mario Videospiel)"
+    },
+    {
+      "revid": 13025,
+      "parentid": 7822,
+      "user": "KSMax",
+      "timestamp": "2010-01-10T08:28:09Z",
+      "comment": "",
+      "wikitext": "* [[Yorkshire  Terrier]],  der\n* [[Yoshi]],"
+    },
+    {
+      "revid": 7822,
+      "parentid": 7404,
+      "user": "MAtest",
+      "timestamp": "2008-01-20T11:31:23Z",
+      "comment": "Zählzeichen",
+      "wikitext": "* [[Yorkshire  Terrier]],  der"
+    },
+    {
+      "revid": 7404,
+      "parentid": 2178,
+      "user": "MALiliana",
+      "timestamp": "2007-12-31T16:54:33Z",
+      "comment": "",
+      "wikitext": "[[Yorkshire  Terrier]],  der"
+    },
+    {
+      "revid": 2178,
+      "parentid": 2177,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T10:56:45Z",
+      "comment": "",
+      "wikitext": ""
+    },
+    {
+      "revid": 2177,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2006-01-04T10:56:38Z",
+      "comment": "",
+      "wikitext": "dfg"
+    }
+  ],
+  "categories": []
+}

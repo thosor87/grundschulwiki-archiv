@@ -1,0 +1,40 @@
+{
+  "pageid": 2170,
+  "ns": 0,
+  "title": "Zimmerer",
+  "revisions": [
+    {
+      "revid": 6976,
+      "parentid": 5656,
+      "user": "Lauretia",
+      "timestamp": "2007-08-08T15:09:06Z",
+      "comment": "Aufzählung geändert",
+      "wikitext": "Der Zimmerer macht zum Beispiel Holzhäuser, Dachstühle, Treppen, Geländer, Tische und Schränke.\n\n\n{{Rücksprung|Z}}"
+    },
+    {
+      "revid": 5656,
+      "parentid": 5655,
+      "user": "Leupold",
+      "timestamp": "2007-03-21T16:20:19Z",
+      "comment": "Zimerer wurde nach Zimmerer verschoben: Linkfehler",
+      "wikitext": "Zimmerer\nDer Zimmerer macht zum beispiel Holzhäuser und Dachstühle und Treppen und Geländer und Tische und Schränke.\n\n\n{{Rücksprung|Z}}"
+    },
+    {
+      "revid": 5655,
+      "parentid": 5597,
+      "user": "Leupold",
+      "timestamp": "2007-03-21T16:20:05Z",
+      "comment": "Format, Syntax und Rücksprung",
+      "wikitext": "Zimmerer\nDer Zimmerer macht zum beispiel Holzhäuser und Dachstühle und Treppen und Geländer und Tische und Schränke.\n\n\n{{Rücksprung|Z}}"
+    },
+    {
+      "revid": 5597,
+      "parentid": 0,
+      "user": "AGMichael",
+      "timestamp": "2007-03-21T14:50:14Z",
+      "comment": "",
+      "wikitext": "                      \n   \n\n                              Zimerer\n\n\n\n                  Der Zimerer macht zum beispiel Holtzhäuser und Dachstüle \n                  und Treppen u.Gelender u.Tischem u. Schränke."
+    }
+  ],
+  "categories": []
+}

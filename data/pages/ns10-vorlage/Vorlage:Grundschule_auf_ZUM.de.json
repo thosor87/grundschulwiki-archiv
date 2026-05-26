@@ -1,0 +1,24 @@
+{
+  "pageid": 4576,
+  "ns": 10,
+  "title": "Vorlage:Grundschule auf ZUM.de",
+  "revisions": [
+    {
+      "revid": 18851,
+      "parentid": 18849,
+      "user": "Karl Kirst",
+      "timestamp": "2015-03-06T21:36:11Z",
+      "comment": "Datei:Grundschule.png",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Datei:Grundschule.png|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Grundschule auf ZUM.de</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n:[[Datei:Grundschule.png|250px|zentriert|verweis=http://www.zum.de/portal/grundschule]]\n|valign=top width=50%|\n:<div style=\"font: 14pt Verdana\">Das Grundschulwiki gehört zu <br><br>[http://www.zum.de/portal/grundschule Grundschule auf ZUM.de]!</div>\n<!--Auch bei [http://www.zum.de/portal/grundschule Grundschule auf ZUM.de]:\n* [http://www.grundschulpost.de Grundschulpost]\n* [http://www.grundschulwebquest.de GrundschulWebQuest]\n* [http://www.grundschulinternetabc.de Grundschul-InternetABC]\n* [http://www.grundschulsuche.de Grundschulsuche]\n* [http://grundschullernportal.zum.de Grundschullernportal]\n* [http://klexikon.zum.de Klexikon]-->\n|}"
+    },
+    {
+      "revid": 18849,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2015-03-06T21:21:53Z",
+      "comment": "GLP und Klexikon",
+      "wikitext": "{| width=100% style=\"border: 0; background-color: #ffffff\" cellpadding=\"0\" cellspacing=\"3\"\n| style=\"width: 100%; vertical-align: top; border:1px solid #97BF87; background-color: #FFFFFF\" |\n<div style=\"background-color:#AADDAA; font-size:1px; height:8px; border-bottom:1px solid #97BF87;\"></div>\n<!--<div style=\"float:right; margin:8px; margin-top:5px\">[[Image:GSNETZ.jpg|48px]]</div>-->\n<div style=\"font: 14pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">Grundschule auf ZUM.de</div>\n<div style=\"font-size:9pt; padding:5px\">\n{|valign=top cellpadding=0 cellspacing=5 width=100%\n|align=center valign=top width=50%|\n:[[Image:GSNETZ.jpg|80px|left]]<br><div style=\"font: 14pt Verdana\">Das Grundschulwiki <br>ist Teil des Bereichs<br>[http://www.zum.de/portal/grundschule Grundschule auf ZUM.de]!</div>\n|valign=top width=50%|\nAuch bei [http://www.zum.de/portal/grundschule Grundschule auf ZUM.de]:\n* [http://www.grundschulpost.de Grundschulpost]\n* [http://www.grundschulwebquest.de GrundschulWebQuest]\n* [http://www.grundschulinternetabc.de Grundschul-InternetABC]\n* [http://www.grundschulsuche.de Grundschulsuche]\n* [http://grundschullernportal.zum.de Grundschullernportal]\n* [http://klexikon.zum.de Klexikon]\n|}"
+    }
+  ],
+  "categories": []
+}

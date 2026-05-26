@@ -1,0 +1,32 @@
+{
+  "pageid": 4540,
+  "ns": 10,
+  "title": "Vorlage:NeueProjekte",
+  "revisions": [
+    {
+      "revid": 18486,
+      "parentid": 18485,
+      "user": "Leupold",
+      "timestamp": "2014-06-11T17:45:00Z",
+      "comment": "erstes projekt verlinkt",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Krita.png |48px|\nÜBERSCHRIFT = Neue/Aktualisierte Projekte| \nINHALT1=* [[FIFA-WorldCup 2014]]|\nINHALT2=|\nINHALT3=\n}}"
+    },
+    {
+      "revid": 18485,
+      "parentid": 18484,
+      "user": "Leupold",
+      "timestamp": "2014-06-11T17:44:03Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Krita.png |48px|\nÜBERSCHRIFT = Neue/Aktualisierte Projekte| \nINHALT1=|\nINHALT2=|\nINHALT3=\n}}"
+    },
+    {
+      "revid": 18484,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2014-06-11T17:40:03Z",
+      "comment": "angelegt",
+      "wikitext": "{{Kastendesign3|\nBORDER = #8898BF|\nBACKGROUND = #A8D3FF|\nBREITE =100%|\nBILD = Xmag.png|48px|\nÜBERSCHRIFT = Neue/Aktualisierte Projekte| \nINHALT1=|\nINHALT2=|\nINHALT3=\n}}"
+    }
+  ],
+  "categories": []
+}

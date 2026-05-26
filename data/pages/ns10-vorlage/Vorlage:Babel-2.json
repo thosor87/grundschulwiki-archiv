@@ -1,0 +1,24 @@
+{
+  "pageid": 1694,
+  "ns": 10,
+  "title": "Vorlage:Babel-2",
+  "revisions": [
+    {
+      "revid": 24815,
+      "parentid": 3392,
+      "user": "Leupold",
+      "timestamp": "2021-01-16T07:04:09Z",
+      "comment": "Schützte „[[Vorlage:Babel-2]]“ ([Bearbeiten=Nur Administratoren erlauben] (unbeschränkt) [Verschieben=Nur Administratoren erlauben] (unbeschränkt))",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{Babel {{{1}}}}}\n|-\n| {{Babel {{{2}}}}}\n|}"
+    },
+    {
+      "revid": 3392,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-03-11T21:39:47Z",
+      "comment": "",
+      "wikitext": "{| style=\"float:right; margin-left:1em; margin-bottom:0.5em; border:solid 1px #99B3FF; background-color:#FFFFFF\"\n! '''Kurzinfo:'''\n|-\n| {{Babel {{{1}}}}}\n|-\n| {{Babel {{{2}}}}}\n|}"
+    }
+  ],
+  "categories": []
+}

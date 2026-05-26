@@ -1,0 +1,26 @@
+{
+  "pageid": 4350,
+  "ns": 10,
+  "title": "Vorlage:Merke-umrandet",
+  "revisions": [
+    {
+      "revid": 17735,
+      "parentid": 17734,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:10:01Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<div style=\"border: 1px solid #cc0000; background-color:#fffdf5; align:center; padding:4px;\">\n<font>'''Merke'''</font>\n----\n{{{1}}}\n</div><noinclude>\n{{Quellcode}}\n<pre>{{Merke-umrandet|<Merktext>}}</pre>\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Merke-umrandet]]</noinclude>"
+    },
+    {
+      "revid": 17734,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2009-04-01T21:39:59Z",
+      "comment": "typo",
+      "wikitext": "<div style=\"border: 1px solid #cc0000; background-color:#fffdf5; align:center; padding:4px;\">\n<font>'''Merke'''</font>\n----\n{{{1}}}\n</div><noinclude>\n{{Quellcode}}\n<pre>{{Merke-umrandet|<Merktext>}}</pre>\n\n[[Kategorie:Vorlage:Aufgabenbausteine|Merke-umrandet]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}

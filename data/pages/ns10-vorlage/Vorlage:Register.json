@@ -1,0 +1,27 @@
+{
+  "pageid": 4388,
+  "ns": 10,
+  "title": "Vorlage:Register",
+  "revisions": [
+    {
+      "revid": 17817,
+      "parentid": 17816,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:37:59Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "<span style=\"border-bottom: 0.04em solid #A0A0A0; spacing: 0; padding: 0;\">&nbsp;&nbsp;</span><span style=\"color: #000000;  border: 0.1em solid #A0A0A0; border-bottom-color: #A0A0A0; padding: 0 0.333em; background:{{{2|white}}};\">&nbsp;{{{1|Register}}}&nbsp;</span><span style=\"border-bottom: 0.04em solid #A0A0A0; spacing: 0; padding: 0;\">&nbsp;&nbsp;</span><noinclude>\n\n;Das schreibt man:\n\n<pre>{{Register|<Text>}}</pre>\n\n;Hinweis: Dieser Textbaustein soll Registerkarten darstellen. <tt><nowiki>{{Register|Beobachten}}</nowiki></tt> ergibt: {{Register|Beobachten}}\n\n[[Kategorie:Vorlage:Formatierungshilfe|Register]]\n</noinclude><noinclude>\n\n[[Kategorie:Vorlagen-Export]]\n</noinclude>"
+    },
+    {
+      "revid": 17816,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2013-02-11T23:22:17Z",
+      "comment": "1 Version: Aktualisierung der Vorlagen",
+      "wikitext": "<span style=\"border-bottom: 0.04em solid #A0A0A0; spacing: 0; padding: 0;\">&nbsp;&nbsp;</span><span style=\"color: #000000;  border: 0.1em solid #A0A0A0; border-bottom-color: #A0A0A0; padding: 0 0.333em; background:{{{2|white}}};\">&nbsp;{{{1|Register}}}&nbsp;</span><span style=\"border-bottom: 0.04em solid #A0A0A0; spacing: 0; padding: 0;\">&nbsp;&nbsp;</span><noinclude>\n\n;Das schreibt man:\n\n<pre>{{Register|<Text>}}</pre>\n\n;Hinweis: Dieser Textbaustein soll Registerkarten darstellen. <tt><nowiki>{{Register|Beobachten}}</nowiki></tt> ergibt: {{Register|Beobachten}}\n\n[[Kategorie:Vorlage:Formatierungshilfe|Register]]\n</noinclude><noinclude>\n\n[[Kategorie:Vorlagen-Export]]\n</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Formatierungshilfe",
+    "Kategorie:Vorlagen-Export"
+  ]
+}

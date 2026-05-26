@@ -1,0 +1,16 @@
+{
+  "pageid": 1551,
+  "ns": 10,
+  "title": "Vorlage:Prettytable",
+  "revisions": [
+    {
+      "revid": 2945,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-13T09:07:58Z",
+      "comment": "",
+      "wikitext": "border=\"2\" cellspacing=\"0\" cellpadding=\"4\" style=\"margin:1em 1em 1em 0; border:solid 1px #AAAAAA; border-collapse:collapse; background-color:#F9F9F9; empty-cells:show; font-size:95%\" rules=\"all\""
+    }
+  ],
+  "categories": []
+}

@@ -1,0 +1,27 @@
+{
+  "pageid": 3768,
+  "ns": 10,
+  "title": "Vorlage:ZUM-Wiki-Kasten",
+  "revisions": [
+    {
+      "revid": 17423,
+      "parentid": 14961,
+      "user": "Karl Kirst",
+      "timestamp": "2013-11-27T22:22:48Z",
+      "comment": "aktualisiert",
+      "wikitext": "<div style=\"border: 2px solid #F2C18C; background-color:#f4f0e4;padding:7px;\">\n<center>{{{1}}}</center>\n</div><noinclude>\n;Syntax: <nowiki>{{ZUM-Wiki-Kasten|<Text>}}</nowiki>\n[[Kategorie:Vorlage:Kastenbausteine]]\n[[Kategorie:ZUM-Wiki]]</noinclude>"
+    },
+    {
+      "revid": 14961,
+      "parentid": 0,
+      "user": "K.kirst",
+      "timestamp": "2011-08-05T20:27:46Z",
+      "comment": "aus dem ZUM-Wiki",
+      "wikitext": "<div style=\"border: 2px solid #F2C18C; background-color:#FFE6BF;padding:7px;\">\n<center>{{{1}}}</center>\n</div><noinclude>\n;Syntax: <nowiki>{{ZUM-Wiki-Kasten|<Text>}}</nowiki>\n[[Kategorie:Vorlage:Kastenbausteine]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Vorlage:Kastenbausteine",
+    "Kategorie:ZUM-Wiki"
+  ]
+}

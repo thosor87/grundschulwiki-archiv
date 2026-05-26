@@ -1,0 +1,1222 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Datei:Pyramidenbild.jpg</title>
+    <ns>6</ns>
+    <id>2372</id>
+    <revision>
+      <id>6689</id>
+      <timestamp>2007-06-05T12:45:46Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Dieses Bild wurde gemalt vom Nutzer MADavide, am 05.06.07</comment>
+      <text xml:space="preserve" bytes="57">Dieses Bild wurde gemalt vom Nutzer MADavide, am 05.06.07</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:PãoDeAçúcar.jpg</title>
+    <ns>6</ns>
+    <id>2313</id>
+    <revision>
+      <id>6436</id>
+      <timestamp>2007-05-04T09:05:22Z</timestamp>
+      <contributor>
+        <username>AJonas</username>
+        <id>87</id>
+      </contributor>
+      <comment>aus wikipedia.de</comment>
+      <text xml:space="preserve" bytes="16">aus wikipedia.de</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Quader.JPG</title>
+    <ns>6</ns>
+    <id>3700</id>
+    <revision>
+      <id>14691</id>
+      <timestamp>2011-03-25T09:16:25Z</timestamp>
+      <contributor>
+        <username>MAStaudt</username>
+        <id>870</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Qualle01.jpg</title>
+    <ns>6</ns>
+    <id>4662</id>
+    <revision>
+      <id>19088</id>
+      <parentid>19087</parentid>
+      <timestamp>2015-07-09T13:42:21Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <text xml:space="preserve" bytes="200">{{Information ohne UploadWizard
+|Beschreibung = Qualle / Atlantikstrand Frankreich
+|Quelle = MAWiedemann privat
+|Urheber = MAWiedemann
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>dmr6h3fk2alvtta1tz1m4sferrejifa</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Raben.jpeg</title>
+    <ns>6</ns>
+    <id>5199</id>
+    <revision>
+      <id>21741</id>
+      <timestamp>2017-09-03T17:13:36Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rapunzel.jpg</title>
+    <ns>6</ns>
+    <id>2052</id>
+    <revision>
+      <id>5021</id>
+      <timestamp>2007-01-29T16:11:17Z</timestamp>
+      <contributor>
+        <username>MABauer</username>
+        <id>127</id>
+      </contributor>
+      <comment>Rapunzel, gemalt von einem Kind aus der 3.Klasse</comment>
+      <text xml:space="preserve" bytes="48">Rapunzel, gemalt von einem Kind aus der 3.Klasse</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rapunzel 1.jpeg</title>
+    <ns>6</ns>
+    <id>5181</id>
+    <revision>
+      <id>21714</id>
+      <timestamp>2017-09-03T16:23:15Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:RathausKr.JPG</title>
+    <ns>6</ns>
+    <id>3137</id>
+    <revision>
+      <id>11167</id>
+      <timestamp>2009-03-18T16:28:59Z</timestamp>
+      <contributor>
+        <username>MAMagassy</username>
+        <id>561</id>
+      </contributor>
+      <comment>Kinderphoto, März 2009</comment>
+      <text xml:space="preserve" bytes="23">Kinderphoto, März 2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rathhaus Deutschnofen.JPG</title>
+    <ns>6</ns>
+    <id>2329</id>
+    <revision>
+      <id>6534</id>
+      <timestamp>2007-05-16T14:43:23Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>In der Bildmitte ist das Rathhaus von Deutschnofen. Rechts dahinter ist der Kirchturm von Deutschnofen zu sehen. Ich habe diese Bild selber aufgenommen.</comment>
+      <text xml:space="preserve" bytes="152">In der Bildmitte ist das Rathhaus von Deutschnofen. Rechts dahinter ist der Kirchturm von Deutschnofen zu sehen. Ich habe diese Bild selber aufgenommen.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Raufusskauz.jpg</title>
+    <ns>6</ns>
+    <id>1715</id>
+    <revision>
+      <id>3719</id>
+      <timestamp>2006-03-31T09:16:38Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <comment>Diese Datei wird direkt aus dem zentralen, mehrsprachigen Dateiarchiv Wikimedia Commons eingebunden.
+
+Die folgenden Quellen- und Lizenzangaben stammen von der Commons-Beschreibungsseite.</comment>
+      <text xml:space="preserve" bytes="186">Diese Datei wird direkt aus dem zentralen, mehrsprachigen Dateiarchiv Wikimedia Commons eingebunden.
+
+Die folgenden Quellen- und Lizenzangaben stammen von der Commons-Beschreibungsseite.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Raumfahrt.jpg</title>
+    <ns>6</ns>
+    <id>2087</id>
+    <revision>
+      <id>5159</id>
+      <parentid>5122</parentid>
+      <timestamp>2007-02-14T21:55:21Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rechteck.png</title>
+    <ns>6</ns>
+    <id>3887</id>
+    <revision>
+      <id>15501</id>
+      <timestamp>2012-03-04T15:38:32Z</timestamp>
+      <contributor>
+        <username>MALorenzo</username>
+        <id>916</id>
+      </contributor>
+      <comment>Hab ich selbst mit LaTex gemacht. Es enthält 3 Rechtecke eins leer, das andere mit einer diagonale und eis mit den Spiegelachsen.</comment>
+      <text xml:space="preserve" bytes="130">Hab ich selbst mit LaTex gemacht. Es enthält 3 Rechtecke eins leer, das andere mit einer diagonale und eis mit den Spiegelachsen.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Regpol3-4-5.png</title>
+    <ns>6</ns>
+    <id>3784</id>
+    <revision>
+      <id>15042</id>
+      <timestamp>2011-10-29T08:42:40Z</timestamp>
+      <contributor>
+        <username>MALorenzo</username>
+        <id>916</id>
+      </contributor>
+      <comment>Das Bild enthält drei regelmäßige Polygone und das hab ich selber mit Scratch gezeichnet.</comment>
+      <text xml:space="preserve" bytes="92">Das Bild enthält drei regelmäßige Polygone und das hab ich selber mit Scratch gezeichnet.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rehkitzbild1.jpg</title>
+    <ns>6</ns>
+    <id>2725</id>
+    <revision>
+      <id>8551</id>
+      <timestamp>2008-07-05T07:09:08Z</timestamp>
+      <contributor>
+        <username>MAAlina</username>
+        <id>409</id>
+      </contributor>
+      <comment>Rehkitz im Gras</comment>
+      <text xml:space="preserve" bytes="15">Rehkitz im Gras</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Reitstunde.jpg</title>
+    <ns>6</ns>
+    <id>3970</id>
+    <revision>
+      <id>15981</id>
+      <timestamp>2012-06-28T05:06:23Z</timestamp>
+      <contributor>
+        <username>GSAJana</username>
+        <id>962</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Reservoir-2227644 1280.jpg</title>
+    <ns>6</ns>
+    <id>5367</id>
+    <revision>
+      <id>22398</id>
+      <timestamp>2018-05-17T08:27:43Z</timestamp>
+      <contributor>
+        <username>Wgsad67</username>
+        <id>10336</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = see
+|Quelle = pixaday.de
+|Urheber =freie nutzung 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="163">{{Information ohne UploadWizard
+|Beschreibung = see
+|Quelle = pixaday.de
+|Urheber =freie nutzung 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>8rtdaph3l9d1tqendi82be1aa90usyw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rettungsring.png</title>
+    <ns>6</ns>
+    <id>1613</id>
+    <revision>
+      <id>3205</id>
+      <parentid>3204</parentid>
+      <timestamp>2006-03-09T17:31:23Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Revolverheld.jpg</title>
+    <ns>6</ns>
+    <id>5439</id>
+    <revision>
+      <id>22946</id>
+      <timestamp>2018-06-22T06:56:56Z</timestamp>
+      <contributor>
+        <username>Wgsa05</username>
+        <id>10140</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung =Revolverheld 
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="153">{{Information ohne UploadWizard
+|Beschreibung =Revolverheld 
+|Quelle =?? 
+|Urheber =?? 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>inqpf8u9o4sam3c40dmdm6euwcxnr8w</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rhoenrad.png</title>
+    <ns>6</ns>
+    <id>5605</id>
+    <revision>
+      <id>23728</id>
+      <timestamp>2019-06-26T10:51:53Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = selbstgemaltes Bild eines Rhönrades
+|Quelle = selbst erstellt
+|Urheber = M. Leupold
+|Datum = 26.06.2019
+|Genehmigung = liegt vor
+|Andere Versionen = nicht bekannt
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="230">{{Information ohne UploadWizard
+|Beschreibung = selbstgemaltes Bild eines Rhönrades
+|Quelle = selbst erstellt
+|Urheber = M. Leupold
+|Datum = 26.06.2019
+|Genehmigung = liegt vor
+|Andere Versionen = nicht bekannt
+|Anmerkungen = 
+}}</text>
+      <sha1>nhof1mcnk3vhyhaar226fburi7dn0ae</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rialto Bridge Venice.jpg</title>
+    <ns>6</ns>
+    <id>5172</id>
+    <revision>
+      <id>21689</id>
+      <parentid>21682</parentid>
+      <timestamp>2017-07-20T06:08:19Z</timestamp>
+      <contributor>
+        <username>Wgsa19</username>
+        <id>10154</id>
+      </contributor>
+      <text xml:space="preserve" bytes="185">{{Information ohne UploadWizard
+|Beschreibung = Rialtobrücke in Venedig
+|Quelle = wikipedia.org
+|Urheber = Photovesion
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>6nuupzkij4skwoxxzaw5klnrmtldlok</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rinde.jpg</title>
+    <ns>6</ns>
+    <id>2018</id>
+    <revision>
+      <id>4878</id>
+      <parentid>4874</parentid>
+      <timestamp>2006-12-15T13:35:01Z</timestamp>
+      <contributor>
+        <username>MAEckle</username>
+        <id>134</id>
+      </contributor>
+      <text xml:space="preserve" bytes="74">Rinde der Rotbuche. Bild ist von einem Schüler, aufgenommen Oktober 2006.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rinde kiefer.jpg</title>
+    <ns>6</ns>
+    <id>2112</id>
+    <revision>
+      <id>5287</id>
+      <parentid>5281</parentid>
+      <timestamp>2007-03-05T15:54:06Z</timestamp>
+      <contributor>
+        <username>MAEckle</username>
+        <id>134</id>
+      </contributor>
+      <text xml:space="preserve" bytes="68">Rinde einer Kiefer
+- aufgenommen von einem Schüler im Oktober 2006.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Ritterbild.jpg</title>
+    <ns>6</ns>
+    <id>2665</id>
+    <revision>
+      <id>8235</id>
+      <timestamp>2008-05-08T13:24:34Z</timestamp>
+      <contributor>
+        <username>MATest1</username>
+        <id>436</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Road-1072823 340.jpg</title>
+    <ns>6</ns>
+    <id>5542</id>
+    <revision>
+      <id>23448</id>
+      <parentid>23446</parentid>
+      <timestamp>2018-09-12T13:24:01Z</timestamp>
+      <contributor>
+        <username>Wiki14</username>
+        <id>10366</id>
+      </contributor>
+      <comment>Wiki14 lud eine neue Version von „[[Datei:Road-1072823 340.jpg]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rochen.jpeg</title>
+    <ns>6</ns>
+    <id>5986</id>
+    <revision>
+      <id>25141</id>
+      <timestamp>2022-05-17T10:36:25Z</timestamp>
+      <contributor>
+        <username>KOIGSRO32</username>
+        <id>10496</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Pixabay 
+|Urheber = marygasaway
+|Datum = 27.April.2014
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="177">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = Pixabay 
+|Urheber = marygasaway
+|Datum = 27.April.2014
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>a02ot4va0293vq2ba0ld0vidj13cm5s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rodel2.jpg</title>
+    <ns>6</ns>
+    <id>3208</id>
+    <revision>
+      <id>11517</id>
+      <timestamp>2009-04-27T10:56:30Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Romy HQ.jpg</title>
+    <ns>6</ns>
+    <id>6036</id>
+    <revision>
+      <id>25236</id>
+      <timestamp>2023-01-11T18:04:06Z</timestamp>
+      <contributor>
+        <username>MAMontuori</username>
+        <id>10509</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Bienen summen schön&lt;br /&gt;
+Im Sommer blühen Blüten&lt;br /&gt;
+Blumen blühen schön&lt;br /&gt;
+'''''(Romy)'''''
+|Quelle = eigene Darstellung
+|Urheber = Romy
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerku…</comment>
+      <text xml:space="preserve" bytes="262">{{Information ohne UploadWizard
+|Beschreibung = Bienen summen schön&lt;br /&gt;
+Im Sommer blühen Blüten&lt;br /&gt;
+Blumen blühen schön&lt;br /&gt;
+'''''(Romy)'''''
+|Quelle = eigene Darstellung
+|Urheber = Romy
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>pdysyzol3f1t5niedeuvir9intclwwi</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rosa Hausschwein.jpg</title>
+    <ns>6</ns>
+    <id>2553</id>
+    <revision>
+      <id>7599</id>
+      <timestamp>2008-01-12T11:13:07Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <comment>Ich habe es selber gezeichnet.</comment>
+      <text xml:space="preserve" bytes="30">Ich habe es selber gezeichnet.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rotbuche 2.jpg</title>
+    <ns>6</ns>
+    <id>2019</id>
+    <revision>
+      <id>4879</id>
+      <parentid>4875</parentid>
+      <timestamp>2006-12-15T13:35:44Z</timestamp>
+      <contributor>
+        <username>MAEckle</username>
+        <id>134</id>
+      </contributor>
+      <text xml:space="preserve" bytes="90">Stamm und Blätter der Rotbuche. Bild ist von einem Schüler, aufgenommen im Oktober 2006.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Roter Panda01.jpg</title>
+    <ns>6</ns>
+    <id>4917</id>
+    <revision>
+      <id>20135</id>
+      <parentid>20125</parentid>
+      <timestamp>2016-07-07T07:59:43Z</timestamp>
+      <contributor>
+        <username>Wgsa12</username>
+        <id>10147</id>
+      </contributor>
+      <text xml:space="preserve" bytes="158">{{Information ohne UploadWizard
+|Beschreibung = Roter Panda 
+|Quelle =wikimedia 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>65qz0rdkovs3gy3ffh9dbtzatd8zv7k</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Roterpanda mai.jpg</title>
+    <ns>6</ns>
+    <id>6184</id>
+    <revision>
+      <id>25499</id>
+      <timestamp>2023-02-08T02:48:25Z</timestamp>
+      <contributor>
+        <username>FZmai12</username>
+        <id>10601</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rotkäppchen 1.jpeg</title>
+    <ns>6</ns>
+    <id>5189</id>
+    <revision>
+      <id>21726</id>
+      <timestamp>2017-09-03T16:50:57Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rufzeichen.gif</title>
+    <ns>6</ns>
+    <id>2908</id>
+    <revision>
+      <id>9574</id>
+      <timestamp>2008-10-08T20:58:10Z</timestamp>
+      <contributor>
+        <username>A.Burgermeister</username>
+        <id>2</id>
+      </contributor>
+      <comment>Selbst erstellt.</comment>
+      <text xml:space="preserve" bytes="16">Selbst erstellt.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:RuineNeideck2008.jpg</title>
+    <ns>6</ns>
+    <id>2923</id>
+    <revision>
+      <id>9659</id>
+      <timestamp>2008-11-03T19:52:22Z</timestamp>
+      <contributor>
+        <username>MAAlina</username>
+        <id>409</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Rumpelstilzchen.jpeg</title>
+    <ns>6</ns>
+    <id>5201</id>
+    <revision>
+      <id>21744</id>
+      <timestamp>2017-09-03T17:17:57Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="137">{{Information ohne UploadWizard
+|Beschreibung = 
+|Quelle = 
+|Urheber = 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>lj1haq7m8afx2ug80x7x1jw9kylaene</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Runenzeichen.jpg</title>
+    <ns>6</ns>
+    <id>3180</id>
+    <revision>
+      <id>11370</id>
+      <timestamp>2009-03-30T21:43:06Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Bild von: Yvonne M. , vom: 24.3.2009</comment>
+      <text xml:space="preserve" bytes="36">Bild von: Yvonne M. , vom: 24.3.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:RömerTaktik.jpg</title>
+    <ns>6</ns>
+    <id>2654</id>
+    <revision>
+      <id>8189</id>
+      <timestamp>2008-04-28T19:21:15Z</timestamp>
+      <contributor>
+        <username>MANiclas</username>
+        <id>427</id>
+      </contributor>
+      <comment>Eine Kampftaktik der Römer</comment>
+      <text xml:space="preserve" bytes="27">Eine Kampftaktik der Römer</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:RömerTaktik.png</title>
+    <ns>6</ns>
+    <id>2656</id>
+    <revision>
+      <id>8192</id>
+      <timestamp>2008-04-28T19:32:36Z</timestamp>
+      <contributor>
+        <username>MANiclas</username>
+        <id>427</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SA14112011.png</title>
+    <ns>6</ns>
+    <id>5971</id>
+    <revision>
+      <id>25106</id>
+      <timestamp>2022-05-06T07:31:45Z</timestamp>
+      <contributor>
+        <username>KOIGSRO42</username>
+        <id>10495</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Götter
+|Quelle =  Pixabay
+|Urheber = iirliinnaa
+|Datum = 06.05.2022
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="180">{{Information ohne UploadWizard
+|Beschreibung = Götter
+|Quelle =  Pixabay
+|Urheber = iirliinnaa
+|Datum = 06.05.2022
+|Genehmigung = CC-BY-SA
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>o5mp8qkyqsijcxmzld8w21iyj7wm78a</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SAM 3615.JPG</title>
+    <ns>6</ns>
+    <id>4983</id>
+    <revision>
+      <id>20868</id>
+      <parentid>20863</parentid>
+      <timestamp>2016-07-25T06:09:42Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>MAWiedemann lud eine neue Version von „[[Datei:SAM 3615.JPG]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Kirche Lauterbrunn St. Vitus
+|Quelle = Eigenes Bild
+|Urheber = Eigenes Bild
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkunge</comment>
+      <text xml:space="preserve" bytes="184">{{Information ohne UploadWizard
+|Beschreibung =Kirche Lauterbrunn St. Vitus 
+|Quelle = Eigenbild
+|Urheber = Eigenbild 
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>3ki1b79r2v692e3seikywhsxczpzfca</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SAM 3621.JPG</title>
+    <ns>6</ns>
+    <id>4982</id>
+    <revision>
+      <id>20867</id>
+      <parentid>20858</parentid>
+      <timestamp>2016-07-25T04:20:46Z</timestamp>
+      <contributor>
+        <username>MAWiedemann</username>
+        <id>948</id>
+      </contributor>
+      <comment>MAWiedemann lud eine neue Version von „[[Datei:SAM 3621.JPG]]“ hoch: {{Information ohne UploadWizard
+|Beschreibung = Wappen Lauterbrunn
+|Quelle = Eigenes Bild
+|Urheber = Eigenes Bild
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="173">{{Information ohne UploadWizard
+|Beschreibung = Wappen Lauterbrunn
+|Quelle = Eigenbild
+|Urheber = Eigenbild
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>rf65ze8hn7b8gvyspky8pkkyzi5qxe6</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SK.jpg</title>
+    <ns>6</ns>
+    <id>3920</id>
+    <revision>
+      <id>15616</id>
+      <timestamp>2012-06-03T21:00:43Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>Das Skip-Bo Kartenspiel</comment>
+      <text xml:space="preserve" bytes="23">Das Skip-Bo Kartenspiel</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SK1.jpg</title>
+    <ns>6</ns>
+    <id>3921</id>
+    <revision>
+      <id>15618</id>
+      <timestamp>2012-06-03T21:02:00Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <comment>Die Karten von 1-12</comment>
+      <text xml:space="preserve" bytes="19">Die Karten von 1-12</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SKISPUNG.jpg</title>
+    <ns>6</ns>
+    <id>3206</id>
+    <revision>
+      <id>11515</id>
+      <timestamp>2009-04-27T10:46:37Z</timestamp>
+      <contributor>
+        <username>MAHeuer</username>
+        <id>616</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Sagrada-familia-552084 340.jpg</title>
+    <ns>6</ns>
+    <id>5355</id>
+    <revision>
+      <id>22267</id>
+      <timestamp>2018-05-12T15:11:42Z</timestamp>
+      <contributor>
+        <username>Wgsad65</username>
+        <id>10334</id>
+      </contributor>
+      <comment>{{Information ohne UploadWizard
+|Beschreibung = Sagrada Familia
+|Quelle = Pixabay
+|Urheber = Patrice_Audet
+|Datum = 12.05.18
+|Genehmigung = kostenlos; kein Bildnachweis nötig
+|Andere Versionen = 
+|Anmerkungen = 
+}}</comment>
+      <text xml:space="preserve" bytes="215">{{Information ohne UploadWizard
+|Beschreibung = Sagrada Familia
+|Quelle = Pixabay
+|Urheber = Patrice_Audet
+|Datum = 12.05.18
+|Genehmigung = kostenlos; kein Bildnachweis nötig
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>8ggncni6oqnp8quhupgbgod9x55ttfd</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:San Francisco Oakland Bay Bridg01.jpg</title>
+    <ns>6</ns>
+    <id>4922</id>
+    <revision>
+      <id>20154</id>
+      <parentid>20144</parentid>
+      <timestamp>2016-07-07T09:21:49Z</timestamp>
+      <contributor>
+        <username>Wgsa24</username>
+        <id>10159</id>
+      </contributor>
+      <text xml:space="preserve" bytes="207">{{Information ohne UploadWizard
+|Beschreibung = San Francisco Oakland Bay Bridge 
+|Quelle = Wikimedia
+|Urheber = von Almonroth (Eigenes Werk)
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>3yhdaia2do7h2jdj5n7m6qlznazdgw0</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:SarahModedesignerinwiki.jpg</title>
+    <ns>6</ns>
+    <id>3961</id>
+    <revision>
+      <id>15856</id>
+      <timestamp>2012-06-22T09:06:40Z</timestamp>
+      <contributor>
+        <username>GSASarah</username>
+        <id>970</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Saturn.jpg</title>
+    <ns>6</ns>
+    <id>2129</id>
+    <revision>
+      <id>5339</id>
+      <timestamp>2007-03-07T08:39:45Z</timestamp>
+      <contributor>
+        <username>BASchiemann</username>
+        <id>176</id>
+      </contributor>
+      <text xml:space="preserve" bytes="0" />
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Saxony-28535 1280.png</title>
+    <ns>6</ns>
+    <id>5504</id>
+    <revision>
+      <id>23352</id>
+      <parentid>23351</parentid>
+      <timestamp>2018-07-09T18:12:18Z</timestamp>
+      <contributor>
+        <username>Wgsad66</username>
+        <id>10335</id>
+      </contributor>
+      <comment>Wgsad66 lud eine neue Version von „[[Datei:Saxony-28535 1280.png]]“ hoch: Zurückgesetzt auf die Version vom 9. Juli 2018, 17:36 Uhr</comment>
+      <text xml:space="preserve" bytes="167">{{Information ohne UploadWizard
+|Beschreibung =Sachsen Flagge 
+|Quelle = Pixabay
+|Urheber = unbekannt
+|Datum = 
+|Genehmigung = 
+|Andere Versionen = 
+|Anmerkungen = 
+}}</text>
+      <sha1>fmxs6ytxlh90fvr3vgza8vh8pvhgmv5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Datei:Schaf.jpg</title>
+    <ns>6</ns>
+    <id>3182</id>
+    <revision>
+      <id>11372</id>
+      <timestamp>2009-03-30T22:09:16Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <comment>Fotografiert von: Moritz F. , vom: 25.3.2009</comment>
+      <text xml:space="preserve" bytes="44">Fotografiert von: Moritz F. , vom: 25.3.2009</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,48 @@
+{
+  "pageid": 3751,
+  "ns": 0,
+  "title": "Star Wars",
+  "revisions": [
+    {
+      "revid": 14951,
+      "parentid": 14942,
+      "user": "Leupold",
+      "timestamp": "2011-06-11T19:29:19Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}[[Bild:starwarslogo.jpg|thumb]]\nStar Wars ist ein galaktischer Film, wo Gut und Böse vorkommt.\n\nJedis und Sith kämpfen um den Frieden. Die Hauptpersonen sind Luke und Anakin, der dann zu Darth Vader wird. Star Wars ist ab 12 Jahre erlaubt.\n\n\n\n\n{{Rücksprung|S}}"
+    },
+    {
+      "revid": 14942,
+      "parentid": 14939,
+      "user": "MARafin",
+      "timestamp": "2011-06-09T12:37:20Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nStar Wars ist ein galaktischer Film, wo Gut und Böse vorkommt.\n\nJedis und Sith kämpfen um den Frieden. Die Hauptpersonen   \nSind Luke und Anakin der dann zu Darth Vader wird.\nStar Wars ist ab 12 Jahre erlaubt.\n\n\n[[Bild:starwarslogo.jpg]]\n\n{{Rücksprung|S}}"
+    },
+    {
+      "revid": 14939,
+      "parentid": 14918,
+      "user": "MAReimer",
+      "timestamp": "2011-06-06T18:16:20Z",
+      "comment": "",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nStar Wars ist ein galaktischer Film, wo Gut und Böse vorkommt.\n\n\n\n[[Bild:starwarslogo.jpg]]\n\n{{Rücksprung|S}}"
+    },
+    {
+      "revid": 14918,
+      "parentid": 14862,
+      "user": "Leupold",
+      "timestamp": "2011-05-31T20:05:46Z",
+      "comment": "babel rücksprung",
+      "wikitext": "{{Babel-1|Schüler_Verfasser}}\nStar Wars ist ein galaktischer Film, wo Gut und Böse vorkommt.\n\n\n\n\n{{Rücksprung|S}}"
+    },
+    {
+      "revid": 14862,
+      "parentid": 0,
+      "user": "MARafin",
+      "timestamp": "2011-05-11T12:14:28Z",
+      "comment": "Die Seite wurde neu angelegt: Star Wars ist ein galaktischer Film, wo Gut und Böse vorkommt.",
+      "wikitext": "Star Wars ist ein galaktischer Film, wo Gut und Böse vorkommt."
+    }
+  ],
+  "categories": []
+}

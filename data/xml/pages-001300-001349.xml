@@ -1,0 +1,1783 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.8/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.8/ http://www.mediawiki.org/xml/export-0.8.xsd" version="0.8" xml:lang="de">
+  <siteinfo>
+    <sitename>ZUM-Grundschul-Wiki</sitename>
+    <base>https://grundschulwiki.zum.de/wiki/Hauptseite</base>
+    <generator>MediaWiki 1.21.2</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">ZUM-Grundschul-Wiki</namespace>
+      <namespace key="5" case="first-letter">ZUM-Grundschul-Wiki Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="274" case="first-letter">Widget</namespace>
+      <namespace key="275" case="first-letter">Widget Diskussion</namespace>
+      <namespace key="310" case="first-letter">Group</namespace>
+      <namespace key="311" case="first-letter">Group talk</namespace>
+      <namespace key="420" case="first-letter">Layer</namespace>
+      <namespace key="421" case="first-letter">Layer Diskussion</namespace>
+      <namespace key="460" case="case-sensitive">Campaign</namespace>
+      <namespace key="461" case="case-sensitive">Campaign talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Super Mario</title>
+    <ns>0</ns>
+    <id>3502</id>
+    <revision>
+      <id>14034</id>
+      <parentid>14020</parentid>
+      <timestamp>2010-11-07T19:35:53Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>name entnommen</comment>
+      <text xml:space="preserve" bytes="274">{{Babel-1|Schüler_Verfasser}}
+Super Mario ist ein klassisches Jump n´ Run von der Firma Nintendo. Wo zwei Italienische Klempner. Sie müssen durch 8 Welten laufen. Der  Spielerfinder heißt Shigeru Miyamoto und hat die Figur 1985 auf dem NES erfunden.
+
+
+
+{{Rücksprung|S}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Super Mario Bros.</title>
+    <ns>0</ns>
+    <id>3600</id>
+    <redirect title="Super Mario" />
+    <revision>
+      <id>14019</id>
+      <timestamp>2010-11-07T08:41:24Z</timestamp>
+      <contributor>
+        <username>MALukas</username>
+        <id>837</id>
+      </contributor>
+      <comment>hat „[[Super Mario Bros.]]“ nach „[[Super Mario]]“ verschoben: Super Mario ist nicht mit untertiteln als Titel Benennbar</comment>
+      <text xml:space="preserve" bytes="25">#REDIRECT [[Super Mario]]</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Supertux2</title>
+    <ns>0</ns>
+    <id>3578</id>
+    <revision>
+      <id>13939</id>
+      <parentid>13932</parentid>
+      <timestamp>2010-10-25T18:13:20Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel</comment>
+      <text xml:space="preserve" bytes="273">{{Babel-1|Schüler_Verfasser}}
+Bei dem Computerspiel Supertux2 spielt man einen Pinguin. Bei diesem Spiel muss man alle Level schaffen. Bei allen Level muss man gegen Monster kämpfen. Der Endgegner ist ein Eisbär und man muss fünfmal auf ihn springen.
+
+{{Rücksprung|S}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Swift, Taylor</title>
+    <ns>0</ns>
+    <id>4557</id>
+    <revision>
+      <id>18683</id>
+      <parentid>18673</parentid>
+      <timestamp>2015-01-11T20:21:11Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="486">{{Babel-1|Schüler_Verfasser}}
+Taylor Alison Swift hat am dreiundzwanzigsten Dezember Geburtstag, sie ist eine Sängerin und Liedermacherin. Sie ist in Wyomissing (Pennsylvania)
+aufgewachsen. Taylor Swift wohnt in Nashville,Tennessee. Sie ist 24 Jahre alt und ihr Spitzname ist “Tay”. Sie hat einen Bruder,er heißt Austin. Sie ist 1.78 Meter gross und ihre Lieblingshobbys sind Backen, Wandern und Wasserski fahren. (verfasst von Nandi, Frau V. Klasse, Dez 2014)
+
+{{Rücksprung|S}}</text>
+      <sha1>4a7ghxnqyxmi2nerf18zmi9rh9i436v</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Swish</title>
+    <ns>0</ns>
+    <id>4082</id>
+    <revision>
+      <id>16524</id>
+      <timestamp>2013-02-25T14:50:51Z</timestamp>
+      <contributor>
+        <username>MALeupold</username>
+        <id>710</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: Swish Swish ist ein Kartenspiel.Man legt vier-mal-vier Karten. In denen muss man versuchen einen Swish ( Ein Swish ist wenn bei zwei Karten beide Punkte in beide Kreise...</comment>
+      <text xml:space="preserve" bytes="357">Swish
+Swish ist ein Kartenspiel.Man legt vier-mal-vier Karten. In denen muss man versuchen einen Swish ( Ein Swish ist wenn bei zwei Karten beide Punkte in beide Kreise passen) zu finden. Die Grundidee ist gut, aber auch sehr schwer zu verstehen. Jetzt noch ein Tipp: Ich fände es besser wenn man die Karten anfassen dürfte. Dann wäre das Spiel leichter.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Syrien</title>
+    <ns>0</ns>
+    <id>2324</id>
+    <revision>
+      <id>9394</id>
+      <parentid>8416</parentid>
+      <timestamp>2008-08-13T18:04:03Z</timestamp>
+      <contributor>
+        <username>MAantonios</username>
+        <id>324</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1363">{{Babel-1|Schüler_Verfasser}}
+[[Bild:syrienflaggenbild.jpg|thumb|Landesflagge]]
+Syrien
+
+Syrien  (amtlich Arabische Rebuplik Syrien, auf Arabisch:(al- Dschumhüriyya al- ´ arabiyya as- süriyya) ist ein Land im Nahen Osten. Syrien ist das größte Land des Nahen Ostens (Orient), Syrien hat 20.000.000 Einwohner (stand 2006)
+Es hat ebenfalls viel UNESCO Weltkulturerbe.
+Die Hauptstadt Damaskus ist eine der am schönsten
+Und größten Städte der Welt nämlich mit 
+6.000.000 Einwohnern (stand 2006).
+Aleppo die zweit größte Stadt Syriens (4.000.000)
+Einwohnern (stand 2006) die Kulturhauptstadt des Islams
+und in ihr ist einer der größten Krieger der Welt begraben
+nämlich Saladin 
+. Syrien Grenzt an folgende Länder: Israel, Libanon, Jordanien, Türkei und Irak. Mit  185.180qkm ist Syrien ungefähr halb groß wie Deutschland. Der Name des Staates Syrien kommt aus dem griechischen Wort Assur. Der Name hieß früher bilad asch-scham.      ! Es gibt 84% Muslime in Syrien und 10% Christen! In Syrien spricht man Arabisch, Englisch und Französisch!Syrien hat enge bindung zu Deutschland seit 2002.In Syrien wurde das erst zuende geschriebene Alphabet gefunden.Die zwei größten Städte Syriens sind Damaskus 6mio. Einwohner, Aleppo 4mio. Einwohner (stand 2006). Syrien ist Angemeldet für die Olympischen Spiele 2008 in Peking.   
+
+
+
+
+{{Rücksprung|S}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Säbelzahntiger</title>
+    <ns>0</ns>
+    <id>2260</id>
+    <revision>
+      <id>22610</id>
+      <parentid>22573</parentid>
+      <timestamp>2018-06-17T18:27:07Z</timestamp>
+      <contributor>
+        <username>Wgse03</username>
+        <id>10178</id>
+      </contributor>
+      <comment>/* Lebensraum */</comment>
+      <text xml:space="preserve" bytes="2016">
+== Lebensraum ==
+Der Säbelzahntiger besiedelte vor vielen Millionen Jahren die Kontinente Europa, Afrika und Amerika.&lt;br /&gt;Es waren auch kleine Teile von Asien dabei.&lt;br /&gt;
+
+Es ist anzunehmen, dass der heimische Lebensraum der Wald war, wo er sich gut verstecken konnte.&lt;br /&gt;
+&lt;br /&gt;
+[[Datei:Megantereon cultridens.jpg|miniatur|säbelzahntiger]]
+
+== Aussehen ==
+Säbelzahnkatzen wurden von den Menschen so genannt wegen ihren riesengroßen gebogenen Reiß- und Eckzähnen.&lt;br /&gt;
+Die heutigen Wildkatzen können ihr Kiefer nur 65-70 Grad aufreißen.&lt;br /&gt;
+Die Säbelzahnkatze riss ihr Maul bis zu 95 Grad auf, was auch sehr nötig war um die Reißzähne voll einsetzen zu können.&lt;br /&gt;
+Mit seinen langen Reißzähnen konnte er sein Fressen aufspießen. Er hatte 200 mm lange Reißzähne. Die Säbelzahnkatze wurde auch Säbelzahntiger genannt.&lt;br /&gt;Sie ist vor Jahrtausenden ausgestorben. Die Säbelzahnkatze ist mit den heutigen Wildkatzen verwandt.
+Der Säbelzahntiger war nicht viel größer als unsere heutigen Wildkatzen. 
+Auffällig war auch der kleine bommelige Schwanz.
+Die spitzigen Ohren halfen dem Raubtier das zu den Säugtieren gehört auch beim besseren hören. 
+Das braune Fell half ihm sich besser zu tarnen und zu verstecken damit es seine Beute besser jagen konnte.
+
+== Nahrung ==
+Die Säbelzahnkatze war ein Fleischfresser. Sie ernährte sich auch von sehr dickhäutigen Tieren wie Mammuts, Bisons oder auch Wildpferden. Natürlich waren auch kleine Leckerbissen willkommen wie z.B.: Mäuse, Ratten oder Schnecken. Er biss mit seinen riesigen gebogenen Zähnen in die Kehle des Tieres. Mit seinen Eckzähnen erlegte er seine Beute.
+
+== Feinde ==
+Die gefährlichsten Feinde des Urzeittigers waren eigentlich nur wir Menschen. Wenn eines der Tiere krank oder schwach war, wurde es natürlich von anderen Raubtieren genauso gejagt und getötet wie er es selber tun würde. Auch Umweltkatastrophen wie Feuer oder Hochwasser konnten dem Säbelzahntiger zum Verhängnis werden. 
+
+
+
+
+
+{{Rücksprung|S}}</text>
+      <sha1>c17sd0s5fc1n12aa11cym95eegslkyp</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Säugetier</title>
+    <ns>0</ns>
+    <id>3273</id>
+    <revision>
+      <id>21121</id>
+      <parentid>21109</parentid>
+      <timestamp>2017-03-17T09:22:46Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1334">{{Babel-1|Schüler_Verfasser}}
+'''Aussehen:'''
+
+Säugetiere sind wohl die bekannteste Tiergruppe, wir gehören selbst dazu. Dazu gehören auch zum Beispiel Leoparden, Fledermäuse, Delfine, Pandas und Elefanten. Säugetiere besitzen ein Innenskelett mit einer ausgeprägten Wirbelsäule. Sie sind warmblütig und können deswegen ihre Körpertemperatur einigermaßen stabil halten. Deswegen können sie sehr verschiedene Lebensräume bewohnen. Alle Säugetiere besitzen einen behaarten Körper.
+Säugtiere werden eingeteilt in: Nagetiere, Fledertiere, Insektenfresser, Primaten, Beuteltiere, Raubtiere und Huftiere. 
+
+'''Vermehrung:'''
+
+Säugetiere bringen ihre Jungen lebend zur Welt und säugen sie. 
+Einige Säugetiere (z.B. das Schnabeltier) legen Eier. Sie säugen dann aber ihre Jungen und deshalb zählen sie zu den Säugetieren. Wale und Delfine leben im Wasser und gehören auch zur Klasse der Säugetiere, obwohl sie im Wasser schwimmen.
+
+'''Besonderheiten:'''
+
+Auch der Wal hat Haare; er hat nur mehr wenige Tasthaare.
+Säugetiere können sich auf verschiedenen Arten fortbewegen:
+Schwimmen, kriechen, springen, tauchen, klettern, fliegen und rennen.
+
+&lt;gallery&gt;
+Datei: Hase.gif|
+Datei: Großer_Panda.gif|
+Datei: Gepard2.gif|
+Datei: Hund_und_sein_Welpe.gif|
+Datei: Koala.gif|
+Datei: Ziege.gif|
+
+&lt;/gallery&gt;
+
+{{Rücksprung|S}}</text>
+      <sha1>8nxu5q2nzl34q94enrxh7y6okvwxi9m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Sölden</title>
+    <ns>0</ns>
+    <id>2698</id>
+    <revision>
+      <id>11300</id>
+      <parentid>11297</parentid>
+      <timestamp>2009-03-28T15:28:20Z</timestamp>
+      <contributor>
+        <username>MASimon</username>
+        <id>518</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1045">{{Babel-1|Schüler_Verfasser}}
+Sölden ist ein kleiner Ort im grünen Hexental. Die kleine Abt-Steyrer  Grundschule besuchen 50 Kinder. Die St.Fides und Markuskirche besitzen einen Friedhof mit 40 Gräbern. Wegen der viel befahrenen Staufener
+Straße haben wir eine Unterführung. Das Rathaus steht, wie das 
+Feuerwehrhaus an der Staufener Straße. Sölden hat eine Kapelle, nähmlich die Saalenbergkapelle.. Es gibt drei Bauernhöfe mit jeweils drei Traktoren, einer der drei hat 2010 sein 200. Jubiläum. Es gibt einen kleinen Schreibwarenladen, der früher eine Milchabgabe war, und deshalb den Namen &quot;Milchhäuschen&quot; trägt. Die Metzgerei Gerteiser stellt pure Fleischwaren her, während die Metzgerei Salb Kekse und Kaugummis verkauft. Es gibt eine Dorfhelferinnenschule und einen Arzt. Die Gaststätte Löwen ist ein großer Stall mit Haupthaus, in den oberen Geschossen sind die Zimmer und ein großer Saal. In der Turnhalle wird trainiert dort werden aber auch Feste gefeiert. Der Spielplatz hat ein großes Gerüst. 
+
+
+{{Rücksprung|S}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Südkorea</title>
+    <ns>0</ns>
+    <id>3599</id>
+    <revision>
+      <id>24854</id>
+      <parentid>14044</parentid>
+      <timestamp>2021-01-31T10:03:25Z</timestamp>
+      <contributor>
+        <username>MAPeter</username>
+        <id>10453</id>
+      </contributor>
+      <text xml:space="preserve" bytes="388">{{Babel-1|Schüler_Verfasser}}
+=Lage=
+Südkorea ist ein Land in Südostasien und hat [[Grenzen]] zu Nordkorea. Im Osten grenzt es an das [[Japanische Meer]] am Westen an das [[Gelbe Meer]] und im Süden an die [[Korea-Straße]]
+=Internet=
+Südkorea hat das schnellste [[Internet]]
+=Städte=
+Südkoreas [[Hauptstadt]] ist [[Seoul]] und hat 10 Millionen [[Einwohner]]
+
+
+
+
+
+{{Rücksprung|S}}</text>
+      <sha1>lctnxeimgr9uuvze40oqehztzgx3g6s</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Südtirol</title>
+    <ns>0</ns>
+    <id>2319</id>
+    <revision>
+      <id>7889</id>
+      <parentid>6680</parentid>
+      <timestamp>2008-02-02T10:27:55Z</timestamp>
+      <contributor>
+        <username>MAPichler</username>
+        <id>349</id>
+      </contributor>
+      <text xml:space="preserve" bytes="3556">==Südtirol, unsere Heimat==
+
+Südtirol ist ein Teil Italiens. Im Norden und Osten grenzt Südtirol an Österreich und im Westen an die Schweiz. Im Süden befindet sich die Provinz Trient. Mit dieser Provinz bildet Südtirol gemeinsam die Region Trentino-Südtirol.
+
+Südtirol reicht vom Reschenpass im Westen bis zum Toblacher Feld im Osten, vom Brennerpass im Norden bis zur Salurner Klause im Süden.
+
+In Südtirol leben ungefähr 487.673 Einwohner.
+
+Die drei größten Täler Südtirols sind: das ''Etschtal'', das ''Eisacktal'' und das ''Pustertal''. Durch jedes dieser drei Täler fließt ein Fluss; durch das Etschtal die Etsch, durch das Eisacktal der Eisack und durch das Pustertal die Rienz.
+
+Die zwei wichtigsten Pässe Südtirols sind der Brennerpass im Norden, die Grenze zu Österreich, und der Reschenpass im Westen, die Grenze zur Schweiz.
+In Südtirol lebt man hauptsächlich von [[Landwirtschaft]], Fremdenverkehr, Handel und Industrie.
+
+Die größte Besonderheit in Südtirol ist, dass hier 3 Sprachgruppen zusammenleben: die deutsche (69,15%), italienische (26,47) und die ladinische Sprachgruppe (4,37). 
+In Südtirol lernt man die jeweils zweite Sprache verpflichtend ab der 1. Klasse Grundschule, d.h. ein Südtiroler deutscher Muttersprache, lernt in der Grundschule ab der 1. Klasse Italienisch als Pflichtfach, ein Südtiroler italienischer Muttersprache umgekehrt.
+
+Südtirol liegt in den Alpen, einem großen Gebirge, also in mitten von Bergen und Hochebenen. In Südtirol gibt es drei bekannte Hochplateaus: den Reggelberg, den Ritten und den Tschögglberg.
+
+In Südtirol gibt es 8 Städte: [[Bozen]], [[Meran]], [[Brixen]], [[Bruneck]], [[Sterzing]], [[Klausen]], [[Glurns]], [[Leifers]]. 
+Während alle anderen Städte bereits seit dem Mittelalter zu Städten erhoben wurden, gilt Leifers erst seit 1985 als Stadt. 
+
+In Südtirol gibt es 116 Gemeinden. Eine davon ist die [[Gemeinde Deutschnofen]].
+
+== Religiöses ==
+In Südtirol gibt es eine Diözese. Sie heißt Diözese Bozen-Brixen. Sie besteht aus 28 Dekanaten und diese bestehen aus 280 Pfarreien.[[Bild:Diözese_Bozen_Brixen.jpg|thumb|Das Bild zeigt die Bistums-und Dekanatsgrenzen der Diözese Bozen-Brixen]]
+
+==Das Klima in Südtirol==
+
+Das Klima in Südtirol hängt von verschiedenen Dingen ab: Höhenlagen, Sonnenschein, Wind, Niederschlag. Nach dem Klima richten sich die Landwirtschaft, also Ackerbau, Obstbau und Weinbau.
+
+In Südtirol gibt es 4 Klimaräume:
+
+1. Im Etschtal von Meran bis zur Salurner Klause herrscht milde Klima.
+
+2. Im Vinschgau fällt wenig Regen und es ist sehr windig. Daher ist es sehr trocken.
+
+3. Im Oberpustertal herrscht rauhes Klima, im unteren Pustertal ist es milder.
+
+4. Das Eisacktal nimmt eine Mittelstellung ein. Im Obereisacktal ist es rauh, im mittleren und unteren Eisacktal mild.
+
+==Landwirtschaft in Südtirol==
+
+''Ackerbau und Viehzucht'':
+Früher haben Ackerbau und Viehzucht in Südtirol eine große Rolle gespielt. Heute ist vor allem der Ackerbau stark zurückgegangen, dies aufgrund der geringen Erträge. Auf den Höfen werden hauptsächlich Rinder gehalten. Auch die Pferde-, Schafe- und Schweinezucht ist in Südtirol in den letzten Jahren nur noch selten. In Südtirol konzentriert man sich heute hauptsächlich auf Fremdenverkehr und Industrie.
+
+''Obst- und Weinbau:''
+Im Etschtal von Meran abwärts, im unteren Eisacktal erlaubt die sonnige Lage den Weinbau. Zwischen Schlanders und Salurn breiten sich immer mehr Obstanlagen aus. Hier steht das Kernobst, vor allem Äpfel im Fordergrund.
+
+
+
+{{Rücksprung|S}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Sümmern</title>
+    <ns>0</ns>
+    <id>3480</id>
+    <revision>
+      <id>13517</id>
+      <parentid>13515</parentid>
+      <timestamp>2010-05-18T17:18:09Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="1302">{{Babel-1|Schüler_Verfasser}}[[Bild:Ortseingangsschild.JPG|thumb|Ortseingangsschild in den Ort Sümmern]][[Bild:Wappen Sümmern.JPG|thumb|Das Wappen von Sümmern]]
+
+Bis 1974 war Sümmern eine Gemeinde im ehemaligen Amt Menden.Sümmern hat zwei Kirchen:die evangelische Kreuzkirche und die katholische Gertrudiskirche.Ende 2009 hatte Sümmern 6017 Einwohner.Das Wappen ist rot,hat drei weiße Blumen und eine Art Baum ziehmlich weit unten.Von 1967 bis 1974 bestand zwischen der ehemaligen Gemeinde Sümmern und Laventie eine Partnerschaft.Durch die Eingemeindung Sümmerns in die Stadt Iserlohn ging die Städtepartnerschaft 1975 auf Iserlohn über.Die erste Erwähnung als Flurname findet sich um 1650 in einer Grenzbeschreibung:bis an den Griesenbroich.Zu Anfang des 17. Jahrhunderts ließ die Stadt Iserlohn dort ein Gut anlegen,mit dem die Besiedlung des Griesenbraucks beginnt.Der Griesenbrauck hat einen bekannten Sportverein namens TV Griesenbrauck.Dieser Turn- oder Sportverein wurde im Jahr 1887 gegründet.In Sümmern ist die [[Grundschule Sümmern]].Ich gehe selbst auf diese Schule und finde sie sehr toll.Außerdem befindet sich in Sümmern die Carl-Sonnenscheinschule.Dort findet jedes Jahr der grüne Tag statt.An diesem Tag verkaufen Leute Blumen und andere Sachen.
+
+
+
+{{Rücksprung|S}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>T</title>
+    <ns>0</ns>
+    <id>1355</id>
+    <revision>
+      <id>19024</id>
+      <parentid>16072</parentid>
+      <timestamp>2015-05-08T20:39:20Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>- font-size:9pt;</comment>
+      <text xml:space="preserve" bytes="790">{{Lexikonaufruf}}
+
+{| width=100% style=&quot;border: 0; background-color: #ffffff&quot; cellpadding=&quot;0&quot; cellspacing=&quot;3&quot;
+| style=&quot;width:100%; vertical-align: top; border:1px solid #aaaaaa; background-color: #FFFFFF&quot; |
+&lt;div style=&quot;background-color:#e0e0e0; font-size:1px; height:8px; border-bottom:1px solid #aaaaaa;&quot;&gt;&lt;/div&gt;
+&lt;div style=&quot;float:right; margin:12px; margin-top:10px&quot;&gt;[[Bild:Buchstabe-T.gif]]&lt;/div&gt;
+&lt;div style=&quot;font: Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;&quot;&gt;Beiträge &amp;nbsp;&amp;nbsp;&lt;small&gt;&lt;small&gt;[http://grundschulwiki.zum.de/index.php?title=Vorlage:InhalteT&amp;action=edit neuen Beitrag hinzufügen!]&lt;/small&gt;&lt;/small&gt;&lt;/div&gt;
+&lt;div style=&quot;padding:5px&quot;&gt;
+{|valign=top cellpadding=0 cellspacing=3 width=100%
+|align=left valign=top width=100%|
+{{InhalteT}}
+|}
+&lt;/div&gt;
+|}</text>
+      <sha1>p25ftdnwujc8qjonoegsp6c1z6a0sok</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>THW</title>
+    <ns>0</ns>
+    <id>5890</id>
+    <revision>
+      <id>24886</id>
+      <timestamp>2021-03-13T14:52:31Z</timestamp>
+      <contributor>
+        <username>MALuetgenau</username>
+        <id>10455</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Babel-1| Schüler_Verfasser}}  THW ist eine Abkürzung von Technisches Hilfswerk.  == Aufgaben == Bei Hochwasser Wasser abpumpen. Bei Erdbeben Menschen aus e…“</comment>
+      <text xml:space="preserve" bytes="434">{{Babel-1| Schüler_Verfasser}}
+
+THW ist eine Abkürzung von Technisches Hilfswerk.
+
+== Aufgaben ==
+Bei Hochwasser Wasser abpumpen. Bei Erdbeben Menschen aus eingestürzten Häusern retten.
+
+== Gründung ==
+Das THW wurde am 22. august 1960 gegründet. Gründer: Otto Lumitzsch.
+
+== THW Marburg ==
+Es gibt in Marburg einen THW-Ortsverband. In Molkereistr. 7, 35037 Marburg. Ortsverbandbeauftragter: Jörgen Linne.
+
+
+{{Rücksprung | T}}</text>
+      <sha1>j3qx2v09ihw3468d2v0kzlusn7ry4fl</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>TSV Zusamzell Tanzverein</title>
+    <ns>0</ns>
+    <id>4674</id>
+    <revision>
+      <id>19261</id>
+      <parentid>19255</parentid>
+      <timestamp>2015-07-14T06:54:41Z</timestamp>
+      <contributor>
+        <username>GSAJessicaR</username>
+        <id>10091</id>
+      </contributor>
+      <text xml:space="preserve" bytes="875">
+== Geschichte ==
+Der TSV Zusamzell wurde am 6.4.1968 gegründet.
+1977 wurde das Sportheim gebaut.
+Ursprünglich ist der TSV Zusamzell ein Fußballverein.Auf Grund der großen Nachfrage wurde der Verein um die Teeny Dance Gruppe , die Damen-Turngruppe und Taekwondo erweitert. 2005 wurde der JFG-Zusamtal zusammen mit den Vereinen SSV Neumünster-Unterschöneberg, SV Grün-Weiß und Baiershofen und  SC Altenmünster gegründet.
+
+[[Datei:Gsajessicar1.jpg|miniatur|links|Jacke von JFG Zusamtal ]] &lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+
+
+
+== Tanztrainer ==
+Corinna Scherer,Bea Kallenbach , Tanja Riegel , Sabrina Fischer und Martina Reile 
+
+
+== Tänze ==
+Einer der Aktuellen Tänze heißen leppo leppo und Pick up boule.
+
+
+== Auftritte ==
+Auf Anfragen werden die Termine zum Auftritte erfragt und eingeteilt.
+Die meisten Auftritte werden im Fasching getanzt.</text>
+      <sha1>8rlqu6236k0tdkfolwebfmcj758in9t</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Taekwondo</title>
+    <ns>0</ns>
+    <id>5783</id>
+    <revision>
+      <id>24526</id>
+      <parentid>24525</parentid>
+      <timestamp>2020-06-08T17:05:05Z</timestamp>
+      <contributor>
+        <username>MADana</username>
+        <id>10409</id>
+      </contributor>
+      <comment>/* Bedeutung */</comment>
+      <text xml:space="preserve" bytes="527">Taekwondo ist eine Kampfsportart aus Südkorea.
+
+==Bedeutung==
+    Tae = Fuss
+    Kwon = Faust 
+    Do = Weg
+
+==Gürtel==
+Im Taekwondo geht es vom Weissgurt bis zur neunten Dan.
+Reienfolge Gürtel:
+
+
+    Weiss     
+    Weissgelb
+    Gelb
+    Gelbbgrün
+    Grün
+    Grünblau
+    Blau
+    Blaurot
+    Rot
+    Rotschwarz
+    Schwarz/erste Dan
+    Schwarz/zweite Dan
+     Schwarz/dritte Dan
+      Schwarz/vierte Dan
+     Schwarz/fünfte Dan
+   Schwarz/sechste Dan
+   Schwarz/siebte Dan
+   Schwarz/achte Dan
+   Schwarz/neunte Dan</text>
+      <sha1>f69y28kzqc8wwv0mp64sph6koerktcb</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Takeshi</title>
+    <ns>0</ns>
+    <id>3341</id>
+    <revision>
+      <id>12949</id>
+      <parentid>12948</parentid>
+      <timestamp>2009-12-15T19:31:02Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <text xml:space="preserve" bytes="2037">{{Babel-1|Schüler_Verfasser}}
+[[Bild:Takeshi.jpg|thumb]]
+'''Takeshi'''
+
+„Takeshi“ ist ein Lauf- und Wurfspiel aus Japan. 
+Man kann mit diesem Spiel sein Werfen und seine Geschicklichkeit trainieren und das Fair Play üben. 
+
+'''&lt;u&gt;Gruppen&lt;/u&gt;:'''
+
+Es gibt drei Gruppen: eine Werfergruppe, eine Läufergruppe und eine Schiedsrichtergruppe.In jeder Gruppe sind sieben Kinder.
+
+
+'''&lt;u&gt;Material:&lt;/u&gt;'''
+
+Soft Bälle,eine große Matte,drei kleine Matten,drei kleine Kästen,drei große Kästen,eine große Bank und zwei kleine Bänke.
+ 
+
+
+''' &lt;u&gt;Spielerklärung:&lt;/u&gt;
+
+Die Läufer versuchen, ohne abgetroffen zu werden, einen Parcours zu durchlaufen. Schafft der Läufer dies, bekommt er einen Punkt. Im Ziel werden die Punkte mit Hilfe von Steckwürfeln gezählt.
+Die Werfer versuchen, möglichst viele Läufer abzutreffen.
+Die Schiedsrichter passen auf, dass die Anderen fair spielen. Sie entscheiden wer abgetroffen ist und ob das Spiel aufgrund eines Sicherheitsproblems unterbrochen werden muss. 
+Ein Spieldurchgang dauert 3 Minuten. Nach jedem Durchgang sammeln die Werfer die Bälle ein und die Läufer und Schiedsrichter kontrollieren zusammen die Sicherheit des Parcours. Danach wechseln die Gruppen (Die Läufer werden Schiedsrichter; die Schiedsrichter werden Werfer und die Werfer werden Läufer).
+
+
+'''&lt;u&gt;Regeln:&lt;/u&gt;
+
+'''Werfer:
+
+Die Werfer stehen beim Werfen auf einer Bank.
+Sie dürfen nur immer einen Ball in der Hand halten.
+Die Werfer können mehrere Bälle aufsammeln und legen sie in einen Sack oder einen kleinen umgedrehten Kasten. Sie dürfen beim Aufsammeln der Bälle die Läufer nicht behindern.
+
+'''Treffer:'''
+
+Alle Treffer zählen, außer Boden-, Wand- und Kopftreffer.
+Die Läufer sind im Tunnel (erstes Hindernis) und auf den Kästen am Sprunghindernis (zweites Hindernis) sicher.
+Hinter den Deckungen können die Läufer abgetroffen werden. 
+
+'''Läufer:'''
+
+Wer abgetroffen ist, läuft mit erhobener Hand am Rand des Parcours wieder an den Start und nimmt sich keinen Steckwürfel.
+
+
+
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tand</title>
+    <ns>0</ns>
+    <id>3254</id>
+    <revision>
+      <id>11810</id>
+      <parentid>11806</parentid>
+      <timestamp>2009-05-18T11:58:42Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="844">{{Babel-1|Schüler_Verfasser}}
+Im Mittelalter gab es noch nicht viele Spielzeuge. Es gab natürlich keine Spielzeugläden. Die Kinder haben sie nämlich selber gemacht. Sie bestanden aus Schnur, Wolle, Stoff, Stöcken, Holz oder Ton. Die Spielzeuge, die die Kinder gemacht haben, nannte man Tand. Manche Spielsachen wurden auch aus Knochen hergestellt. Die mittelalterliche Bezeichnung für Schach ist Schachzabel. Die Backmischung wurde früher auch zum Spielzeugbau benutzt und hieß Wurtzabel. Es wurden Spielzeugpferde aus Holz hergestellt. Die Kinder hatten statt Plastikbälle kleine Lederbälle mit Stoff gestopft und damit gespielt. Die Bälle nannte man Pallone. Es gab aber auch Blechfiguren, wie ein Blechpferd oder eine Blechpuppe in Form eines Ritters, weil die Kinder selber Ritter werden wollten.
+
+von Niklas
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tanzen</title>
+    <ns>0</ns>
+    <id>3320</id>
+    <revision>
+      <id>14527</id>
+      <parentid>12360</parentid>
+      <timestamp>2011-02-17T18:19:48Z</timestamp>
+      <contributor>
+        <username>MAstockhausen</username>
+        <id>871</id>
+      </contributor>
+      <text xml:space="preserve" bytes="213">{{Babel-1|Schüler_Verfasser}} 
+
+Es gibt verschidene ''Tanzarten'' z.B.:
+'''Balett'''''',HipHop,Paartanzen.....!'''
+Tanzen kann anstrengent sein aber man es auch als Ausgleich vom Alltag nehmen.
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Taube</title>
+    <ns>0</ns>
+    <id>2611</id>
+    <revision>
+      <id>7885</id>
+      <parentid>7883</parentid>
+      <timestamp>2008-02-01T16:51:22Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="463">{{Babel-1|Schüler_Verfasser}}
+Es  gibt  viele  Taubenarten.  Und  viele  Taubenfarben.  Es  gibt  weiße  Tauben,  braune  Tauben,  graue  Tauben  und  schwarze  Tauben.
+
+Brieftauben  finden  merkwürdigerweise  immer  wieder  nach  Hause  zurück.  Eine  Brieftaube  kann  am  Tag  800  bis  1000km  zurücklegen.
+Brieftauben  haben  einen  Ring  am  Fuß.
+
+Tauben  fressen  eigentlich  Körner,  aber  sie  essen  auch  gerne  Brotkrümel.
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tausendfüßler</title>
+    <ns>0</ns>
+    <id>5686</id>
+    <revision>
+      <id>24156</id>
+      <parentid>24150</parentid>
+      <timestamp>2019-07-18T10:45:52Z</timestamp>
+      <contributor>
+        <username>Wgsad05</username>
+        <id>10276</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1347">== Daten und Fakten ==
+
+Der lateinische Name ist: Myriapoda. Der Körper besteht aus Segmenten, das sind viele gleichartige Körperabschnitte. Diese bilden einen Panzer. Dort sitzen die Beinpaare. Sie haben je nach Art 16-680 Beine. Am Kopf haben sie zwei „Antennen“. Je nach Art können sie grau, braun, schwarz oder fast weiß sein. Fast überall auf der Welt gibt es Tausendfüßler.
+
+== Lebensweise ==
+[[Datei:Wgsad0519.jpg|miniatur|Tausendfüßler]]
+
+Sie leben im feuchten Lebensraum, im Unterholz, im Kompost und in Rinden. Tausendfüßler leben alleine. Sie fressen abgestorbene Pflanzenteile und sind lediglich Vegetarier. Außerdem sind Tausendfüßler meistens im Boden verborgen.
+
+== Besonderheiten ==
+
+Sie legen Eier, aus denen Larven schlüpfen. Um wachsen zu können, häuten sich die Larven bis sie ihre endgültige Zahl an Segmenten erreicht haben. Sie sind durch ihren Panzer geschützt. Manche Tausendfüßler leuchten sogar (Das heißt: „Ich schmecke nicht.“). Der Vogel, die Ameise, die Nagetiere und die Reptilien sind die Feinde vom Tausendfüßler.
+
+
+
+
+== Nutzen ==
+Ähnlich wie Regenwürmer fressen und verdauen sie abgestorbene Pflanzenteile, aus denen dadurch wertvoller, fruchtbarer Humus entsteht. Deshalb sind sie für die Natur so wichtig.
+
+
+
+== Gefahren ==
+Der Tausendfüßler ist für niemanden gefährlich.</text>
+      <sha1>ayyuj58f92ancinjuvt6z73d06ym2q9</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Technik</title>
+    <ns>0</ns>
+    <id>4611</id>
+    <redirect title="ZUM-Grundschul-Wiki:Technik" />
+    <revision>
+      <id>18957</id>
+      <timestamp>2015-05-05T23:24:09Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>Karl Kirst verschob Seite [[Technik]] nach [[ZUM-Grundschul-Wiki:Technik]]: Projektseite</comment>
+      <text xml:space="preserve" bytes="46">#WEITERLEITUNG [[ZUM-Grundschul-Wiki:Technik]]</text>
+      <sha1>p5rwku2aza165pm4k4xevhnjxzvxqc5</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Teddyhamster</title>
+    <ns>0</ns>
+    <id>2124</id>
+    <revision>
+      <id>12451</id>
+      <parentid>12449</parentid>
+      <timestamp>2009-09-28T15:18:38Z</timestamp>
+      <contributor>
+        <username>MAtest</username>
+        <id>190</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1003">{{Babel-1|Schüler_Verfasser}}
+Teddy-Hamster
+
+Teddy Hamster sind eine Rasse von [[Hamster|Hamstern]]. Sie werden ein bis zwei Jahre alt. Sie brauchen viel Auslauf ! Teddy Hamster haben sehr langes Fell, es kann viele Farben haben. Oft sind es mehrere Farben, zum Beispiel Schwarz mit weißen Flecken oder Schwarz mit Weiß und Braun. Ich habe meinen Hamster auf der Küchenwaage gewogen. Er wiegt 110 Gramm und ist 140 mm lang. Man kann sie im Zoohandel kaufen. Sie brauchen, wie wir, täglich frisches Gemüse oder Obst wie Karotten und Äpfel. Weiter brauchen sie Trockenfutter wie Getreide und Sonnenblumenkerne. Täglich muss man die Trinkflasche und den Fressnapf kontrollieren. Einmal die Woche säubere ich den Käfig und streue neue Sägespäne ein.
+
+[[Bild:Fussel.jpg]]
+Das ist Vickys Hamster.
+
+Manche Hamster, wie meine Frieda zum Beispiel, knabbern gern Kabel an. Man sollte immer auf sie achten, wenn sie frei herum laufen.
+
+[[Bild:Frieda.jpg]]
+Das ist Viktors Hamster
+
+
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Teichmolch</title>
+    <ns>0</ns>
+    <id>1760</id>
+    <revision>
+      <id>24221</id>
+      <parentid>24177</parentid>
+      <timestamp>2019-07-22T09:52:55Z</timestamp>
+      <contributor>
+        <username>Wgsa14</username>
+        <id>10149</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2334">== Lateinischer Name==
+
+lateinischer Name: 
+Der lateinische Name vom Teichmolch ist Triturus vulgaris.
+
+== Daten und Fakten ==
+1. Daten und Fakten:
+
+lateinischer Name: Der lateinische Name vom Teichmolch ist Triturus vulgaris.
+
+Größe: Das männliche Tier ist 11 cm groß. Und das weibliche Tier ist 9,5 cm groß.
+[[Datei:Wgsa1419.jpg|miniatur|Teichmolch liegt]]
+Farben: Das Männchen ist schwarz-braun gemischt. Und das Weibchen ist braun-grau.
+
+Andere Namen:Der Teichmolch wird auch Streifenmolch, Gartenmolch, Wassermolch, Gefleckter Molch oder kleiner Wasser Salamander genannt.
+
+
+
+== Lebensweise ==
+Lebensraum 
+
+Lebensraum: Der Teichmolch gehört zur Familie der Molche und Salamander und ist ein Amphib. Das  Tier kann sowohl an Land als auch im Wasser leben. 
+
+Lebensraum: Im Sommer leben Teichmolche in Tümpeln , Teichen oder langsam fließenden Bächen. Sie mögen Gewässer, die von der Sonne beschienen sind und in denen viele Wasserpflanzen wachsen.
+
+Nahrung: Sie fressen Wasserflöhe, Mücken, Larven und Wasserpflanzen.
+
+Gruppe: Teichmolche können zusammen oder alleine leben.
+
+== Besonderheiten ==
+Besonderheiten
+
+Feinde: Die Feinde sind : Fische, Vögel, Störche, Reiher sogar andere Molche z.b. Kammmolch
+
+Schutz: Bei Gefahr verstecken sie sich zwischen dichten Unterwasserpflanzen oder wühlen sich sogar im Schlamm am Teichgrund ein.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{Babel-1|Schüler_Verfasser}}
+Der Teichmolch gehört zu den Amphibien. Das männliche Tier ist meist 11 cm, das Weibchen 9,5 cm lang. In der Paarungszeit, also im Frühjahr, ist das Männchen an der Oberseite braun mit schwarzen Flecken und an der Unterseite orange. Auf dem Rücken erstreckt sich ein Kamm mit dunklen Punkten. Das Weibchen ist im Vergleich zum Männchen eher schlicht hellbraun mit gelbem Bauch. Teichmolche sind in fast ganz Europa verbreitet. Im Frühling legt das Weibchen ihre Eier an Wasserpflanzen. Die fertig entwickelten Jungmolche gehen zwischen August und September an Land, wo sie ab ungefähr Oktober in die Winterstarre verfallen. Teichmolche fressen Mückenlarven, Würmer usw. Teichmolche leben in kleinen Teichen, Tümpeln und selbst in Radspuren die mit Wasser gefüllt sind. Teichmolche stehen unter Naturschutz und dürfen nicht gefangen werden.
+
+Eine andere Molchart ist der [[Feuerbauchmolch]].
+
+{{Rücksprung|T}}</text>
+      <sha1>c1y1mgajgjmqn829h2lmsa8y4bvqtfw</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Teichrohrsänger</title>
+    <ns>0</ns>
+    <id>4669</id>
+    <revision>
+      <id>23965</id>
+      <parentid>23955</parentid>
+      <timestamp>2019-07-12T06:40:55Z</timestamp>
+      <contributor>
+        <username>Wgsa01</username>
+        <id>10136</id>
+      </contributor>
+      <comment>/* Nahrung */</comment>
+      <text xml:space="preserve" bytes="952">==Lateinischer Name==
+Er gehört zu den Rohrsängern und heißt Teichrohrsänger Sein lateinische Name ist :Alrolephalus scirpaleus
+
+==Aussehen==
+                                                                                            
+[[Datei:Wgsa0119.jpg|miniatur|Teichrohrsänger]]
+Der Teichrohrsänger ist etwa 13cm lang und hat eine Flügelspannweite von 17 bis 21 cm.     
+Das Gewicht beträgt etwa 10 bis 15 Gramm.
+Die Oberseite ist braun,seine Unterseite ist gelblich weiß.                         
+Die kleinen Vögel haben ein weißlichen Kehl.
+Sie haben einen Spitzen Schnabel
+
+
+==Nahrung==
+Die Teichrohrsänger essen Insekten, Larven, Raupen, Schnecken zu den Insekten zählen Z.B Spinen Würmer Fliegen
+
+==Lebensraum==
+Die Teichrohrsänger lebt in. Feuchtgebiete, Seen, Gräben, Teiche, Flussmündungen mit dichtem Schilfbewuchs
+
+==Feinde==
+Seine Feinde sind Wetter, Parasiten, Vogelkrankheiten, Mensch, Kuckuck, Sperber, Wiesel, Ratten</text>
+      <sha1>cceylzypmqm7zdphp2tkfxwdrhufl08</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tennis</title>
+    <ns>0</ns>
+    <id>2968</id>
+    <revision>
+      <id>10267</id>
+      <parentid>10266</parentid>
+      <timestamp>2009-01-25T12:07:18Z</timestamp>
+      <contributor>
+        <username>JLMarit</username>
+        <id>529</id>
+      </contributor>
+      <text xml:space="preserve" bytes="436">{{Babel-1|Schüler_Verfasser}}
+
+Tennis ist eine Ballsportart. Tennis kann man in der Halle und draussen spielen. Zwei oder vier Spieler spielen mit jeweils einem Schläger und einem kleinen Ball. Man schlägt den Ball von unten nach oben übers Netz zum anderen Spieler. Beim Tennis muss man schnelle Bewegungen machen und es gibt auch sehr, sehr viele Begriffe, z.B. Vorhand, Vorhanddrive, Rückhand, Netz, Volley.
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Terrier</title>
+    <ns>0</ns>
+    <id>2517</id>
+    <revision>
+      <id>7488</id>
+      <parentid>7438</parentid>
+      <timestamp>2008-01-02T16:32:17Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel</comment>
+      <text xml:space="preserve" bytes="485">{{Babel-1|Schüler_Verfasser}}
+===TERRIER===
+Hunderassen  teilt  man  in  Gruppen.  Eine  Gruppe  davon  sind  die  Terrier. Terrier  graben  sehr  gerne  und  werden  nicht  groß.  Aber  sie  brauchen  viel  Auslauf  und Beschäftigung.  Es  gibt  rauhaarige,  glatthaarige  und  langhaarige  Terrier.  Es  gibt  viele Rassen,  die  zu  den  Terriern  gehören,  z.b. [[Yorkshire Terrier]], [[Fox Terrier]], [[Parson Russell Terrier]] und [[Jack Russell Terrier]].
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Teufelshöhle</title>
+    <ns>0</ns>
+    <id>2920</id>
+    <revision>
+      <id>9672</id>
+      <parentid>9670</parentid>
+      <timestamp>2008-11-05T13:15:50Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="582">{{Babel-1|Schüler_Verfasser}}
+[[Bild:Tropfsteine2008.jpg|thumb|Tropfsteine in der Teufelshöhle]]
+Die Teufelshöhle ist bei Pottenstein in der Fränkischen Schweiz. Es gibt sehr viele Tropfsteine in der Teufelshöhle. Sie entstehen aus Wasser und Kalk. In 13 Jahren wachsen sie einen mm. Die Stalagmiten sind Tropfsteine die vom Höhlenboden wachsen. Die Stalagtiten sind Tropfsteine die von der Höhlendecke hängen. Es liegen auch viele Tierknochen aus früherer Zeit in der Teufelshöhle.'''--&amp;nbsp;von Alina&amp;nbsp;&lt;small&gt;20:04, 3. Nov. 2008 (UTC)&lt;/small&gt;'''
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Thailand</title>
+    <ns>0</ns>
+    <id>3757</id>
+    <revision>
+      <id>25494</id>
+      <parentid>14922</parentid>
+      <timestamp>2023-02-07T11:48:25Z</timestamp>
+      <contributor>
+        <username>FZjuli5</username>
+        <id>10608</id>
+      </contributor>
+      <text xml:space="preserve" bytes="493">{{Babel-1|Schüler_Verfasser}}
+Thailand liegt im Bereich Asiens. Die Hauptstadt ist Bangkok.
+{{Rücksprung|T}}
+
+Essen: Das berühmteste essen in Thailand ist Tom yum. Es ist eine Suppe mit Shrimps und anderen Sachen drin.
+Ein besonderer Tier heißt Malaiischer Sonnenbär. Der Malaiischer Sonnenbär ist ein Tier das schwarz ist und ein Fleck am Hals hat.
+Landschaften: In Thailand sind die Meere schön und die Natur sieht auch sehr schön aus. 
+Bekannte Sport Arten: Boxing ist sehr bekannt.</text>
+      <sha1>ac4eu4ejm83gjsj03w2thdnn4u45ge3</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Thanksgiving Day</title>
+    <ns>0</ns>
+    <id>2948</id>
+    <revision>
+      <id>9801</id>
+      <parentid>9800</parentid>
+      <timestamp>2008-11-24T18:03:51Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="747">{{Babel-1|Schüler_Verfasser}}
+Thanksgiving, ein Fest das vor etwa 500 Jahren das erste mal gefeiert wurde.
+Und so fing diese Geschichte an:
+Ein Schiff Namens Mayflower erreichte die Küste Americas.
+Die Ureinwohner Americas begrüßten die angereisten Europäer mit Kleidung und Essen.
+Die Europäer bauten dort Häuser und die Ureinwohner halfen ihnen Getreide anzubauen.
+Alle lebten gut und friedlich zusammen.
+Dann wollten sie sich bei den Ureinwohnern bedanken mit einem riesigen Fest.
+Zu dem Fest gab es alles was sie geerntet haben.
+Also ist Thanksgiving eine Art Erntedankfest.
+
+
+In New York wird dieses Fest mit einer riesigen Parade gefeiert.
+In den USA steht auf fast jeden Tisch ein Truthahn und süße Kartoffeln.
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Theaterfreunde Neumünster</title>
+    <ns>0</ns>
+    <id>4676</id>
+    <revision>
+      <id>19353</id>
+      <parentid>19329</parentid>
+      <timestamp>2015-07-20T13:00:06Z</timestamp>
+      <contributor>
+        <username>GSAElisaW</username>
+        <id>10098</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1859">== Geschichte ==
+
+Der Ursprung des heutigen Theatervereins ist wohl schon einige Jahre vor der Gründung zu finden. In diesem Jahr heiraten viele Frauen aus der Gymnastikgruppe von Hannelore Seehuber. Aus Anlass einer Hochzeit führten Hannelore Seehuber und Margit Heinle einen Sketch auf. Da solch eine Einlage in Neumünster unbekannt war, fand es sehr großen Anklang. Die beiden mussten also auch auf folgenden Hochzeiten Sketche aufführen. Dies weckte immer mehr Personen, die die beiden unterstützen und dann auch selber mitspielen.
+&lt;br /&gt;
+
+[[Datei:Gsaelisaw1.jpg|miniatur|rechts|Wappen vom Verein]]
+
+== Wappen ==
+In dem Wappen ist das Wappen von Neumünster zu sehen. Um es herum steht Theaterfreunde Neumünster e. V.. Es sind auch zwei Masken zu sehen. Eine lacht, die andere weint. Außerdem sind die Masken geschminkt.
+
+
+
+
+== Mitglieder ==
+In dem Verein gibt es 125 Mitglieder. 
+Sie kommen aus Neumünster, Unterschöneberg, Violau, Altenmünster, Augsburg, Baiershofen, Biburg, Bühl, Burgau, Geißenfeld, Hegnenbach, Horgau, Landensberg, Schlipsheim, Streitheim, Wertingen, Wörleschwang, und Zusmarshausen. Die Theaterspieler heißen Sibylle Wink, Norbert Siersch, Tamara Pecher, Simon Heinle, Anton Marx, Hannelore Seehuber, Moritz Jochum, Achim Heinle, Isabell Jochum, Sebastian Leopold, Carolin Ram und Wolfgang Siersch.
+
+== Gespielte Stücke ==
+Die ersten zehn  gespielten Stücke heißen  &lt;br /&gt;
+
+- Die Schwiegermutter im Schilderhaus&lt;br /&gt;
+
+- Der Ehemann unter dem Weihnachtstisch&lt;br /&gt;
+
+- Die Preiskuh&lt;br /&gt;
+
+- I und mei Bruada, dös san zwei Luada&lt;br /&gt;
+
+- Am Muttergrab oder Fluch am Bergkreuz&lt;br /&gt;
+
+- Flips und Flaps&lt;br /&gt;
+
+- Die Hinterhugeldorfer Feuerwehr&lt;br /&gt;
+
+- Einiges aus meinem Lebenslaufe&lt;br /&gt;
+
+- Der Sühnenversuch&lt;br /&gt;
+
+- Der lasterhafte Hirglin&lt;br /&gt;
+
+usw.&lt;br /&gt;
+
+Das letzte gespielte Stück heißt Der Mascara.&lt;br /&gt;</text>
+      <sha1>mozped9rknibgr6qumt869iit61bt89</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Thermalbad Vita Classica</title>
+    <ns>0</ns>
+    <id>3113</id>
+    <revision>
+      <id>11256</id>
+      <parentid>11252</parentid>
+      <timestamp>2009-03-24T16:22:20Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>rücksprung bild</comment>
+      <text xml:space="preserve" bytes="591">{{Babel-1|Schüler_Verfasser}}
+[[Bild:michelle.jpg|thumb]]
+'''Thermalbad Vita Classica'''
+
+Die Vita Classica ist in der Nähe vom
+Kurpark.In der Vita Classica gibt es
+Düsen,eine Sprudelliege und einen großen
+Wasserfall und dann gibt es noch ein Dampfbad.
+
+Ein Wegweiser im Ort führt zum Heilbad Vita Classica.
+Das warme und sprudelige Wasser tut allen Leuten gut.In der
+Vita Classica gibt es einen kleinen Keller.In dem kleinen Keller wird
+das warme Wasser hochgepummt.
+
+Bad Krozingen ist schon lange auf Gesundheit programmiert.
+Ein Verwöhnungstag kostet 224 Euro.
+
+ 
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tier</title>
+    <ns>0</ns>
+    <id>2589</id>
+    <revision>
+      <id>7816</id>
+      <parentid>7815</parentid>
+      <timestamp>2008-01-20T09:33:52Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel, rückpsung</comment>
+      <text xml:space="preserve" bytes="2292">{{Babel-1|Schüler_Verfasser}}
+== Tiere ==
+Man  teilt  alles,  was  außer  den  Menschen  noch  lebendig  ist, in  2  Gruppen:  die  Pflanzen  und  die  '''Tiere'''.  
+Tiere  bewegen  sich,  Pflanzen  aber  nicht.  aber  Tiere  und  Pflanzen  sind  beide  Lebewesen.
+
+== Tiere  teilt  man  in  Gruppen ==
+ein  paar  Gruppen  sind  z.b.  Säugetiere,  [[Fisch]]e  oder  Vögel.  Diese  Tiere  sind  alle  sehr  unterschiedlich.  Man  kann  aber  zum  Beispiel
+einen  großen  Fisch  mit  einem [[ Wal]]  verwechseln.  Aber  ich  glaube,  dass  man  [[Insekt]]en  nicht  verwechseln  kann.  
+
+
+== Was  fressen  Tiere ==
+Es  gibt  Fleischfresser,  die  (fast)  nur  Fleisch  jagen  und  fressen.  Zum  Beispiel  Hunde  und  Katzen.  Es  gibt  Pflanzenfresser,  die  nur
+Pflanzen  fressen.  Zum  Beispiel  das  [[Rind]].  Es  gibt  Insektenfresser,  die  nur  Isekten,  Regenwürmer  und  Schnecken  fressen.  Zum  Beispiel
+die  Igel  und  Spitzmäuse  oder  Maulwürfe.
+
+
+== Welche  Tiere  sind  Haustiere ==
+Haustiere  sind  zum  Beispiel  Hunde,  Katzen,  Wellensittiche  und [[ Meerschweinchen]].  Haustiere  leben  in  Ställen,  Käfigen  oder  in  der  Wohnung.
+Es  gibt  große  und  kleine  Haustiere.  Anders  als  die  Wildtiere  haben  sie  keine  Angst  vor  Menschen.  Alle  Haustiere  stammen  aber  von  einem  Wildtier  ab:  z.b.  der  [[Hund]]  von  dem  [[Wolf]],  die  [[Katze]]  von  der  [[Falbkatze]].  Haustiere  muss  man  füttern  und  mit
+ihnen  spielen.  
+
+
+== Welche  Tiere  leben  draußen  bei  uns ==
+Bei  uns  lebt  z.b.  der  Luchs.  Aber  er  ist  sehr  selten.  Er  gehört  zu  den [[ Wildkatze]]n.  Bei  uns  leben  auch  Rehe  und  Hirsche.
+Oft  findet  man in  Wäldern  Spuren  von  ihnen.  Alle  Wildtiere sind  sehr  scheu.
+
+== Welche  Tiere  leben  am  Wasser ==
+'''Diese  Tiere  leben  in  Deutschland  am  Wasser''':
+* Frösche: Die  Frösche  legen  ihre  Eier  immer  in  den  See  oder  Teich,  in  dem  sie  geboren  sind.
+* Wasserspitzmaus:  Sie  kann  sogar  tauchen.
+* Ente:  Die  Küken  können  sofort  schwimmen.
+
+Es  leben  noch  ein  paar  andere  Tiere  am  Wasser.
+
+'''Diese  Tiere  leben  in anderen Ländern am  Wasser''':
+
+* ''Australien'':  Schnabeltier.  Es  ist  das  einzige  Säugetier,  das  Eier  legt.
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tierart</title>
+    <ns>0</ns>
+    <id>4059</id>
+    <revision>
+      <id>16461</id>
+      <parentid>16422</parentid>
+      <timestamp>2012-12-30T14:19:02Z</timestamp>
+      <contributor>
+        <username>Karl Kirst</username>
+        <id>912</id>
+      </contributor>
+      <comment>interne Links</comment>
+      <text xml:space="preserve" bytes="262">{{Babel-1|Schüler_Verfasser}}
+Tierarten
+
+Im [[Wald]] gibt es [[Reh]], [[Bär]], [[Hund]], [[Maus]], [[Wölfe]], [[Vögel]], [[Igel]], [[Stinktier]], [[Käfer]], [[Wur]]m, [[Ratte]], [[Pferd]], [[Hirsch]], [[Spinne]], [[Uhu]], [[Fledermaus]].
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tierarzt</title>
+    <ns>0</ns>
+    <id>2637</id>
+    <revision>
+      <id>23634</id>
+      <parentid>8078</parentid>
+      <timestamp>2019-05-08T11:13:17Z</timestamp>
+      <contributor>
+        <username>PCAgWe</username>
+        <id>10380</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1438">{{Babel-1|Schüler_Verfasser}}
+Der  Tierarzt  kümmert  sich  um   kranke  Tiere.
+
+
+== Selber  Tierarzt  sein ==
+Dazu  findest  du  mehr  bei  [[Erste  Hilfe]].  Teilweise  findest  du  auch  etwas  bei  [[Meerschweinchen]].
+
+
+== Was  macht  ein  Tierarzt? ==
+Er  untersucht  die  Tiere  und  gibt  ihnen  Medizin.  Er  sagt  den  Besitzern,  was  sie  tun  können wenn es den tieren nich gut geht. Er  impft  Tiere.  Manchmal  muss  er  Tiere  einschläfern.  Er  kastriert  oder  sterilisirt  Tiere.  Manchmal  muss  er  Tiere  operieren.
+
+
+== Wann  muss  ein  Tier  zum  Tierarzt? ==
+Mehr  dazu  gibt  es  auch  bei  [[Meerschweinchen]].
+Wenn  ein  Tier  die  ganze  Zeit  müde  ist,  nicht  richtig  trinkt  und  frisst  und  auch  nicht  mehr  spielen  will,  dann  ist  es  krank.  Es  sollte  möglichst  schnell  zum  Tierarzt  gebracht  werden.  Die  meisten  Tiere  müssen  regelmäßig  geimpft  werden.  Erwachsene  Tiere  etwa  einmal  im  Jahr.  Auch  dann  sollten  sie  natürlich  zum  Tierarzt  gebracht  werden,  denn  sonst  werden  sie  schnell  krank.  Auch  wenn  sich  Tiere  kratzen,  wenn  sie  humpeln  oder  wenn  sie  plötzlich,  wenn  es  weder  Herbst  noch  Frühling  ist,  starken  Haarausfall  haben(Manche  Tiere  verlieren  wenn  sie  krank  sind  mehr  Haare,  aber  es  kann  auch  eine  Krankheit  sein)  muss  es  zum  Tierarzt.  Auch  Tiere,  die  lange  Durchfall  haben.
+
+
+{{Rücksprung|T}}</text>
+      <sha1>b844a06lw51mtd7pkplibag7rx1elr4</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tierlexikon</title>
+    <ns>0</ns>
+    <id>2293</id>
+    <revision>
+      <id>6352</id>
+      <timestamp>2007-04-24T17:47:32Z</timestamp>
+      <contributor>
+        <username>MAKatja</username>
+        <id>343</id>
+      </contributor>
+      <comment>neuer Artikel angelegt</comment>
+      <text xml:space="preserve" bytes="305">{{Babel-1|Schüler_Verfasser}}
+In einem Tierlexikon kann man nachschauen, wo und wie Tiere leben. Die Tiere sind alphabetisch geordnet. Meist sind auch Bilder darin zu finden. 
+
+
+== Links: ==
+* [http://www.kinder-tierlexikon.de/ Kinder-Tierlexikon im Internet von Kindern für Kinder]
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tiger</title>
+    <ns>0</ns>
+    <id>2180</id>
+    <revision>
+      <id>24027</id>
+      <parentid>24013</parentid>
+      <timestamp>2019-07-15T08:05:34Z</timestamp>
+      <contributor>
+        <username>Wgse20</username>
+        <id>10195</id>
+      </contributor>
+      <text xml:space="preserve" bytes="1303">== Lebensraum ==
+[[Datei:Wgse2019.jpg|miniatur|Tiger]]
+Der Tiger lebt im Dschungel, weil es dort sehr schattig ist und es dort viel Wasser gibt. Im Unterholz fühlt er sich wohl, weil er dort vor anderen Tieren gut getarnt ist.
+
+== Das Auge ==
+Der Tiger sieht bei Dämmerung genau so gut wie in der Nacht bei Mondschein. Er kann viel besser sehen als die Menschen. Er kann seine Pupillen sehr stark erweitern. Seine Augen sind nah am Nasenrücken. Der Tiger hat ein gutes räumliches Sehen, welches beim Jagen sehr hilfreich ist.
+
+== Besonderheiten ==
+Der Tiger ist für seine Größe sehr stark. Es gibt fast keine Fressfeinde für ihn, weil er sehr stark ist und bis zu 60 Kilometer pro Stunde rennt. Er frisst bei einer Mahlzeit 9-10 Kilogramm. Außerdem ist er die einzige Katze die nicht wasserscheu ist.
+
+
+
+Der Tiger ist die größte Raubkatze der Welt. Er lebt in Steppen und Wäldern Asiens und ist durch sein gestreiftes  Fell bei der Jagd sehr gut getarnt. Der Tiger schleicht sich an seine Beute (einen Hirsch) heran. Wenn er nahe genug daran ist, reißt er es zu Boden und tötet es mit einem Biss in den Hals. Die kleinste Tiger der Neuarten lebt in Indonesien. Ihr Kopfumfang ist 140 cm breit der Schwanz ist 60 cm lang. Das Männchen wiegt 120 kg und das Weibchen 90 kg
+
+{{Rücksprung|T}}</text>
+      <sha1>r3cl78yq4ghbn9hdaclfy09zfcxui37</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tigerhai</title>
+    <ns>0</ns>
+    <id>4680</id>
+    <revision>
+      <id>24128</id>
+      <parentid>24127</parentid>
+      <timestamp>2019-07-18T06:09:13Z</timestamp>
+      <contributor>
+        <username>Wgsa33</username>
+        <id>10168</id>
+      </contributor>
+      <comment>/* Lateinischer Name */</comment>
+      <text xml:space="preserve" bytes="1830">== Lateinischer Name ==
+
+Galeocerdo cuvier
+
+== Daten und Fakten ==
+[[Datei:Wgsa3319.jpg|miniatur|Tigerhai]]
+      
+
+Der Tigerhai kann bis zu 6m lang werden. Außerdem wiegt er 500-600 kg.
+Die Männchen wiegen mehr als die Weibchen.
+Alte Tigerhaie haben sehr Blasse Streifen ,Junge dagegen haben Sehr Kräftige Streifen.
+
+
+
+
+== Lebensweise ==
+
+Der Tigerhai ist im Atlantik und im Pazifik verbreitet.
+
+== Besonderheiten ==
+     
+
+Der Tigerhai ist Fleischfresser und frisst alles von einer Dose bis zu einem Krokodil
+Aber er Frisst am Liebsten: Knochenfische Meeresschildkröten andere Haie und Meeresvogel.
+Seine Zähne haben die form eines Hahnenkamms , außerdem ist sein Gebiss sehr breit.
+
+== Aussehen ==
+Die Jungtiere des Tigerhais haben eine gestreifte und gefleckte Haut. Im Alter verblasst diese Musterung und ist nicht mehr so gut erkennbar. Das Auge des Hais sieht aus wie ein schwarzes Loch. Der Tigerhai hat zwei Brustflossen, eine Bauchflosse die liegt am hinteren Teil des Bauches, die Afterflosse ist genau hinter der Bauchflosse, er hat auch zwei Rückenflossen die auf dem Rücken des Hais sitzen und eine Schwanzflosse.
+ 
+[[Datei:Gsabelindaf1.jpg|miniatur|rechts|Tigerhai]]
+
+
+
+== Größe und Gewicht ==
+Der Tigerhai gehört zu den größten Haiarten. Er kann zwischen drei bis fünf Metern lang werden. Der Hai wiegt im Durchschnitt  
+200 bis 600 Kilogramm. Die Männchen sind meist größer und schwerer als die Weibchen.
+
+
+
+== Nahrung ==
+Der Tigerhai ist ein mächtiges Raubtier. Er frisst fast alles von einer Dose bis zur Robbe. Aber am liebsten frisst er Knochenfische, Meeresschildkröten, andere Haie, Meeresvögel, Tintenfische und Robben.
+
+
+
+== Gebiss ==
+Er hat ein breites Gebiss. Seine Zähne haben eine Form eines Hahnenkamms. Der Hai besitzt Zähne die eine Schneide- und Sägefunktion zugleich haben.</text>
+      <sha1>lyrz2tv2weee8m1ets8m5qouh0nur44</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tik tok</title>
+    <ns>0</ns>
+    <id>5869</id>
+    <revision>
+      <id>24843</id>
+      <timestamp>2021-01-28T13:18:39Z</timestamp>
+      <contributor>
+        <username>DSSDario</username>
+        <id>10444</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „       Tik tok ist ein app da du videos von andere schaust und kanns ihm oder sie follow oder den video like mit ein herz.      Du kannst auch ein video selbs …“</comment>
+      <text xml:space="preserve" bytes="1086">
+
+
+    Tik tok ist ein app da du videos von andere schaust und kanns ihm oder sie follow oder den video like mit ein herz. 
+    Du kannst auch ein video selbs machen und wenn die anderen das video magen dan könnes sie es liken mit ein herz drücken.
+    Wen du einen followst und er dich könnt ihr in ein chat schreiben. https://www.google.com/search? 
+ sa=G&amp;hl=de&amp;tbs=simg:CAQS_1AEJowqWbppaohga8AELELCMpwgaYQpfCAMSJ98B4AHjAesB6gHkAbcCPeEB5gHAPZ00ozS7P8E9pDSaPaA0viiWPRowA4lL7tzIwdWTmKJ_1CibYsmqtk2nLnetICKvL96-QEwyYuUyymYo13prXrwHZYmTIAQMCxCOrv4IGgoKCAgBEgSasNWvDAsQne3BCRpqChYKA2RvdNqliPYDCwoJL20vMDI3Y3RnChsKCGxhbmd1YWdl2qWI9gMLCgkvai8yc2hfeTQKGwoIdmVydGljYWzapYj2AwsKCS9hLzRoaDNwMAoWCgRzaWdu2qWI9gMKCggvbS8wNnpzcQw&amp;q=tiktok+app&amp;tbm=isch&amp;ved=2ahUKEwjvhMHt1b7uAhVOyxoKHfCDDEMQwg4oAHoECAgQLw 
+    
+    Das ist der link. Die beste in tik tok mit meist follows ist charlie damelio sie hat ungefär 100ml.Es sind zirka 112,9ml Menschen in tik tok yetzt.  
+    Wen du ein Video machst kannst du auch filter benützen. Und wenn du ein video fertig machst kannst du auch musik hinzufögen.</text>
+      <sha1>l2t09vru4esbfz8apf7yhi03mgmn06m</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tinkerbell</title>
+    <ns>0</ns>
+    <id>4081</id>
+    <revision>
+      <id>16518</id>
+      <timestamp>2013-02-25T08:42:11Z</timestamp>
+      <contributor>
+        <username>MAZiegenfuss</username>
+        <id>984</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: == Tinkerbell==  Tinkerbell ist eine bezaubernde Fee. Sie ist mutig und abenteuerlustig. Ihre Freunde Silberhauch,Emely,Rosetta und Klara,sind immer dabei wenn Tinkerbe...</comment>
+      <text xml:space="preserve" bytes="357">== Tinkerbell==
+
+Tinkerbell ist eine bezaubernde Fee.
+Sie ist mutig und abenteuerlustig.
+Ihre Freunde Silberhauch,Emely,Rosetta und Klara,sind immer dabei wenn Tinkerbell sich für die Tiere einsetzt,die sich in großer Gefahr befinden.
+Mit ihrem grünen Kleid und dem glänzend blondem Dutt,wird Tinkerbell als schönste Fee im ganzen Feenreich bezeichnet.</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tischlein deck dich (Märchen)</title>
+    <ns>0</ns>
+    <id>5215</id>
+    <revision>
+      <id>21767</id>
+      <parentid>21765</parentid>
+      <timestamp>2017-09-03T19:29:55Z</timestamp>
+      <contributor>
+        <username>Wiki-Kids</username>
+        <id>947</id>
+      </contributor>
+      <text xml:space="preserve" bytes="2840">[[Datei:Tischlein.jpeg|miniatur]]
+'''Tischlein deck dich''' ist ein Märchen von Jakob Grimm und Wilhelm Grimm. Es ist das 36. Märchen.
+
+Tischlein deck dich handelt von drei Söhnen, einem Schneider und einer Ziege. Die Ziege hat die drei Söhne und den Schneider reingelegt. Der älteste Sohn ist zu einem Schreiner gekommen.
+Er bekam ein Tischlein beim Abschluss. Wenn man sagt: ,,Tischlein deck dich“ dann ist der Tisch lecker bedeckt.
+Eines Tages will er zu seinem Vater, er kommt an einem Wirtshaus vorbei. Da will er übernachten. Er bezahlt und nimmt sein Tischlein und sagt den Spruch. Der Wirt ist neidisch.
+Der Bruder legt sich in sein Bett. Der Wirt kommt in der Nacht und tauscht das Tischlein aus.
+Am nächsten Morgen macht sich der Bruder auf den Weg.
+Als er bei seinem Vater ankommt, sagt er: ,,Hol alle Verwandten, ich gebe ihnen lecker Essen.“
+Der Vater ruft alle Verwandten. Als sie alle versammelt sind, ruft der Bruder die Worte, aber es passiert nichts.
+Der zweite Bruder ist zu einem Müller in die Lehre gegangen.
+An seinem Abschluss bekam er einen Esel. Wenn man sagt: „Bricklebrit“ und dann noch ein Tuch drunter legt, dann kommt vorne und hinten Gold raus.
+Eines Tages will er zurück zu seinem Vater. Er kommt an einem Wirtshaus vorbei. Er will dort übernachten. Er bezahlt, aber sein Geldsack ist leer. Er geht zu seinem Esel und sagt dann den Spruch und Gold kommt heraus.
+Der Wirt ist dem zweiten Bruder gefolgt. Der zweite Bruder geht wieder rein und gibt dem Wirt das Gold.
+In der Nacht läuft der Wirt zum Goldesel und tauscht ihn gegen einen anderen aus.
+Am Morgen geht der zweite Bruder weiter. Als er bei seinem Vater ankommt und als alle Verwandten beisammen sind, sagt der zweite Bruder das Wort, aber nichts passiert.
+Der dritte Bruder ist bei einem Drechsler in der Lehre. Als er den Abschluss macht, bekommt er einen Sack. In dem Sack ist ein Knüppel. Wenn man sagt: ,,Knüppel aus dem Sack“, dann tanzt er einen verrückten Tanz auf dem Rücken.
+Eines Tages will er zu seinem Vater zurückkehren. Er kommt an einem Wirtshaus vorbei. Er will dort übernachten.
+In der Nacht kommt der Wirt heimlich in das Zimmer und will den Sack klauen. Gerade als er ziehen will, sagt der Bruder die Worte und der Knüppel tanzt den Tanz auf dem Rücken des Wirts. Der Bruder meint: ,,Wenn du nicht das Tischlein und den Goldesel rausgibst, dann soll es nie aufhören!“
+Der Wirt gibt das Tischlein und den Goldesel ab.
+Der Bruder macht sich auf den Weg. Als er bei seinem Vater ankommt, kamen die Bekannten wieder und der älteste Sohn soll jetzt mit dem Tischlein reden. Als er das gemacht hat, ist der Tisch voll mit Essen. Danach soll es der zweite Bruder probieren.
+Es klappte, Gold kam raus hinten und vorne.
+Der Vater braucht keine Nadel mehr und sie sind reich und haben sehr sehr viel Essen.</text>
+      <sha1>l5gy7eppy5ktouxx8xhva7g4uvcb5ce</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tischtennis</title>
+    <ns>0</ns>
+    <id>4770</id>
+    <revision>
+      <id>20930</id>
+      <parentid>19602</parentid>
+      <timestamp>2016-10-20T07:54:25Z</timestamp>
+      <contributor>
+        <username>MAWiermann</username>
+        <id>10006</id>
+      </contributor>
+      <text xml:space="preserve" bytes="399">{{Babel-1|Schüler_Verfasser}}
+Tischtennis ist ein Ballspiel. Man braucht lange, um das zu lernen.Es ist so ähnlich wie Tennis. Aber nicht das gleiche! Man brauch einen Schläger und einen Ball.  Später kann mann auch in einer Mannschaft spielen und Pokale gewinnen. Es gibt sehr viele Aufschläge. Z.B. Schnitt Aufschlag, normaler Aufschlag, Rückhand Aufschlag und so weiter.
+
+
+{{Rücksprung|T}}</text>
+      <sha1>0zkytret4esi71qxuwl8bmtyfa5bi20</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tisdale, Ashley</title>
+    <ns>0</ns>
+    <id>3541</id>
+    <revision>
+      <id>13773</id>
+      <parentid>13771</parentid>
+      <timestamp>2010-06-28T19:59:48Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>babel rücksprung</comment>
+      <text xml:space="preserve" bytes="372">{{Babel-1|Schüler_Verfasser}}
+Ashley ist ein Star und Spielt in Hotel Cack und Cody mit sie ist da Blond als sonst 
+Ashley spielt auch manchmal in Hannah Montana mit aber das barsirt nicht oft und
+wehn sie ein Fan von Hannah Montana ist ist sie Zimmlichferhrückt.
+Ashley ist sonst mit Miley Beste Freunde für immer.
+Und sie mag schoppen und lestern.
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Titanic</title>
+    <ns>0</ns>
+    <id>3345</id>
+    <revision>
+      <id>24893</id>
+      <parentid>24823</parentid>
+      <timestamp>2021-04-08T07:25:32Z</timestamp>
+      <contributor>
+        <username>MARaphael</username>
+        <id>10392</id>
+      </contributor>
+      <text xml:space="preserve" bytes="824">{{Babel-1|Schüler_Verfasser}}
+Am 2. April 1912 startete das damals größte Schiff der Welt.
+Am 14. April 1912 gegen 23:40Uhr stieß das Schiff gegen einen Eisberg. Es versank 2 Stunden und 40 Minuten nach dem Zusammenstoß im Nordatlantik. Es war sehr schlimm keiner hatte gedacht das es sinken würde . In Büchern steht das der käpitän sich selbst getötet hatte.
+Und es Stand auch drin das der Varter zu seinem sonn gesagt hatte Gefahr ich komm nach und er kamm nicht wieder .
+
+
+Als die Titanic neu gebaut wurde, sagte man, dass die Titanic nicht sinken wird. Aber das war nicht ganz richtig.
+Es war damals das größte Schiff der Welt,  als sie am 2. April 1912 los fuhr.  Doch da stieß das Schiff gegen einen Eisberg. Als die Menschen es merkten bekamen sie Panik. Sehr viele Menschen starben. 
+
+
+{{Rücksprung|T}}</text>
+      <sha1>9dc31kw4f70agkply7l50iioly39wtq</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Titisee</title>
+    <ns>0</ns>
+    <id>3170</id>
+    <revision>
+      <id>11951</id>
+      <parentid>11505</parentid>
+      <timestamp>2009-06-13T15:01:10Z</timestamp>
+      <contributor>
+        <username>MANaegel</username>
+        <id>188</id>
+      </contributor>
+      <text xml:space="preserve" bytes="491">{{Babel-1|Schüler_Verfasser}}
+[[Bild:titisee.jpg|thumb]]
+Der Ort Titisee hat 2200 Einwohner. Der Titisee ist der größte Natursee des Schwarzwaldes. Am Titisee gibt es viele Freizeitangebote: Minigolf, Bootsverleih, ein Freibad, zwei Campingplätze und ein Kurhaus. Im Eichhörnchenwald kann man die zahmen Eichhörnchen mit Nüssen füttern. Im Winter kann man auf dem Titisee Schlittschuh fahren. Hier gibt es auch einen Erlebnispfad und ganz viele tolle Wanderwege.
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tokyo</title>
+    <ns>0</ns>
+    <id>6216</id>
+    <revision>
+      <id>25605</id>
+      <parentid>25604</parentid>
+      <timestamp>2023-11-16T07:53:23Z</timestamp>
+      <contributor>
+        <username>FZgrete</username>
+        <id>10600</id>
+      </contributor>
+      <text xml:space="preserve" bytes="672">Tokyo ist die Hauptstadt von Japan neben ihr liegen Yokohama und noch viele andere orte.
+es gibt denn Tokyo Skytree und denn Tokyo Tower.
+über die größte Kreuzung Japans gehen jeden tag 100 bis 200 Leute rüber.
+und wenn es Abends wird dann ist Tokyo eine lichterkette.
+alle Geschäfte sind dann offen und das Essen ist sehr lecker.
+
+
+
+
+== ESSEN ==
+
+Das national essen in Japan sind Udon Ramen und Sushi.
+
+
+
+
+
+== SCHULEN IN JAPAN  ==
+In Japan gibt es sehr viele schulen und Kindergärten. die meisten davon sind japanisch aber es gibt noch ein par englische schulen und eine deutsche.
+die deutsche schule Tokyo Yokohama.
+japanische Schulkinder haben auch Samstag schule</text>
+      <sha1>jz86hasgapxhap8gylwqsrekwvdh09r</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tomate</title>
+    <ns>0</ns>
+    <id>1985</id>
+    <revision>
+      <id>20946</id>
+      <parentid>4751</parentid>
+      <timestamp>2016-12-13T04:57:19Z</timestamp>
+      <contributor>
+        <username>MATom-Tove</username>
+        <id>10130</id>
+      </contributor>
+      <text xml:space="preserve" bytes="316">{{Babel-1|Schüler_Verfasser}}
+Die Tomate ist eine rote Frucht, sie ist ein Nachtschattengewächs und kommt aus Südamerika. Mit Tomaten kann man eine leckere Nudelsoße kochen. Tomaten werden im späten Sommer geerntet. 
+
+Tomaten sind nicht immer rot. Es gibt auch Tomatensorten, die grün sind.
+
+
+{{Rücksprung|T}}</text>
+      <sha1>73xbf6y56l06wu4hlro6u7lf35ogsfg</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tornado</title>
+    <ns>0</ns>
+    <id>3524</id>
+    <revision>
+      <id>13775</id>
+      <parentid>13696</parentid>
+      <timestamp>2010-06-28T20:08:10Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>text eingefügt</comment>
+      <text xml:space="preserve" bytes="953">{{Babel-1|Schüler_Verfasser}}
+Tornado Twister
+
+Beschreibung: Es ist ein Wirbelsturm der sich mit über 500 kmh drehen kann. Es gibt bestimmte Stufen: F0, F1 - ( sind die schwache Stufen) , / F2, F3,-  ( sind die mittlere Stufen ) / F4,-F5- ( sind die stärksten Stufen). Die Stufen F4 und F5 können meistens ganze Ortschaften zerstören.
+
+Entstehung: Wenn Kaltluft auf Warmluft trifft entsteht ein Gewitter: Es kommen darauf Blitze, Donner usw. und nach dem Gewitter kommt ein Tornado.
+
+Abwehr: In fast allen Städten Amerikas sind Sirenen eingebaut die, die Menschen schützen. Eine Sirene ist ein lauter Ton der für Notfälle eingesetzt wird. 
+
+Es gibt Tornados die das Wasser aufsaugen disen Trichter nennt man die Wasserhose. Es gibt  selten Wasserhosen die nicht immer gefährlich sein können. Tipp: Aber mann sollte sie nicht unterschätzen. In Deutschland  gibt es auch sehr selten Tornados aber sie  sind immer tödlich.
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Tote Hosen</title>
+    <ns>0</ns>
+    <id>5414</id>
+    <revision>
+      <id>22992</id>
+      <parentid>22983</parentid>
+      <timestamp>2018-06-22T07:41:47Z</timestamp>
+      <contributor>
+        <username>Wgsa15</username>
+        <id>10150</id>
+      </contributor>
+      <text xml:space="preserve" bytes="818">== Personen ==
+Die Band besteht aus fünf Mitglieder.
+
+Campino: Andreas Frege, *1962 in Düsseldorf, Sänger
+
+Breiti: Michael Breitkopf, *1964 in Düsseldorf, Gitarre
+
+Andi: Andreas Meurer, *1962 in Essen, Basist
+
+Kuddel: Andreas von Holst, *1964 in Münster, Gitarre
+
+Vom: Stephen George Ritchie, *1964 in Billericay/England, Schlagzeug
+
+== Karriere ==
+Die Toten Hosen wurden 1982 in Düsseldorf gegründet.&lt;br /&gt;
+
+[[Datei:Tote hosen.jpg|miniatur]]
+
+== Welthits ==
+Ihr erfolgreichster Song: &quot;Tage wie diese&quot; war 85 Wochen in den Charts und schaffte es auf Platz 1.&lt;br /&gt;
+
+Beste Hits: Wann see, Unter den Wolken, Hier kommt Alex, Bayern
+
+
+== Besonderheiten ==
+Konzerte auf der ganzen Welt (Moskau,Panama,Mexiko...).
+
+Sie machen auch kleine Konzerte zum Beispiel im Kloster oder Frauengefängnis oder auf der Zugspitze.</text>
+      <sha1>5wmr7lznu96wvx1zf84v7xnfnji95x8</sha1>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+  <page>
+    <title>Totenkopfäffchen</title>
+    <ns>0</ns>
+    <id>3862</id>
+    <revision>
+      <id>15496</id>
+      <parentid>15491</parentid>
+      <timestamp>2012-03-02T19:20:43Z</timestamp>
+      <contributor>
+        <username>Leupold</username>
+        <id>3</id>
+      </contributor>
+      <minor/>
+      <comment>bildposition angepasst</comment>
+      <text xml:space="preserve" bytes="755">{{Babel-1|Schüler_Verfasser}}
+[[Bild:TOTENKOPFÄFFCHEN.jpg|thumb|]]
+Das Totenkopfäffchen lebt in Südamerika in den Baumkronen des Dschungels. Es ist ungefähr katzengroß. Der Schwanz ist länger als Kopf und Rumpf zusammen. Es ist grau und hat  am  Kopf eine weiße Maske . Das Totenkopfäffchen hat schwarze Augen und ein graues Maul.  Die Maske  sieht so aus wie bei einem Totenkopf. Es ist niedlich, auch wenn es Totenkopfäffchen heißt. Totenkopfäffchen fressen gerne Früchte, Blätter und Kleintiere. Das Totenkopfäffchen ist in Gruppen von mehr als 300 Tieren unterwegs. Es bewegt sich völlig lautlos und ist sehr verspielt.
+
+Totenkopfäffchen reiben sich mit ihren eigenen Urin ein, um eine eigene Duftnote zu erhalten
+
+
+
+{{Rücksprung|T}}</text>
+      <sha1/>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,56 @@
+{
+  "pageid": 1371,
+  "ns": 6,
+  "title": "Datei:Buchstabe-M.gif",
+  "revisions": [
+    {
+      "revid": 8432,
+      "parentid": 8431,
+      "user": "MABrogt",
+      "timestamp": "2008-06-17T12:00:43Z",
+      "comment": "",
+      "wikitext": ""
+    },
+    {
+      "revid": 8431,
+      "parentid": 8430,
+      "user": "MABrogt",
+      "timestamp": "2008-06-17T11:59:38Z",
+      "comment": "",
+      "wikitext": "*[[Link-Text]]Monat,der"
+    },
+    {
+      "revid": 8430,
+      "parentid": 8429,
+      "user": "MABrogt",
+      "timestamp": "2008-06-17T11:58:44Z",
+      "comment": "",
+      "wikitext": "*[[Link-Text]]Monat,der\nDas Jahr hat 24 Monate."
+    },
+    {
+      "revid": 8429,
+      "parentid": 8428,
+      "user": "MABrogt",
+      "timestamp": "2008-06-17T11:53:55Z",
+      "comment": "",
+      "wikitext": "*[[Link-Text]]Monat,der"
+    },
+    {
+      "revid": 8428,
+      "parentid": 1806,
+      "user": "MABrogt",
+      "timestamp": "2008-06-17T11:52:28Z",
+      "comment": "",
+      "wikitext": "*Monat,der"
+    },
+    {
+      "revid": 1806,
+      "parentid": 0,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-01-01T20:38:39Z",
+      "comment": "",
+      "wikitext": ""
+    }
+  ],
+  "categories": []
+}

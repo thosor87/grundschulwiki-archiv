@@ -1,0 +1,26 @@
+{
+  "pageid": 4242,
+  "ns": 10,
+  "title": "Vorlage:Self",
+  "revisions": [
+    {
+      "revid": 17495,
+      "parentid": 17494,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-09T21:05:21Z",
+      "comment": "1 Version: UploadWizard",
+      "wikitext": "<br>\n{| style=\"margin:0.5em auto; background-color: #f0f0f0; border: 2px solid #aaaaaa; padding: 2px\"\n| style=\"text-align:center\" | '''''Ich, der Urheber dieses Werkes,'''  veröffentliche es unter der folgenden Lizenz:''\n|---\n| style=\"text-align:center\" | {{{{{1}}}}}\n|}<includeonly>[[Category:Self-published work|{{PAGENAME}}]]</includeonly>\n\n\n[[Kategorie:Self-published work]]"
+    },
+    {
+      "revid": 17494,
+      "parentid": 0,
+      "user": "Karl Kirst",
+      "timestamp": "2014-01-09T17:57:21Z",
+      "comment": "Schützte „[[Vorlage:Self]]“: Wichtig für die Projektorganisation ([Bearbeiten=Nur Administratoren erlauben] (unbeschränkt) [Verschieben=Nur Administratoren erlauben] (unbeschränkt))",
+      "wikitext": "<br>\n{| style=\"margin:0.5em auto; background-color: #f0f0f0; border: 2px solid #aaaaaa; padding: 2px\"\n| style=\"text-align:center\" | '''''Ich, der Urheber dieses Werkes,'''  veröffentliche es unter der folgenden Lizenz:''\n|---\n| style=\"text-align:center\" | {{{{{1}}}}}\n|}<includeonly>[[Category:Self-published work|{{PAGENAME}}]]</includeonly>\n\n\n[[Kategorie:Self-published work]]"
+    }
+  ],
+  "categories": [
+    "Kategorie:Self-published work"
+  ]
+}

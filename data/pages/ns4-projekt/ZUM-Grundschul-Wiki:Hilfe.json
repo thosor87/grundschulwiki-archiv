@@ -1,0 +1,96 @@
+{
+  "pageid": 1319,
+  "ns": 4,
+  "title": "ZUM-Grundschul-Wiki:Hilfe",
+  "revisions": [
+    {
+      "revid": 18969,
+      "parentid": 3206,
+      "user": "Karl Kirst",
+      "timestamp": "2015-05-08T18:59:27Z",
+      "comment": "linkfix",
+      "wikitext": "{{Kastendesign2|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Rettungsring.png|\nÜBERSCHRIFT =Hilfe|\nINHALT1=[[Bild:Kind.gif]]|\nINHALT2=* [[Hilfe:Hilfe für Kinder|Hilfe für Kinder]]\n* [[Hilfe:Hilfe für Eltern, Erzieher und Lehrer|Hilfe für Eltern, Erzieher und Lehrer]]\n* [http://www.zum.de/Faecher/grund/leupold/Praxis/Einheiten/grundschulwiki/grundschulwiki.html Arbeitsblätter zum Einsatz des ZUM - Grundschul-Wikis, kostenlos von TiP@Gs]\n|\n}}"
+    },
+    {
+      "revid": 3206,
+      "parentid": 2955,
+      "user": "Leupold",
+      "timestamp": "2006-03-09T17:45:25Z",
+      "comment": "",
+      "wikitext": "{{Kastendesign2|\nBORDER = #AE0000|\nBACKGROUND = #AE4C4B|\nBREITE =100%|\nBILD = Rettungsring.png|\nÜBERSCHRIFT =Hilfe|\nINHALT1=[[Bild:Kind.gif]]|\nINHALT2=* [[Hilfe für Kinder]]\n* [[Hilfe für Eltern, Erzieher und Lehrer]]\n* [http://www.zum.de/Faecher/grund/leupold/Praxis/Einheiten/grundschulwiki/grundschulwiki.html Arbeitsblätter zum Einsatz des ZUM - Grundschul-Wikis, kostenlos von TiP@Gs]\n|\n}}"
+    },
+    {
+      "revid": 2955,
+      "parentid": 2615,
+      "user": "A.Burgermeister",
+      "timestamp": "2006-02-13T09:57:03Z",
+      "comment": "",
+      "wikitext": "{| border='0' width='95%' cellpadding='10'\n|[[Bild:Kind.gif]]\n|[[Hilfe für Kinder]]\n|-\n|\n|[[Hilfe für Eltern, Erzieher und Lehrer]]\n|-\n|\n|[http://www.zum.de/Faecher/grund/leupold/Praxis/Einheiten/grundschulwiki/grundschulwiki.html Arbeitsblätter zum Einsatz des ZUM - Grundschul-Wikis, kostenlos von TiP@Gs]\n|}"
+    },
+    {
+      "revid": 2615,
+      "parentid": 2614,
+      "user": "Leupold",
+      "timestamp": "2006-01-19T14:27:37Z",
+      "comment": "",
+      "wikitext": "[[Hilfe für Kinder]]\n\n[[Hilfe für Eltern, Erzieher und Lehrer]]\n\n[http://www.zum.de/Faecher/grund/leupold/Praxis/Einheiten/grundschulwiki/grundschulwiki.html Arbeitsblätter zum Einsatz des ZUM - Grundschul-Wikis, kostenlos von TiP@Gs]"
+    },
+    {
+      "revid": 2614,
+      "parentid": 2613,
+      "user": "Leupold",
+      "timestamp": "2006-01-19T14:27:16Z",
+      "comment": "",
+      "wikitext": "[[Hilfe für Kinder]]\n\n[[Hilfe für Eltern, Erzieher und Lehrer]]\n\n[http://www.zum.de/Faecher/grund/leupold/Praxis/Einheiten/grundschulwiki/grundschulwiki.html|target=\"_blank\" Arbeitsblätter zum Einsatz des ZUM - Grundschul-Wikis, kostenlos von TiP@Gs]"
+    },
+    {
+      "revid": 2613,
+      "parentid": 2607,
+      "user": "Leupold",
+      "timestamp": "2006-01-19T14:26:50Z",
+      "comment": "",
+      "wikitext": "[[Hilfe für Kinder]]\n\n[[Hilfe für Eltern, Erzieher und Lehrer]]\n\n[target=\"_blank\" http://www.zum.de/Faecher/grund/leupold/Praxis/Einheiten/grundschulwiki/grundschulwiki.html Arbeitsblätter zum Einsatz des ZUM - Grundschul-Wikis, kostenlos von TiP@Gs]"
+    },
+    {
+      "revid": 2607,
+      "parentid": 2606,
+      "user": "Leupold",
+      "timestamp": "2006-01-16T20:23:52Z",
+      "comment": "",
+      "wikitext": "[[Hilfe für Kinder]]\n\n[[Hilfe für Eltern, Erzieher und Lehrer]]\n\n[http://www.zum.de/Faecher/grund/leupold/Praxis/Einheiten/grundschulwiki/grundschulwiki.html Arbeitsblätter zum Einsatz des ZUM - Grundschul-Wikis, kostenlos von TiP@Gs]"
+    },
+    {
+      "revid": 2606,
+      "parentid": 1502,
+      "user": "Leupold",
+      "timestamp": "2006-01-16T20:22:46Z",
+      "comment": "",
+      "wikitext": "[[Hilfe für Kinder]]\n\n[[Hilfe für Eltern, Erzieher und Lehrer]]\n\n[http://www.tipags.de Arbeitsblätter zum Einsatz des ZUM - Grundschul-Wikis, kostenlos von TiP@Gs]"
+    },
+    {
+      "revid": 1502,
+      "parentid": 1501,
+      "user": "Leupold",
+      "timestamp": "2005-12-29T08:52:56Z",
+      "comment": "",
+      "wikitext": "[[Hilfe für Kinder]]\n\n[[Hilfe für Eltern, Erzieher und Lehrer]]"
+    },
+    {
+      "revid": 1501,
+      "parentid": 1500,
+      "user": "Leupold",
+      "timestamp": "2005-12-29T08:52:30Z",
+      "comment": "",
+      "wikitext": "Hilfe für Schüler\n\nHilfe für Eltern, Erzieher und Lehrer"
+    },
+    {
+      "revid": 1500,
+      "parentid": 0,
+      "user": "Leupold",
+      "timestamp": "2005-12-29T08:52:21Z",
+      "comment": "",
+      "wikitext": "Hilfe für Schüler\nHilfe für Eltern, Erzieher und Lehrer"
+    }
+  ],
+  "categories": []
+}

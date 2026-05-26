@@ -1,0 +1,27 @@
+{
+  "pageid": 4318,
+  "ns": 10,
+  "title": "Vorlage:Arbeiten",
+  "revisions": [
+    {
+      "revid": 17671,
+      "parentid": 17670,
+      "user": "Karl Kirst",
+      "timestamp": "2014-02-08T21:09:46Z",
+      "comment": "1 Version: Aktualisierung",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 5px solid {{{RandLinks|#000000}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">&nbsp; Aufgabe {{{NUMMER}}}&nbsp; [[Bild:Stift.gif|30px]]\n</div>\n{{{ARBEIT}}}\n|}<noinclude>\n{{Quellcode}}\n<pre>{{Arbeiten|NUMMER=<Aufgabennummer>|ARBEIT=<Aufgabentext>}}</pre>\n</noinclude>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Arbeiten]]</noinclude>"
+    },
+    {
+      "revid": 17670,
+      "parentid": 0,
+      "user": "Maria Eirich",
+      "timestamp": "2011-08-05T18:47:25Z",
+      "comment": "Rand auf 5px",
+      "wikitext": "{| border=\"0\" cellpadding=\"5\" cellspacing=\"2\" style=\"border-left: 5px solid {{{RandLinks|#000000}}}; margin-bottom: 0.4em; margin-left: auto; margin-right: auto; width: {{{Breite|100%}}}; background-color: {{{Hintergrund|#efefef}}}\"\n|- \n|<div style=\"font: 10pt Verdana; font-weight:bold; padding:5px; border-bottom:1px solid #AAAAAA;\">&nbsp; Aufgabe {{{NUMMER}}}&nbsp; [[Bild:Stift.gif|30px]]\n</div>\n{{{ARBEIT}}}\n|}<noinclude>\n{{Quellcode}}\n<pre>{{Arbeiten|NUMMER=<Aufgabennummer>|ARBEIT=<Aufgabentext>}}</pre>\n</noinclude>\n<noinclude>[[Kategorie:Vorlage:Aufgabenbausteine|Arbeiten]]</noinclude>"
+    }
+  ],
+  "categories": [
+    "Kategorie:Seiten mit defekten Dateilinks",
+    "Kategorie:Vorlage:Aufgabenbausteine"
+  ]
+}
