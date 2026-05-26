@@ -1,0 +1,15 @@
+# Fortnite
+
+> **Quelle:** [Fortnite im Grundschulwiki](https://grundschulwiki.zum.de/wiki/Fortnite) (voraussichtlich bis Juni 2026 erreichbar)
+> **Lizenz:** [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de)
+> **Archiviert am:** 2026-05-26
+
+---
+
+Fortnite
+
+Fortnite ist ein Ballerspiel das viele Menschen spielen. Es ist das wohl das meist gedownloadete Spiel das es gibt. Es ist ein Kampfspiel mit 100 Spielern in einer Runde. Es ist ab 12 und es macht sehr viel Spaß.
+
+Die beste Waffe ist die goldene Scar. Danach folgt die goldene one pump. Dann kommt der Bigg und Minis und dann die epische Pumpgun. Es gibt die Auswahl von Solo, Duo, Team, Arena, Trio, Arena solo. creativ, Kampflabor, Party royale, das sind die Limits eteimods. Es ist eigentlich ein sehr gutes Spiel und zu empfehlen. Man kann es mit Freunden weiter spielen. Man braucht ein Headset um mit ihnen zu sprechen. Es gibt einen item Shop, Battle pass und einen Spind. In dem Spind kann man sich mit verschiedenen Sachen ausrüsten. Im item Shop kann man sich mit V-Bucks Ausrüstungsgegenstände kaufen. Wenn man sich den Battle pass mit 950 V-Bucks kauft bekommt man kostenlose Skins die man sich dann ausrüsten kann. Die Erklärung der Runde ist leicht: Man springt aus dem Battle Bus und der Skin öffnet fast am Boden die Hängeleiter. Man landet in einem Ort und lotet Kisten und formt Mets zum Baune. Wenn dann ein Gegner kommt muss man sich ziemlich anstrengen um ihn dann zu töten. Im Endgame kommen Loot drops. Wo dann epische, legendäre Waffen oder Biggis, Minis oder Metkids oder Materialien sind. Es gibt drei Bosse: Docktor Doom, Iron Man und Wolverine. Bei Iron Man gibt es Bots und Iron Man ist dort der Boss. Bei Doctor Doom gibt es auch Bots. Wolverine hat 1000 Leben. Wenn man selbst getötet wird, darf der andere die Waffen haben.
+
+In diesem Spiel gibt es einen Modus der sich Battle royal nennt. Im Battle royal muss man auf einer Insel landen und probieren in Kisten Waffen und Material zu finden. Während man über die Insel geht ist es sehr wahrscheinlich das man auf einen Gegner trifft. Man muss versuchen, den Gegner mit seinen gesammelten Waffen zu besiegen. Wenn du den Gegner besiegt hast, bekommst du seine eingesammelten Waffen wen du möchtest. Diese kannst du mit deinen eigenen tauschen. Dann gibt es die V-Bucks. Mit V-Bucks kann man sich Tänze, Skins und vieles mehr kaufen. Außerdem gibt es noch den Battle Pass. Im Battle Pass kann man Skins V Bucks und vieles mehr verdienen.
