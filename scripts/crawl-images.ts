@@ -46,11 +46,14 @@ type AllImagesResp = {
       sha1?: string;
     }[];
   };
-  "query-continue"?: { allimages?: { aifrom?: string } };
+  // MediaWiki 1.21 verwendet aicontinue, neuere auch aifrom. Wir nehmen
+  // beides an.
+  "query-continue"?: { allimages?: { aicontinue?: string; aifrom?: string } };
 };
 
 async function* listAllImages(): AsyncGenerator<NonNullable<AllImagesResp["query"]>["allimages"] extends (infer T)[] | undefined ? NonNullable<T> : never> {
-  let cont: string | undefined;
+  let nextContinue: string | undefined;
+  let nextFrom: string | undefined;
   for (;;) {
     const params: Record<string, string> = {
       action: "query",
@@ -58,14 +61,16 @@ async function* listAllImages(): AsyncGenerator<NonNullable<AllImagesResp["query
       ailimit: "200",
       aiprop: "url|size|mime|mediatype|timestamp|user|sha1",
     };
-    if (cont) params.aifrom = cont;
+    if (nextContinue) params.aicontinue = nextContinue;
+    else if (nextFrom) params.aifrom = nextFrom;
     const resp = await api<AllImagesResp>(params);
     for (const img of resp.query?.allimages ?? []) {
       yield img as never;
     }
-    const next = resp["query-continue"]?.allimages?.aifrom;
-    if (!next) return;
-    cont = next;
+    const cont = resp["query-continue"]?.allimages;
+    if (!cont?.aicontinue && !cont?.aifrom) return;
+    nextContinue = cont.aicontinue;
+    nextFrom = cont.aifrom;
     await sleep(DELAY_MS);
   }
 }
