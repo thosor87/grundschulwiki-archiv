@@ -37,7 +37,10 @@ so wie sie im Original-Wiki angegeben sind. Eine Wiederverwendung muss die
 Autorinnen und Autoren des Grundschulwikis nennen (siehe [ATTRIBUTION.md](./ATTRIBUTION.md))
 und die abgeleiteten Werke unter gleicher Lizenz weitergeben.
 
-Die Crawler-Skripte unter `scripts/` stehen unter MIT-Lizenz.
+Die Crawler-Skripte unter `scripts/` stehen unter
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de):
+keine kommerzielle Nutzung, Änderungen müssen bei Weitergabe unter
+derselben Lizenz veröffentlicht werden.
 
 ## Wiederherstellung
 

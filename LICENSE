@@ -1,36 +1,71 @@
-Dieses Archiv besteht aus zwei Teilen mit unterschiedlichen Lizenzen:
+Dieses Repository besteht aus zwei Teilen mit unterschiedlichen Lizenzen.
 
-1. Die Crawler-Skripte unter scripts/ stehen unter MIT-Lizenz (siehe unten).
+================================================================================
+1) Die archivierten Wiki-Inhalte unter data/
+   (JSON, XML, Markdown, Bilder, Dateien)
+================================================================================
 
-2. Die archivierten Wiki-Inhalte unter data/ (JSON, XML, Bilder, Dateien)
-   stammen vom ZUM-Grundschul-Wiki (https://grundschulwiki.zum.de) und stehen
-   unter Creative Commons Attribution-ShareAlike 4.0 International
-   (CC BY-SA 4.0):
-   https://creativecommons.org/licenses/by-sa/4.0/
+Diese stammen vom ZUM-Grundschul-Wiki (https://grundschulwiki.zum.de) und
+stehen unter
 
-   Eine Weiterverwendung muss die Autorinnen und Autoren des
-   Grundschulwikis nennen (siehe ATTRIBUTION.md) und abgeleitete Werke
-   unter gleicher Lizenz weitergeben.
+  Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-----------------------------------------------------------------------
-MIT License (gilt nur für scripts/)
+  https://creativecommons.org/licenses/by-sa/4.0/
+
+Eine Weiterverwendung muss die Autorinnen und Autoren des Grundschulwikis
+nennen (siehe ATTRIBUTION.md) und abgeleitete Werke unter gleicher Lizenz
+weitergeben.
+
+================================================================================
+2) Die Crawler-Skripte unter scripts/
+================================================================================
 
 Copyright (c) 2026 Thomas Soring
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Diese stehen unter
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+  Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+  International Public License (CC BY-NC-SA 4.0)
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.de
+  https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de (Zusammenfassung)
+
+Sie dürfen:
+
+  Teilen  — das Material in jedwedem Format oder Medium vervielfältigen
+            und weiterverbreiten
+
+  Bearbeiten — das Material remixen, verändern und darauf aufbauen
+
+unter den folgenden Bedingungen:
+
+  Namensnennung (BY)
+    Sie müssen angemessene Urheber- und Rechteangaben machen, einen Link
+    zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden.
+
+  Nicht kommerziell (NC)
+    Sie dürfen das Material nicht für kommerzielle Zwecke nutzen.
+
+  Weitergabe unter gleichen Bedingungen (SA)
+    Wenn Sie das Material remixen, verändern oder anderweitig darauf
+    aufbauen, müssen Sie Ihre Beiträge unter derselben Lizenz wie das
+    Original verbreiten.
+
+Keine weiteren Einschränkungen
+    Sie dürfen keine zusätzlichen Klauseln oder technischen Verfahren
+    einsetzen, die anderen rechtlich irgendetwas untersagen, was die
+    Lizenz erlaubt.
+
+Haftungsausschluss
+    Diese Skripte werden "wie sie sind" ohne jegliche Garantien zur
+    Verfügung gestellt.
+
+Hinweis für Forks / Eigenbetrieb:
+
+Wenn Sie die Crawler-Skripte für ein eigenes nicht-kommerzielles Projekt
+nutzen oder verändern, sind Sie verpflichtet, die Änderungen unter
+derselben Lizenz (CC BY-NC-SA 4.0) zu veröffentlichen, sobald Sie das
+veränderte Werk weitergeben.
+
+Für eine kommerzielle Nutzung kontaktieren Sie bitte den Inhaber
+für eine individuelle Lizenzvereinbarung: tsoring@lilapixel.de
