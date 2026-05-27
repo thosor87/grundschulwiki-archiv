@@ -2,9 +2,9 @@
 
 Vollständige Sicherung der Inhalte des **ZUM-Grundschul-Wikis**
 (<https://grundschulwiki.zum.de>), das die ZUM e.V. im Juni 2026 abschalten
-wird. Ziel dieses Archivs: die ~5000 Artikel, von und für Grundschulkinder
-geschrieben, bleiben erhalten und wären in jedem MediaWiki wieder
-herstellbar.
+wird. Ziel dieses Archivs: die rund 1.500 Artikel, von und für
+Grundschulkinder geschrieben, bleiben erhalten und wären in jedem MediaWiki
+wieder herstellbar.
 
 ## Was ist drin
 
@@ -12,7 +12,7 @@ herstellbar.
 data/
 ├── manifest.json             Liste aller archivierten Seiten + Metadaten
 ├── pages/
-│   ├── ns0-main/             Artikel (~5000)
+│   ├── ns0-main/             Artikel (1.534)
 │   ├── ns4-projekt/          Projekt-Seiten (ZUM-Grundschul-Wiki)
 │   ├── ns6-datei/            Datei-Beschreibungsseiten
 │   ├── ns10-vorlage/         Templates
